@@ -1,7 +1,7 @@
 ﻿{
     "schemaVersion":  1,
-    "dataVersion":  1,
-    "updatedAt":  "2026-08-08T13:29:56Z",
+    "dataVersion":  2,
+    "updatedAt":  "2026-08-08T17:00:00Z",
     "requiredRoots":  [
                           "SAMP",
                           "texdb",
@@ -17,7 +17,16 @@
                  "sizeBytes":  361532214
              },
     "patches":  [
-
+                    {
+                        "kind":  "file",
+                        "version":  2,
+                        "fromVersion":  1,
+                        "path":  "anim/ped.ifp",
+                        "url":  "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v2/ped.ifp",
+                        "sha256":  "f7483f49080a0f833dc73ef09aa2224f99a9e90757fa5c2b7db5505cbef33eac",
+                        "sizeBytes":  1433248,
+                        "deletes":  []
+                    }
                 ],
     "files":  [
                   {
