@@ -95,7 +95,8 @@ $manifest = [ordered]@{
 }
 
 $json = $manifest | ConvertTo-Json -Depth 8
-Set-Content -LiteralPath $manifestPath -Value $json -Encoding UTF8
+$utf8NoBom = New-Object System.Text.UTF8Encoding($false)
+[System.IO.File]::WriteAllText($manifestPath, $json + [Environment]::NewLine, $utf8NoBom)
 
 Write-Host "Base pronta: $assetPath"
 Write-Host "Manifesto: $manifestPath"

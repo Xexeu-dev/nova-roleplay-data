@@ -162,7 +162,9 @@ $updatedManifest = [ordered]@{
     files = @($newFiles.Values | Sort-Object { $_.path })
 }
 
-$updatedManifest | ConvertTo-Json -Depth 8 | Set-Content -LiteralPath $manifestPath -Encoding UTF8
+$updatedJson = $updatedManifest | ConvertTo-Json -Depth 8
+$utf8NoBom = New-Object System.Text.UTF8Encoding($false)
+[System.IO.File]::WriteAllText($manifestPath, $updatedJson + [Environment]::NewLine, $utf8NoBom)
 
 Write-Host "Patch pronto: $assetPath"
 Write-Host "De data v$fromVersion para v$Version"
