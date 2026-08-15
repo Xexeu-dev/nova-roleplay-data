@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 3,
-  "updatedAt": "2026-08-09T00:59:57.813Z",
+  "dataVersion": 4,
+  "updatedAt": "2026-08-15T16:02:55.251Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -36,6 +36,16 @@
       "sha256": "3f847f33bc6b3a66abb3f603a1504263287d670494df3a1975580c389da29727",
       "sizeBytes": 2644852,
       "deletes": []
+    },
+    {
+      "kind": "file",
+      "version": 4,
+      "fromVersion": 3,
+      "path": "anim/ped.ifp",
+      "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v2/ped.ifp",
+      "sha256": "f7483f49080a0f833dc73ef09aa2224f99a9e90757fa5c2b7db5505cbef33eac",
+      "sizeBytes": 1433248,
+      "deletes": []
     }
   ],
   "files": [
@@ -51,8 +61,8 @@
     },
     {
       "path": "anim/ped.ifp",
-      "sizeBytes": 2644852,
-      "sha256": "3f847f33bc6b3a66abb3f603a1504263287d670494df3a1975580c389da29727"
+      "sizeBytes": 1433248,
+      "sha256": "f7483f49080a0f833dc73ef09aa2224f99a9e90757fa5c2b7db5505cbef33eac"
     },
     {
       "path": "audio/CONFIG/AudioEventHistory.txt",
