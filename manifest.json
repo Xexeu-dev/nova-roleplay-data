@@ -1684,5 +1684,2926 @@
       "sizeBytes": 38743,
       "sha256": "125f18a883f4861787346ea02a4d84cefc4821f85962bfe7619ea90018649f8e"
     }
-  ]
+  ],
+  "platforms": {
+    "windows": {
+      "dataVersion": 1,
+      "publicationId": "4ae48af5-5f2c-42ff-97a0-7e3c080de704",
+      "updatedAt": "2026-10-26T05:40:42.479Z",
+      "distributionMode": "official",
+      "files": [
+        {
+          "path": "anim/anim.img",
+          "sizeBytes": 10942464,
+          "sha256": "bdde1f918fb12e4b4b9e46927f8a0281b6d80b85551b716e74cca68c6c9138ae",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/bdde1f918fb12e4b4b9e46927f8a0281b6d80b85551b716e74cca68c6c9138ae-anim.img"
+        },
+        {
+          "path": "anim/cuts.img",
+          "sizeBytes": 270096384,
+          "sha256": "28d9b9002ac5479106c06ce0fc390120f24e0ac2a2395517badbcbd0adf502cb",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/28d9b9002ac5479106c06ce0fc390120f24e0ac2a2395517badbcbd0adf502cb-cuts.img"
+        },
+        {
+          "path": "anim/ped.ifp",
+          "sizeBytes": 1433248,
+          "sha256": "f7483f49080a0f833dc73ef09aa2224f99a9e90757fa5c2b7db5505cbef33eac",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/f7483f49080a0f833dc73ef09aa2224f99a9e90757fa5c2b7db5505cbef33eac-ped.ifp"
+        },
+        {
+          "path": "audio/CONFIG/AudioEventHistory.txt",
+          "sizeBytes": 114056,
+          "sha256": "bdc80c1cb520ae10c7952af4d402e0a3802901eb724f44e9de6007fc8b810dc0",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/bdc80c1cb520ae10c7952af4d402e0a3802901eb724f44e9de6007fc8b810dc0-AudioEventHistory.txt"
+        },
+        {
+          "path": "audio/CONFIG/BankLkup.dat",
+          "sizeBytes": 8520,
+          "sha256": "b89a66ddef4e5da74c4c13abb38a9aa7985397bee45b00e080da89f07a1eee50",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/b89a66ddef4e5da74c4c13abb38a9aa7985397bee45b00e080da89f07a1eee50-BankLkup.dat"
+        },
+        {
+          "path": "audio/CONFIG/BankSlot.dat",
+          "sizeBytes": 216902,
+          "sha256": "aa7035f9c914cd3b73f9535b2794a10febeebfbcdb166d340d875093eab71e72",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/aa7035f9c914cd3b73f9535b2794a10febeebfbcdb166d340d875093eab71e72-BankSlot.dat"
+        },
+        {
+          "path": "audio/CONFIG/EventVol.dat",
+          "sizeBytes": 45402,
+          "sha256": "ad8bab3deff68a93787566dab34b33d37876ba9e15308386e2166837024059a8",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/ad8bab3deff68a93787566dab34b33d37876ba9e15308386e2166837024059a8-EventVol.dat"
+        },
+        {
+          "path": "audio/CONFIG/PakFiles.dat",
+          "sizeBytes": 468,
+          "sha256": "36bc8f4814d4ef4dc3b7c43ae5c26f0de1feeda1bc15cdf2250456d2927bc57c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/36bc8f4814d4ef4dc3b7c43ae5c26f0de1feeda1bc15cdf2250456d2927bc57c-PakFiles.dat"
+        },
+        {
+          "path": "audio/CONFIG/StrmPaks.dat",
+          "sizeBytes": 272,
+          "sha256": "03e32ee0efb3505d0cea13952370d24a417799b085946087c851060d4120dea0",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/03e32ee0efb3505d0cea13952370d24a417799b085946087c851060d4120dea0-StrmPaks.dat"
+        },
+        {
+          "path": "audio/CONFIG/TrakLkup.dat",
+          "sizeBytes": 23064,
+          "sha256": "adf22fcdfe798c7ad59f1b8fbf6a71574fbf06f1ca39a074ad2b3163c341c0d9",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/adf22fcdfe798c7ad59f1b8fbf6a71574fbf06f1ca39a074ad2b3163c341c0d9-TrakLkup.dat"
+        },
+        {
+          "path": "audio/SFX/FEET",
+          "sizeBytes": 354020,
+          "sha256": "57eeebdf4205f6db6ff388f8b2099a60ce507ee07a5d8b3defad0383d55e31d0",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/57eeebdf4205f6db6ff388f8b2099a60ce507ee07a5d8b3defad0383d55e31d0-FEET"
+        },
+        {
+          "path": "audio/SFX/GENRL",
+          "sizeBytes": 25170572,
+          "sha256": "d8aa28b90743176e440f651ca3270d578bfde41359dfb524743f41a24e2d22fd",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/d8aa28b90743176e440f651ca3270d578bfde41359dfb524743f41a24e2d22fd-GENRL"
+        },
+        {
+          "path": "audio/SFX/PAIN_A",
+          "sizeBytes": 6704240,
+          "sha256": "5b4873832891207c3686e1faf0207b656668e6539964ba8b8bc5331a4eaf1f3c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/5b4873832891207c3686e1faf0207b656668e6539964ba8b8bc5331a4eaf1f3c-PAIN_A"
+        },
+        {
+          "path": "audio/SFX/SCRIPT",
+          "sizeBytes": 319687888,
+          "sha256": "a0562db21c51617b3731e68e4b4df7d6ac659a6f00022435d4f32d8c12d94548",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/a0562db21c51617b3731e68e4b4df7d6ac659a6f00022435d4f32d8c12d94548-SCRIPT"
+        },
+        {
+          "path": "audio/SFX/SPC_EA",
+          "sizeBytes": 125118208,
+          "sha256": "5e67e2181efee9bff2bc816dd38b8077089450299f0f30086f135a7d861b29db",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/5e67e2181efee9bff2bc816dd38b8077089450299f0f30086f135a7d861b29db-SPC_EA"
+        },
+        {
+          "path": "audio/SFX/SPC_FA",
+          "sizeBytes": 106793248,
+          "sha256": "b4ea8680056e8e4968635822cc7e0136fd44c5ccda76e0e925c8233e44b1c120",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/b4ea8680056e8e4968635822cc7e0136fd44c5ccda76e0e925c8233e44b1c120-SPC_FA"
+        },
+        {
+          "path": "audio/SFX/SPC_GA",
+          "sizeBytes": 1103880528,
+          "sha256": "4c149549694090ad9e6da8230f77ed858388a72b079122f92da8deecb58cca15",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/4c149549694090ad9e6da8230f77ed858388a72b079122f92da8deecb58cca15-SPC_GA"
+        },
+        {
+          "path": "audio/SFX/SPC_NA",
+          "sizeBytes": 428281720,
+          "sha256": "c9e19cde60fb8d20cac2dee0739d462fc0aa324cf312a70f8e3894e7d4e3588b",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/c9e19cde60fb8d20cac2dee0739d462fc0aa324cf312a70f8e3894e7d4e3588b-SPC_NA"
+        },
+        {
+          "path": "audio/SFX/SPC_PA",
+          "sizeBytes": 175482308,
+          "sha256": "aad7b57890a70c3ec67b4fdf357b2792af6e4b037c8052bb54500bdc4c4e29ca",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/aad7b57890a70c3ec67b4fdf357b2792af6e4b037c8052bb54500bdc4c4e29ca-SPC_PA"
+        },
+        {
+          "path": "audio/streams/AA",
+          "sizeBytes": 4987207,
+          "sha256": "bb9c62344ba23610f9e92fa51494d6b710379cdc09a10fe96a6eeaab788d0bd3",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/bb9c62344ba23610f9e92fa51494d6b710379cdc09a10fe96a6eeaab788d0bd3-AA"
+        },
+        {
+          "path": "audio/streams/ADVERTS",
+          "sizeBytes": 55208406,
+          "sha256": "199688e5e6f5bb7c4eb0326802ded3df115054938cfd8c8adb9133163dbb3c9f",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/199688e5e6f5bb7c4eb0326802ded3df115054938cfd8c8adb9133163dbb3c9f-ADVERTS"
+        },
+        {
+          "path": "audio/streams/AMBIENCE",
+          "sizeBytes": 46514719,
+          "sha256": "c191a8b328f3ac05bc295d39f1545b9c9a0393d99c0d204564f74724c43c7552",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/c191a8b328f3ac05bc295d39f1545b9c9a0393d99c0d204564f74724c43c7552-AMBIENCE"
+        },
+        {
+          "path": "audio/streams/BEATS",
+          "sizeBytes": 30454668,
+          "sha256": "c700b54b47d76684a7e439ebee63de08de72a3eb081a7fed929ede18c074cfd6",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/c700b54b47d76684a7e439ebee63de08de72a3eb081a7fed929ede18c074cfd6-BEATS"
+        },
+        {
+          "path": "audio/streams/CH",
+          "sizeBytes": 63115815,
+          "sha256": "4b3ef6319887c66a32fd776aa4219af107770298aa791e52e0f232dc8627f1cb",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/4b3ef6319887c66a32fd776aa4219af107770298aa791e52e0f232dc8627f1cb-CH"
+        },
+        {
+          "path": "audio/streams/CO",
+          "sizeBytes": 72004665,
+          "sha256": "d390936389dd4b3d385c96a6e3f917695357ce0af80bdc9170419a12f996dffa",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/d390936389dd4b3d385c96a6e3f917695357ce0af80bdc9170419a12f996dffa-CO"
+        },
+        {
+          "path": "audio/streams/CR",
+          "sizeBytes": 90482863,
+          "sha256": "c7162f385779e009f3c756432e0dc41e85d653f7e154b862518fd92606380b70",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/c7162f385779e009f3c756432e0dc41e85d653f7e154b862518fd92606380b70-CR"
+        },
+        {
+          "path": "audio/streams/CUTSCENE",
+          "sizeBytes": 133519190,
+          "sha256": "c65c27197dd882dce9470a0902021c8ecdcbd02816daf5f9bd0c903941f7b267",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/c65c27197dd882dce9470a0902021c8ecdcbd02816daf5f9bd0c903941f7b267-CUTSCENE"
+        },
+        {
+          "path": "audio/streams/DS",
+          "sizeBytes": 96057329,
+          "sha256": "6d4f02f5899ba165872077f19f09f410d4eb30cc4001c9c9efbeeca1d314a375",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/6d4f02f5899ba165872077f19f09f410d4eb30cc4001c9c9efbeeca1d314a375-DS"
+        },
+        {
+          "path": "audio/streams/HC",
+          "sizeBytes": 82748246,
+          "sha256": "f8c865936f971f1b22486058d07aee0b22f32ddbfd62c267f3cb80164ba855be",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/f8c865936f971f1b22486058d07aee0b22f32ddbfd62c267f3cb80164ba855be-HC"
+        },
+        {
+          "path": "audio/streams/MH",
+          "sizeBytes": 88229863,
+          "sha256": "9625311874c7f395c29b3c558ca3e3f3e61cb8695d1195eaf71ba27233bd48b8",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/9625311874c7f395c29b3c558ca3e3f3e61cb8695d1195eaf71ba27233bd48b8-MH"
+        },
+        {
+          "path": "audio/streams/MR",
+          "sizeBytes": 82195988,
+          "sha256": "f7fe267bb485130465d108298a1fbf0c5b1ae3036fc9f72ac1bce45495843105",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/f7fe267bb485130465d108298a1fbf0c5b1ae3036fc9f72ac1bce45495843105-MR"
+        },
+        {
+          "path": "audio/streams/NJ",
+          "sizeBytes": 68702632,
+          "sha256": "aa0b32282d5a298a3c894ada077ec417b06dc9364a105be30efa25a9a2938ecd",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/aa0b32282d5a298a3c894ada077ec417b06dc9364a105be30efa25a9a2938ecd-NJ"
+        },
+        {
+          "path": "audio/streams/RE",
+          "sizeBytes": 84261583,
+          "sha256": "f6cbcb41132512e9831f49f87cfbd55eb76c7eb93c245917f71057e248c9c569",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/f6cbcb41132512e9831f49f87cfbd55eb76c7eb93c245917f71057e248c9c569-RE"
+        },
+        {
+          "path": "audio/streams/RG",
+          "sizeBytes": 92691528,
+          "sha256": "3836da63534779714960b529e03b64b170389be926494e95a08b0500b36eae9f",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/3836da63534779714960b529e03b64b170389be926494e95a08b0500b36eae9f-RG"
+        },
+        {
+          "path": "audio/streams/TK",
+          "sizeBytes": 96114412,
+          "sha256": "f97aa81f315f6226313f2c00904bee3353ac3c7607d25a09061f3b9c37801313",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/f97aa81f315f6226313f2c00904bee3353ac3c7607d25a09061f3b9c37801313-TK"
+        },
+        {
+          "path": "bass.dll",
+          "sizeBytes": 128181,
+          "sha256": "3cd00f456f51829eda119e0e133acc1e45a5930d61fc335a2e9aa688a836a24d",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/3cd00f456f51829eda119e0e133acc1e45a5930d61fc335a2e9aa688a836a24d-bass.dll"
+        },
+        {
+          "path": "CLEO.asi",
+          "sizeBytes": 324096,
+          "sha256": "ee8cb6b46fe1769b70242c04b35cd3c693d7e6037827e3b72a9314b0314c75a6",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/ee8cb6b46fe1769b70242c04b35cd3c693d7e6037827e3b72a9314b0314c75a6-CLEO.asi"
+        },
+        {
+          "path": "CLEO/CLEO+.cleo",
+          "sizeBytes": 565224,
+          "sha256": "9ea6e022f515efe218e71c109947b47fc1b2d77d0606f3aebfff46da77644658",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/9ea6e022f515efe218e71c109947b47fc1b2d77d0606f3aebfff46da77644658-CLEO_.cleo"
+        },
+        {
+          "path": "CLEO/FileSystemOperations.cleo",
+          "sizeBytes": 98304,
+          "sha256": "b7b80bc1aad995e7643127a978dfb56bda7fe02ab54879327cfa7baca71bcddf",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/b7b80bc1aad995e7643127a978dfb56bda7fe02ab54879327cfa7baca71bcddf-FileSystemOperations.cleo"
+        },
+        {
+          "path": "CLEO/IniFiles.cleo",
+          "sizeBytes": 110080,
+          "sha256": "d9ddde713211eb1341ec7181d0b2d7e487e8c816ced7afadee5d50ef3f37d168",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/d9ddde713211eb1341ec7181d0b2d7e487e8c816ced7afadee5d50ef3f37d168-IniFiles.cleo"
+        },
+        {
+          "path": "CLEO/IntOperations.cleo",
+          "sizeBytes": 76800,
+          "sha256": "5897bcd19ac9097f3b730c091623c556a176c82af4f97e3a2c483f62f4819f4f",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/5897bcd19ac9097f3b730c091623c556a176c82af4f97e3a2c483f62f4819f4f-IntOperations.cleo"
+        },
+        {
+          "path": "data/animgrp.dat",
+          "sizeBytes": 3096,
+          "sha256": "012b10d891840c48e0f282fdef7700673a12fe6c568a7ac9127c21095808aef8",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/012b10d891840c48e0f282fdef7700673a12fe6c568a7ac9127c21095808aef8-animgrp.dat"
+        },
+        {
+          "path": "data/animviewer.dat",
+          "sizeBytes": 1807,
+          "sha256": "76615e54227deb0fc2b36213b09711bbd63916de0949096c9f11bb938326a7fe",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/76615e54227deb0fc2b36213b09711bbd63916de0949096c9f11bb938326a7fe-animviewer.dat"
+        },
+        {
+          "path": "data/ar_stats.dat",
+          "sizeBytes": 3593,
+          "sha256": "3f8a184d088dc25e166ff0bb067286b5dcac2398de21d3bb4e00b43956d31d25",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/3f8a184d088dc25e166ff0bb067286b5dcac2398de21d3bb4e00b43956d31d25-ar_stats.dat"
+        },
+        {
+          "path": "data/AudioEvents.txt",
+          "sizeBytes": 166161,
+          "sha256": "bf21595eeeea4769fbeb16df608377e068f22e4f97de22609d748bdf9483fc00",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/bf21595eeeea4769fbeb16df608377e068f22e4f97de22609d748bdf9483fc00-AudioEvents.txt"
+        },
+        {
+          "path": "data/carcols.dat",
+          "sizeBytes": 15361,
+          "sha256": "4d43183de25aeb1b02ceb370883ac4ea8bbd3fc3fb9167418f8fbfd005ea7219",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/4d43183de25aeb1b02ceb370883ac4ea8bbd3fc3fb9167418f8fbfd005ea7219-carcols.dat"
+        },
+        {
+          "path": "data/cargrp.dat",
+          "sizeBytes": 3963,
+          "sha256": "40670294c436e9d96ae30095cc720eba1655615be9a8810a079b81ebe64b6124",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/40670294c436e9d96ae30095cc720eba1655615be9a8810a079b81ebe64b6124-cargrp.dat"
+        },
+        {
+          "path": "data/carmods.dat",
+          "sizeBytes": 9110,
+          "sha256": "64f8811b676094f62157272e41f8ccf017082ca31993f2ec8ac4dc29e731d40f",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/64f8811b676094f62157272e41f8ccf017082ca31993f2ec8ac4dc29e731d40f-carmods.dat"
+        },
+        {
+          "path": "data/clothes.dat",
+          "sizeBytes": 5317,
+          "sha256": "5fff15c81a5f8c32f4d3dff22ad6748c9b8c0a45af7b9f67e22fb2b9ae05c593",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/5fff15c81a5f8c32f4d3dff22ad6748c9b8c0a45af7b9f67e22fb2b9ae05c593-clothes.dat"
+        },
+        {
+          "path": "data/Decision/Allowed/Cop.ped",
+          "sizeBytes": 4908,
+          "sha256": "d91e13fb6aaf0be786e32fd37a68cf0425cef9fbc23742222d31d1ff312a8150",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/d91e13fb6aaf0be786e32fd37a68cf0425cef9fbc23742222d31d1ff312a8150-Cop.ped"
+        },
+        {
+          "path": "data/Decision/Allowed/Fireman.ped",
+          "sizeBytes": 4435,
+          "sha256": "cb9a75b87d6960e51a12a4d896f099e5ed1576d76d7946a0570f10e98872de54",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/cb9a75b87d6960e51a12a4d896f099e5ed1576d76d7946a0570f10e98872de54-Fireman.ped"
+        },
+        {
+          "path": "data/Decision/Allowed/GangMbr.ped",
+          "sizeBytes": 6194,
+          "sha256": "c2653aba07c5c04017b44797cc4f1d2899da9e4d36ac6420ca22b5600172f57d",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/c2653aba07c5c04017b44797cc4f1d2899da9e4d36ac6420ca22b5600172f57d-GangMbr.ped"
+        },
+        {
+          "path": "data/Decision/Allowed/Indoors.ped",
+          "sizeBytes": 2809,
+          "sha256": "53dc5665a42bd47d9dc8be8d7a2440b5722b10940186c000235213cb8c1d8fe1",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/53dc5665a42bd47d9dc8be8d7a2440b5722b10940186c000235213cb8c1d8fe1-Indoors.ped"
+        },
+        {
+          "path": "data/Decision/Allowed/m_empty.ped",
+          "sizeBytes": 982,
+          "sha256": "df0e18f0148152c98132381927b617140fc6e8967a68085cc630cbe734e0c9b5",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/df0e18f0148152c98132381927b617140fc6e8967a68085cc630cbe734e0c9b5-m_empty.ped"
+        },
+        {
+          "path": "data/Decision/Allowed/m_norm.ped",
+          "sizeBytes": 4142,
+          "sha256": "fa99612c55e6b8ffc76170fc56567f57a7153f47173c1b2a065d4ef4b8299bfe",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/fa99612c55e6b8ffc76170fc56567f57a7153f47173c1b2a065d4ef4b8299bfe-m_norm.ped"
+        },
+        {
+          "path": "data/Decision/Allowed/m_plyr.ped",
+          "sizeBytes": 2000,
+          "sha256": "261b87d08b49ce72c3f9d02201bae15889f2a9ff65798e704fcf53098fbd304e",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/261b87d08b49ce72c3f9d02201bae15889f2a9ff65798e704fcf53098fbd304e-m_plyr.ped"
+        },
+        {
+          "path": "data/Decision/Allowed/m_steal.ped",
+          "sizeBytes": 3663,
+          "sha256": "635372cb7c36134f4bfdd1ae343763ad3d814db7b19fef7eb34a2ca48ed48ec4",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/635372cb7c36134f4bfdd1ae343763ad3d814db7b19fef7eb34a2ca48ed48ec4-m_steal.ped"
+        },
+        {
+          "path": "data/Decision/Allowed/m_tough.ped",
+          "sizeBytes": 3980,
+          "sha256": "99129a3281653e428cea13b6fb626d21bed6381849f92e11b5638f1f3c23687d",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/99129a3281653e428cea13b6fb626d21bed6381849f92e11b5638f1f3c23687d-m_tough.ped"
+        },
+        {
+          "path": "data/Decision/Allowed/m_weak.ped",
+          "sizeBytes": 4062,
+          "sha256": "5e97f56b79986532d76d401a1929c1c3879bcae6377face62f0ed9976b28a6d6",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/5e97f56b79986532d76d401a1929c1c3879bcae6377face62f0ed9976b28a6d6-m_weak.ped"
+        },
+        {
+          "path": "data/Decision/Allowed/MISSION.grp",
+          "sizeBytes": 2758,
+          "sha256": "1a97a3018d9a852b699beb1904af4ae8ed1b7aab5fe1742e59917fb29eda2af6",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/1a97a3018d9a852b699beb1904af4ae8ed1b7aab5fe1742e59917fb29eda2af6-MISSION.grp"
+        },
+        {
+          "path": "data/Decision/Allowed/R_Norm.ped",
+          "sizeBytes": 6450,
+          "sha256": "33175de3da4445186551bf2aeadacd4f706879cbbe47411c73fd228d41fdb30c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/33175de3da4445186551bf2aeadacd4f706879cbbe47411c73fd228d41fdb30c-R_Norm.ped"
+        },
+        {
+          "path": "data/Decision/Allowed/R_Tough.ped",
+          "sizeBytes": 6378,
+          "sha256": "fd8d95ea1b3915983380eb48efa124883fecd5069157c8673d0a111e7ecdb1c9",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/fd8d95ea1b3915983380eb48efa124883fecd5069157c8673d0a111e7ecdb1c9-R_Tough.ped"
+        },
+        {
+          "path": "data/Decision/Allowed/R_Weak.ped",
+          "sizeBytes": 6289,
+          "sha256": "41f15594c0c639475f904b3ee09474f8ceac9f504345f421cf6f740f8287e60d",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/41f15594c0c639475f904b3ee09474f8ceac9f504345f421cf6f740f8287e60d-R_Weak.ped"
+        },
+        {
+          "path": "data/Decision/Allowed/RANDOM.grp",
+          "sizeBytes": 4623,
+          "sha256": "d4848b45f3fa6b8c9fb15b4bee0c7ee8b42a1a8ccc9e6bdfa01f1d5ab0522265",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/d4848b45f3fa6b8c9fb15b4bee0c7ee8b42a1a8ccc9e6bdfa01f1d5ab0522265-RANDOM.grp"
+        },
+        {
+          "path": "data/Decision/Allowed/RANDOM.ped",
+          "sizeBytes": 4142,
+          "sha256": "fa99612c55e6b8ffc76170fc56567f57a7153f47173c1b2a065d4ef4b8299bfe",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/fa99612c55e6b8ffc76170fc56567f57a7153f47173c1b2a065d4ef4b8299bfe-RANDOM.ped"
+        },
+        {
+          "path": "data/Decision/Allowed/RANDOM2.grp",
+          "sizeBytes": 4623,
+          "sha256": "4a3f855271adb3dc41a91a7595281fd534d64768596195037ccd1cd01318352a",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/4a3f855271adb3dc41a91a7595281fd534d64768596195037ccd1cd01318352a-RANDOM2.grp"
+        },
+        {
+          "path": "data/Decision/andyd/ADgrp.grp",
+          "sizeBytes": 2063,
+          "sha256": "00f7ddc28f0aeb99d4b5f2946222d9b93275cde808c0df5a50ff546534931357",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/00f7ddc28f0aeb99d4b5f2946222d9b93275cde808c0df5a50ff546534931357-ADgrp.grp"
+        },
+        {
+          "path": "data/Decision/andyd/ADtemp.ped",
+          "sizeBytes": 3725,
+          "sha256": "094efcda2df378dbc1d5131291a016cfac958e1ef7f43da04bd0aeb9cb1b571f",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/094efcda2df378dbc1d5131291a016cfac958e1ef7f43da04bd0aeb9cb1b571f-ADtemp.ped"
+        },
+        {
+          "path": "data/Decision/BLANK.ped",
+          "sizeBytes": 621,
+          "sha256": "7828c3a093dcb953a90ee37ca640a8125fcad8bacf4b3073dd45b40a0b62f668",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/7828c3a093dcb953a90ee37ca640a8125fcad8bacf4b3073dd45b40a0b62f668-BLANK.ped"
+        },
+        {
+          "path": "data/Decision/chris/maf5.ped",
+          "sizeBytes": 1130,
+          "sha256": "2a60cf03343eca761883c1445d485002c23f8788216df3ee987696975620122a",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/2a60cf03343eca761883c1445d485002c23f8788216df3ee987696975620122a-maf5.ped"
+        },
+        {
+          "path": "data/Decision/chris/ryder3.ped",
+          "sizeBytes": 1170,
+          "sha256": "b21daacb11c75ea46dd4522fe16613efb54c39aaefd752d31adb465ecc808114",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/b21daacb11c75ea46dd4522fe16613efb54c39aaefd752d31adb465ecc808114-ryder3.ped"
+        },
+        {
+          "path": "data/Decision/ChrisM/CMblnk.ped",
+          "sizeBytes": 397,
+          "sha256": "bacc54a11cdd29d229581c821b16ff7d45433c00e2ac82d22cb8c4104d0643b8",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/bacc54a11cdd29d229581c821b16ff7d45433c00e2ac82d22cb8c4104d0643b8-CMblnk.ped"
+        },
+        {
+          "path": "data/Decision/ChrisM/m_std_cm.ped",
+          "sizeBytes": 1071,
+          "sha256": "b7b849ddc68303ab5d1f4c9c6111b03d2e1afb7ef106ac161e62e26fe64514fa",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/b7b849ddc68303ab5d1f4c9c6111b03d2e1afb7ef106ac161e62e26fe64514fa-m_std_cm.ped"
+        },
+        {
+          "path": "data/Decision/Cop.ped",
+          "sizeBytes": 2354,
+          "sha256": "b6c19dc8d8d1c9831cc2b38c3538b0a0098ec1fce99d129466db13e2b9bceb75",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/b6c19dc8d8d1c9831cc2b38c3538b0a0098ec1fce99d129466db13e2b9bceb75-Cop.ped"
+        },
+        {
+          "path": "data/Decision/Craig/crack1.ped",
+          "sizeBytes": 796,
+          "sha256": "0023de0e8ce38af9f5c805c7d4972e5f8656cbd556b375324f557a5a0162e261",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/0023de0e8ce38af9f5c805c7d4972e5f8656cbd556b375324f557a5a0162e261-crack1.ped"
+        },
+        {
+          "path": "data/Decision/david/dam_sec.ped",
+          "sizeBytes": 677,
+          "sha256": "6d3c14b75a7fe5df59ece7c40b8893e6307225025f7366eeffa6b4b6020b4172",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/6d3c14b75a7fe5df59ece7c40b8893e6307225025f7366eeffa6b4b6020b4172-dam_sec.ped"
+        },
+        {
+          "path": "data/Decision/david/hei2_sc.ped",
+          "sizeBytes": 403,
+          "sha256": "3bd6d8410df4228f0a3bc3399b44fbb7949f032a966b341b8120d6b7f92736d3",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/3bd6d8410df4228f0a3bc3399b44fbb7949f032a966b341b8120d6b7f92736d3-hei2_sc.ped"
+        },
+        {
+          "path": "data/Decision/FLAT.ped",
+          "sizeBytes": 399,
+          "sha256": "b1317fbade90d1482fd3b41914971e195c85e803dd7fbc7aee6c3f0bfb7e704f",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/b1317fbade90d1482fd3b41914971e195c85e803dd7fbc7aee6c3f0bfb7e704f-FLAT.ped"
+        },
+        {
+          "path": "data/Decision/GangMbr.ped",
+          "sizeBytes": 3067,
+          "sha256": "ea96edd37a4cc4ba46694ac0923c91cb1f320ba70855aebc058cdc503f230435",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/ea96edd37a4cc4ba46694ac0923c91cb1f320ba70855aebc058cdc503f230435-GangMbr.ped"
+        },
+        {
+          "path": "data/Decision/GROVE.ped",
+          "sizeBytes": 393,
+          "sha256": "17606c7556763d5572136bfb6c6d8d0b0b065fda07c26bc069c8656bc1f9b9f9",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/17606c7556763d5572136bfb6c6d8d0b0b065fda07c26bc069c8656bc1f9b9f9-GROVE.ped"
+        },
+        {
+          "path": "data/Decision/Imran/sci1_is.ped",
+          "sizeBytes": 672,
+          "sha256": "6ac5f83440efcfe7d878a96c0496de8504e8f1ddccc45ff2b036d268dadf077b",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/6ac5f83440efcfe7d878a96c0496de8504e8f1ddccc45ff2b036d268dadf077b-sci1_is.ped"
+        },
+        {
+          "path": "data/Decision/Imran/std1_is.ped",
+          "sizeBytes": 383,
+          "sha256": "bb22da08d0b1cc30c2a1f445f87b5cca0ad8fbed66073837fce304d48b876ff9",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/bb22da08d0b1cc30c2a1f445f87b5cca0ad8fbed66073837fce304d48b876ff9-std1_is.ped"
+        },
+        {
+          "path": "data/Decision/Imran/std2_is.ped",
+          "sizeBytes": 633,
+          "sha256": "f50642fdd88c779ee792dc27424a9fc99ef6daf3452637a62a54483b8f9b69bd",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/f50642fdd88c779ee792dc27424a9fc99ef6daf3452637a62a54483b8f9b69bd-std2_is.ped"
+        },
+        {
+          "path": "data/Decision/Indoors.ped",
+          "sizeBytes": 1928,
+          "sha256": "7cc219aff058042e35f12c332199fb6ff7abb36cc079d233399871b45cad2c15",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/7cc219aff058042e35f12c332199fb6ff7abb36cc079d233399871b45cad2c15-Indoors.ped"
+        },
+        {
+          "path": "data/Decision/m_empty.ped",
+          "sizeBytes": 654,
+          "sha256": "48dff95c987f7a86c0eeef82f54d29ba9ec6cb6426b2aa3ea9e458490c1994c7",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/48dff95c987f7a86c0eeef82f54d29ba9ec6cb6426b2aa3ea9e458490c1994c7-m_empty.ped"
+        },
+        {
+          "path": "data/Decision/m_infrm.ped",
+          "sizeBytes": 1539,
+          "sha256": "31bad7e674d174ec0105b54b5c4f1c5bcf0b73da29f6fe2b69d45dcd7193ef52",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/31bad7e674d174ec0105b54b5c4f1c5bcf0b73da29f6fe2b69d45dcd7193ef52-m_infrm.ped"
+        },
+        {
+          "path": "data/Decision/m_norm.ped",
+          "sizeBytes": 2085,
+          "sha256": "26fc955b2ff4f0fbc83ba75ddbd14b5ec347775ce2088e7066a389ea2e409d41",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/26fc955b2ff4f0fbc83ba75ddbd14b5ec347775ce2088e7066a389ea2e409d41-m_norm.ped"
+        },
+        {
+          "path": "data/Decision/m_std.ped",
+          "sizeBytes": 1487,
+          "sha256": "201b5338d20c12df35c946c2feeb95d487ceedb6a0838f202f1f2399e85d24c7",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/201b5338d20c12df35c946c2feeb95d487ceedb6a0838f202f1f2399e85d24c7-m_std.ped"
+        },
+        {
+          "path": "data/Decision/m_tough.ped",
+          "sizeBytes": 2085,
+          "sha256": "26fc955b2ff4f0fbc83ba75ddbd14b5ec347775ce2088e7066a389ea2e409d41",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/26fc955b2ff4f0fbc83ba75ddbd14b5ec347775ce2088e7066a389ea2e409d41-m_tough.ped"
+        },
+        {
+          "path": "data/Decision/m_weak.ped",
+          "sizeBytes": 2085,
+          "sha256": "26fc955b2ff4f0fbc83ba75ddbd14b5ec347775ce2088e7066a389ea2e409d41",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/26fc955b2ff4f0fbc83ba75ddbd14b5ec347775ce2088e7066a389ea2e409d41-m_weak.ped"
+        },
+        {
+          "path": "data/Decision/MISSION.grp",
+          "sizeBytes": 530,
+          "sha256": "9097253f8868c6370b949d3b061c4030e38a316fb92122583880efb626e27b93",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/9097253f8868c6370b949d3b061c4030e38a316fb92122583880efb626e27b93-MISSION.grp"
+        },
+        {
+          "path": "data/Decision/MISSION.ped",
+          "sizeBytes": 891,
+          "sha256": "6845282cb85da9504ad245bfb153faf37c35552cef69d2c789953a1189657cb2",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/6845282cb85da9504ad245bfb153faf37c35552cef69d2c789953a1189657cb2-MISSION.ped"
+        },
+        {
+          "path": "data/Decision/PedEvent.txt",
+          "sizeBytes": 1298,
+          "sha256": "c61a077262a419b15a14961341144a96795f45d49014deb6fa98aa0e180400be",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/c61a077262a419b15a14961341144a96795f45d49014deb6fa98aa0e180400be-PedEvent.txt"
+        },
+        {
+          "path": "data/default.dat",
+          "sizeBytes": 577,
+          "sha256": "3abbdd89a94c73c93efa95b1657e339ba25f51e84787ff63e5b5c443951fecab",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/3abbdd89a94c73c93efa95b1657e339ba25f51e84787ff63e5b5c443951fecab-default.dat"
+        },
+        {
+          "path": "data/default.ide",
+          "sizeBytes": 4679,
+          "sha256": "3aea4d74891f77602e1e7e32e3dfd6716fcccf257e87f7ab43c57f64339ff8c2",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/3aea4d74891f77602e1e7e32e3dfd6716fcccf257e87f7ab43c57f64339ff8c2-default.ide"
+        },
+        {
+          "path": "data/fonts.dat",
+          "sizeBytes": 3576,
+          "sha256": "0b6ecb4493b0261eece4b025e31aa7b55ae68ca8529c4f7064b5b3b7297c913c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/0b6ecb4493b0261eece4b025e31aa7b55ae68ca8529c4f7064b5b3b7297c913c-fonts.dat"
+        },
+        {
+          "path": "data/furnitur.dat",
+          "sizeBytes": 16480,
+          "sha256": "d7184e6ced806097582e38605f7f860e0070d05e8a2bdb84d6d6b0df8a92791a",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/d7184e6ced806097582e38605f7f860e0070d05e8a2bdb84d6d6b0df8a92791a-furnitur.dat"
+        },
+        {
+          "path": "data/gridref.dat",
+          "sizeBytes": 1498,
+          "sha256": "62108eed8a03f4e61f16f83f750e54cbb894660a5c2ad104a086919dfbe13188",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/62108eed8a03f4e61f16f83f750e54cbb894660a5c2ad104a086919dfbe13188-gridref.dat"
+        },
+        {
+          "path": "data/gta_quick.dat",
+          "sizeBytes": 1079,
+          "sha256": "9109f6240d291663ade75827cdd554cd5aaa98b78d0573d36833146bccf91f5f",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/9109f6240d291663ade75827cdd554cd5aaa98b78d0573d36833146bccf91f5f-gta_quick.dat"
+        },
+        {
+          "path": "data/gta.dat",
+          "sizeBytes": 3776,
+          "sha256": "391881940700b84d9d4a263374a9543e04ec816f3f76f54fdbcabe533f094c01",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/391881940700b84d9d4a263374a9543e04ec816f3f76f54fdbcabe533f094c01-gta.dat"
+        },
+        {
+          "path": "data/handling.cfg",
+          "sizeBytes": 64532,
+          "sha256": "b6d06109441c342a000e8bec367ffac1bd949cd12690372dc01a2c025d6c0240",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/b6d06109441c342a000e8bec367ffac1bd949cd12690372dc01a2c025d6c0240-handling.cfg"
+        },
+        {
+          "path": "data/Icons/app.ico",
+          "sizeBytes": 2238,
+          "sha256": "5507a473b0dedaf0c0ae007ed341d4af39506892b82946bd17cee91312d7c524",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/5507a473b0dedaf0c0ae007ed341d4af39506892b82946bd17cee91312d7c524-app.ico"
+        },
+        {
+          "path": "data/Icons/bin.ico",
+          "sizeBytes": 766,
+          "sha256": "d7e17fc21092d380fad45a9562db27b44d856379528beb6c60156d5d25d77d57",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/d7e17fc21092d380fad45a9562db27b44d856379528beb6c60156d5d25d77d57-bin.ico"
+        },
+        {
+          "path": "data/Icons/saicon.ICN",
+          "sizeBytes": 65800,
+          "sha256": "9b94c7f077ead920a87071ea51822b4c3c43c90ba46ea8bfe3647bed909661e5",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/9b94c7f077ead920a87071ea51822b4c3c43c90ba46ea8bfe3647bed909661e5-saicon.ICN"
+        },
+        {
+          "path": "data/Icons/saicon2.ICN",
+          "sizeBytes": 65800,
+          "sha256": "9b94c7f077ead920a87071ea51822b4c3c43c90ba46ea8bfe3647bed909661e5",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/9b94c7f077ead920a87071ea51822b4c3c43c90ba46ea8bfe3647bed909661e5-saicon2.ICN"
+        },
+        {
+          "path": "data/Icons/saicon3.ICN",
+          "sizeBytes": 65800,
+          "sha256": "9b94c7f077ead920a87071ea51822b4c3c43c90ba46ea8bfe3647bed909661e5",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/9b94c7f077ead920a87071ea51822b4c3c43c90ba46ea8bfe3647bed909661e5-saicon3.ICN"
+        },
+        {
+          "path": "data/info.zon",
+          "sizeBytes": 28139,
+          "sha256": "9396cf9b7bec5a797fa4614ee7ab578d910ed5cdd9d475adfb35801612ec8058",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/9396cf9b7bec5a797fa4614ee7ab578d910ed5cdd9d475adfb35801612ec8058-info.zon"
+        },
+        {
+          "path": "data/main.sc",
+          "sizeBytes": 6020,
+          "sha256": "f95b3472ad4f0614fbdf52da0eefc1ca13ae86cabaab6f0b713f77f68817b50e",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/f95b3472ad4f0614fbdf52da0eefc1ca13ae86cabaab6f0b713f77f68817b50e-main.sc"
+        },
+        {
+          "path": "data/map.zon",
+          "sizeBytes": 436,
+          "sha256": "4f78672e3ee70a1f5e09cd9acebe23f0597a39e275bf493a1f1c29ccfd268775",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/4f78672e3ee70a1f5e09cd9acebe23f0597a39e275bf493a1f1c29ccfd268775-map.zon"
+        },
+        {
+          "path": "data/maps/Audiozon.ipl",
+          "sizeBytes": 10802,
+          "sha256": "43c552f2da0491b476778edaa6f233076fa6c35cf31773d30e9033b450c8d421",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/43c552f2da0491b476778edaa6f233076fa6c35cf31773d30e9033b450c8d421-Audiozon.ipl"
+        },
+        {
+          "path": "data/maps/country/countn2.ide",
+          "sizeBytes": 35439,
+          "sha256": "aa29bd7e83ebd7d2e8dddec602e111ba3e5dad2e7da6ad92c0bb4e7364603bc0",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/aa29bd7e83ebd7d2e8dddec602e111ba3e5dad2e7da6ad92c0bb4e7364603bc0-countn2.ide"
+        },
+        {
+          "path": "data/maps/country/countn2.ipl",
+          "sizeBytes": 41665,
+          "sha256": "3afc8a78a31cb41299136687debcf69740cf8bd965bbd17762ecbe9345bef9ab",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/3afc8a78a31cb41299136687debcf69740cf8bd965bbd17762ecbe9345bef9ab-countn2.ipl"
+        },
+        {
+          "path": "data/maps/country/countrye.ide",
+          "sizeBytes": 34529,
+          "sha256": "640e7e2ba96ffb385cd313045cd74298641a045d782ceacc1903cc883a24be46",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/640e7e2ba96ffb385cd313045cd74298641a045d782ceacc1903cc883a24be46-countrye.ide"
+        },
+        {
+          "path": "data/maps/country/countrye.ipl",
+          "sizeBytes": 49301,
+          "sha256": "d611734b0e0260870c9a46d33121650ca306a35f7b152bee27ff97a422ae4748",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/d611734b0e0260870c9a46d33121650ca306a35f7b152bee27ff97a422ae4748-countrye.ipl"
+        },
+        {
+          "path": "data/maps/country/countryN.ide",
+          "sizeBytes": 11308,
+          "sha256": "0e29f8d6ef0294e3e430109a0fcb27fff783de16b8877d81370ad348ba1397ff",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/0e29f8d6ef0294e3e430109a0fcb27fff783de16b8877d81370ad348ba1397ff-countryN.ide"
+        },
+        {
+          "path": "data/maps/country/countryN.ipl",
+          "sizeBytes": 14407,
+          "sha256": "b5367cea8b049e11c1069b1a0bde8435ebc36a1f589fa36624a81f373ab6bbde",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/b5367cea8b049e11c1069b1a0bde8435ebc36a1f589fa36624a81f373ab6bbde-countryN.ipl"
+        },
+        {
+          "path": "data/maps/country/countryS.ide",
+          "sizeBytes": 18450,
+          "sha256": "5180fe4fce5401a86d9060fd1f375ab145af799cdf1e4eb0f5e7433563b4146f",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/5180fe4fce5401a86d9060fd1f375ab145af799cdf1e4eb0f5e7433563b4146f-countryS.ide"
+        },
+        {
+          "path": "data/maps/country/countryS.ipl",
+          "sizeBytes": 33835,
+          "sha256": "4237ab09567168a36564f55217c26c637460d6df9c2326180f7cab7d366afed1",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/4237ab09567168a36564f55217c26c637460d6df9c2326180f7cab7d366afed1-countryS.ipl"
+        },
+        {
+          "path": "data/maps/country/countryW.ide",
+          "sizeBytes": 19704,
+          "sha256": "92f33d1807a2f2c6a4c3cd96fea229d8c15ec17bae35aca320034ddf9364e760",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/92f33d1807a2f2c6a4c3cd96fea229d8c15ec17bae35aca320034ddf9364e760-countryW.ide"
+        },
+        {
+          "path": "data/maps/country/countryw.ipl",
+          "sizeBytes": 35057,
+          "sha256": "fe7b91f9136f931dd1b295b594cac1248883143c7dcfc5a2d298c6ab9f020008",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/fe7b91f9136f931dd1b295b594cac1248883143c7dcfc5a2d298c6ab9f020008-countryw.ipl"
+        },
+        {
+          "path": "data/maps/country/counxref.ide",
+          "sizeBytes": 8493,
+          "sha256": "0afc45d5f6a0892d395e80fb5746da97e79cbc29ef309fe6dc0bcffca301f96f",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/0afc45d5f6a0892d395e80fb5746da97e79cbc29ef309fe6dc0bcffca301f96f-counxref.ide"
+        },
+        {
+          "path": "data/maps/cull.ipl",
+          "sizeBytes": 104318,
+          "sha256": "a75be13e83f5255e5cc013302b2233b7059499095b06acfe3f66d72f6fa8413e",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/a75be13e83f5255e5cc013302b2233b7059499095b06acfe3f66d72f6fa8413e-cull.ipl"
+        },
+        {
+          "path": "data/maps/generic/barriers.ide",
+          "sizeBytes": 1437,
+          "sha256": "5b69700e5dd563e6b8b120f881e459cd7eb10550ecf5e8c1cd57b47577378223",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/5b69700e5dd563e6b8b120f881e459cd7eb10550ecf5e8c1cd57b47577378223-barriers.ide"
+        },
+        {
+          "path": "data/maps/generic/dynamic.ide",
+          "sizeBytes": 4611,
+          "sha256": "fdc45477f05b63bb4df3d65ea0bbb5c82fa3ad85cc799976266f7f7cebc6410a",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/fdc45477f05b63bb4df3d65ea0bbb5c82fa3ad85cc799976266f7f7cebc6410a-dynamic.ide"
+        },
+        {
+          "path": "data/maps/generic/dynamic2.ide",
+          "sizeBytes": 10509,
+          "sha256": "332f90cc90e8583985410b196e5f990bfb97911d4f8c11621f0394276fcba3d4",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/332f90cc90e8583985410b196e5f990bfb97911d4f8c11621f0394276fcba3d4-dynamic2.ide"
+        },
+        {
+          "path": "data/maps/generic/multiobj.ide",
+          "sizeBytes": 5020,
+          "sha256": "521445080cb80e11bd17576c70fca9023c69007581f65b78e437ae843e8f78f1",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/521445080cb80e11bd17576c70fca9023c69007581f65b78e437ae843e8f78f1-multiobj.ide"
+        },
+        {
+          "path": "data/maps/generic/procobj.ide",
+          "sizeBytes": 4755,
+          "sha256": "38b1b15e73891d130a85730d7ebfb0e3b649ff2ee5b8e414eccd68318b9246a0",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/38b1b15e73891d130a85730d7ebfb0e3b649ff2ee5b8e414eccd68318b9246a0-procobj.ide"
+        },
+        {
+          "path": "data/maps/generic/vegepart.ide",
+          "sizeBytes": 8062,
+          "sha256": "db7827eafd3499b0d738bac83e972776ee6cacb364a2181fc6f479242577eb3a",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/db7827eafd3499b0d738bac83e972776ee6cacb364a2181fc6f479242577eb3a-vegepart.ide"
+        },
+        {
+          "path": "data/maps/interior/gen_int1.ide",
+          "sizeBytes": 2747,
+          "sha256": "470d6c371015631075458870438953f1f581a5e3aadda6d6760bfb0cecd830a1",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/470d6c371015631075458870438953f1f581a5e3aadda6d6760bfb0cecd830a1-gen_int1.ide"
+        },
+        {
+          "path": "data/maps/interior/gen_int1.ipl",
+          "sizeBytes": 21074,
+          "sha256": "33129ba14fa76515909906c0dc2cb08f5aed921643c39814638ad9267ab0a614",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/33129ba14fa76515909906c0dc2cb08f5aed921643c39814638ad9267ab0a614-gen_int1.ipl"
+        },
+        {
+          "path": "data/maps/interior/gen_int2.ide",
+          "sizeBytes": 10941,
+          "sha256": "e1d8a2247ba9da1d242baeff95169b4982ef7289cff626692c25a2785e308544",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/e1d8a2247ba9da1d242baeff95169b4982ef7289cff626692c25a2785e308544-gen_int2.ide"
+        },
+        {
+          "path": "data/maps/interior/gen_int2.ipl",
+          "sizeBytes": 1683,
+          "sha256": "a779e8c280cad2fc2d8a0a107336a7ca8e87007c2d1db36f6c62c07eece1e799",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/a779e8c280cad2fc2d8a0a107336a7ca8e87007c2d1db36f6c62c07eece1e799-gen_int2.ipl"
+        },
+        {
+          "path": "data/maps/interior/gen_int3.ide",
+          "sizeBytes": 3252,
+          "sha256": "a0762a373a240c6278aeb624eadde85312e7f39ecf14891df07042972d0553aa",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/a0762a373a240c6278aeb624eadde85312e7f39ecf14891df07042972d0553aa-gen_int3.ide"
+        },
+        {
+          "path": "data/maps/interior/gen_int3.ipl",
+          "sizeBytes": 2091,
+          "sha256": "eacf70fbd06fe19c9dc028f81eedbf582a2694db0a73d33b5f34ecd70e8b7afb",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/eacf70fbd06fe19c9dc028f81eedbf582a2694db0a73d33b5f34ecd70e8b7afb-gen_int3.ipl"
+        },
+        {
+          "path": "data/maps/interior/gen_int4.ide",
+          "sizeBytes": 2323,
+          "sha256": "50e9826c69e68258966068aa37f7185ef76776c276f61f1285bcbeda4d8c6e0e",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/50e9826c69e68258966068aa37f7185ef76776c276f61f1285bcbeda4d8c6e0e-gen_int4.ide"
+        },
+        {
+          "path": "data/maps/interior/gen_int4.ipl",
+          "sizeBytes": 1185,
+          "sha256": "5769ca2f39579ee0c43b31658e41b7af3264e4b54e76c70229a4b4fe5916e6e0",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/5769ca2f39579ee0c43b31658e41b7af3264e4b54e76c70229a4b4fe5916e6e0-gen_int4.ipl"
+        },
+        {
+          "path": "data/maps/interior/gen_int5.ide",
+          "sizeBytes": 4682,
+          "sha256": "88ba64416b2c8c430761790ff080ebf43077ba338188c94a78cee5e4f73d2d38",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/88ba64416b2c8c430761790ff080ebf43077ba338188c94a78cee5e4f73d2d38-gen_int5.ide"
+        },
+        {
+          "path": "data/maps/interior/gen_int5.ipl",
+          "sizeBytes": 2988,
+          "sha256": "192ba7b31a68ae86a9767d40f7b3918b5da70dbb4445dfe780ac135ae94221a1",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/192ba7b31a68ae86a9767d40f7b3918b5da70dbb4445dfe780ac135ae94221a1-gen_int5.ipl"
+        },
+        {
+          "path": "data/maps/interior/gen_intb.ide",
+          "sizeBytes": 5459,
+          "sha256": "bd694f4c11fb8ca6171d8e7e61a3b71ebdd3e7885667d8e77ae240dcf0c6ef6a",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/bd694f4c11fb8ca6171d8e7e61a3b71ebdd3e7885667d8e77ae240dcf0c6ef6a-gen_intb.ide"
+        },
+        {
+          "path": "data/maps/interior/gen_intb.ipl",
+          "sizeBytes": 1626,
+          "sha256": "76facdeb795adfcd9642c3beaa0d931d90682d12630f2b7ef242b09c4ac14cbe",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/76facdeb795adfcd9642c3beaa0d931d90682d12630f2b7ef242b09c4ac14cbe-gen_intb.ipl"
+        },
+        {
+          "path": "data/maps/interior/int_cont.ide",
+          "sizeBytes": 385,
+          "sha256": "715a381b2e4455594733639ef7a7a0fcde15c0f6d5ac6d8951705fe6e0eef7dd",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/715a381b2e4455594733639ef7a7a0fcde15c0f6d5ac6d8951705fe6e0eef7dd-int_cont.ide"
+        },
+        {
+          "path": "data/maps/interior/int_cont.ipl",
+          "sizeBytes": 910,
+          "sha256": "01d68d96bfbfda67102141a9411ccb64499a8f7a50a641220ce7b22012a540a7",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/01d68d96bfbfda67102141a9411ccb64499a8f7a50a641220ce7b22012a540a7-int_cont.ipl"
+        },
+        {
+          "path": "data/maps/interior/int_LA.ide",
+          "sizeBytes": 6002,
+          "sha256": "b4c26e3f22f320cd15d37abf63b9756c87c4901193d1e79738bed798e2347427",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/b4c26e3f22f320cd15d37abf63b9756c87c4901193d1e79738bed798e2347427-int_LA.ide"
+        },
+        {
+          "path": "data/maps/interior/int_LA.ipl",
+          "sizeBytes": 1312,
+          "sha256": "6daed19fdfa6f325468668a00065999bef9a8e4fff03039e552b8f4533a74d2d",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/6daed19fdfa6f325468668a00065999bef9a8e4fff03039e552b8f4533a74d2d-int_LA.ipl"
+        },
+        {
+          "path": "data/maps/interior/int_SF.ide",
+          "sizeBytes": 1260,
+          "sha256": "384d9de6e3a8ff1c4248fa11261863dee3748b3553f7722ed946a4d8aca2a806",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/384d9de6e3a8ff1c4248fa11261863dee3748b3553f7722ed946a4d8aca2a806-int_SF.ide"
+        },
+        {
+          "path": "data/maps/interior/int_SF.ipl",
+          "sizeBytes": 1334,
+          "sha256": "ae36a8df0e4c502af96c661a105b28a7e08cf8a71774d07fdc0b63a0ab924fe2",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/ae36a8df0e4c502af96c661a105b28a7e08cf8a71774d07fdc0b63a0ab924fe2-int_SF.ipl"
+        },
+        {
+          "path": "data/maps/interior/int_veg.ide",
+          "sizeBytes": 4684,
+          "sha256": "c3ad8ecb96b83f2c728ee62f61f4bdcb92dc9ba65f4d1c876704167c07ccef34",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/c3ad8ecb96b83f2c728ee62f61f4bdcb92dc9ba65f4d1c876704167c07ccef34-int_veg.ide"
+        },
+        {
+          "path": "data/maps/interior/int_veg.ipl",
+          "sizeBytes": 5299,
+          "sha256": "115974e58e84ac9772806c8f16a2e322b8b7ce14198480e27f0505872e943f2d",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/115974e58e84ac9772806c8f16a2e322b8b7ce14198480e27f0505872e943f2d-int_veg.ipl"
+        },
+        {
+          "path": "data/maps/interior/propext.ide",
+          "sizeBytes": 2340,
+          "sha256": "07ff34faa2883f97fb1c538e45e92b7951463eeb8eba6d053432984f4e9abe99",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/07ff34faa2883f97fb1c538e45e92b7951463eeb8eba6d053432984f4e9abe99-propext.ide"
+        },
+        {
+          "path": "data/maps/interior/props.ide",
+          "sizeBytes": 26326,
+          "sha256": "5ba09718a9c248f83b82d306efbe95b7be5b7f7cdce6b2b17d5a5a11aa0a6b3e",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/5ba09718a9c248f83b82d306efbe95b7be5b7f7cdce6b2b17d5a5a11aa0a6b3e-props.ide"
+        },
+        {
+          "path": "data/maps/interior/props2.ide",
+          "sizeBytes": 21174,
+          "sha256": "0e1f4ac0e3cd41af8d8ea83ea37473e91091c63bfdeff836bec40d9dacfbd5a6",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/0e1f4ac0e3cd41af8d8ea83ea37473e91091c63bfdeff836bec40d9dacfbd5a6-props2.ide"
+        },
+        {
+          "path": "data/maps/interior/savehous.ide",
+          "sizeBytes": 1724,
+          "sha256": "48d840b6e18dee698982158f70f30b3c0eb406286ae9e7e70744061c86abf19a",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/48d840b6e18dee698982158f70f30b3c0eb406286ae9e7e70744061c86abf19a-savehous.ide"
+        },
+        {
+          "path": "data/maps/interior/savehous.ipl",
+          "sizeBytes": 2959,
+          "sha256": "eb7b018ba03f934b14fa9ac11f7e151173e669d1c7f69a4d162c0a88a092ec38",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/eb7b018ba03f934b14fa9ac11f7e151173e669d1c7f69a4d162c0a88a092ec38-savehous.ipl"
+        },
+        {
+          "path": "data/maps/interior/stadint.ide",
+          "sizeBytes": 2851,
+          "sha256": "e2d66db082e7d439472e71ad995bde42b91a9a382eb53f6369e46c1179778307",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/e2d66db082e7d439472e71ad995bde42b91a9a382eb53f6369e46c1179778307-stadint.ide"
+        },
+        {
+          "path": "data/maps/interior/stadint.ipl",
+          "sizeBytes": 6299,
+          "sha256": "f0720fd785069839b9b28a87ce80ede2cf8d4beb58bb009bcd50195ee54a962a",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/f0720fd785069839b9b28a87ce80ede2cf8d4beb58bb009bcd50195ee54a962a-stadint.ipl"
+        },
+        {
+          "path": "data/maps/LA/LAe.ide",
+          "sizeBytes": 12249,
+          "sha256": "cc114af79b56e2cce26d61d5d8c68211c057d0dd7a61b32cd0ecc582853b22eb",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/cc114af79b56e2cce26d61d5d8c68211c057d0dd7a61b32cd0ecc582853b22eb-LAe.ide"
+        },
+        {
+          "path": "data/maps/LA/LAe.ipl",
+          "sizeBytes": 27328,
+          "sha256": "356c7c7812ae16de67ea816177e802500fc93024cda877d2d20dbd1a9f0f9596",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/356c7c7812ae16de67ea816177e802500fc93024cda877d2d20dbd1a9f0f9596-LAe.ipl"
+        },
+        {
+          "path": "data/maps/LA/LAe2.ide",
+          "sizeBytes": 21906,
+          "sha256": "9d873781ec89a712915b57bc0e098312aea57ab0e7dad11934a1af662a8fa86d",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/9d873781ec89a712915b57bc0e098312aea57ab0e7dad11934a1af662a8fa86d-LAe2.ide"
+        },
+        {
+          "path": "data/maps/LA/LAe2.ipl",
+          "sizeBytes": 33651,
+          "sha256": "0e0b143e3fd217b41dc79cb390627eba2e8d508054d10bc14d38b499a1ddd818",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/0e0b143e3fd217b41dc79cb390627eba2e8d508054d10bc14d38b499a1ddd818-LAe2.ipl"
+        },
+        {
+          "path": "data/maps/LA/LAhills.ide",
+          "sizeBytes": 10601,
+          "sha256": "2cb585a103cd40701c742beec319055b722f10f3f3558e60438b5325e490f2dd",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/2cb585a103cd40701c742beec319055b722f10f3f3558e60438b5325e490f2dd-LAhills.ide"
+        },
+        {
+          "path": "data/maps/LA/LAhills.ipl",
+          "sizeBytes": 34506,
+          "sha256": "eadb547f99169093c1ba2596ec79a4574d178f1832066391cb37d08a04e831fb",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/eadb547f99169093c1ba2596ec79a4574d178f1832066391cb37d08a04e831fb-LAhills.ipl"
+        },
+        {
+          "path": "data/maps/LA/LAn.ide",
+          "sizeBytes": 11107,
+          "sha256": "4b2d4cb5d602486382d306c4bf2c22e994142b3e9b27f1409ed7b6e480921bd6",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/4b2d4cb5d602486382d306c4bf2c22e994142b3e9b27f1409ed7b6e480921bd6-LAn.ide"
+        },
+        {
+          "path": "data/maps/LA/LAn.ipl",
+          "sizeBytes": 14264,
+          "sha256": "5552050a2a13f273569ac50f7a518a79eee5589b1c3858487b46c0baac7aee5c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/5552050a2a13f273569ac50f7a518a79eee5589b1c3858487b46c0baac7aee5c-LAn.ipl"
+        },
+        {
+          "path": "data/maps/LA/LAn2.ide",
+          "sizeBytes": 9565,
+          "sha256": "55539a689c5f0ad5371aa26153566064ad452d7e44f1b149b847650a0a4f5413",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/55539a689c5f0ad5371aa26153566064ad452d7e44f1b149b847650a0a4f5413-LAn2.ide"
+        },
+        {
+          "path": "data/maps/LA/LAn2.ipl",
+          "sizeBytes": 13185,
+          "sha256": "aa255df62b7182d939deab0e49c08aa93fd920d6a80eb44587b01d30a09cffe9",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/aa255df62b7182d939deab0e49c08aa93fd920d6a80eb44587b01d30a09cffe9-LAn2.ipl"
+        },
+        {
+          "path": "data/maps/LA/LAs.ide",
+          "sizeBytes": 12575,
+          "sha256": "c5873baebb10ea25d1c6067f4f83316af22109722efe1f88a0e4d21e3e834164",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/c5873baebb10ea25d1c6067f4f83316af22109722efe1f88a0e4d21e3e834164-LAs.ide"
+        },
+        {
+          "path": "data/maps/LA/LAs.ipl",
+          "sizeBytes": 22414,
+          "sha256": "70d0b22da567a271ed9658675378bdbc14adda507ba59f58a280375d98d0211a",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/70d0b22da567a271ed9658675378bdbc14adda507ba59f58a280375d98d0211a-LAs.ipl"
+        },
+        {
+          "path": "data/maps/LA/LAs2.ide",
+          "sizeBytes": 12364,
+          "sha256": "79c6508be5ce34d9c29631ef4b5014db73c5fc46ca161ee9a37f6b40e867457f",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/79c6508be5ce34d9c29631ef4b5014db73c5fc46ca161ee9a37f6b40e867457f-LAs2.ide"
+        },
+        {
+          "path": "data/maps/LA/LAs2.ipl",
+          "sizeBytes": 38441,
+          "sha256": "6028feed65f354037c7c32478d23da46b4f72d91b6d5cbf21600807d8895abeb",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/6028feed65f354037c7c32478d23da46b4f72d91b6d5cbf21600807d8895abeb-LAs2.ipl"
+        },
+        {
+          "path": "data/maps/LA/LAw.ide",
+          "sizeBytes": 9411,
+          "sha256": "48cb3f4bdfafd8c949b9ffd08627353850f9effca670b9fad8b4d3961dd5d062",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/48cb3f4bdfafd8c949b9ffd08627353850f9effca670b9fad8b4d3961dd5d062-LAw.ide"
+        },
+        {
+          "path": "data/maps/LA/LAw.ipl",
+          "sizeBytes": 15105,
+          "sha256": "00b70d30638e0054695d9628e299fcc778a0c6959ad28b252d3a4388aac4233a",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/00b70d30638e0054695d9628e299fcc778a0c6959ad28b252d3a4388aac4233a-LAw.ipl"
+        },
+        {
+          "path": "data/maps/LA/LAw2.ide",
+          "sizeBytes": 11060,
+          "sha256": "a9c0b8a67b3d56157735a9f652c37e2a060104f4d05b6e099a7fb46a0766e1fa",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/a9c0b8a67b3d56157735a9f652c37e2a060104f4d05b6e099a7fb46a0766e1fa-LAw2.ide"
+        },
+        {
+          "path": "data/maps/LA/LAw2.ipl",
+          "sizeBytes": 18232,
+          "sha256": "90dd7ed249acb2a5da8b1261f7ddd91d6c5bfc960599a09f4c0043c1dd2b7407",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/90dd7ed249acb2a5da8b1261f7ddd91d6c5bfc960599a09f4c0043c1dd2b7407-LAw2.ipl"
+        },
+        {
+          "path": "data/maps/LA/LaWn.ide",
+          "sizeBytes": 13092,
+          "sha256": "3c5e12e83a8fb39c45961dcb02a183522b00166f87a8e97caccffb4298daf2da",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/3c5e12e83a8fb39c45961dcb02a183522b00166f87a8e97caccffb4298daf2da-LaWn.ide"
+        },
+        {
+          "path": "data/maps/LA/LaWn.ipl",
+          "sizeBytes": 24330,
+          "sha256": "b34a1e49bf3b2b4569fdcf69e5f1525394ec49e6cdcc13d6ede7b99468272c94",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/b34a1e49bf3b2b4569fdcf69e5f1525394ec49e6cdcc13d6ede7b99468272c94-LaWn.ipl"
+        },
+        {
+          "path": "data/maps/LA/LAxref.ide",
+          "sizeBytes": 10473,
+          "sha256": "594ec1f0c3d2388fd3fd126442f5aa5dbfed1a35ae75cd5b73f250abbdb9f1b9",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/594ec1f0c3d2388fd3fd126442f5aa5dbfed1a35ae75cd5b73f250abbdb9f1b9-LAxref.ide"
+        },
+        {
+          "path": "data/maps/leveldes/leveldes.ide",
+          "sizeBytes": 360,
+          "sha256": "5c4cda0261a8302acd997679b3bbe604754423a7b0ce30707bfb81d7f1d569d4",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/5c4cda0261a8302acd997679b3bbe604754423a7b0ce30707bfb81d7f1d569d4-leveldes.ide"
+        },
+        {
+          "path": "data/maps/leveldes/leveldes.ipl",
+          "sizeBytes": 165,
+          "sha256": "a023d0150ceb2b0d571901ca1d22a2a1377337ac874d593a574eb7426bed65f2",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/a023d0150ceb2b0d571901ca1d22a2a1377337ac874d593a574eb7426bed65f2-leveldes.ipl"
+        },
+        {
+          "path": "data/maps/leveldes/levelmap.ide",
+          "sizeBytes": 3194,
+          "sha256": "c5d635c1ebd2fdd9f85c990dcf51e37f73ad8bc2e759dd5daa8ab13f45dad74d",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/c5d635c1ebd2fdd9f85c990dcf51e37f73ad8bc2e759dd5daa8ab13f45dad74d-levelmap.ide"
+        },
+        {
+          "path": "data/maps/leveldes/levelmap.ipl",
+          "sizeBytes": 4675,
+          "sha256": "2bacd4d04c78e17e9f34368352c5220e09cbabc45d080d3cd7005097f9d4c7d5",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/2bacd4d04c78e17e9f34368352c5220e09cbabc45d080d3cd7005097f9d4c7d5-levelmap.ipl"
+        },
+        {
+          "path": "data/maps/leveldes/levelxre.ide",
+          "sizeBytes": 9897,
+          "sha256": "330612dcd0250927a6931629c78d899891f7462306058637a2ea71bd2981fce2",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/330612dcd0250927a6931629c78d899891f7462306058637a2ea71bd2981fce2-levelxre.ide"
+        },
+        {
+          "path": "data/maps/leveldes/seabed.ide",
+          "sizeBytes": 12039,
+          "sha256": "5c57137733b59ec7455e821947c9fa5fb1051f69c9499a2c916ef72b77e01256",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/5c57137733b59ec7455e821947c9fa5fb1051f69c9499a2c916ef72b77e01256-seabed.ide"
+        },
+        {
+          "path": "data/maps/leveldes/seabed.ipl",
+          "sizeBytes": 23342,
+          "sha256": "4f8c7c66864c454a8546257beb54a34a1397d2d637b2c77c70cd16925ec2ab21",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/4f8c7c66864c454a8546257beb54a34a1397d2d637b2c77c70cd16925ec2ab21-seabed.ipl"
+        },
+        {
+          "path": "data/maps/occlu.ipl",
+          "sizeBytes": 1012,
+          "sha256": "b79d16581e954255ec06394b4c1ad6303ec6ed9eeb79a44ae51764f8d9a708c7",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/b79d16581e954255ec06394b4c1ad6303ec6ed9eeb79a44ae51764f8d9a708c7-occlu.ipl"
+        },
+        {
+          "path": "data/maps/occluint.ipl",
+          "sizeBytes": 2338,
+          "sha256": "23d5054e2f69d052c305c21b860c40cc135b4509d3b1aa84ca974716b25fefe0",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/23d5054e2f69d052c305c21b860c40cc135b4509d3b1aa84ca974716b25fefe0-occluint.ipl"
+        },
+        {
+          "path": "data/maps/occluLA.ipl",
+          "sizeBytes": 35956,
+          "sha256": "92f9a47f2cf09be813f5cbb94152fad4afdad66da85d0834b5c54179391d09eb",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/92f9a47f2cf09be813f5cbb94152fad4afdad66da85d0834b5c54179391d09eb-occluLA.ipl"
+        },
+        {
+          "path": "data/maps/occlusf.ipl",
+          "sizeBytes": 16114,
+          "sha256": "c547a2eab51fcaa8c100ba7d6a12cf5e32d9c547756494e2fa664589450eacc3",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/c547a2eab51fcaa8c100ba7d6a12cf5e32d9c547756494e2fa664589450eacc3-occlusf.ipl"
+        },
+        {
+          "path": "data/maps/occluveg.ipl",
+          "sizeBytes": 17944,
+          "sha256": "d5c59492e23c14b56409ddeaa20ee95e2c57d4225829b3c94519b52b8d6d8427",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/d5c59492e23c14b56409ddeaa20ee95e2c57d4225829b3c94519b52b8d6d8427-occluveg.ipl"
+        },
+        {
+          "path": "data/maps/paths.ipl",
+          "sizeBytes": 2658607,
+          "sha256": "1b8b896eda941aaf31391af571c52d371f5d7617cb2ccf44d148f80e464142ea",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/1b8b896eda941aaf31391af571c52d371f5d7617cb2ccf44d148f80e464142ea-paths.ipl"
+        },
+        {
+          "path": "data/maps/paths2.ipl",
+          "sizeBytes": 2292241,
+          "sha256": "70a6488bf2c39e486262c6396164c7135b3966797d978d49dcc4788d6242bb1d",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/70a6488bf2c39e486262c6396164c7135b3966797d978d49dcc4788d6242bb1d-paths2.ipl"
+        },
+        {
+          "path": "data/maps/paths3.ipl",
+          "sizeBytes": 2428066,
+          "sha256": "50a8a882a36c6a39fdbe417000e27579d0f37541df3a0d54bc306c5a70316c5a",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/50a8a882a36c6a39fdbe417000e27579d0f37541df3a0d54bc306c5a70316c5a-paths3.ipl"
+        },
+        {
+          "path": "data/maps/paths4.ipl",
+          "sizeBytes": 253014,
+          "sha256": "9e770e5ce9724b94ca74dd9256534e233f0b37b0ff72d0001dd1cf93fe5f9f25",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/9e770e5ce9724b94ca74dd9256534e233f0b37b0ff72d0001dd1cf93fe5f9f25-paths4.ipl"
+        },
+        {
+          "path": "data/maps/paths5.ipl",
+          "sizeBytes": 457678,
+          "sha256": "67fc1be4e28dd4837d7d3f369e0d8b1ceae67f1e507959fd2c38cbce4e15949c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/67fc1be4e28dd4837d7d3f369e0d8b1ceae67f1e507959fd2c38cbce4e15949c-paths5.ipl"
+        },
+        {
+          "path": "data/maps/SF/SFe.ide",
+          "sizeBytes": 16223,
+          "sha256": "c7a52ee49f7fe029817493795e2e8e0da5acb7d406330909b3f310b4b4b82fe8",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/c7a52ee49f7fe029817493795e2e8e0da5acb7d406330909b3f310b4b4b82fe8-SFe.ide"
+        },
+        {
+          "path": "data/maps/SF/SFe.ipl",
+          "sizeBytes": 26707,
+          "sha256": "0b8bb34c554b247c8aed8e309b710be27bcee66ca029323215ed6efe10eedd1c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/0b8bb34c554b247c8aed8e309b710be27bcee66ca029323215ed6efe10eedd1c-SFe.ipl"
+        },
+        {
+          "path": "data/maps/SF/SFn.ide",
+          "sizeBytes": 11219,
+          "sha256": "e54fe3b0043d8265c8c4d130c0d9fcf16ada6f02a1d5063e82097b6e042fbe55",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/e54fe3b0043d8265c8c4d130c0d9fcf16ada6f02a1d5063e82097b6e042fbe55-SFn.ide"
+        },
+        {
+          "path": "data/maps/SF/SFn.ipl",
+          "sizeBytes": 26201,
+          "sha256": "cc169fe857e1da974d3605ba112452d7de0832455582e317d75ff8619fd4f73a",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/cc169fe857e1da974d3605ba112452d7de0832455582e317d75ff8619fd4f73a-SFn.ipl"
+        },
+        {
+          "path": "data/maps/SF/SFs.ide",
+          "sizeBytes": 18948,
+          "sha256": "24e1f55c8259b6200bb832789616d54fdd95dba11d91d2aef220bfd2fc299078",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/24e1f55c8259b6200bb832789616d54fdd95dba11d91d2aef220bfd2fc299078-SFs.ide"
+        },
+        {
+          "path": "data/maps/SF/SFs.ipl",
+          "sizeBytes": 37969,
+          "sha256": "c0e6be2722cde673af3e20d827fd16d145d0a6e21fac80644aef01c2610357f3",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/c0e6be2722cde673af3e20d827fd16d145d0a6e21fac80644aef01c2610357f3-SFs.ipl"
+        },
+        {
+          "path": "data/maps/SF/SFSe.ide",
+          "sizeBytes": 30227,
+          "sha256": "0a2c54ce2ba7aeda78a3f24ae11e5ccba5cd6849e6abcdeaacac4ef3553a6b14",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/0a2c54ce2ba7aeda78a3f24ae11e5ccba5cd6849e6abcdeaacac4ef3553a6b14-SFSe.ide"
+        },
+        {
+          "path": "data/maps/SF/SFSe.ipl",
+          "sizeBytes": 53359,
+          "sha256": "a04ff8e238acd0de906d903225741b779a73ce8206a13ff034fcdfa2a768ebd5",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/a04ff8e238acd0de906d903225741b779a73ce8206a13ff034fcdfa2a768ebd5-SFSe.ipl"
+        },
+        {
+          "path": "data/maps/SF/SFw.ide",
+          "sizeBytes": 16473,
+          "sha256": "9b2cea3761c5f95326d77c8989cf0f14f0755c483f667819e01e32f7733b0d0e",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/9b2cea3761c5f95326d77c8989cf0f14f0755c483f667819e01e32f7733b0d0e-SFw.ide"
+        },
+        {
+          "path": "data/maps/SF/SFw.ipl",
+          "sizeBytes": 29247,
+          "sha256": "b9da860c8d35d2326c2f6fdaf4bc49f16f5b2844256ba3b0d0541bdfacce8e69",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/b9da860c8d35d2326c2f6fdaf4bc49f16f5b2844256ba3b0d0541bdfacce8e69-SFw.ipl"
+        },
+        {
+          "path": "data/maps/SF/SFxref.ide",
+          "sizeBytes": 4631,
+          "sha256": "efdbdbfff67a9b8a71d4b8b250505911966708e15a3627fa8550a7063085de00",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/efdbdbfff67a9b8a71d4b8b250505911966708e15a3627fa8550a7063085de00-SFxref.ide"
+        },
+        {
+          "path": "data/maps/tunnels.ipl",
+          "sizeBytes": 3230,
+          "sha256": "62479143348a7fb579ebd8d45271afe07aed7b639a90c4933036f12d90853dfc",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/62479143348a7fb579ebd8d45271afe07aed7b639a90c4933036f12d90853dfc-tunnels.ipl"
+        },
+        {
+          "path": "data/maps/txd.ide",
+          "sizeBytes": 323,
+          "sha256": "539b23649662671a8a6a73e5d1a2e797da645069e595ea592698009798aee92c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/539b23649662671a8a6a73e5d1a2e797da645069e595ea592698009798aee92c-txd.ide"
+        },
+        {
+          "path": "data/maps/vegas/vegasE.ide",
+          "sizeBytes": 35542,
+          "sha256": "a55ac1c6e995c14442f6a34672d1769f6fcfd8c5875dc985a2cefb892825ed9d",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/a55ac1c6e995c14442f6a34672d1769f6fcfd8c5875dc985a2cefb892825ed9d-vegasE.ide"
+        },
+        {
+          "path": "data/maps/vegas/vegasE.ipl",
+          "sizeBytes": 61084,
+          "sha256": "09b34e42e353b20a3ebf39d1c305a00d5de5fb7cb532da92e7d7cd122f189c47",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/09b34e42e353b20a3ebf39d1c305a00d5de5fb7cb532da92e7d7cd122f189c47-vegasE.ipl"
+        },
+        {
+          "path": "data/maps/vegas/VegasN.ide",
+          "sizeBytes": 23715,
+          "sha256": "394aa4049796756c6773075f5954b9c93ab6963f05c29afd781d556638c6f53a",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/394aa4049796756c6773075f5954b9c93ab6963f05c29afd781d556638c6f53a-VegasN.ide"
+        },
+        {
+          "path": "data/maps/vegas/vegasN.ipl",
+          "sizeBytes": 36651,
+          "sha256": "a2a67b14a3ccab29c9ca4cc2a579b286ff7c1364b8448bc910e4ed6d1bbde4a7",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/a2a67b14a3ccab29c9ca4cc2a579b286ff7c1364b8448bc910e4ed6d1bbde4a7-vegasN.ipl"
+        },
+        {
+          "path": "data/maps/vegas/VegasS.ide",
+          "sizeBytes": 18656,
+          "sha256": "5a10346606025e6793e670ad3b5ff0f4e96f59961951c80a27462cc704823ad9",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/5a10346606025e6793e670ad3b5ff0f4e96f59961951c80a27462cc704823ad9-VegasS.ide"
+        },
+        {
+          "path": "data/maps/vegas/vegasS.ipl",
+          "sizeBytes": 30343,
+          "sha256": "8608f4bcc70927fc50928a3189a9f4d96320f85db052c7e15f6fea6d40f8cec4",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/8608f4bcc70927fc50928a3189a9f4d96320f85db052c7e15f6fea6d40f8cec4-vegasS.ipl"
+        },
+        {
+          "path": "data/maps/vegas/VegasW.ide",
+          "sizeBytes": 25456,
+          "sha256": "6499b130002d706e7808c63d7570b35030d4af89d211c43e5dc1ee1b9c9ea238",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/6499b130002d706e7808c63d7570b35030d4af89d211c43e5dc1ee1b9c9ea238-VegasW.ide"
+        },
+        {
+          "path": "data/maps/vegas/vegasW.ipl",
+          "sizeBytes": 49867,
+          "sha256": "8772cd91905a1374886376d7f0a508c666fd8b91478c5f3afc87673ae4e78abc",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/8772cd91905a1374886376d7f0a508c666fd8b91478c5f3afc87673ae4e78abc-vegasW.ipl"
+        },
+        {
+          "path": "data/maps/vegas/vegaxref.ide",
+          "sizeBytes": 5751,
+          "sha256": "b52b2622a39a25f62b25960e69e30a96ac43f2e76a2a428aa9d49ee51eca93ed",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/b52b2622a39a25f62b25960e69e30a96ac43f2e76a2a428aa9d49ee51eca93ed-vegaxref.ide"
+        },
+        {
+          "path": "data/maps/vegas/vegaxref.ipl",
+          "sizeBytes": 3661,
+          "sha256": "45a15259f02a25fcbd3a575ae2a0846a688aafc5bda2c525fa59626e1006557e",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/45a15259f02a25fcbd3a575ae2a0846a688aafc5bda2c525fa59626e1006557e-vegaxref.ipl"
+        },
+        {
+          "path": "data/maps/veh_mods/veh_mods.ide",
+          "sizeBytes": 7323,
+          "sha256": "0338813d49e3c1d92d7f660357d0ab6a6778e65a2e05b0c9cb1f99ffd29c3edc",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/0338813d49e3c1d92d7f660357d0ab6a6778e65a2e05b0c9cb1f99ffd29c3edc-veh_mods.ide"
+        },
+        {
+          "path": "data/melee.dat",
+          "sizeBytes": 6306,
+          "sha256": "d82430a32f31c239c38e1db8c83589307fb221fce417962993a8c63cb1d3da4b",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/d82430a32f31c239c38e1db8c83589307fb221fce417962993a8c63cb1d3da4b-melee.dat"
+        },
+        {
+          "path": "data/numplate.dat",
+          "sizeBytes": 1145,
+          "sha256": "342902a4e6f5bafdf518f163128c24b3b20f207ac5ed7327eb122540313abc1b",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/342902a4e6f5bafdf518f163128c24b3b20f207ac5ed7327eb122540313abc1b-numplate.dat"
+        },
+        {
+          "path": "data/object.dat",
+          "sizeBytes": 126118,
+          "sha256": "c963c980d90891cbb4ab81a6a8daa294a5813cba46fae4b1302951c32ca472d8",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/c963c980d90891cbb4ab81a6a8daa294a5813cba46fae4b1302951c32ca472d8-object.dat"
+        },
+        {
+          "path": "data/Paths/carrec.img",
+          "sizeBytes": 2357248,
+          "sha256": "58d91faf86f367e7fae5432e36ff7bdcbe5d8815cd05d779b4aa4f6ec96fe074",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/58d91faf86f367e7fae5432e36ff7bdcbe5d8815cd05d779b4aa4f6ec96fe074-carrec.img"
+        },
+        {
+          "path": "data/Paths/NODES0.DAT",
+          "sizeBytes": 13458,
+          "sha256": "f4910a9fa0100984bdd48f0e1d8161fe5b702081d37c66316b2d667f942fa2f2",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/f4910a9fa0100984bdd48f0e1d8161fe5b702081d37c66316b2d667f942fa2f2-NODES0.DAT"
+        },
+        {
+          "path": "data/Paths/NODES1.DAT",
+          "sizeBytes": 35996,
+          "sha256": "dd63cdb01f365b38edb4e69829cb09bb7d39d2105886e3e9f80e7aca05ec47ae",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/dd63cdb01f365b38edb4e69829cb09bb7d39d2105886e3e9f80e7aca05ec47ae-NODES1.DAT"
+        },
+        {
+          "path": "data/Paths/NODES10.DAT",
+          "sizeBytes": 15100,
+          "sha256": "e84c9ffb3a263f269a0c58f528111d6c6035789b6ba200bb744d791ebead8bda",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/e84c9ffb3a263f269a0c58f528111d6c6035789b6ba200bb744d791ebead8bda-NODES10.DAT"
+        },
+        {
+          "path": "data/Paths/NODES11.DAT",
+          "sizeBytes": 28886,
+          "sha256": "d51daa7922f70aab0d2dd4530a9258b40b7f4c6201863ef1eeb5c054109620db",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/d51daa7922f70aab0d2dd4530a9258b40b7f4c6201863ef1eeb5c054109620db-NODES11.DAT"
+        },
+        {
+          "path": "data/Paths/NODES12.DAT",
+          "sizeBytes": 110342,
+          "sha256": "7afa915d07860ee1d02dd3d70cb28c49adf14b97206cbe330c5eee14ec78f7c3",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/7afa915d07860ee1d02dd3d70cb28c49adf14b97206cbe330c5eee14ec78f7c3-NODES12.DAT"
+        },
+        {
+          "path": "data/Paths/NODES13.DAT",
+          "sizeBytes": 117488,
+          "sha256": "0fb989f674da4651b87c1bfc56a6bcbfd7ddd7c9a579e55bc52e1f7458898c11",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/0fb989f674da4651b87c1bfc56a6bcbfd7ddd7c9a579e55bc52e1f7458898c11-NODES13.DAT"
+        },
+        {
+          "path": "data/Paths/NODES14.DAT",
+          "sizeBytes": 121566,
+          "sha256": "99eddfd66abcda9d389a432416ec3b09a5660227fc0104210b316caf18896a79",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/99eddfd66abcda9d389a432416ec3b09a5660227fc0104210b316caf18896a79-NODES14.DAT"
+        },
+        {
+          "path": "data/Paths/NODES15.DAT",
+          "sizeBytes": 93802,
+          "sha256": "eb4a82a8e6863eb2c704549603409f76ade298bdec972ce9f7fea7e84c41109a",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/eb4a82a8e6863eb2c704549603409f76ade298bdec972ce9f7fea7e84c41109a-NODES15.DAT"
+        },
+        {
+          "path": "data/Paths/NODES16.DAT",
+          "sizeBytes": 19250,
+          "sha256": "140b62bd53b0e406f11dcbe94c8e0767f562f2e4bea58ded12339eb288fc3ea5",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/140b62bd53b0e406f11dcbe94c8e0767f562f2e4bea58ded12339eb288fc3ea5-NODES16.DAT"
+        },
+        {
+          "path": "data/Paths/NODES17.DAT",
+          "sizeBytes": 36952,
+          "sha256": "dd060d61c1ecc45c2aaa8be501c7f41fe29f136b1a5aae67d34dcfd9924c5e64",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/dd060d61c1ecc45c2aaa8be501c7f41fe29f136b1a5aae67d34dcfd9924c5e64-NODES17.DAT"
+        },
+        {
+          "path": "data/Paths/NODES18.DAT",
+          "sizeBytes": 17234,
+          "sha256": "8ac84c5c1188b7ea86086ad4c2a462654e46fd771907fbf7f50d43787e20cfe0",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/8ac84c5c1188b7ea86086ad4c2a462654e46fd771907fbf7f50d43787e20cfe0-NODES18.DAT"
+        },
+        {
+          "path": "data/Paths/NODES19.DAT",
+          "sizeBytes": 39862,
+          "sha256": "bb4f72c64af33659e43c28f5f344a78a61877a6350977b92e7031735f3adda25",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/bb4f72c64af33659e43c28f5f344a78a61877a6350977b92e7031735f3adda25-NODES19.DAT"
+        },
+        {
+          "path": "data/Paths/NODES2.DAT",
+          "sizeBytes": 11396,
+          "sha256": "3fc680950c483dda376f25abe375c39ae825df4671990de245e887ad259ccee0",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/3fc680950c483dda376f25abe375c39ae825df4671990de245e887ad259ccee0-NODES2.DAT"
+        },
+        {
+          "path": "data/Paths/NODES20.DAT",
+          "sizeBytes": 76652,
+          "sha256": "86351503a91e923f138d38a65cd74fdc964853d6c4ab340974a643c0bad93fc3",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/86351503a91e923f138d38a65cd74fdc964853d6c4ab340974a643c0bad93fc3-NODES20.DAT"
+        },
+        {
+          "path": "data/Paths/NODES21.DAT",
+          "sizeBytes": 138482,
+          "sha256": "9fbcf4123097b02e12047195c0d70b4ea67943dd4ef5a535ae177c6b0b9fff37",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/9fbcf4123097b02e12047195c0d70b4ea67943dd4ef5a535ae177c6b0b9fff37-NODES21.DAT"
+        },
+        {
+          "path": "data/Paths/NODES22.DAT",
+          "sizeBytes": 120014,
+          "sha256": "831e6e888ff8c77c493abe4d3dffd9c0f96b6dfffaea91ac3cb881b60b608310",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/831e6e888ff8c77c493abe4d3dffd9c0f96b6dfffaea91ac3cb881b60b608310-NODES22.DAT"
+        },
+        {
+          "path": "data/Paths/NODES23.DAT",
+          "sizeBytes": 87652,
+          "sha256": "fb3b028a987933691014ecd5826e82629fd0aa2133d7d8730e413bb5ac27b5e1",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/fb3b028a987933691014ecd5826e82629fd0aa2133d7d8730e413bb5ac27b5e1-NODES23.DAT"
+        },
+        {
+          "path": "data/Paths/NODES24.DAT",
+          "sizeBytes": 94334,
+          "sha256": "76853143b04ef1f35d7db038e5939c048ff88ccd468fbff5344b011313ec9575",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/76853143b04ef1f35d7db038e5939c048ff88ccd468fbff5344b011313ec9575-NODES24.DAT"
+        },
+        {
+          "path": "data/Paths/NODES25.DAT",
+          "sizeBytes": 95160,
+          "sha256": "ba42f7d159a5989eb1f94acdaef1e84839585a5c8d641717ae44f611450f77d8",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/ba42f7d159a5989eb1f94acdaef1e84839585a5c8d641717ae44f611450f77d8-NODES25.DAT"
+        },
+        {
+          "path": "data/Paths/NODES26.DAT",
+          "sizeBytes": 55378,
+          "sha256": "37d8919fc006e9724dc6dbc5d929384df8e3a4f3e27822597e8e994499fedb12",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/37d8919fc006e9724dc6dbc5d929384df8e3a4f3e27822597e8e994499fedb12-NODES26.DAT"
+        },
+        {
+          "path": "data/Paths/NODES27.DAT",
+          "sizeBytes": 26342,
+          "sha256": "59ddaa917fb5372f1e4e77264e3cb4ba6268ae8648498246fe6ade7128c6b6f7",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/59ddaa917fb5372f1e4e77264e3cb4ba6268ae8648498246fe6ade7128c6b6f7-NODES27.DAT"
+        },
+        {
+          "path": "data/Paths/NODES28.DAT",
+          "sizeBytes": 84224,
+          "sha256": "2be659500dc780deeaf65333bd2078fde056c6e1dec17e084d118e016256a5bc",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/2be659500dc780deeaf65333bd2078fde056c6e1dec17e084d118e016256a5bc-NODES28.DAT"
+        },
+        {
+          "path": "data/Paths/NODES29.DAT",
+          "sizeBytes": 36556,
+          "sha256": "6a056c0d9da1750530086489c52952a9dd9f7c3fa04d51c73bdc863beaa415dc",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/6a056c0d9da1750530086489c52952a9dd9f7c3fa04d51c73bdc863beaa415dc-NODES29.DAT"
+        },
+        {
+          "path": "data/Paths/NODES3.DAT",
+          "sizeBytes": 12438,
+          "sha256": "7a4534acc4bb66f20825966389daa197ed33a72dae3568239672ea268ba5d4b5",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/7a4534acc4bb66f20825966389daa197ed33a72dae3568239672ea268ba5d4b5-NODES3.DAT"
+        },
+        {
+          "path": "data/Paths/NODES30.DAT",
+          "sizeBytes": 20098,
+          "sha256": "5634a075f755fdc5abc5a3456f4199aaaccc8c4b7213f75c8e0dd8122d5535f3",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/5634a075f755fdc5abc5a3456f4199aaaccc8c4b7213f75c8e0dd8122d5535f3-NODES30.DAT"
+        },
+        {
+          "path": "data/Paths/NODES31.DAT",
+          "sizeBytes": 22552,
+          "sha256": "7aea61e71070977a590a85979fb92b5f74a415b72a870340e8f4e7349720a2e1",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/7aea61e71070977a590a85979fb92b5f74a415b72a870340e8f4e7349720a2e1-NODES31.DAT"
+        },
+        {
+          "path": "data/Paths/NODES32.DAT",
+          "sizeBytes": 126744,
+          "sha256": "b35ef3ea7682eb7d15e31429ec4dbca1b7a64029a71740ab8d29ed9562c536b6",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/b35ef3ea7682eb7d15e31429ec4dbca1b7a64029a71740ab8d29ed9562c536b6-NODES32.DAT"
+        },
+        {
+          "path": "data/Paths/NODES33.DAT",
+          "sizeBytes": 113784,
+          "sha256": "b25515ff4e85595b6c4f47d8d98eb9d2931cc8ab57b6ee69ca910f1fab5b61e9",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/b25515ff4e85595b6c4f47d8d98eb9d2931cc8ab57b6ee69ca910f1fab5b61e9-NODES33.DAT"
+        },
+        {
+          "path": "data/Paths/NODES34.DAT",
+          "sizeBytes": 50594,
+          "sha256": "2acb931cf1f7675cb7573dd40441edc7ca1351742ea55c568a8c98f34fefe20d",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/2acb931cf1f7675cb7573dd40441edc7ca1351742ea55c568a8c98f34fefe20d-NODES34.DAT"
+        },
+        {
+          "path": "data/Paths/NODES35.DAT",
+          "sizeBytes": 28442,
+          "sha256": "8ce944836df80b3ce795b54b19d9e96f3c050b0a4386796924f9cc13fbb3045c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/8ce944836df80b3ce795b54b19d9e96f3c050b0a4386796924f9cc13fbb3045c-NODES35.DAT"
+        },
+        {
+          "path": "data/Paths/NODES36.DAT",
+          "sizeBytes": 52546,
+          "sha256": "16956c21544e406e6f4e5f47d626712f47ad1519b5bc637ece7c22b6cb68bde8",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/16956c21544e406e6f4e5f47d626712f47ad1519b5bc637ece7c22b6cb68bde8-NODES36.DAT"
+        },
+        {
+          "path": "data/Paths/NODES37.DAT",
+          "sizeBytes": 46690,
+          "sha256": "26e5849ce3512a532702abd259928055390a69c0bd08990ddd7b521312e37f8b",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/26e5849ce3512a532702abd259928055390a69c0bd08990ddd7b521312e37f8b-NODES37.DAT"
+        },
+        {
+          "path": "data/Paths/NODES38.DAT",
+          "sizeBytes": 59616,
+          "sha256": "4cf2a28bae2d8db6cff8ecdc8e191ecb24e1e7ceb6a379a6611e4538442a27ea",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/4cf2a28bae2d8db6cff8ecdc8e191ecb24e1e7ceb6a379a6611e4538442a27ea-NODES38.DAT"
+        },
+        {
+          "path": "data/Paths/NODES39.DAT",
+          "sizeBytes": 42486,
+          "sha256": "17b40f6654df1ea1ef491a16d647c34b57f9fd32d23ffa41529bce478a57ef4b",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/17b40f6654df1ea1ef491a16d647c34b57f9fd32d23ffa41529bce478a57ef4b-NODES39.DAT"
+        },
+        {
+          "path": "data/Paths/NODES4.DAT",
+          "sizeBytes": 5402,
+          "sha256": "a6e9a13fa25257c0c0cad5e515dedadc988993fb80d22beb210e734d517f5f26",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/a6e9a13fa25257c0c0cad5e515dedadc988993fb80d22beb210e734d517f5f26-NODES4.DAT"
+        },
+        {
+          "path": "data/Paths/NODES40.DAT",
+          "sizeBytes": 115172,
+          "sha256": "7f42619b94223a4e187e416594b4877921dc813cd37cab78d865a6d3b006e96a",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/7f42619b94223a4e187e416594b4877921dc813cd37cab78d865a6d3b006e96a-NODES40.DAT"
+        },
+        {
+          "path": "data/Paths/NODES41.DAT",
+          "sizeBytes": 141844,
+          "sha256": "b382756d8379a85090726fe59302bbda844bec3c5664fee682de84c66b645912",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/b382756d8379a85090726fe59302bbda844bec3c5664fee682de84c66b645912-NODES41.DAT"
+        },
+        {
+          "path": "data/Paths/NODES42.DAT",
+          "sizeBytes": 35716,
+          "sha256": "cfaf6d7bbbc6887fa090af63f770273104d927662c2b912a618b7fda39ffbdce",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/cfaf6d7bbbc6887fa090af63f770273104d927662c2b912a618b7fda39ffbdce-NODES42.DAT"
+        },
+        {
+          "path": "data/Paths/NODES43.DAT",
+          "sizeBytes": 45006,
+          "sha256": "83a617dc3f1a33e85d66e12226132fb595cce81a94800e76f568f81aff9834ea",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/83a617dc3f1a33e85d66e12226132fb595cce81a94800e76f568f81aff9834ea-NODES43.DAT"
+        },
+        {
+          "path": "data/Paths/NODES44.DAT",
+          "sizeBytes": 49032,
+          "sha256": "69e80ccd3960b93595f57a0daebc793badcb869007a203902c2a56bbc17cb4ce",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/69e80ccd3960b93595f57a0daebc793badcb869007a203902c2a56bbc17cb4ce-NODES44.DAT"
+        },
+        {
+          "path": "data/Paths/NODES45.DAT",
+          "sizeBytes": 40270,
+          "sha256": "e045bff56ed6c4ee229c6e16020c61eaf7d54b40cb076b3b12ea722e36e29e75",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/e045bff56ed6c4ee229c6e16020c61eaf7d54b40cb076b3b12ea722e36e29e75-NODES45.DAT"
+        },
+        {
+          "path": "data/Paths/NODES46.DAT",
+          "sizeBytes": 123954,
+          "sha256": "945d2854bc5db396dbd32f9b316c4e0a51deced64e3aff4fb7b1367c2c2423eb",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/945d2854bc5db396dbd32f9b316c4e0a51deced64e3aff4fb7b1367c2c2423eb-NODES46.DAT"
+        },
+        {
+          "path": "data/Paths/NODES47.DAT",
+          "sizeBytes": 85050,
+          "sha256": "dd8a085e90871f0ff0f6ce0511782376bf94456e777ff3af6ebaaaadd4b5ad74",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/dd8a085e90871f0ff0f6ce0511782376bf94456e777ff3af6ebaaaadd4b5ad74-NODES47.DAT"
+        },
+        {
+          "path": "data/Paths/NODES48.DAT",
+          "sizeBytes": 26170,
+          "sha256": "8b20d271c6aee0d586fff29d931bb48b50a1b8f09dda9ef20b74b5333b561d83",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/8b20d271c6aee0d586fff29d931bb48b50a1b8f09dda9ef20b74b5333b561d83-NODES48.DAT"
+        },
+        {
+          "path": "data/Paths/NODES49.DAT",
+          "sizeBytes": 14948,
+          "sha256": "2d8a806d58bc6cb29897d9b6f82029c595adcb6f49cde795bbe155e20744f2cc",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/2d8a806d58bc6cb29897d9b6f82029c595adcb6f49cde795bbe155e20744f2cc-NODES49.DAT"
+        },
+        {
+          "path": "data/Paths/NODES5.DAT",
+          "sizeBytes": 16804,
+          "sha256": "26c8008564bb70332058e5a6e3a4c1a5006c12e84979f174754c9ed9a7489114",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/26c8008564bb70332058e5a6e3a4c1a5006c12e84979f174754c9ed9a7489114-NODES5.DAT"
+        },
+        {
+          "path": "data/Paths/NODES50.DAT",
+          "sizeBytes": 32076,
+          "sha256": "8411bf12e12afd59c3beb11ec0f939fd8cc4cec447e80bd2679265236b11708f",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/8411bf12e12afd59c3beb11ec0f939fd8cc4cec447e80bd2679265236b11708f-NODES50.DAT"
+        },
+        {
+          "path": "data/Paths/NODES51.DAT",
+          "sizeBytes": 18704,
+          "sha256": "5d6f0af1bdbf837810a1c1055e25b6548bcafd66a3a864516d0f86b5e37c8fbe",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/5d6f0af1bdbf837810a1c1055e25b6548bcafd66a3a864516d0f86b5e37c8fbe-NODES51.DAT"
+        },
+        {
+          "path": "data/Paths/NODES52.DAT",
+          "sizeBytes": 37934,
+          "sha256": "3fbac1bcff5f1098472dcfe309cb43b199c38fd6b1fdbe1e8b5c526c8228fb77",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/3fbac1bcff5f1098472dcfe309cb43b199c38fd6b1fdbe1e8b5c526c8228fb77-NODES52.DAT"
+        },
+        {
+          "path": "data/Paths/NODES53.DAT",
+          "sizeBytes": 65650,
+          "sha256": "af395d4fbc7f5aacb84a949b48e4f32ed5a19600597e422fb838c8f5cfdc3ec8",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/af395d4fbc7f5aacb84a949b48e4f32ed5a19600597e422fb838c8f5cfdc3ec8-NODES53.DAT"
+        },
+        {
+          "path": "data/Paths/NODES54.DAT",
+          "sizeBytes": 127874,
+          "sha256": "209d1b5474b2a030bda032e19cda449c038fbe89796f41016499b580c39e6331",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/209d1b5474b2a030bda032e19cda449c038fbe89796f41016499b580c39e6331-NODES54.DAT"
+        },
+        {
+          "path": "data/Paths/NODES55.DAT",
+          "sizeBytes": 84904,
+          "sha256": "db3f7ec70518e6ddd13871ad0bcb96e401b0f605965a1faf085ddc464d8b9ea6",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/db3f7ec70518e6ddd13871ad0bcb96e401b0f605965a1faf085ddc464d8b9ea6-NODES55.DAT"
+        },
+        {
+          "path": "data/Paths/NODES56.DAT",
+          "sizeBytes": 33350,
+          "sha256": "b6d6708e050ab07b88a1ff75319fa41cfc23e298527e4a886a17704fbb5f68d5",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/b6d6708e050ab07b88a1ff75319fa41cfc23e298527e4a886a17704fbb5f68d5-NODES56.DAT"
+        },
+        {
+          "path": "data/Paths/NODES57.DAT",
+          "sizeBytes": 19212,
+          "sha256": "e3c430ac3a21b3abc31d7840ad2d50df1f07c704bc0f9c7dddadb5c898de9862",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/e3c430ac3a21b3abc31d7840ad2d50df1f07c704bc0f9c7dddadb5c898de9862-NODES57.DAT"
+        },
+        {
+          "path": "data/Paths/NODES58.DAT",
+          "sizeBytes": 18858,
+          "sha256": "e25f71bfe6683da82219ffb516b00c8ccc68350c920ea9271657ad8071b31b7d",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/e25f71bfe6683da82219ffb516b00c8ccc68350c920ea9271657ad8071b31b7d-NODES58.DAT"
+        },
+        {
+          "path": "data/Paths/NODES59.DAT",
+          "sizeBytes": 28114,
+          "sha256": "9c5cc3d536f9359f89b2e195d4de1511c51eebe96a082a875e77f1825526d138",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/9c5cc3d536f9359f89b2e195d4de1511c51eebe96a082a875e77f1825526d138-NODES59.DAT"
+        },
+        {
+          "path": "data/Paths/NODES6.DAT",
+          "sizeBytes": 50642,
+          "sha256": "a3d751c73023b202d3df67d8c903614db4e816fdc241b89efd2184cfd1179839",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/a3d751c73023b202d3df67d8c903614db4e816fdc241b89efd2184cfd1179839-NODES6.DAT"
+        },
+        {
+          "path": "data/Paths/NODES60.DAT",
+          "sizeBytes": 14464,
+          "sha256": "e66b0e32b2a1ea95af5f81faa6735216115cb13026984760739416666bd0fead",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/e66b0e32b2a1ea95af5f81faa6735216115cb13026984760739416666bd0fead-NODES60.DAT"
+        },
+        {
+          "path": "data/Paths/NODES61.DAT",
+          "sizeBytes": 60284,
+          "sha256": "e292dbe2c0f4678e03235f4d557dcffb3842798e7c8f7b7a5c73609f66203965",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/e292dbe2c0f4678e03235f4d557dcffb3842798e7c8f7b7a5c73609f66203965-NODES61.DAT"
+        },
+        {
+          "path": "data/Paths/NODES62.DAT",
+          "sizeBytes": 70972,
+          "sha256": "1dbc30784b71ba42dd742d07b0a3a991b2de75f2c0e5523ab0abe7b2716a3edc",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/1dbc30784b71ba42dd742d07b0a3a991b2de75f2c0e5523ab0abe7b2716a3edc-NODES62.DAT"
+        },
+        {
+          "path": "data/Paths/NODES63.DAT",
+          "sizeBytes": 71530,
+          "sha256": "96fe84fc7225551ab8b7ad734fe425ceec2b984d21b511c819688b86c70653c5",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/96fe84fc7225551ab8b7ad734fe425ceec2b984d21b511c819688b86c70653c5-NODES63.DAT"
+        },
+        {
+          "path": "data/Paths/NODES7.DAT",
+          "sizeBytes": 24464,
+          "sha256": "2e39c0e99b86d1716b8fc52bfc295de712c446d3a71081b609645ff2bbb7e6c9",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/2e39c0e99b86d1716b8fc52bfc295de712c446d3a71081b609645ff2bbb7e6c9-NODES7.DAT"
+        },
+        {
+          "path": "data/Paths/NODES8.DAT",
+          "sizeBytes": 32112,
+          "sha256": "19d5d3d503364bfdd883dcd1d46280a579447c260513eb4f4af15cca418e877e",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/19d5d3d503364bfdd883dcd1d46280a579447c260513eb4f4af15cca418e877e-NODES8.DAT"
+        },
+        {
+          "path": "data/Paths/NODES9.DAT",
+          "sizeBytes": 32516,
+          "sha256": "9ad49ac7fcb2c501902a89a0196cea62fe9319f01fc965580331459e40dadc3d",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/9ad49ac7fcb2c501902a89a0196cea62fe9319f01fc965580331459e40dadc3d-NODES9.DAT"
+        },
+        {
+          "path": "data/Paths/ROADBLOX.DAT",
+          "sizeBytes": 1304,
+          "sha256": "2da412adc28eefd4b406df53e0ab2693eb564d8dfeb73f31ca771022280342ef",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/2da412adc28eefd4b406df53e0ab2693eb564d8dfeb73f31ca771022280342ef-ROADBLOX.DAT"
+        },
+        {
+          "path": "data/Paths/spath0.dat",
+          "sizeBytes": 1886,
+          "sha256": "327fcfa5b3c12d2f72dfdd9a8338ad837a6b750446b631ffcd5d831c843c6762",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/327fcfa5b3c12d2f72dfdd9a8338ad837a6b750446b631ffcd5d831c843c6762-spath0.dat"
+        },
+        {
+          "path": "data/Paths/tracks.dat",
+          "sizeBytes": 25474,
+          "sha256": "9f3509865baa1424cedce8c9185f93bf575eb1d6cb2e114f1c704f07f92d0f55",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/9f3509865baa1424cedce8c9185f93bf575eb1d6cb2e114f1c704f07f92d0f55-tracks.dat"
+        },
+        {
+          "path": "data/Paths/tracks2.dat",
+          "sizeBytes": 1892,
+          "sha256": "f30af4dd0b7948321db633d4964898961b4ae97f5c29b6ca1cdcb9b77e6f4985",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/f30af4dd0b7948321db633d4964898961b4ae97f5c29b6ca1cdcb9b77e6f4985-tracks2.dat"
+        },
+        {
+          "path": "data/Paths/tracks3.dat",
+          "sizeBytes": 8328,
+          "sha256": "b8ed468ae2aa953250f5f9bcf1ff34ec7a413cfca63357a6a531f37dfb9b5767",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/b8ed468ae2aa953250f5f9bcf1ff34ec7a413cfca63357a6a531f37dfb9b5767-tracks3.dat"
+        },
+        {
+          "path": "data/Paths/tracks4.dat",
+          "sizeBytes": 18347,
+          "sha256": "e8decea200f701498cf1414a4d6accb1dc6fdeb147ac30cd3500e0ae27cdcd69",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/e8decea200f701498cf1414a4d6accb1dc6fdeb147ac30cd3500e0ae27cdcd69-tracks4.dat"
+        },
+        {
+          "path": "data/Paths/train.dat",
+          "sizeBytes": 2476,
+          "sha256": "53f0b4b2c01a82522d37a3e3d09e14217bca2d91ced525b45bf9fabfd1a1bfb0",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/53f0b4b2c01a82522d37a3e3d09e14217bca2d91ced525b45bf9fabfd1a1bfb0-train.dat"
+        },
+        {
+          "path": "data/Paths/train2.dat",
+          "sizeBytes": 4232,
+          "sha256": "0dd3a51310bbaf649de2a97267d27d6ce8fa9e3930139fa1fdafdf5b8db9bea6",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/0dd3a51310bbaf649de2a97267d27d6ce8fa9e3930139fa1fdafdf5b8db9bea6-train2.dat"
+        },
+        {
+          "path": "data/ped.dat",
+          "sizeBytes": 1276,
+          "sha256": "fa4a2636ba772080c75d0986379a862c4c2f7cf7bf6c1550557f3557236b450e",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/fa4a2636ba772080c75d0986379a862c4c2f7cf7bf6c1550557f3557236b450e-ped.dat"
+        },
+        {
+          "path": "data/pedgrp.dat",
+          "sizeBytes": 5792,
+          "sha256": "157f429231421f37d44b2b4890b14ee0537f7f32a8bdf71a140340ac04770222",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/157f429231421f37d44b2b4890b14ee0537f7f32a8bdf71a140340ac04770222-pedgrp.dat"
+        },
+        {
+          "path": "data/peds.ide",
+          "sizeBytes": 33401,
+          "sha256": "ec16c488c40f2c563c475130eb7ef633a024ac6bc0f01e8bfb248972a241af92",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/ec16c488c40f2c563c475130eb7ef633a024ac6bc0f01e8bfb248972a241af92-peds.ide"
+        },
+        {
+          "path": "data/pedstats.dat",
+          "sizeBytes": 3604,
+          "sha256": "280c12e4f8b36f6e68b68323fb3d01d853b9a91bf4497964ce5159abfd84d684",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/280c12e4f8b36f6e68b68323fb3d01d853b9a91bf4497964ce5159abfd84d684-pedstats.dat"
+        },
+        {
+          "path": "data/plants.dat",
+          "sizeBytes": 9887,
+          "sha256": "d989d13c540be6e8c7e381ac1785a61a99ca8dc97002ed9013a0312b5dab08a8",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/d989d13c540be6e8c7e381ac1785a61a99ca8dc97002ed9013a0312b5dab08a8-plants.dat"
+        },
+        {
+          "path": "data/polydensity.dat",
+          "sizeBytes": 288020,
+          "sha256": "975a9b23dcfc195dc9d2722a50774d4a739f4d0c2bba4f7c24be9ae05161c94a",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/975a9b23dcfc195dc9d2722a50774d4a739f4d0c2bba4f7c24be9ae05161c94a-polydensity.dat"
+        },
+        {
+          "path": "data/popcycle.dat",
+          "sizeBytes": 127108,
+          "sha256": "7adf28ff336d652a0d85cd8c9cb37379755e7f68a00b3637ea4afc4d4184aac7",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/7adf28ff336d652a0d85cd8c9cb37379755e7f68a00b3637ea4afc4d4184aac7-popcycle.dat"
+        },
+        {
+          "path": "data/procobj.dat",
+          "sizeBytes": 10019,
+          "sha256": "b41895965d087b90aa8b11a66849002a08256a27010209b2b534e0f4438d95c5",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/b41895965d087b90aa8b11a66849002a08256a27010209b2b534e0f4438d95c5-procobj.dat"
+        },
+        {
+          "path": "data/script/main.scm",
+          "sizeBytes": 3079599,
+          "sha256": "601def3baae766ce6a23e2f0b9b48f6b33c9a64e2fc32eb4f22ddea8b868b0fa",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/601def3baae766ce6a23e2f0b9b48f6b33c9a64e2fc32eb4f22ddea8b868b0fa-main.scm"
+        },
+        {
+          "path": "data/script/script.img",
+          "sizeBytes": 581632,
+          "sha256": "582b2ad47aafa9867238aff2d2b07cce5cc85496612157e759a4f25aa9e83187",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/582b2ad47aafa9867238aff2d2b07cce5cc85496612157e759a4f25aa9e83187-script.img"
+        },
+        {
+          "path": "data/shopping.dat",
+          "sizeBytes": 46875,
+          "sha256": "93e640e29049ee9985185b7aaf1b2f3d11f8540ff8791a751632d6ba90d0bd4d",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/93e640e29049ee9985185b7aaf1b2f3d11f8540ff8791a751632d6ba90d0bd4d-shopping.dat"
+        },
+        {
+          "path": "data/statdisp.dat",
+          "sizeBytes": 7333,
+          "sha256": "e16ec576f165882c82524e12d05a3ca42f321a17f53675f44ef031a6f2613f72",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/e16ec576f165882c82524e12d05a3ca42f321a17f53675f44ef031a6f2613f72-statdisp.dat"
+        },
+        {
+          "path": "data/surface.dat",
+          "sizeBytes": 576,
+          "sha256": "09cf086c44c2409f6d5f40f58d7a753f0384d227b7f8c27fec7fe5dbe56c4a90",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/09cf086c44c2409f6d5f40f58d7a753f0384d227b7f8c27fec7fe5dbe56c4a90-surface.dat"
+        },
+        {
+          "path": "data/surfaud.dat",
+          "sizeBytes": 6530,
+          "sha256": "5a25dfb38743e42b46f7979941f9fa8a1201788e91f991975dfed997aa4db605",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/5a25dfb38743e42b46f7979941f9fa8a1201788e91f991975dfed997aa4db605-surfaud.dat"
+        },
+        {
+          "path": "data/surfinfo.dat",
+          "sizeBytes": 28106,
+          "sha256": "431b95d4dcb20ce5258f7d939902c56d50fb4ee68b30ed7a044919c666291b55",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/431b95d4dcb20ce5258f7d939902c56d50fb4ee68b30ed7a044919c666291b55-surfinfo.dat"
+        },
+        {
+          "path": "data/timecyc.dat",
+          "sizeBytes": 40037,
+          "sha256": "0efce1a3d36aac22bf5276f65f7a8aa411ce34bdcbe5128cef4c800f82d5754b",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/0efce1a3d36aac22bf5276f65f7a8aa411ce34bdcbe5128cef4c800f82d5754b-timecyc.dat"
+        },
+        {
+          "path": "data/timecycp.dat",
+          "sizeBytes": 40520,
+          "sha256": "34989779a9868a0e54f64edb2b5813d65eabe18f1ecf01bcbb9188a5a6964584",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/34989779a9868a0e54f64edb2b5813d65eabe18f1ecf01bcbb9188a5a6964584-timecycp.dat"
+        },
+        {
+          "path": "data/txdcut.ide",
+          "sizeBytes": 478,
+          "sha256": "68299b02ec1f00da7a93a400742c9f8edf3b776cf339431228af969f95249055",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/68299b02ec1f00da7a93a400742c9f8edf3b776cf339431228af969f95249055-txdcut.ide"
+        },
+        {
+          "path": "data/vehicles.ide",
+          "sizeBytes": 21093,
+          "sha256": "2d70455cda1ed89da9cc1a995ccb2539899b84360a2411c887d88617365ead37",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/2d70455cda1ed89da9cc1a995ccb2539899b84360a2411c887d88617365ead37-vehicles.ide"
+        },
+        {
+          "path": "data/water.dat",
+          "sizeBytes": 70099,
+          "sha256": "1562bc86766ce595d7513f3ca3ae3fc4147b574c8c4e703fe6a76678507969bf",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/1562bc86766ce595d7513f3ca3ae3fc4147b574c8c4e703fe6a76678507969bf-water.dat"
+        },
+        {
+          "path": "data/water1.dat",
+          "sizeBytes": 60063,
+          "sha256": "c43d750c3a9b1d645235f0c987fac3b1f2fa20aafd78449e831f2aea36de5f68",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/c43d750c3a9b1d645235f0c987fac3b1f2fa20aafd78449e831f2aea36de5f68-water1.dat"
+        },
+        {
+          "path": "data/weapon.dat",
+          "sizeBytes": 11585,
+          "sha256": "033b3db45a00464fd95cb28870c97b45b0712f0ac53f3e8c586c88aaa0a420f8",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/033b3db45a00464fd95cb28870c97b45b0712f0ac53f3e8c586c88aaa0a420f8-weapon.dat"
+        },
+        {
+          "path": "eax.dll",
+          "sizeBytes": 188416,
+          "sha256": "b2da4f1e47ef8054c8390ead0b97d1fbb0c547245b79b8861cfa92ce9ef153fb",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/b2da4f1e47ef8054c8390ead0b97d1fbb0c547245b79b8861cfa92ce9ef153fb-eax.dll"
+        },
+        {
+          "path": "gta_sa.exe",
+          "sizeBytes": 14383616,
+          "sha256": "a559aa772fd136379155efa71f00c47aad34bbfeae6196b0fe1047d0645cbd26",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/a559aa772fd136379155efa71f00c47aad34bbfeae6196b0fe1047d0645cbd26-gta_sa.exe"
+        },
+        {
+          "path": "gtaweap3.ttf",
+          "sizeBytes": 103552,
+          "sha256": "086dc4351bf1056d80a73168440ffe4261831bde992e5134902b9bae017dcbe9",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/086dc4351bf1056d80a73168440ffe4261831bde992e5134902b9bae017dcbe9-gtaweap3.ttf"
+        },
+        {
+          "path": "lua51.dll",
+          "sizeBytes": 606208,
+          "sha256": "ff976f6e965e3793e278fa9bf5e80b9b226a0b3932b9da764bffc8e41e6cdb60",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/ff976f6e965e3793e278fa9bf5e80b9b226a0b3932b9da764bffc8e41e6cdb60-lua51.dll"
+        },
+        {
+          "path": "models/coll/peds.col",
+          "sizeBytes": 21477,
+          "sha256": "d6faa88b9227e6f6fe286f69cfd8d7348229bda267b21125b7daea4d3dd23d10",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/d6faa88b9227e6f6fe286f69cfd8d7348229bda267b21125b7daea4d3dd23d10-peds.col"
+        },
+        {
+          "path": "models/coll/vehicles.col",
+          "sizeBytes": 1096,
+          "sha256": "4b6fa3aacf7d8be7aabf2e7048b5d7bd9bc89991b13f4f3d7334047a4f5359cf",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/4b6fa3aacf7d8be7aabf2e7048b5d7bd9bc89991b13f4f3d7334047a4f5359cf-vehicles.col"
+        },
+        {
+          "path": "models/coll/weapons.col",
+          "sizeBytes": 560,
+          "sha256": "389a5656e0496486e1c546e1e8ffd5399c1563c717f8238dcfdee3b6756903e6",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/389a5656e0496486e1c546e1e8ffd5399c1563c717f8238dcfdee3b6756903e6-weapons.col"
+        },
+        {
+          "path": "models/cutscene.img",
+          "sizeBytes": 26947584,
+          "sha256": "e065f1b47ec81736e19762d1fa50ae207e51f782acb74778b80efba931092643",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/e065f1b47ec81736e19762d1fa50ae207e51f782acb74778b80efba931092643-cutscene.img"
+        },
+        {
+          "path": "models/effects.fxp",
+          "sizeBytes": 616708,
+          "sha256": "23000555e825e31f92aac477eacd11e9e87cbb525504862433a8f5e879d08eb4",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/23000555e825e31f92aac477eacd11e9e87cbb525504862433a8f5e879d08eb4-effects.fxp"
+        },
+        {
+          "path": "models/effectsPC.txd",
+          "sizeBytes": 407080,
+          "sha256": "a2f11535f09e7645372b78c439aad44b6ab5c2ec4c1a85cb3d497bfe81faf0d9",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/a2f11535f09e7645372b78c439aad44b6ab5c2ec4c1a85cb3d497bfe81faf0d9-effectsPC.txd"
+        },
+        {
+          "path": "models/fonts.txd",
+          "sizeBytes": 524584,
+          "sha256": "5ca77cddb15f96de29b3786cb5620492dbc310d29af2d1374e644d74f1a61cbf",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/5ca77cddb15f96de29b3786cb5620492dbc310d29af2d1374e644d74f1a61cbf-fonts.txd"
+        },
+        {
+          "path": "models/fronten_pc.txd",
+          "sizeBytes": 2344,
+          "sha256": "042139b4228d57daac2fe4f0a6e30c0ac9ed4324e875e3dde82aa9e62e0392d5",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/042139b4228d57daac2fe4f0a6e30c0ac9ed4324e875e3dde82aa9e62e0392d5-fronten_pc.txd"
+        },
+        {
+          "path": "models/fronten1.txd",
+          "sizeBytes": 108200,
+          "sha256": "9d64c08f416c628b99009677eb1250aebf5723e1b3cafad183b08213695cb2af",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/9d64c08f416c628b99009677eb1250aebf5723e1b3cafad183b08213695cb2af-fronten1.txd"
+        },
+        {
+          "path": "models/fronten2.txd",
+          "sizeBytes": 984104,
+          "sha256": "426d50375dd08be14ae7ea964fe994110f0d13d1055d32b3eaba8c8c88787472",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/426d50375dd08be14ae7ea964fe994110f0d13d1055d32b3eaba8c8c88787472-fronten2.txd"
+        },
+        {
+          "path": "models/fronten3.txd",
+          "sizeBytes": 9512,
+          "sha256": "7032f7e4603a397a142d6887dc9601fbdb614e419f5afd8d75f1cca5c1c567b8",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/7032f7e4603a397a142d6887dc9601fbdb614e419f5afd8d75f1cca5c1c567b8-fronten3.txd"
+        },
+        {
+          "path": "models/generic/air_vlo.DFF",
+          "sizeBytes": 7100,
+          "sha256": "e992428a9b9f256eaf1d59b0a43862ce3d734f43e2b95c2897409644a4c2933d",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/e992428a9b9f256eaf1d59b0a43862ce3d734f43e2b95c2897409644a4c2933d-air_vlo.DFF"
+        },
+        {
+          "path": "models/generic/arrow.DFF",
+          "sizeBytes": 4849,
+          "sha256": "c49c2c695225e7d722acdd0066156f6e22ef47e40a82f3be1b579704af501388",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/c49c2c695225e7d722acdd0066156f6e22ef47e40a82f3be1b579704af501388-arrow.DFF"
+        },
+        {
+          "path": "models/generic/hoop.dff",
+          "sizeBytes": 3701,
+          "sha256": "b393449e429aa5a1ab5bba81707035153c5a3743041a4b4c2ad8212e07699ef5",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/b393449e429aa5a1ab5bba81707035153c5a3743041a4b4c2ad8212e07699ef5-hoop.dff"
+        },
+        {
+          "path": "models/generic/vehicle.txd",
+          "sizeBytes": 1360296,
+          "sha256": "71f6557a304e49521c44f8111736f69bd958b84477e8296403975c03824e951f",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/71f6557a304e49521c44f8111736f69bd958b84477e8296403975c03824e951f-vehicle.txd"
+        },
+        {
+          "path": "models/generic/wheels.DFF",
+          "sizeBytes": 129843,
+          "sha256": "5d5fab1336f6d35a64d10082fe98a4f9e220f36b12d82cb2b177dc755c762539",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/5d5fab1336f6d35a64d10082fe98a4f9e220f36b12d82cb2b177dc755c762539-wheels.DFF"
+        },
+        {
+          "path": "models/generic/wheels.txd",
+          "sizeBytes": 23976,
+          "sha256": "5167ad31c2b13ac502c829a6b7c544c28a38e974ec278e0c6f24585bcacc4a78",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/5167ad31c2b13ac502c829a6b7c544c28a38e974ec278e0c6f24585bcacc4a78-wheels.txd"
+        },
+        {
+          "path": "models/generic/zonecylb.DFF",
+          "sizeBytes": 2260,
+          "sha256": "6603e892e35a1a2f3d7336ad2a0cfbea4952b4e0deaff15903b869522a5f92ce",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/6603e892e35a1a2f3d7336ad2a0cfbea4952b4e0deaff15903b869522a5f92ce-zonecylb.DFF"
+        },
+        {
+          "path": "models/grass/grass0_1.dff",
+          "sizeBytes": 1596,
+          "sha256": "6dbf7bd3cb0047d3dd35bbbc0a9829b56cc6f0edd81eb886fbb907e0705f9049",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/6dbf7bd3cb0047d3dd35bbbc0a9829b56cc6f0edd81eb886fbb907e0705f9049-grass0_1.dff"
+        },
+        {
+          "path": "models/grass/grass0_2.dff",
+          "sizeBytes": 1596,
+          "sha256": "61edc4446ccee5ea9cb55ac8b572abb541a23ebdd69ca509c2190e97fd0fb37e",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/61edc4446ccee5ea9cb55ac8b572abb541a23ebdd69ca509c2190e97fd0fb37e-grass0_2.dff"
+        },
+        {
+          "path": "models/grass/grass0_3.dff",
+          "sizeBytes": 1600,
+          "sha256": "11bbfc04b755576bebd266c05a8ea2aca96fcc09f19999ba8b292813eb66df08",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/11bbfc04b755576bebd266c05a8ea2aca96fcc09f19999ba8b292813eb66df08-grass0_3.dff"
+        },
+        {
+          "path": "models/grass/grass0_4.dff",
+          "sizeBytes": 1601,
+          "sha256": "97754167c1bb12ca7da5b781c1cd09e3e490d77f710e8cf2a4a82638a15256e9",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/97754167c1bb12ca7da5b781c1cd09e3e490d77f710e8cf2a4a82638a15256e9-grass0_4.dff"
+        },
+        {
+          "path": "models/grass/grass1_1.dff",
+          "sizeBytes": 1981,
+          "sha256": "ae0d950738f9abb5d327c413a62a76479a1d686b090d7ba84e51542cc98e264c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/ae0d950738f9abb5d327c413a62a76479a1d686b090d7ba84e51542cc98e264c-grass1_1.dff"
+        },
+        {
+          "path": "models/grass/grass1_2.dff",
+          "sizeBytes": 1981,
+          "sha256": "ae0d950738f9abb5d327c413a62a76479a1d686b090d7ba84e51542cc98e264c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/ae0d950738f9abb5d327c413a62a76479a1d686b090d7ba84e51542cc98e264c-grass1_2.dff"
+        },
+        {
+          "path": "models/grass/grass1_3.dff",
+          "sizeBytes": 1981,
+          "sha256": "ae0d950738f9abb5d327c413a62a76479a1d686b090d7ba84e51542cc98e264c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/ae0d950738f9abb5d327c413a62a76479a1d686b090d7ba84e51542cc98e264c-grass1_3.dff"
+        },
+        {
+          "path": "models/grass/grass1_4.dff",
+          "sizeBytes": 1981,
+          "sha256": "ae0d950738f9abb5d327c413a62a76479a1d686b090d7ba84e51542cc98e264c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/ae0d950738f9abb5d327c413a62a76479a1d686b090d7ba84e51542cc98e264c-grass1_4.dff"
+        },
+        {
+          "path": "models/grass/grass2_1.dff",
+          "sizeBytes": 1981,
+          "sha256": "ae0d950738f9abb5d327c413a62a76479a1d686b090d7ba84e51542cc98e264c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/ae0d950738f9abb5d327c413a62a76479a1d686b090d7ba84e51542cc98e264c-grass2_1.dff"
+        },
+        {
+          "path": "models/grass/grass2_2.dff",
+          "sizeBytes": 1981,
+          "sha256": "ae0d950738f9abb5d327c413a62a76479a1d686b090d7ba84e51542cc98e264c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/ae0d950738f9abb5d327c413a62a76479a1d686b090d7ba84e51542cc98e264c-grass2_2.dff"
+        },
+        {
+          "path": "models/grass/grass2_3.dff",
+          "sizeBytes": 1981,
+          "sha256": "ae0d950738f9abb5d327c413a62a76479a1d686b090d7ba84e51542cc98e264c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/ae0d950738f9abb5d327c413a62a76479a1d686b090d7ba84e51542cc98e264c-grass2_3.dff"
+        },
+        {
+          "path": "models/grass/grass2_4.dff",
+          "sizeBytes": 1981,
+          "sha256": "ae0d950738f9abb5d327c413a62a76479a1d686b090d7ba84e51542cc98e264c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/ae0d950738f9abb5d327c413a62a76479a1d686b090d7ba84e51542cc98e264c-grass2_4.dff"
+        },
+        {
+          "path": "models/grass/grass3_1.dff",
+          "sizeBytes": 1981,
+          "sha256": "ae0d950738f9abb5d327c413a62a76479a1d686b090d7ba84e51542cc98e264c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/ae0d950738f9abb5d327c413a62a76479a1d686b090d7ba84e51542cc98e264c-grass3_1.dff"
+        },
+        {
+          "path": "models/grass/grass3_2.dff",
+          "sizeBytes": 1981,
+          "sha256": "ae0d950738f9abb5d327c413a62a76479a1d686b090d7ba84e51542cc98e264c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/ae0d950738f9abb5d327c413a62a76479a1d686b090d7ba84e51542cc98e264c-grass3_2.dff"
+        },
+        {
+          "path": "models/grass/grass3_3.dff",
+          "sizeBytes": 1981,
+          "sha256": "ae0d950738f9abb5d327c413a62a76479a1d686b090d7ba84e51542cc98e264c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/ae0d950738f9abb5d327c413a62a76479a1d686b090d7ba84e51542cc98e264c-grass3_3.dff"
+        },
+        {
+          "path": "models/grass/grass3_4.dff",
+          "sizeBytes": 1981,
+          "sha256": "ae0d950738f9abb5d327c413a62a76479a1d686b090d7ba84e51542cc98e264c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/ae0d950738f9abb5d327c413a62a76479a1d686b090d7ba84e51542cc98e264c-grass3_4.dff"
+        },
+        {
+          "path": "models/grass/plant1.dff",
+          "sizeBytes": 2072,
+          "sha256": "fb07d65f05f997d366d926f5c7609fde28ef293d4adbe1c9f3288486476c6f55",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/fb07d65f05f997d366d926f5c7609fde28ef293d4adbe1c9f3288486476c6f55-plant1.dff"
+        },
+        {
+          "path": "models/grass/plant1.txd",
+          "sizeBytes": 42152,
+          "sha256": "68feced6f3e905da93881f222fcd77c7dbc59d384686d542a30b87b42092e494",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/68feced6f3e905da93881f222fcd77c7dbc59d384686d542a30b87b42092e494-plant1.txd"
+        },
+        {
+          "path": "models/gta_int.img",
+          "sizeBytes": 150024192,
+          "sha256": "134f6c6a5ec1a866ad5e0f139b89dda69538ad277ac53fb04421e76518a2263b",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/134f6c6a5ec1a866ad5e0f139b89dda69538ad277ac53fb04421e76518a2263b-gta_int.img"
+        },
+        {
+          "path": "models/gta3.img",
+          "sizeBytes": 940064768,
+          "sha256": "ff7c6608d3e2590be660803fbd13a782bfee4896345cf04af5017805040c0b4f",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/ff7c6608d3e2590be660803fbd13a782bfee4896345cf04af5017805040c0b4f-gta3.img"
+        },
+        {
+          "path": "models/hud.txd",
+          "sizeBytes": 51624,
+          "sha256": "de3d9f867ccd3a7cc7d35f1cb6c43659d8abec7cbd68991f09dd30b872aab4f2",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/de3d9f867ccd3a7cc7d35f1cb6c43659d8abec7cbd68991f09dd30b872aab4f2-hud.txd"
+        },
+        {
+          "path": "models/misc.txd",
+          "sizeBytes": 23976,
+          "sha256": "72a542baf687e9ee97b2b906a434c98c95b5ba08f908f846fccdc0b327e1aaaa",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/72a542baf687e9ee97b2b906a434c98c95b5ba08f908f846fccdc0b327e1aaaa-misc.txd"
+        },
+        {
+          "path": "models/particle.txd",
+          "sizeBytes": 650536,
+          "sha256": "307f1e9c6d8f842c01bcc8d0fb406d1012072aa65d7e9a7d1144edc09cad44fd",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/307f1e9c6d8f842c01bcc8d0fb406d1012072aa65d7e9a7d1144edc09cad44fd-particle.txd"
+        },
+        {
+          "path": "models/pcbtns.txd",
+          "sizeBytes": 4648,
+          "sha256": "9b8349ec2b29df9fd92a7f102e1ec0adc92397e3d0f08a1adada391733a83689",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/9b8349ec2b29df9fd92a7f102e1ec0adc92397e3d0f08a1adada391733a83689-pcbtns.txd"
+        },
+        {
+          "path": "models/player.img",
+          "sizeBytes": 66738176,
+          "sha256": "bd6d43c065fd7767958c5c363e67fdaa92f203d7c766419524d9f220eec98256",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/bd6d43c065fd7767958c5c363e67fdaa92f203d7c766419524d9f220eec98256-player.img"
+        },
+        {
+          "path": "models/txd/intro1.txd",
+          "sizeBytes": 131240,
+          "sha256": "f1889db182a8f69e6b43dcd3709381fd15bcc6338cfe2ad9206aaab672bdde4d",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/f1889db182a8f69e6b43dcd3709381fd15bcc6338cfe2ad9206aaab672bdde4d-intro1.txd"
+        },
+        {
+          "path": "models/txd/intro2.txd",
+          "sizeBytes": 131240,
+          "sha256": "2e7b8a9ef73932dd8446288d021a1e311ec40e50e6bcb1d96c8e96e7915a3c36",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/2e7b8a9ef73932dd8446288d021a1e311ec40e50e6bcb1d96c8e96e7915a3c36-intro2.txd"
+        },
+        {
+          "path": "models/txd/INTRO3.TXD",
+          "sizeBytes": 131240,
+          "sha256": "800ffcbcc5267d27126d3d54241c48e6168d275aa9372cb700388c0d3e3b8733",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/800ffcbcc5267d27126d3d54241c48e6168d275aa9372cb700388c0d3e3b8733-INTRO3.TXD"
+        },
+        {
+          "path": "models/txd/intro4.txd",
+          "sizeBytes": 131240,
+          "sha256": "890edfb64d889c273cd6001c06313c222d3a4ecc72e448b5d52c3807e78fa2ae",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/890edfb64d889c273cd6001c06313c222d3a4ecc72e448b5d52c3807e78fa2ae-intro4.txd"
+        },
+        {
+          "path": "models/txd/LD_BEAT.txd",
+          "sizeBytes": 22312,
+          "sha256": "3a5ae6968726bb0565fd5ad9bc19b3779d36b4104fa6c238893a76da95eef528",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/3a5ae6968726bb0565fd5ad9bc19b3779d36b4104fa6c238893a76da95eef528-LD_BEAT.txd"
+        },
+        {
+          "path": "models/txd/LD_BUM.txd",
+          "sizeBytes": 16816,
+          "sha256": "c4585d209d6a80426f607dc36a8de92ae650982915b8c74a1409b016852a7150",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/c4585d209d6a80426f607dc36a8de92ae650982915b8c74a1409b016852a7150-LD_BUM.txd"
+        },
+        {
+          "path": "models/txd/LD_CARD.txd",
+          "sizeBytes": 441000,
+          "sha256": "fb96e3e0f956a34d5e021c1e93ba6bd33cd1f0bcddfc85ebbfa4326819cf6fad",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/fb96e3e0f956a34d5e021c1e93ba6bd33cd1f0bcddfc85ebbfa4326819cf6fad-LD_CARD.txd"
+        },
+        {
+          "path": "models/txd/LD_CHAT.txd",
+          "sizeBytes": 5928,
+          "sha256": "a3b2d6c1d984034b2cb1003ad81736df943d2c2f86f7bb1aea690beceba7ff7b",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/a3b2d6c1d984034b2cb1003ad81736df943d2c2f86f7bb1aea690beceba7ff7b-LD_CHAT.txd"
+        },
+        {
+          "path": "models/txd/LD_DRV.txd",
+          "sizeBytes": 258096,
+          "sha256": "2c3c2167a5e2ceba18229ec73670a6c3f1d629eb65602c65429107b4fb1afd2d",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/2c3c2167a5e2ceba18229ec73670a6c3f1d629eb65602c65429107b4fb1afd2d-LD_DRV.txd"
+        },
+        {
+          "path": "models/txd/LD_DUAL.txd",
+          "sizeBytes": 186312,
+          "sha256": "fa8f69e3464a3cec0d51113173c44a300d3a1ddda98da09ca153f83bfc011785",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/fa8f69e3464a3cec0d51113173c44a300d3a1ddda98da09ca153f83bfc011785-LD_DUAL.txd"
+        },
+        {
+          "path": "models/txd/ld_grav.txd",
+          "sizeBytes": 262440,
+          "sha256": "f4141bff49ca4bc9cb1283b030a2044f3095e043647889c97fc14c2ce073a5a7",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/f4141bff49ca4bc9cb1283b030a2044f3095e043647889c97fc14c2ce073a5a7-ld_grav.txd"
+        },
+        {
+          "path": "models/txd/LD_NONE.txd",
+          "sizeBytes": 113864,
+          "sha256": "6e256a70f3ca4652766b5c466d92043bbb25b4611136ba54756a67b0b6fbffbe",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/6e256a70f3ca4652766b5c466d92043bbb25b4611136ba54756a67b0b6fbffbe-LD_NONE.txd"
+        },
+        {
+          "path": "models/txd/LD_OTB.txd",
+          "sizeBytes": 605368,
+          "sha256": "8477e90baf6ee8dc638a3ef8817b5514db6683030d52b83db3c50fb0c025f85b",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/8477e90baf6ee8dc638a3ef8817b5514db6683030d52b83db3c50fb0c025f85b-LD_OTB.txd"
+        },
+        {
+          "path": "models/txd/LD_OTB2.txd",
+          "sizeBytes": 198056,
+          "sha256": "f7eb78ef352f7146b1749e85d6c4d1936a910c1aaf4a86c6942594cead6a2641",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/f7eb78ef352f7146b1749e85d6c4d1936a910c1aaf4a86c6942594cead6a2641-LD_OTB2.txd"
+        },
+        {
+          "path": "models/txd/LD_PLAN.txd",
+          "sizeBytes": 84528,
+          "sha256": "e522d021f8891689404814670d033d29eaca8a9561c8264b63d463ba9b85b4a5",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/e522d021f8891689404814670d033d29eaca8a9561c8264b63d463ba9b85b4a5-LD_PLAN.txd"
+        },
+        {
+          "path": "models/txd/LD_POKE.txd",
+          "sizeBytes": 480936,
+          "sha256": "f73bad52fd697047ae0544ddc8390db8cdc2c47026650e0a77631b1c71d65f61",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/f73bad52fd697047ae0544ddc8390db8cdc2c47026650e0a77631b1c71d65f61-LD_POKE.txd"
+        },
+        {
+          "path": "models/txd/LD_POOL.txd",
+          "sizeBytes": 9000,
+          "sha256": "e0d87af9154478cd66edd4f36feaf099d849655fe3bf39cab65f81f934ef1c86",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/e0d87af9154478cd66edd4f36feaf099d849655fe3bf39cab65f81f934ef1c86-LD_POOL.txd"
+        },
+        {
+          "path": "models/txd/LD_RACE.txd",
+          "sizeBytes": 427688,
+          "sha256": "4c2a4eb5b5a95d54e54ff94c6ba63d1d62492b6db2da8f6d096874ace104678c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/4c2a4eb5b5a95d54e54ff94c6ba63d1d62492b6db2da8f6d096874ace104678c-LD_RACE.txd"
+        },
+        {
+          "path": "models/txd/LD_RCE1.txd",
+          "sizeBytes": 197416,
+          "sha256": "a6c338db957cfb8584aa18c73ee29a81d48d90412745ce451d07efe7a9935af7",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/a6c338db957cfb8584aa18c73ee29a81d48d90412745ce451d07efe7a9935af7-LD_RCE1.txd"
+        },
+        {
+          "path": "models/txd/LD_RCE2.txd",
+          "sizeBytes": 197416,
+          "sha256": "4afb003eab1a3491a0743372152802fd30d57d1b3134d8f52affb620f3d41ebe",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/4afb003eab1a3491a0743372152802fd30d57d1b3134d8f52affb620f3d41ebe-LD_RCE2.txd"
+        },
+        {
+          "path": "models/txd/LD_RCE3.txd",
+          "sizeBytes": 197416,
+          "sha256": "ce07ba6d83f7ffa479febbab8654befa33a9ad8698a469e47c65676598b6a586",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/ce07ba6d83f7ffa479febbab8654befa33a9ad8698a469e47c65676598b6a586-LD_RCE3.txd"
+        },
+        {
+          "path": "models/txd/LD_RCE4.txd",
+          "sizeBytes": 197416,
+          "sha256": "c211ab08aacc4d5838b9ff122707b8fd53de8f339be98596761bc555df6621f9",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/c211ab08aacc4d5838b9ff122707b8fd53de8f339be98596761bc555df6621f9-LD_RCE4.txd"
+        },
+        {
+          "path": "models/txd/LD_RCE5.txd",
+          "sizeBytes": 32936,
+          "sha256": "738c4f52c6119a5b9dbf5c7b73b3d3d3af9bd4e608e2ccfa596647f277d5ce27",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/738c4f52c6119a5b9dbf5c7b73b3d3d3af9bd4e608e2ccfa596647f277d5ce27-LD_RCE5.txd"
+        },
+        {
+          "path": "models/txd/LD_ROUL.txd",
+          "sizeBytes": 6568,
+          "sha256": "19a583d2a4baed63189745c9deb7cbb72ef09de735178150615d0b716fb4a76c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/19a583d2a4baed63189745c9deb7cbb72ef09de735178150615d0b716fb4a76c-LD_ROUL.txd"
+        },
+        {
+          "path": "models/txd/ld_shtr.txd",
+          "sizeBytes": 277544,
+          "sha256": "e30327864e16d8c3c42f953dc69fd4ac593fcaf97e20f139e780e5143ef43934",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/e30327864e16d8c3c42f953dc69fd4ac593fcaf97e20f139e780e5143ef43934-ld_shtr.txd"
+        },
+        {
+          "path": "models/txd/LD_SLOT.txd",
+          "sizeBytes": 13096,
+          "sha256": "5be3cd59265b9310aa5c86c67abcdd24c9e2fdbb2c3db63ad7ff686b3d877182",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/5be3cd59265b9310aa5c86c67abcdd24c9e2fdbb2c3db63ad7ff686b3d877182-LD_SLOT.txd"
+        },
+        {
+          "path": "models/txd/LD_SPAC.txd",
+          "sizeBytes": 186312,
+          "sha256": "89f5837f9bc52f6a616b56e41b057a4870d0398491394c793aa817692215fce1",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/89f5837f9bc52f6a616b56e41b057a4870d0398491394c793aa817692215fce1-LD_SPAC.txd"
+        },
+        {
+          "path": "models/txd/LD_TATT.txd",
+          "sizeBytes": 104488,
+          "sha256": "fc1d56c1f30258475a6636dfcd7a95e25fbb9547295583377b0923f6dd97895f",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/fc1d56c1f30258475a6636dfcd7a95e25fbb9547295583377b0923f6dd97895f-LD_TATT.txd"
+        },
+        {
+          "path": "models/txd/load0uk.txd",
+          "sizeBytes": 131240,
+          "sha256": "02144241532d782848b4c5b3d832b72363370184dad69f56825461f8787ad347",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/02144241532d782848b4c5b3d832b72363370184dad69f56825461f8787ad347-load0uk.txd"
+        },
+        {
+          "path": "models/txd/loadsc0.txd",
+          "sizeBytes": 131240,
+          "sha256": "0abd9f536bf4d758d856cedefafcf9e43f2464017338140b19c54da3c7346b42",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/0abd9f536bf4d758d856cedefafcf9e43f2464017338140b19c54da3c7346b42-loadsc0.txd"
+        },
+        {
+          "path": "models/txd/loadsc1.txd",
+          "sizeBytes": 131240,
+          "sha256": "f6847156bdea69381f5a8228c396721cc9f511a67a9bfbdf7edaa1225c8ad653",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/f6847156bdea69381f5a8228c396721cc9f511a67a9bfbdf7edaa1225c8ad653-loadsc1.txd"
+        },
+        {
+          "path": "models/txd/loadsc10.txd",
+          "sizeBytes": 131240,
+          "sha256": "8cb5e8b2db2a2cccf5d33ec103ee05f6d7309389520ce648150884136dd762e8",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/8cb5e8b2db2a2cccf5d33ec103ee05f6d7309389520ce648150884136dd762e8-loadsc10.txd"
+        },
+        {
+          "path": "models/txd/loadsc11.txd",
+          "sizeBytes": 131240,
+          "sha256": "fdb1ecb7d70368686231703613f412f6ae6a573fe61f7f7b431973ccfb7a11d1",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/fdb1ecb7d70368686231703613f412f6ae6a573fe61f7f7b431973ccfb7a11d1-loadsc11.txd"
+        },
+        {
+          "path": "models/txd/loadsc12.txd",
+          "sizeBytes": 131240,
+          "sha256": "c8a98dabd0cd2e7eb774c821dcdbd45630e4d3b9e5334cf7360f98a3fbc4eee7",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/c8a98dabd0cd2e7eb774c821dcdbd45630e4d3b9e5334cf7360f98a3fbc4eee7-loadsc12.txd"
+        },
+        {
+          "path": "models/txd/loadsc13.txd",
+          "sizeBytes": 131240,
+          "sha256": "fd3f9ef480bcad52389be39626db0e0d8c833cb8b8801cff051c9eea362a7b7e",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/fd3f9ef480bcad52389be39626db0e0d8c833cb8b8801cff051c9eea362a7b7e-loadsc13.txd"
+        },
+        {
+          "path": "models/txd/loadsc14.txd",
+          "sizeBytes": 131240,
+          "sha256": "f2989161708b144f589f03b31ba98d9c627908c4bb99fbb21e1189726383dd76",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/f2989161708b144f589f03b31ba98d9c627908c4bb99fbb21e1189726383dd76-loadsc14.txd"
+        },
+        {
+          "path": "models/txd/loadsc2.txd",
+          "sizeBytes": 131240,
+          "sha256": "89a1875ccf90d1a58a73996b40ada9c8daa143bba95ddd082a110d04b8c4f945",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/89a1875ccf90d1a58a73996b40ada9c8daa143bba95ddd082a110d04b8c4f945-loadsc2.txd"
+        },
+        {
+          "path": "models/txd/loadsc3.txd",
+          "sizeBytes": 131240,
+          "sha256": "dacf08bf12bdb7dd7ad5b96f6f6ddd2ff250987a3298b6c699e4b7aa97f34abe",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/dacf08bf12bdb7dd7ad5b96f6f6ddd2ff250987a3298b6c699e4b7aa97f34abe-loadsc3.txd"
+        },
+        {
+          "path": "models/txd/loadsc4.txd",
+          "sizeBytes": 131240,
+          "sha256": "6b4204a091da56ff95f0e2a5750cf857f8dfc63f61bc8beb2b1ce5587a3bdac2",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/6b4204a091da56ff95f0e2a5750cf857f8dfc63f61bc8beb2b1ce5587a3bdac2-loadsc4.txd"
+        },
+        {
+          "path": "models/txd/loadsc5.txd",
+          "sizeBytes": 131240,
+          "sha256": "5a68c26c5c1f76e656242612b0d23322d877df453c472b30d40a8be8619feef4",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/5a68c26c5c1f76e656242612b0d23322d877df453c472b30d40a8be8619feef4-loadsc5.txd"
+        },
+        {
+          "path": "models/txd/loadsc6.txd",
+          "sizeBytes": 131240,
+          "sha256": "fcbb3f9d5df8983d7d36158de1562092fc9dc0291b56a0ff22ac4cc25572c7e0",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/fcbb3f9d5df8983d7d36158de1562092fc9dc0291b56a0ff22ac4cc25572c7e0-loadsc6.txd"
+        },
+        {
+          "path": "models/txd/loadsc7.txd",
+          "sizeBytes": 131240,
+          "sha256": "e285c3641e20cacfeba5dee1f5edb044751d09f884e858c1d3e31c2589bb1a8e",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/e285c3641e20cacfeba5dee1f5edb044751d09f884e858c1d3e31c2589bb1a8e-loadsc7.txd"
+        },
+        {
+          "path": "models/txd/loadsc8.txd",
+          "sizeBytes": 131240,
+          "sha256": "e8e5432ea450617568258a5b6f19195b65c161a6073a8871c4041a61e84d5a92",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/e8e5432ea450617568258a5b6f19195b65c161a6073a8871c4041a61e84d5a92-loadsc8.txd"
+        },
+        {
+          "path": "models/txd/loadsc9.txd",
+          "sizeBytes": 131240,
+          "sha256": "8610ffe789c1acf87f0760e0a5c4d84b44096e54673b25797cd0c564a796cf56",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/8610ffe789c1acf87f0760e0a5c4d84b44096e54673b25797cd0c564a796cf56-loadsc9.txd"
+        },
+        {
+          "path": "models/txd/LOADSCS.txd",
+          "sizeBytes": 3279272,
+          "sha256": "e1eeaa9f1960207d2b70a9342c4f8eb95ae29fa0da66570cc10546b470ee1c3c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/e1eeaa9f1960207d2b70a9342c4f8eb95ae29fa0da66570cc10546b470ee1c3c-LOADSCS.txd"
+        },
+        {
+          "path": "models/txd/LOADSUK.txd",
+          "sizeBytes": 1968040,
+          "sha256": "97582ba0fee4226419eaad5d37cd718b3b8837b6788ce9dfd8fe05f104658255",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/97582ba0fee4226419eaad5d37cd718b3b8837b6788ce9dfd8fe05f104658255-LOADSUK.txd"
+        },
+        {
+          "path": "models/txd/outro.txd",
+          "sizeBytes": 263336,
+          "sha256": "c7fe54f2f2ea2ee5e452db5882f7c2c6a628925cbfbb8dbbeef030cbfa736f04",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/c7fe54f2f2ea2ee5e452db5882f7c2c6a628925cbfbb8dbbeef030cbfa736f04-outro.txd"
+        },
+        {
+          "path": "models/txd/splash1.txd",
+          "sizeBytes": 65704,
+          "sha256": "0774ce2e618fcac2f284983a3e2a4b929689082c0986d610bcd11478dc453146",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/0774ce2e618fcac2f284983a3e2a4b929689082c0986d610bcd11478dc453146-splash1.txd"
+        },
+        {
+          "path": "models/txd/splash2.txd",
+          "sizeBytes": 65704,
+          "sha256": "15c1be66f2588ea0112a7687796c0e6b3e0e1dad9b71826389ed4b5873622a91",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/15c1be66f2588ea0112a7687796c0e6b3e0e1dad9b71826389ed4b5873622a91-splash2.txd"
+        },
+        {
+          "path": "models/txd/splash3.txd",
+          "sizeBytes": 40,
+          "sha256": "842f5e7cf0c8e1b47c4baac45ea9f283224c3825c95be30468b4055cb70ef233",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/842f5e7cf0c8e1b47c4baac45ea9f283224c3825c95be30468b4055cb70ef233-splash3.txd"
+        },
+        {
+          "path": "modloader.asi",
+          "sizeBytes": 699392,
+          "sha256": "257168cc0d34029653192aa891ac1020d74cd0dd2d02b87e6b3bd6db8f1d2422",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/257168cc0d34029653192aa891ac1020d74cd0dd2d02b87e6b3bd6db8f1d2422-modloader.asi"
+        },
+        {
+          "path": "modloader/.data/config.ini.0",
+          "sizeBytes": 977,
+          "sha256": "8d0ad9d6ba4362d270b0d8604d9865cee8ffa185415499327ddd075567a33ebf",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/8d0ad9d6ba4362d270b0d8604d9865cee8ffa185415499327ddd075567a33ebf-config.ini.0"
+        },
+        {
+          "path": "modloader/.data/LICENSE",
+          "sizeBytes": 1135,
+          "sha256": "fdd80441e323a3ef4df8e47673b1e4cb4a90b54eb3ac0478dad1e69ab19c2d76",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/fdd80441e323a3ef4df8e47673b1e4cb4a90b54eb3ac0478dad1e69ab19c2d76-LICENSE"
+        },
+        {
+          "path": "modloader/.data/modloader.ini.0",
+          "sizeBytes": 1095,
+          "sha256": "2aac15d6bae1413652afcd2aef1b253687c19d7b4972e9a9d84396be04b7dddd",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/2aac15d6bae1413652afcd2aef1b253687c19d7b4972e9a9d84396be04b7dddd-modloader.ini.0"
+        },
+        {
+          "path": "modloader/.data/plugins.ini.0",
+          "sizeBytes": 592,
+          "sha256": "2d534da354961d3c285e8cf11545476efd276ccb1d8b314f5f2659185f9c9bdb",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/2d534da354961d3c285e8cf11545476efd276ccb1d8b314f5f2659185f9c9bdb-plugins.ini.0"
+        },
+        {
+          "path": "modloader/.data/plugins/gta3/std.asi.dll",
+          "sizeBytes": 298496,
+          "sha256": "bba90e3277f3f493f3da72309383b9ac782ca0b4325805009f4a3ca11c2a0f3e",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/bba90e3277f3f493f3da72309383b9ac782ca0b4325805009f4a3ca11c2a0f3e-std.asi.dll"
+        },
+        {
+          "path": "modloader/.data/plugins/gta3/std.asi.md",
+          "sizeBytes": 508,
+          "sha256": "91d62f0c7afb4d3088e05b6d609086221ef81cad2249d5fe0ff219e4157ee8b2",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/91d62f0c7afb4d3088e05b6d609086221ef81cad2249d5fe0ff219e4157ee8b2-std.asi.md"
+        },
+        {
+          "path": "modloader/.data/plugins/gta3/std.bank.dll",
+          "sizeBytes": 293888,
+          "sha256": "abddfe1f653ed406107eb314072a117173ab821f9f233545e1ba11748c2fd315",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/abddfe1f653ed406107eb314072a117173ab821f9f233545e1ba11748c2fd315-std.bank.dll"
+        },
+        {
+          "path": "modloader/.data/plugins/gta3/std.bank.md",
+          "sizeBytes": 927,
+          "sha256": "60084b7e4ef6e5dd5372f8df3952f0ea02d6c8ff375164b6acbd35c4dd676371",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/60084b7e4ef6e5dd5372f8df3952f0ea02d6c8ff375164b6acbd35c4dd676371-std.bank.md"
+        },
+        {
+          "path": "modloader/.data/plugins/gta3/std.data.dll",
+          "sizeBytes": 3527680,
+          "sha256": "5eabc8cc52967293f061175d40a7537babae8a7e753ccbd6b15ba11ec646fe88",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/5eabc8cc52967293f061175d40a7537babae8a7e753ccbd6b15ba11ec646fe88-std.data.dll"
+        },
+        {
+          "path": "modloader/.data/plugins/gta3/std.data.md",
+          "sizeBytes": 3665,
+          "sha256": "9294181ca7743f28c078ca13eb259338b2ef74661002a24c92f7a11b70d70f25",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/9294181ca7743f28c078ca13eb259338b2ef74661002a24c92f7a11b70d70f25-std.data.md"
+        },
+        {
+          "path": "modloader/.data/plugins/gta3/std.fx.dll",
+          "sizeBytes": 399872,
+          "sha256": "3f34e574296d230d5da38a10f3f8983754d4d5ba2ea1606548a4b84675a76385",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/3f34e574296d230d5da38a10f3f8983754d4d5ba2ea1606548a4b84675a76385-std.fx.dll"
+        },
+        {
+          "path": "modloader/.data/plugins/gta3/std.fx.md",
+          "sizeBytes": 392,
+          "sha256": "500688ac03414bdd17e8d084405b059953dff8ba0e71e8d46009bfb798484f0c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/500688ac03414bdd17e8d084405b059953dff8ba0e71e8d46009bfb798484f0c-std.fx.md"
+        },
+        {
+          "path": "modloader/.data/plugins/gta3/std.movies.dll",
+          "sizeBytes": 174080,
+          "sha256": "6b146fba86c8210637e66259b3e3a8a1de59df724239c24ef366b24804403ba9",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/6b146fba86c8210637e66259b3e3a8a1de59df724239c24ef366b24804403ba9-std.movies.dll"
+        },
+        {
+          "path": "modloader/.data/plugins/gta3/std.movies.md",
+          "sizeBytes": 400,
+          "sha256": "94875bccd5db51562c8bba69e8df96a4769285b7cd84b3cd32ad0a8073b9ed41",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/94875bccd5db51562c8bba69e8df96a4769285b7cd84b3cd32ad0a8073b9ed41-std.movies.md"
+        },
+        {
+          "path": "modloader/.data/plugins/gta3/std.scm.dll",
+          "sizeBytes": 174080,
+          "sha256": "4e1004c96af35c089a2e6df40ef903d7d28c813ba90535876f41a525d95d6cd1",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/4e1004c96af35c089a2e6df40ef903d7d28c813ba90535876f41a525d95d6cd1-std.scm.dll"
+        },
+        {
+          "path": "modloader/.data/plugins/gta3/std.scm.md",
+          "sizeBytes": 384,
+          "sha256": "294939ab3ec2083d6928f853286c10ce62ac69eb9e212023f4e8cdd43e869798",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/294939ab3ec2083d6928f853286c10ce62ac69eb9e212023f4e8cdd43e869798-std.scm.md"
+        },
+        {
+          "path": "modloader/.data/plugins/gta3/std.sprites.dll",
+          "sizeBytes": 482304,
+          "sha256": "4bc1043b00b086f1a785fd780e755cf48ca5d10bce89af342f1d3202cbd5f9b5",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/4bc1043b00b086f1a785fd780e755cf48ca5d10bce89af342f1d3202cbd5f9b5-std.sprites.dll"
+        },
+        {
+          "path": "modloader/.data/plugins/gta3/std.sprites.md",
+          "sizeBytes": 568,
+          "sha256": "0beda69fa492540902619bdd1f41b6878c61448c84755e13ec9fb2dbd64fbfed",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/0beda69fa492540902619bdd1f41b6878c61448c84755e13ec9fb2dbd64fbfed-std.sprites.md"
+        },
+        {
+          "path": "modloader/.data/plugins/gta3/std.stream.dll",
+          "sizeBytes": 591360,
+          "sha256": "24783781ba191c8671a42e95a8f4428f07e40cc9117db7bc8f84c8224fc2c2a5",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/24783781ba191c8671a42e95a8f4428f07e40cc9117db7bc8f84c8224fc2c2a5-std.stream.dll"
+        },
+        {
+          "path": "modloader/.data/plugins/gta3/std.stream.md",
+          "sizeBytes": 1449,
+          "sha256": "69691f4b501abd2b7d815d83e04019d01906c5afd935055afdfb00d17f7f850e",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/69691f4b501abd2b7d815d83e04019d01906c5afd935055afdfb00d17f7f850e-std.stream.md"
+        },
+        {
+          "path": "modloader/.data/plugins/gta3/std.text.dll",
+          "sizeBytes": 206336,
+          "sha256": "9dee51b660e5fa8b47910e0b69ef597cb7a96ba10b1a2d33c643760502f9f866",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/9dee51b660e5fa8b47910e0b69ef597cb7a96ba10b1a2d33c643760502f9f866-std.text.dll"
+        },
+        {
+          "path": "modloader/.data/plugins/gta3/std.text.md",
+          "sizeBytes": 426,
+          "sha256": "2df452bc48dfedec0f8220baa2fbfc04f5ab81b19878584c6cdfcd64639feee5",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/2df452bc48dfedec0f8220baa2fbfc04f5ab81b19878584c6cdfcd64639feee5-std.text.md"
+        },
+        {
+          "path": "modloader/.data/plugins/gta3/std.tracks.dll",
+          "sizeBytes": 212992,
+          "sha256": "a220569ec2ab4ce9aebbb4203e3cd9a17691ab27d58bbf493b3fdd7294376acd",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/a220569ec2ab4ce9aebbb4203e3cd9a17691ab27d58bbf493b3fdd7294376acd-std.tracks.dll"
+        },
+        {
+          "path": "modloader/.data/plugins/gta3/std.tracks.md",
+          "sizeBytes": 469,
+          "sha256": "e4881ffdc037d2697fd18f4dc7979046b96974e885b4b7305d37a6c491824a9c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/e4881ffdc037d2697fd18f4dc7979046b96974e885b4b7305d37a6c491824a9c-std.tracks.md"
+        },
+        {
+          "path": "modloader/.data/text/1033/menu.fxt",
+          "sizeBytes": 1379,
+          "sha256": "89e38b1ce8136187631fe44f6e15af89a4de9d1a3b926d713c2aabc18319d561",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/89e38b1ce8136187631fe44f6e15af89a4de9d1a3b926d713c2aabc18319d561-menu.fxt"
+        },
+        {
+          "path": "MoonLoader.asi",
+          "sizeBytes": 2084352,
+          "sha256": "2dde661ed1954f242ac76e8c5dc30aee77541910edb30fe7133893b90aa1da3f",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/2dde661ed1954f242ac76e8c5dc30aee77541910edb30fe7133893b90aa1da3f-MoonLoader.asi"
+        },
+        {
+          "path": "MoonLoader/lib/bitex.lua",
+          "sizeBytes": 557,
+          "sha256": "f447e48e80522e66cd9f4a038a361cfa19912f4c3ed9cd1d8965c8db1a23f24f",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/f447e48e80522e66cd9f4a038a361cfa19912f4c3ed9cd1d8965c8db1a23f24f-bitex.lua"
+        },
+        {
+          "path": "MoonLoader/lib/encoding.lua",
+          "sizeBytes": 2636,
+          "sha256": "57cb02218d46eb1b8b2b14ecde30fc0d1798fad9c69c2138ff9a7bf63d3efe9d",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/57cb02218d46eb1b8b2b14ecde30fc0d1798fad9c69c2138ff9a7bf63d3efe9d-encoding.lua"
+        },
+        {
+          "path": "MoonLoader/lib/game/globals.lua",
+          "sizeBytes": 28363,
+          "sha256": "f8b12223b5bc4909b90d7b4774c43668f123d094ade3d0d379cb0514e7815c39",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/f8b12223b5bc4909b90d7b4774c43668f123d094ade3d0d379cb0514e7815c39-globals.lua"
+        },
+        {
+          "path": "MoonLoader/lib/game/keys.lua",
+          "sizeBytes": 1062,
+          "sha256": "10bfe26a67586eabf07823077ab5ba6acd78ebda7666179eaea91fcf2a6a5836",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/10bfe26a67586eabf07823077ab5ba6acd78ebda7666179eaea91fcf2a6a5836-keys.lua"
+        },
+        {
+          "path": "MoonLoader/lib/game/models.lua",
+          "sizeBytes": 12767,
+          "sha256": "ba4dcac97bdd11de9daee4ce771ba34cc9e87ed24298201ea74661ae7b7d2475",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/ba4dcac97bdd11de9daee4ce771ba34cc9e87ed24298201ea74661ae7b7d2475-models.lua"
+        },
+        {
+          "path": "MoonLoader/lib/game/weapons.lua",
+          "sizeBytes": 2443,
+          "sha256": "ab044731f71a30a426e2d1aac1936169d4b558a5f6fe11d81c5c290ad0ae1e98",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/ab044731f71a30a426e2d1aac1936169d4b558a5f6fe11d81c5c290ad0ae1e98-weapons.lua"
+        },
+        {
+          "path": "MoonLoader/lib/iconv.dll",
+          "sizeBytes": 1000960,
+          "sha256": "bb4cc421b7606055d1d517775b15ce77a27ad97b14de2fc31c9d9e3cf788b98f",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/bb4cc421b7606055d1d517775b15ce77a27ad97b14de2fc31c9d9e3cf788b98f-iconv.dll"
+        },
+        {
+          "path": "MoonLoader/lib/iconv/COPYING-libiconv",
+          "sizeBytes": 25291,
+          "sha256": "56bdea73b6145ef6ac5259b3da390b981d840c24cb03b8e1cbc678de7ecfa18d",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/56bdea73b6145ef6ac5259b3da390b981d840c24cb03b8e1cbc678de7ecfa18d-COPYING-libiconv"
+        },
+        {
+          "path": "MoonLoader/lib/iconv/README-libiconv",
+          "sizeBytes": 5801,
+          "sha256": "b4f5932ef35fe4a66ae9e8eecf1bac0702fe2a75ece40861baf3ebbc0ee9ed02",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/b4f5932ef35fe4a66ae9e8eecf1bac0702fe2a75ece40861baf3ebbc0ee9ed02-README-libiconv"
+        },
+        {
+          "path": "MoonLoader/lib/iconv/README-lua-iconv",
+          "sizeBytes": 4755,
+          "sha256": "7aebae7bea8fb38be3aa18b6e2e6298f9370bfe0b3415ac19fe4d04ba5fca58a",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/7aebae7bea8fb38be3aa18b6e2e6298f9370bfe0b3415ac19fe4d04ba5fca58a-README-lua-iconv"
+        },
+        {
+          "path": "MoonLoader/lib/imgui.lua",
+          "sizeBytes": 114068,
+          "sha256": "8da7a6498d493cc36f413b810b171e5d7e44834b9db4cfbe19e412bb1040e614",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/8da7a6498d493cc36f413b810b171e5d7e44834b9db4cfbe19e412bb1040e614-imgui.lua"
+        },
+        {
+          "path": "MoonLoader/lib/matrix3x3.lua",
+          "sizeBytes": 2070,
+          "sha256": "4ac3e8f840fdf294edce96a95e3199b2c6b5ea115036a2fd9862742d5db3d4e9",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/4ac3e8f840fdf294edce96a95e3199b2c6b5ea115036a2fd9862742d5db3d4e9-matrix3x3.lua"
+        },
+        {
+          "path": "MoonLoader/lib/MoonAdditions.dll",
+          "sizeBytes": 765440,
+          "sha256": "a91b2e74c99633788b669a55ffccefa6d40980b816054d86d9cda208df37d3fa",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/a91b2e74c99633788b669a55ffccefa6d40980b816054d86d9cda208df37d3fa-MoonAdditions.dll"
+        },
+        {
+          "path": "MoonLoader/lib/MoonImGui.dll",
+          "sizeBytes": 3349504,
+          "sha256": "6cc52dfe21df3725cb1c5aa02d4041d830c540bc1e00299a6de6e9c735ab9b1a",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/6cc52dfe21df3725cb1c5aa02d4041d830c540bc1e00299a6de6e9c735ab9b1a-MoonImGui.dll"
+        },
+        {
+          "path": "MoonLoader/lib/moonloader.lua",
+          "sizeBytes": 3171,
+          "sha256": "58dc9a058468f53efda285b2e1bc41318ca84e1e0c4821e38c70766029c1530e",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/58dc9a058468f53efda285b2e1bc41318ca84e1e0c4821e38c70766029c1530e-moonloader.lua"
+        },
+        {
+          "path": "MoonLoader/lib/sampfuncs.lua",
+          "sizeBytes": 15207,
+          "sha256": "7c2528ec287d4ffdcb381f3a96a6678361075828cc727e9ff2e9cb91d4ad0cd3",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/7c2528ec287d4ffdcb381f3a96a6678361075828cc727e9ff2e9cb91d4ad0cd3-sampfuncs.lua"
+        },
+        {
+          "path": "MoonLoader/lib/vector3d.lua",
+          "sizeBytes": 1770,
+          "sha256": "53ef9eedad5994e05320dcb5c14b504dd6c09e6a70111d76eb60a52d6c4a68af",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/53ef9eedad5994e05320dcb5c14b504dd6c09e6a70111d76eb60a52d6c4a68af-vector3d.lua"
+        },
+        {
+          "path": "MoonLoader/lib/vkeys.lua",
+          "sizeBytes": 9814,
+          "sha256": "a74b3f76666e8c8b9fa078e239bcfd3123762ee064c242f9349fdda9a449718b",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/a74b3f76666e8c8b9fa078e239bcfd3123762ee064c242f9349fdda9a449718b-vkeys.lua"
+        },
+        {
+          "path": "MoonLoader/lib/windows/init.lua",
+          "sizeBytes": 184,
+          "sha256": "259c01a3c10b5470164dcf24614702d3d2121fb4c32b9fedfb626af281a93c11",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/259c01a3c10b5470164dcf24614702d3d2121fb4c32b9fedfb626af281a93c11-init.lua"
+        },
+        {
+          "path": "MoonLoader/lib/windows/message.lua",
+          "sizeBytes": 26909,
+          "sha256": "4ab3845c28e7755c86736162fd22cba165e534ec1df5c76665ce8ffdbb8a929f",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/4ab3845c28e7755c86736162fd22cba165e534ec1df5c76665ce8ffdbb8a929f-message.lua"
+        },
+        {
+          "path": "mouse.png",
+          "sizeBytes": 784,
+          "sha256": "2bbcaf4629f9077bcdf847f912cbe76d20c4428d710bcf76211ead1dccbd08f1",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/2bbcaf4629f9077bcdf847f912cbe76d20c4428d710bcf76211ead1dccbd08f1-mouse.png"
+        },
+        {
+          "path": "movies/GTAtitles.mpg",
+          "sizeBytes": 12288,
+          "sha256": "933b558b9a0d2bcbc6cfecde5dbdc4e42b9833785c3e6503ba5d7764d39ca36b",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/933b558b9a0d2bcbc6cfecde5dbdc4e42b9833785c3e6503ba5d7764d39ca36b-GTAtitles.mpg"
+        },
+        {
+          "path": "movies/Logo.mpg",
+          "sizeBytes": 1384452,
+          "sha256": "272dec6ae814d6df8e588dd92752e75a1061e1989bc2a7a7e9548336f361915b",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/272dec6ae814d6df8e588dd92752e75a1061e1989bc2a7a7e9548336f361915b-Logo.mpg"
+        },
+        {
+          "path": "ogg.dll",
+          "sizeBytes": 36864,
+          "sha256": "4a4f65427e016b3c5ae0d2517a69db5f1cdc7a43d2c0a7957e8da5d6f378f063",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/4a4f65427e016b3c5ae0d2517a69db5f1cdc7a43d2c0a7957e8da5d6f378f063-ogg.dll"
+        },
+        {
+          "path": "rcon.exe",
+          "sizeBytes": 36864,
+          "sha256": "19f0d6d844f6f14856e3ea88853202b6310edc4726eb0c803710b67f641e596f",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/19f0d6d844f6f14856e3ea88853202b6310edc4726eb0c803710b67f641e596f-rcon.exe"
+        },
+        {
+          "path": "samp_debug.exe",
+          "sizeBytes": 147456,
+          "sha256": "f64d11680442cea5940614177b5ecff866e1e45c07a95cd5564327a94e8101d3",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/f64d11680442cea5940614177b5ecff866e1e45c07a95cd5564327a94e8101d3-samp_debug.exe"
+        },
+        {
+          "path": "samp-license.txt",
+          "sizeBytes": 3950,
+          "sha256": "52dcd5b95bf24e3cb4b979a773e92dc586531c5a001196e81da7ff2996f81125",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/52dcd5b95bf24e3cb4b979a773e92dc586531c5a001196e81da7ff2996f81125-samp-license.txt"
+        },
+        {
+          "path": "samp.dll",
+          "sizeBytes": 1204224,
+          "sha256": "9c9b2cc31a4ced6967420b1880c096b5c4e7630e227aa379be4019c21b6fddc1",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/9c9b2cc31a4ced6967420b1880c096b5c4e7630e227aa379be4019c21b6fddc1-samp.dll"
+        },
+        {
+          "path": "samp.exe",
+          "sizeBytes": 412672,
+          "sha256": "996bc9deb778bb2dbb93c2471551977b786fc588099eec02174e25c59baabf7c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/996bc9deb778bb2dbb93c2471551977b786fc588099eec02174e25c59baabf7c-samp.exe"
+        },
+        {
+          "path": "samp.saa",
+          "sizeBytes": 2689408,
+          "sha256": "596895c61a70f558a9ad6b9b44cb5c9ac4b374e95ee2266ac9c88585898f8ae7",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/596895c61a70f558a9ad6b9b44cb5c9ac4b374e95ee2266ac9c88585898f8ae7-samp.saa"
+        },
+        {
+          "path": "SAMP/blanktex.txd",
+          "sizeBytes": 33320,
+          "sha256": "724eff1b323771153a172abb35fcf7fbfaa88af7bab906b51181a94e08ef2e67",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/724eff1b323771153a172abb35fcf7fbfaa88af7bab906b51181a94e08ef2e67-blanktex.txd"
+        },
+        {
+          "path": "SAMP/CUSTOM.ide",
+          "sizeBytes": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "path": "SAMP/custom.img",
+          "sizeBytes": 8192,
+          "sha256": "20de16a9abe3b2bf6f9fa415d855230a9c5487433b3c77037c2ee84d5f35df38",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/20de16a9abe3b2bf6f9fa415d855230a9c5487433b3c77037c2ee84d5f35df38-custom.img"
+        },
+        {
+          "path": "SAMP/samaps.txd",
+          "sizeBytes": 656040,
+          "sha256": "d7a10e2d6497865377f61061abc13c5b7d1c81f8471410c80191640e04948285",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/d7a10e2d6497865377f61061abc13c5b7d1c81f8471410c80191640e04948285-samaps.txd"
+        },
+        {
+          "path": "SAMP/SAMP.ide",
+          "sizeBytes": 89347,
+          "sha256": "dd66aa822943526dffe0f80af88547615672c9bb6e9f3fcfde6d6f8b860f93f5",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/dd66aa822943526dffe0f80af88547615672c9bb6e9f3fcfde6d6f8b860f93f5-SAMP.ide"
+        },
+        {
+          "path": "SAMP/SAMP.img",
+          "sizeBytes": 47261696,
+          "sha256": "7755badde82981616e6cdfe7f4be37ded413979f7c881e35ad63b758ca787d2f",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/7755badde82981616e6cdfe7f4be37ded413979f7c881e35ad63b758ca787d2f-SAMP.img"
+        },
+        {
+          "path": "SAMP/SAMP.ipl",
+          "sizeBytes": 2291,
+          "sha256": "a0c31a4593de2ffe6dc734eae06c3794dcec985f53a4e985f6b895789847a26d",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/a0c31a4593de2ffe6dc734eae06c3794dcec985f53a4e985f6b895789847a26d-SAMP.ipl"
+        },
+        {
+          "path": "SAMP/SAMPCOL.img",
+          "sizeBytes": 3305472,
+          "sha256": "aa6dabfb4b38e3b79949bbb3aa4f90c7e4fd3909feed37335b2d656e73089490",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/aa6dabfb4b38e3b79949bbb3aa4f90c7e4fd3909feed37335b2d656e73089490-SAMPCOL.img"
+        },
+        {
+          "path": "sampaux3.ttf",
+          "sizeBytes": 11544,
+          "sha256": "3adfe84498e8951e61ece57ad08de21b95d162697517291564ae6ef3a8790c1b",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/3adfe84498e8951e61ece57ad08de21b95d162697517291564ae6ef3a8790c1b-sampaux3.ttf"
+        },
+        {
+          "path": "sampgui.png",
+          "sizeBytes": 14091,
+          "sha256": "8bd41399b3ff22b7d497f3f31d39caa67a10e6b91d47bdfbe35e963894c22c4d",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/8bd41399b3ff22b7d497f3f31d39caa67a10e6b91d47bdfbe35e963894c22c4d-sampgui.png"
+        },
+        {
+          "path": "SAMPUninstall.exe",
+          "sizeBytes": 57679,
+          "sha256": "dc90a2821b6797fdb24e36d831200bc93e6fbf73fbacfe281cb3b8d41923ceed",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/dc90a2821b6797fdb24e36d831200bc93e6fbf73fbacfe281cb3b8d41923ceed-SAMPUninstall.exe"
+        },
+        {
+          "path": "stream.ini",
+          "sizeBytes": 197,
+          "sha256": "e5b4ac3e7797a271660a091bdc0e4663beedcab43acaee2473086ca8f925a148",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/e5b4ac3e7797a271660a091bdc0e4663beedcab43acaee2473086ca8f925a148-stream.ini"
+        },
+        {
+          "path": "text/american.gxt",
+          "sizeBytes": 738256,
+          "sha256": "d6e2566d7b85d1b6f913938bf672c0915dfc5db08d6ec826eecffda2ba21589f",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/d6e2566d7b85d1b6f913938bf672c0915dfc5db08d6ec826eecffda2ba21589f-american.gxt"
+        },
+        {
+          "path": "vorbis.dll",
+          "sizeBytes": 1060864,
+          "sha256": "fefda850b69e007fceba644483c7616bc07e9f177fc634fb74e114f0d15b0db0",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/fefda850b69e007fceba644483c7616bc07e9f177fc634fb74e114f0d15b0db0-vorbis.dll"
+        },
+        {
+          "path": "vorbisFile.dll",
+          "sizeBytes": 53760,
+          "sha256": "6ccf42587caeee3a09f6372a4e73cc657ea67c7fdc0234017a39adaac6d7bc80",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/6ccf42587caeee3a09f6372a4e73cc657ea67c7fdc0234017a39adaac6d7bc80-vorbisFile.dll"
+        },
+        {
+          "path": "vorbisHooked.dll",
+          "sizeBytes": 65536,
+          "sha256": "a08923479000cec366967fb8259e0920b7aa18859722c7dda1415726bed4774f",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/a08923479000cec366967fb8259e0920b7aa18859722c7dda1415726bed4774f-vorbisHooked.dll"
+        }
+      ],
+      "deletes": [],
+      "mods": []
+    }
+  }
 }
