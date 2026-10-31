@@ -1687,7 +1687,7 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 1,
+      "dataVersion": 2,
       "publicationId": "4ae48af5-5f2c-42ff-97a0-7e3c080de704",
       "updatedAt": "2026-10-26T05:40:42.479Z",
       "distributionMode": "official",
@@ -4600,6 +4600,30 @@
           "sizeBytes": 65536,
           "sha256": "a08923479000cec366967fb8259e0920b7aa18859722c7dda1415726bed4774f",
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/a08923479000cec366967fb8259e0920b7aa18859722c7dda1415726bed4774f-vorbisHooked.dll"
+        },
+        {
+          "path": "text/spanish.gxt",
+          "sha256": "d6e2566d7b85d1b6f913938bf672c0915dfc5db08d6ec826eecffda2ba21589f",
+          "sizeBytes": 738256,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/d6e2566d7b85d1b6f913938bf672c0915dfc5db08d6ec826eecffda2ba21589f-american.gxt"
+        },
+        {
+          "path": "text/french.gxt",
+          "sha256": "d6e2566d7b85d1b6f913938bf672c0915dfc5db08d6ec826eecffda2ba21589f",
+          "sizeBytes": 738256,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/d6e2566d7b85d1b6f913938bf672c0915dfc5db08d6ec826eecffda2ba21589f-american.gxt"
+        },
+        {
+          "path": "text/german.gxt",
+          "sha256": "d6e2566d7b85d1b6f913938bf672c0915dfc5db08d6ec826eecffda2ba21589f",
+          "sizeBytes": 738256,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/d6e2566d7b85d1b6f913938bf672c0915dfc5db08d6ec826eecffda2ba21589f-american.gxt"
+        },
+        {
+          "path": "text/italian.gxt",
+          "sha256": "d6e2566d7b85d1b6f913938bf672c0915dfc5db08d6ec826eecffda2ba21589f",
+          "sizeBytes": 738256,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/d6e2566d7b85d1b6f913938bf672c0915dfc5db08d6ec826eecffda2ba21589f-american.gxt"
         }
       ],
       "deletes": [],
