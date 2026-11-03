@@ -1687,9 +1687,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 7,
-      "publicationId": "26bff56a-f348-45ce-82dd-bce027e280c7",
-      "updatedAt": "2026-11-03T17:13:38.345Z",
+      "dataVersion": 8,
+      "publicationId": "6d1e91d4-71e6-4944-b280-71b5a47f48a6",
+      "updatedAt": "2026-11-03T19:37:49.168Z",
       "distributionMode": "official",
       "files": [
         {
@@ -7546,15 +7546,15 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/bf400/bf400.dff",
-          "sizeBytes": 14639104,
-          "sha256": "e5a73b75cdabf1b04ea149dea77dd30468f165f7fad2ee7ed9662b0407443a80",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v4-d7210caf/e5a73b75cdabf1b04ea149dea77dd30468f165f7fad2ee7ed9662b0407443a80-bf400.dff"
+          "sizeBytes": 4990818,
+          "sha256": "d13a3a5927c16c0316364c42e2750e2df2b03599dff067d6d3fcceda1ddc8ded",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v8-6d1e91d4/d13a3a5927c16c0316364c42e2750e2df2b03599dff067d6d3fcceda1ddc8ded-bf400.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/bf400/bf400.txd",
-          "sizeBytes": 17112,
-          "sha256": "a371dd15405bfc09fc0be1dbd904e5ce5c381044f867c8a45c8c324cf4d33b55",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v4-d7210caf/a371dd15405bfc09fc0be1dbd904e5ce5c381044f867c8a45c8c324cf4d33b55-bf400.txd"
+          "sizeBytes": 10240,
+          "sha256": "baeeb2dc34511bc2349c641dd6451297a84beb8733b0cbace2d4aed71a11a955",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v8-6d1e91d4/baeeb2dc34511bc2349c641dd6451297a84beb8733b0cbace2d4aed71a11a955-bf400.txd"
         },
         {
           "path": "modloader/NOVA-VEICULOS/elegy/elegy.dff",
