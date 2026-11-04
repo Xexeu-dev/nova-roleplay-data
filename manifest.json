@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 10,
-  "updatedAt": "2026-11-04T13:45:08.065Z",
+  "dataVersion": 11,
+  "updatedAt": "2026-11-04T14:21:41.171Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -93,6 +93,15 @@
       "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v10-veiculos-2b240ae1/NOVA-DATA-v10-veiculos.zip",
       "sha256": "2b240ae13a6dd80c415f9d8b8e17edf2ec13ff99137934941ea97edfb10e93c1",
       "sizeBytes": 291350747,
+      "deletes": []
+    },
+    {
+      "kind": "package",
+      "version": 11,
+      "fromVersion": 10,
+      "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v11-trucks-21ccbbe1/NOVA-DATA-v11-trucks.zip",
+      "sha256": "21ccbbe144d6f0820d91c7dacc776b960489c84a1b6721943e77ec55a04cd18a",
+      "sizeBytes": 298037733,
       "deletes": []
     }
   ],
@@ -1414,8 +1423,8 @@
     },
     {
       "path": "texdb/gta3.img",
-      "sha256": "9a5354a8a1e334e99ce687abd49baa10979096ffdd1662e7ba8a9a974e7f30d2",
-      "sizeBytes": 606451712
+      "sha256": "b23f29f99081b4019c6fbde6895d00a293002c650f243430ad260d8955bc9933",
+      "sizeBytes": 615778304
     },
     {
       "path": "texdb/gta3/gta3.etc.dat",
@@ -1734,30 +1743,30 @@
     },
     {
       "path": "texdb/nova_mods/nova_mods.txt",
-      "sha256": "aef960990fd846d35da1c33dc5ac55e814bf7c56152e6a2c6a639103d33a9014",
-      "sizeBytes": 47905
+      "sha256": "576c4525738cc6ea2c97b60ce1703154c6db0367683e8a23b5623ba53bb02ba6",
+      "sizeBytes": 50922
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.dat",
-      "sha256": "1f21583228f21defcc10baf0aec7876d96af0aa7535e796cf6dae52d1e405345",
-      "sizeBytes": 207336452
+      "sha256": "ad44efb537585227fcfbc9d65ba5f8b328234cde177deae7ed46d5c1d95b40c5",
+      "sizeBytes": 216715506
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.tmb",
-      "sha256": "9fa964e921a33dc8d5891899c7626c2fdaed64b2863d39fc7529083c464acc7e",
-      "sizeBytes": 12400
+      "sha256": "d43f04992d361bdf852d9829c7e9e1748e9d8f1b8f65c5f45f6444fcd761457e",
+      "sizeBytes": 13140
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.toc",
-      "sha256": "0098c8bf76ac5c73126fa0888999e3837f98408d8bd801a52f2c540de9317fdb",
-      "sizeBytes": 2484
+      "sha256": "be781a009891e8dbe4168e81d0888b9e2741bd22930dc92cd8f95e4cd5b01172",
+      "sizeBytes": 2632
     }
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 14,
-      "publicationId": "86c7d0eb-6cbc-4e51-b9e3-157a8637fa61",
-      "updatedAt": "2026-11-04T13:45:08.100Z",
+      "dataVersion": 15,
+      "publicationId": "7036ffbc-a747-4c11-8179-d3f0f069a855",
+      "updatedAt": "2026-11-04T14:21:41.202Z",
       "distributionMode": "official",
       "files": [
         {
@@ -6509,18 +6518,6 @@
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/b0e524cce4c7d031469d09ef8a1d2cae8ab941ad783694b6b909a9be9c44dddd-hotdog.txd"
         },
         {
-          "path": "modloader/NOVA-PLACAS/huntley.dff",
-          "sizeBytes": 258443,
-          "sha256": "a389afeadcb5466c66655b180b837c20ad1393cb8675f9f4c8e2eb2feb0c89fa",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/a389afeadcb5466c66655b180b837c20ad1393cb8675f9f4c8e2eb2feb0c89fa-huntley.dff"
-        },
-        {
-          "path": "modloader/NOVA-PLACAS/huntley.txd",
-          "sizeBytes": 134136,
-          "sha256": "49406894449b5a82c79c0ea22fcffe298d7bf03c67d5091777e44405be9c7014",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/49406894449b5a82c79c0ea22fcffe298d7bf03c67d5091777e44405be9c7014-huntley.txd"
-        },
-        {
           "path": "modloader/NOVA-PLACAS/intruder.dff",
           "sizeBytes": 260073,
           "sha256": "78e246c4f0be5351c1075006f8c6fd90e85cac173bea9770c0154ef2eb03cfcf",
@@ -6627,18 +6624,6 @@
           "sizeBytes": 143000,
           "sha256": "4c52e971f3fda28e192cba403a6c60e8e138cbd6d915f8c93dc4b969aba9b981",
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/4c52e971f3fda28e192cba403a6c60e8e138cbd6d915f8c93dc4b969aba9b981-monsterb.txd"
-        },
-        {
-          "path": "modloader/NOVA-PLACAS/moonbeam.dff",
-          "sizeBytes": 248188,
-          "sha256": "24715678afa6757115de81e5d4c9410f2d6c08e0931a09abbd39a4d86b999c3d",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/24715678afa6757115de81e5d4c9410f2d6c08e0931a09abbd39a4d86b999c3d-moonbeam.dff"
-        },
-        {
-          "path": "modloader/NOVA-PLACAS/moonbeam.txd",
-          "sizeBytes": 137032,
-          "sha256": "8232f8baf8f94634956d6cbcb88acbcfd07b87e3243f85ee7483f0895bbeaad8",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/8232f8baf8f94634956d6cbcb88acbcfd07b87e3243f85ee7483f0895bbeaad8-moonbeam.txd"
         },
         {
           "path": "modloader/NOVA-PLACAS/mrwhoop.dff",
@@ -6929,18 +6914,6 @@
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/86c7774aa5598c6205eac278014c31459ef122a2c82128546ef3a0bcbef8df90-sentinel.txd"
         },
         {
-          "path": "modloader/NOVA-PLACAS/slamvan.dff",
-          "sizeBytes": 205504,
-          "sha256": "80a4b3533aa62cb721d5586e80bf3715bfa329c8efa7f118150a41d1bd1e7893",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/80a4b3533aa62cb721d5586e80bf3715bfa329c8efa7f118150a41d1bd1e7893-slamvan.dff"
-        },
-        {
-          "path": "modloader/NOVA-PLACAS/slamvan.txd",
-          "sizeBytes": 136536,
-          "sha256": "dc55f36ae8d5e8df87f48ec4d570bedf8940900b3e074d4d05e70bb83f06bb7f",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/dc55f36ae8d5e8df87f48ec4d570bedf8940900b3e074d4d05e70bb83f06bb7f-slamvan.txd"
-        },
-        {
           "path": "modloader/NOVA-PLACAS/solair.dff",
           "sizeBytes": 252733,
           "sha256": "e01a9560b51d09ba6a7d9a090105063b3bbe468a83972aa9581a359a66d0ef6a",
@@ -7215,18 +7188,6 @@
           "sizeBytes": 139412,
           "sha256": "c36e53f627a0e73f8e4e5e9fa9b061dea694233284b07a752b032c07dcaa8404",
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/c36e53f627a0e73f8e4e5e9fa9b061dea694233284b07a752b032c07dcaa8404-yankee.txd"
-        },
-        {
-          "path": "modloader/NOVA-PLACAS/yosemite.dff",
-          "sizeBytes": 254508,
-          "sha256": "652c02ae9600392b329e67231d8d10b8e7b43609fd31176a50e32def9a4315b3",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/652c02ae9600392b329e67231d8d10b8e7b43609fd31176a50e32def9a4315b3-yosemite.dff"
-        },
-        {
-          "path": "modloader/NOVA-PLACAS/yosemite.txd",
-          "sizeBytes": 134136,
-          "sha256": "8988d60fc20a13f515ad18118615c70ac48a95f8a7daa8a1e365f83f1f7895cd",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/8988d60fc20a13f515ad18118615c70ac48a95f8a7daa8a1e365f83f1f7895cd-yosemite.txd"
         },
         {
           "path": "modloader/NOVA-RODAS-HQ/hq_wheels_by_alexey.txd",
@@ -15638,6 +15599,60 @@
           "sizeBytes": 9246008,
           "sha256": "121c3d17fa6d40ea59890d4b8b6229d52f67e275b5ef0409ca4d2520f21587ce",
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v14-veiculos-2b240ae1/121c3d17fa6d40ea59890d4b8b6229d52f67e275b5ef0409ca4d2520f21587ce-infernus.txd"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/yosemite/yosemite.dff",
+          "sizeBytes": 1282048,
+          "sha256": "f2f4364110d7c63d51a037589ac7f91b18700f4775f3255ce461843ca9b91236",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v15-trucks-21ccbbe1/f2f4364110d7c63d51a037589ac7f91b18700f4775f3255ce461843ca9b91236-yosemite.dff"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/yosemite/yosemite.txd",
+          "sizeBytes": 582568,
+          "sha256": "0857ec03864bdc239fb7cffe83cb216c2648c7d84db807b8693ca27c2bd4f405",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v15-trucks-21ccbbe1/0857ec03864bdc239fb7cffe83cb216c2648c7d84db807b8693ca27c2bd4f405-yosemite.txd"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/slamvan/slamvan.dff",
+          "sizeBytes": 4169728,
+          "sha256": "0d36d7ed77999b5ee1eb77841b2cf2e680d81387a30af4ce2091832c11cfb13a",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v15-trucks-21ccbbe1/0d36d7ed77999b5ee1eb77841b2cf2e680d81387a30af4ce2091832c11cfb13a-slamvan.dff"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/slamvan/slamvan.txd",
+          "sizeBytes": 2023592,
+          "sha256": "28a360ad23ef889ff4a1338a32ea24165163454c169ba065ec7e58e7f39607e2",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v15-trucks-21ccbbe1/28a360ad23ef889ff4a1338a32ea24165163454c169ba065ec7e58e7f39607e2-slamvan.txd"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/huntley/huntley.dff",
+          "sizeBytes": 3938078,
+          "sha256": "bdb1a4e860f9c56735f4170b60301ca177837a5065716abb43bb947088c79afe",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v15-trucks-21ccbbe1/bdb1a4e860f9c56735f4170b60301ca177837a5065716abb43bb947088c79afe-huntley.dff"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/huntley/huntley.txd",
+          "sizeBytes": 8360,
+          "sha256": "ee43acbcce729f12152fb02100ae4d62e57a05f592d8f6190d7a8de61c9d8211",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v15-trucks-21ccbbe1/ee43acbcce729f12152fb02100ae4d62e57a05f592d8f6190d7a8de61c9d8211-huntley.txd"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/moonbeam/moonbeam.dff",
+          "sizeBytes": 702464,
+          "sha256": "9110c327e43b28eeb57ed9bb93448951ac40e9612eccd947ba752854ad12b628",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v15-trucks-21ccbbe1/9110c327e43b28eeb57ed9bb93448951ac40e9612eccd947ba752854ad12b628-moonbeam.dff"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/moonbeam/moonbeam.txd",
+          "sizeBytes": 316592,
+          "sha256": "30dcf70a6279ce184f184c4866fc5af246898e1c49940d17c30c8bddb2ea85aa",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v15-trucks-21ccbbe1/30dcf70a6279ce184f184c4866fc5af246898e1c49940d17c30c8bddb2ea85aa-moonbeam.txd"
+        },
+        {
+          "path": "moonloader/NOVA Headlights.lua",
+          "sizeBytes": 1356,
+          "sha256": "1e0d76839711ddf2f0417bf4f458d4f5d06fbb036fc89c2ffd03b764f6c2b5a7",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v15-trucks-21ccbbe1/1e0d76839711ddf2f0417bf4f458d4f5d06fbb036fc89c2ffd03b764f6c2b5a7-NOVA.Headlights.lua"
         }
       ],
       "deletes": [
@@ -16508,10 +16523,18 @@
         "modloader/NOVA-PLACAS/trash.dff",
         "modloader/NOVA-PLACAS/trash.txd",
         "modloader/NOVA-PLACAS/infernus.dff",
-        "modloader/NOVA-PLACAS/infernus.txd"
+        "modloader/NOVA-PLACAS/infernus.txd",
+        "modloader/NOVA-PLACAS/huntley.dff",
+        "modloader/NOVA-PLACAS/huntley.txd",
+        "modloader/NOVA-PLACAS/moonbeam.dff",
+        "modloader/NOVA-PLACAS/moonbeam.txd",
+        "modloader/NOVA-PLACAS/slamvan.dff",
+        "modloader/NOVA-PLACAS/slamvan.txd",
+        "modloader/NOVA-PLACAS/yosemite.dff",
+        "modloader/NOVA-PLACAS/yosemite.txd"
       ],
       "mods": []
     }
   },
-  "minimumGameBuild": 148
+  "minimumGameBuild": 149
 }
