@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 7,
-  "updatedAt": "2026-11-04T08:34:08.425Z",
+  "dataVersion": 8,
+  "updatedAt": "2026-11-04T12:12:46.736Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -67,6 +67,15 @@
         "texdb/nova_mods/nova_mods.unc.tmb",
         "texdb/nova_mods/nova_mods.unc.toc"
       ]
+    },
+    {
+      "kind": "package",
+      "version": 8,
+      "fromVersion": 7,
+      "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v8-staff-f55ae60e/NOVA-DATA-v8-staff.zip",
+      "sha256": "f55ae60ea9b0d986d77ef5141295e6e7b09f83a15805a094d20097156498d9d4",
+      "sizeBytes": 231234753,
+      "deletes": []
     }
   ],
   "files": [
@@ -1387,8 +1396,8 @@
     },
     {
       "path": "texdb/gta3.img",
-      "sizeBytes": 499417088,
-      "sha256": "f0a8badb6f5a44429440a342fb66c812e4f1d8d0a44c7683a78b16ca812bb327"
+      "sha256": "ecfd36df08b3efbf7350b80c89f581be4a67fa3a8091a6cfa5c35f1c0531046b",
+      "sizeBytes": 499222528
     },
     {
       "path": "texdb/gta3/gta3.etc.dat",
@@ -1707,30 +1716,30 @@
     },
     {
       "path": "texdb/nova_mods/nova_mods.txt",
-      "sha256": "5d6793f56ed19044c0d7785288cdf2f914f952c134b1e7c9a4eff0a5bd1722b4",
-      "sizeBytes": 28338
+      "sha256": "a88625ac3e96086bb48b92e8073a5d5480b1655f31b324ca9200fd9a3437eb2e",
+      "sizeBytes": 28494
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.dat",
-      "sha256": "bfa85d235ff7d0642216802901467b581ecf06c23c58370e6f46f01f322114f0",
-      "sizeBytes": 128729296
+      "sha256": "2d7a7b6e69e593f58a1f5c73b6a1332017aabb475712ca462d48ed0790994c31",
+      "sizeBytes": 129428380
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.tmb",
-      "sha256": "6a027ea01f4a56fdb15d7924fd51a059c9f5a5053bfce6948a559aeaf592c53a",
-      "sizeBytes": 7600
+      "sha256": "2f3e11840123f647c9b0e7b100feae6b7c326094ce40d5202a0ac29348f34f43",
+      "sizeBytes": 7640
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.toc",
-      "sha256": "15fadc81706f360df6247cf81d056f671c077e1bc430384c0ce13f97f8753af9",
-      "sizeBytes": 1524
+      "sha256": "fc55d0fff2051903db20453e32304b8856e9cfc0c4848648408eb147595aad2a",
+      "sizeBytes": 1532
     }
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 11,
-      "publicationId": "ee92d7a6-c07f-41a1-ac9b-e65b56d92184",
-      "updatedAt": "2026-11-04T00:43:16.819Z",
+      "dataVersion": 12,
+      "publicationId": "edac2bc7-34e2-42ab-a738-a95a3c282c1a",
+      "updatedAt": "2026-11-04T12:12:46.750Z",
       "distributionMode": "official",
       "files": [
         {
@@ -7455,27 +7464,27 @@
         },
         {
           "path": "modloader/NOVA-SKINS/wfyclot.dff",
-          "sizeBytes": 184416,
-          "sha256": "d0004526be3ff6daf1cc84d914afc3ae6d1c6e2fc48c819d0d9a32b3badb65d0",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v11-ee92d7a6/d0004526be3ff6daf1cc84d914afc3ae6d1c6e2fc48c819d0d9a32b3badb65d0-wfyclot.dff"
+          "sizeBytes": 88064,
+          "sha256": "bcab8cdbeb91ac962226a27b06270c302666b7ef8ee4e8540c8e20a8adfc6040",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v12-staff-f55ae60e/bcab8cdbeb91ac962226a27b06270c302666b7ef8ee4e8540c8e20a8adfc6040-wfyclot.dff"
         },
         {
           "path": "modloader/NOVA-SKINS/wfyclot.txd",
-          "sizeBytes": 196904,
-          "sha256": "1348aed2631321ad0a0927b5a25ce5ee3b003423ebeaa86cf8e34a77d9397e7d",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v11-ee92d7a6/1348aed2631321ad0a0927b5a25ce5ee3b003423ebeaa86cf8e34a77d9397e7d-wfyclot.txd"
+          "sizeBytes": 2097320,
+          "sha256": "fbac3a6896e655a01d663c88987b5f262006b8687dd9d88cf6516e66dea0127f",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v12-staff-f55ae60e/fbac3a6896e655a01d663c88987b5f262006b8687dd9d88cf6516e66dea0127f-wfyclot.txd"
         },
         {
           "path": "modloader/NOVA-SKINS/wmyclot.dff",
-          "sizeBytes": 184416,
-          "sha256": "d0004526be3ff6daf1cc84d914afc3ae6d1c6e2fc48c819d0d9a32b3badb65d0",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v11-ee92d7a6/d0004526be3ff6daf1cc84d914afc3ae6d1c6e2fc48c819d0d9a32b3badb65d0-wmyclot.dff"
+          "sizeBytes": 90112,
+          "sha256": "e5a99261679048b7b9e261c2cbb6a04f9dac8394655f9abc11d2616b1d01f1c9",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v12-staff-f55ae60e/e5a99261679048b7b9e261c2cbb6a04f9dac8394655f9abc11d2616b1d01f1c9-wmyclot.dff"
         },
         {
           "path": "modloader/NOVA-SKINS/wmyclot.txd",
-          "sizeBytes": 196904,
-          "sha256": "1348aed2631321ad0a0927b5a25ce5ee3b003423ebeaa86cf8e34a77d9397e7d",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v11-ee92d7a6/1348aed2631321ad0a0927b5a25ce5ee3b003423ebeaa86cf8e34a77d9397e7d-wmyclot.txd"
+          "sizeBytes": 2097320,
+          "sha256": "03f355395c22c7b28b4f3e3e8cbfab82cf912ddd0bb9f419e81f9b8762a42544",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v12-staff-f55ae60e/03f355395c22c7b28b4f3e3e8cbfab82cf912ddd0bb9f419e81f9b8762a42544-wmyclot.txd"
         },
         {
           "path": "modloader/NOVA-VEICULOS/ambulan/ambulan.dff",
