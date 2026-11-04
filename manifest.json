@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 6,
-  "updatedAt": "2026-11-04T01:07:26.094Z",
+  "dataVersion": 7,
+  "updatedAt": "2026-11-04T08:34:08.425Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -54,6 +54,19 @@
       "sha256": "4bee5481624aa57478b58b2e42579c34b1ac41437f167c13921f22dc29258daf",
       "sizeBytes": 224031848,
       "deletes": []
+    },
+    {
+      "kind": "package",
+      "version": 7,
+      "fromVersion": 6,
+      "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v7-textures-2c0bdff0/NOVA-DATA-v7-textures.zip",
+      "sha256": "2c0bdff01bc1d35b8ffe9c1e9074147bb2d5c58a0f4cd9612652b2d51e81d9fb",
+      "sizeBytes": 18962026,
+      "deletes": [
+        "texdb/nova_mods/nova_mods.unc.dat",
+        "texdb/nova_mods/nova_mods.unc.tmb",
+        "texdb/nova_mods/nova_mods.unc.toc"
+      ]
     }
   ],
   "files": [
@@ -1694,23 +1707,23 @@
     },
     {
       "path": "texdb/nova_mods/nova_mods.txt",
-      "sizeBytes": 28338,
-      "sha256": "8ae7ae695f44f0186e250ac22e99762e5503bfedf4d879be88736a88c28fa2bf"
+      "sha256": "5d6793f56ed19044c0d7785288cdf2f914f952c134b1e7c9a4eff0a5bd1722b4",
+      "sizeBytes": 28338
     },
     {
-      "path": "texdb/nova_mods/nova_mods.unc.dat",
-      "sizeBytes": 128729296,
-      "sha256": "bfa85d235ff7d0642216802901467b581ecf06c23c58370e6f46f01f322114f0"
+      "path": "texdb/nova_mods/nova_mods.etc.dat",
+      "sha256": "bfa85d235ff7d0642216802901467b581ecf06c23c58370e6f46f01f322114f0",
+      "sizeBytes": 128729296
     },
     {
-      "path": "texdb/nova_mods/nova_mods.unc.tmb",
-      "sizeBytes": 7600,
-      "sha256": "6a027ea01f4a56fdb15d7924fd51a059c9f5a5053bfce6948a559aeaf592c53a"
+      "path": "texdb/nova_mods/nova_mods.etc.tmb",
+      "sha256": "6a027ea01f4a56fdb15d7924fd51a059c9f5a5053bfce6948a559aeaf592c53a",
+      "sizeBytes": 7600
     },
     {
-      "path": "texdb/nova_mods/nova_mods.unc.toc",
-      "sizeBytes": 1524,
-      "sha256": "15fadc81706f360df6247cf81d056f671c077e1bc430384c0ce13f97f8753af9"
+      "path": "texdb/nova_mods/nova_mods.etc.toc",
+      "sha256": "15fadc81706f360df6247cf81d056f671c077e1bc430384c0ce13f97f8753af9",
+      "sizeBytes": 1524
     }
   ],
   "platforms": {
@@ -16355,5 +16368,5 @@
       "mods": []
     }
   },
-  "minimumGameBuild": 143
+  "minimumGameBuild": 144
 }
