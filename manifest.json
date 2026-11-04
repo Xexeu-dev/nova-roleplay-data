@@ -1687,9 +1687,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 9,
-      "publicationId": "dbfd38cd-ac21-456e-99f0-7d7c0cce52f7",
-      "updatedAt": "2026-11-03T21:10:50.065Z",
+      "dataVersion": 10,
+      "publicationId": "7b921618-18d7-4de4-94c1-90ee3b68bb07",
+      "updatedAt": "2026-11-04T00:10:30.268Z",
       "distributionMode": "official",
       "files": [
         {
@@ -7399,6 +7399,18 @@
           "sizeBytes": 157696,
           "sha256": "96d932e904de8d87dac822bdec0f18192a24b7954936b1c32291887027998519",
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v6-949a3e5e/96d932e904de8d87dac822bdec0f18192a24b7954936b1c32291887027998519-wheel_sr6.dff"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/maccer.dff",
+          "sizeBytes": 184416,
+          "sha256": "d0004526be3ff6daf1cc84d914afc3ae6d1c6e2fc48c819d0d9a32b3badb65d0",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v10-7b921618/d0004526be3ff6daf1cc84d914afc3ae6d1c6e2fc48c819d0d9a32b3badb65d0-maccer.dff"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/maccer.txd",
+          "sizeBytes": 196904,
+          "sha256": "1348aed2631321ad0a0927b5a25ce5ee3b003423ebeaa86cf8e34a77d9397e7d",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v10-7b921618/1348aed2631321ad0a0927b5a25ce5ee3b003423ebeaa86cf8e34a77d9397e7d-maccer.txd"
         },
         {
           "path": "modloader/NOVA-VEICULOS/ambulan/ambulan.dff",
@@ -15145,6 +15157,12 @@
           "sizeBytes": 24955,
           "sha256": "6c2775f78826c124f22349c8c6ae827ed482955fea6dfca199c606111bc51048",
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/6c2775f78826c124f22349c8c6ae827ed482955fea6dfca199c606111bc51048-NOVA-Phone.lua"
+        },
+        {
+          "path": "MoonLoader/NOVA-VoiceRecovery.lua",
+          "sizeBytes": 2790,
+          "sha256": "09fded2f6011e9df24c185c5491f6bf87906be4c0723629ab94c6d9d07f6fba7",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v10-7b921618/09fded2f6011e9df24c185c5491f6bf87906be4c0723629ab94c6d9d07f6fba7-NOVA-VoiceRecovery.lua"
         },
         {
           "path": "MoonLoader/resource/nova-phone/phone_icon_bank.png",
