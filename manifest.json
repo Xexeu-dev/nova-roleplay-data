@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 8,
-  "updatedAt": "2026-11-04T12:12:46.736Z",
+  "dataVersion": 9,
+  "updatedAt": "2026-11-04T13:28:15.690Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -75,6 +75,15 @@
       "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v8-staff-f55ae60e/NOVA-DATA-v8-staff.zip",
       "sha256": "f55ae60ea9b0d986d77ef5141295e6e7b09f83a15805a094d20097156498d9d4",
       "sizeBytes": 231234753,
+      "deletes": []
+    },
+    {
+      "kind": "package",
+      "version": 9,
+      "fromVersion": 8,
+      "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v9-policia-a6db45b9/NOVA-DATA-v9-policia.zip",
+      "sha256": "a6db45b968e17c74ff3503f83aac67eb1f583134c05666aa57a502137c1ca588",
+      "sizeBytes": 283658260,
       "deletes": []
     }
   ],
@@ -1396,8 +1405,8 @@
     },
     {
       "path": "texdb/gta3.img",
-      "sha256": "ecfd36df08b3efbf7350b80c89f581be4a67fa3a8091a6cfa5c35f1c0531046b",
-      "sizeBytes": 499222528
+      "sha256": "a055c4c49115d35a0c4a327d9fb2f4d21eda01a10adc308be8dbd101db697b08",
+      "sizeBytes": 592691200
     },
     {
       "path": "texdb/gta3/gta3.etc.dat",
@@ -1716,30 +1725,30 @@
     },
     {
       "path": "texdb/nova_mods/nova_mods.txt",
-      "sha256": "a88625ac3e96086bb48b92e8073a5d5480b1655f31b324ca9200fd9a3437eb2e",
-      "sizeBytes": 28494
+      "sha256": "b11c3f853c7c279022f8ce33ee8d894ad8a65f7db3f16643c5c85a976739aed0",
+      "sizeBytes": 41805
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.dat",
-      "sha256": "2d7a7b6e69e593f58a1f5c73b6a1332017aabb475712ca462d48ed0790994c31",
-      "sizeBytes": 129428380
+      "sha256": "aaa81b0b403633a7f9f681fa56c37fe5a733ed4dfb1c83630cad009f061c625d",
+      "sizeBytes": 191160014
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.tmb",
-      "sha256": "2f3e11840123f647c9b0e7b100feae6b7c326094ce40d5202a0ac29348f34f43",
-      "sizeBytes": 7640
+      "sha256": "ca464b55fb6a5850fdf39a5e3773851d1eb2d00b480d7d0467b209f904679b3f",
+      "sizeBytes": 10900
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.toc",
-      "sha256": "fc55d0fff2051903db20453e32304b8856e9cfc0c4848648408eb147595aad2a",
-      "sizeBytes": 1532
+      "sha256": "5d3a45e030ddfce1d7f70d6c5c4ea9e083950ad3752bab235e222ce8795a4740",
+      "sizeBytes": 2184
     }
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 12,
-      "publicationId": "edac2bc7-34e2-42ab-a738-a95a3c282c1a",
-      "updatedAt": "2026-11-04T12:12:46.750Z",
+      "dataVersion": 13,
+      "publicationId": "b1b78bf3-179d-4e79-a136-036192fcbffb",
+      "updatedAt": "2026-11-04T13:28:15.735Z",
       "distributionMode": "official",
       "files": [
         {
@@ -6299,66 +6308,6 @@
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/063c070de9c0f58db707f9ecd68e62c39bf7ba073866ac3f546aa60fe6cfd491-comet.txd"
         },
         {
-          "path": "modloader/NOVA-PLACAS/copbike.dff",
-          "sizeBytes": 159877,
-          "sha256": "549d181326ae239c660e6a89a4072e857fc4ac151233fa56ec3c92b7daa295db",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/549d181326ae239c660e6a89a4072e857fc4ac151233fa56ec3c92b7daa295db-copbike.dff"
-        },
-        {
-          "path": "modloader/NOVA-PLACAS/copbike.txd",
-          "sizeBytes": 145592,
-          "sha256": "58b2639e90ee4fef79b053200d29a489f25c58a9c07c7ddda5fac990acfe33a3",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/58b2639e90ee4fef79b053200d29a489f25c58a9c07c7ddda5fac990acfe33a3-copbike.txd"
-        },
-        {
-          "path": "modloader/NOVA-PLACAS/copcarla.dff",
-          "sizeBytes": 257458,
-          "sha256": "c699c9035e562281222e04b2819b41f2929312f3a623bb07502d238ec9add46b",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/c699c9035e562281222e04b2819b41f2929312f3a623bb07502d238ec9add46b-copcarla.dff"
-        },
-        {
-          "path": "modloader/NOVA-PLACAS/copcarla.txd",
-          "sizeBytes": 137032,
-          "sha256": "81da8888087bae30984081e7df31a30f1c9789978b604a5952536c2b95fdbb7d",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/81da8888087bae30984081e7df31a30f1c9789978b604a5952536c2b95fdbb7d-copcarla.txd"
-        },
-        {
-          "path": "modloader/NOVA-PLACAS/copcarru.dff",
-          "sizeBytes": 260672,
-          "sha256": "013f6be78b04721873f1cc1eefdef7e1f0acfb01bef439e452b3dec09533f0a9",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/013f6be78b04721873f1cc1eefdef7e1f0acfb01bef439e452b3dec09533f0a9-copcarru.dff"
-        },
-        {
-          "path": "modloader/NOVA-PLACAS/copcarru.txd",
-          "sizeBytes": 137032,
-          "sha256": "9e3eb0b77cf74ccc22a7265d9eb5ec65e96a107e40388a7ae86f9deaccf16b7d",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/9e3eb0b77cf74ccc22a7265d9eb5ec65e96a107e40388a7ae86f9deaccf16b7d-copcarru.txd"
-        },
-        {
-          "path": "modloader/NOVA-PLACAS/copcarsf.dff",
-          "sizeBytes": 257694,
-          "sha256": "6272fc136e44fbee0ac97ba70f587a266bc9aa11685a087768170dd4cd020309",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/6272fc136e44fbee0ac97ba70f587a266bc9aa11685a087768170dd4cd020309-copcarsf.dff"
-        },
-        {
-          "path": "modloader/NOVA-PLACAS/copcarsf.txd",
-          "sizeBytes": 137032,
-          "sha256": "81da8888087bae30984081e7df31a30f1c9789978b604a5952536c2b95fdbb7d",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/81da8888087bae30984081e7df31a30f1c9789978b604a5952536c2b95fdbb7d-copcarsf.txd"
-        },
-        {
-          "path": "modloader/NOVA-PLACAS/copcarvg.dff",
-          "sizeBytes": 238365,
-          "sha256": "60330d7842ded386581bfed0339874884277939af92463b4ade90ea0b6dbd6f5",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/60330d7842ded386581bfed0339874884277939af92463b4ade90ea0b6dbd6f5-copcarvg.dff"
-        },
-        {
-          "path": "modloader/NOVA-PLACAS/copcarvg.txd",
-          "sizeBytes": 137032,
-          "sha256": "09321f1bbfb82e156cae064e955f6202bf2a40a88ab42d2c57f67b22f4c5b4ff",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/09321f1bbfb82e156cae064e955f6202bf2a40a88ab42d2c57f67b22f4c5b4ff-copcarvg.txd"
-        },
-        {
           "path": "modloader/NOVA-PLACAS/dft30.dff",
           "sizeBytes": 258261,
           "sha256": "cae536bc98a6f44cfa06cab0fa4121baa00853ee61a3b6d7193900521929fc32",
@@ -6441,18 +6390,6 @@
           "sizeBytes": 144208,
           "sha256": "bf8b06b961c82f4acb292a99b0bd4b9bf8babbb37c83bba458a311c6576daf1a",
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/bf8b06b961c82f4acb292a99b0bd4b9bf8babbb37c83bba458a311c6576daf1a-firela.txd"
-        },
-        {
-          "path": "modloader/NOVA-PLACAS/firetruk.dff",
-          "sizeBytes": 250736,
-          "sha256": "841267db8ca2179f2d2abe6dc70a8e95742bee81fcfd325ddd6a3e93f6806563",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/841267db8ca2179f2d2abe6dc70a8e95742bee81fcfd325ddd6a3e93f6806563-firetruk.dff"
-        },
-        {
-          "path": "modloader/NOVA-PLACAS/firetruk.txd",
-          "sizeBytes": 149508,
-          "sha256": "da0fc102b38db11fc06e1e990aa00ffa39664839763e88fd63882831a0716f18",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/da0fc102b38db11fc06e1e990aa00ffa39664839763e88fd63882831a0716f18-firetruk.txd"
         },
         {
           "path": "modloader/NOVA-PLACAS/flash.dff",
@@ -6779,18 +6716,6 @@
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/177cee4eada4efde116151df6a535e76fdef570d03268491e4623275281de2ba-packer.txd"
         },
         {
-          "path": "modloader/NOVA-PLACAS/patriot.dff",
-          "sizeBytes": 243713,
-          "sha256": "2e416bef28223527ec0a8c5e1ed68ba994996a0669fda1f283800509f1a993b4",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/2e416bef28223527ec0a8c5e1ed68ba994996a0669fda1f283800509f1a993b4-patriot.dff"
-        },
-        {
-          "path": "modloader/NOVA-PLACAS/patriot.txd",
-          "sizeBytes": 137032,
-          "sha256": "42d804b45f8482148cded5ef36593ae1dfe184f062f47760281690a358e7ed88",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/42d804b45f8482148cded5ef36593ae1dfe184f062f47760281690a358e7ed88-patriot.txd"
-        },
-        {
           "path": "modloader/NOVA-PLACAS/peren.dff",
           "sizeBytes": 252734,
           "sha256": "c6ab4ca0eb8508ef99bfdab232e3ff61941838a7a5d75f6754c04f30abf57591",
@@ -6813,18 +6738,6 @@
           "sizeBytes": 137032,
           "sha256": "a209b84454d8740d4a47a2cfb89bf3f8a0bd91c2f617bf365d5174b34c7d5fc7",
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/a209b84454d8740d4a47a2cfb89bf3f8a0bd91c2f617bf365d5174b34c7d5fc7-picador.txd"
-        },
-        {
-          "path": "modloader/NOVA-PLACAS/pizzaboy.dff",
-          "sizeBytes": 112909,
-          "sha256": "be2a7a1033ebc76705a33ececd83a93384d58f763fa683b3f4ce14570b2a4b5e",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/be2a7a1033ebc76705a33ececd83a93384d58f763fa683b3f4ce14570b2a4b5e-pizzaboy.dff"
-        },
-        {
-          "path": "modloader/NOVA-PLACAS/pizzaboy.txd",
-          "sizeBytes": 137032,
-          "sha256": "d2c22484156e1e09c4e8caf07faa5e5455815b70b95ad5bc5da758781b946bed",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/d2c22484156e1e09c4e8caf07faa5e5455815b70b95ad5bc5da758781b946bed-pizzaboy.txd"
         },
         {
           "path": "modloader/NOVA-PLACAS/pony.dff",
@@ -7007,18 +6920,6 @@
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/f9ae239d238525c78dd785299318ea94388c1a73fdd4447923660655efcd8536-savanna.txd"
         },
         {
-          "path": "modloader/NOVA-PLACAS/securica.dff",
-          "sizeBytes": 232701,
-          "sha256": "db151a79782e7d18874729489fbcac0e267d69d86a9381eaa9966c92ca837247",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/db151a79782e7d18874729489fbcac0e267d69d86a9381eaa9966c92ca837247-securica.dff"
-        },
-        {
-          "path": "modloader/NOVA-PLACAS/securica.txd",
-          "sizeBytes": 144868,
-          "sha256": "77466371d050deaed89f6f8475256c46a5303432cf64198e4b5608472e6f089b",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/77466371d050deaed89f6f8475256c46a5303432cf64198e4b5608472e6f089b-securica.txd"
-        },
-        {
           "path": "modloader/NOVA-PLACAS/sentinel.dff",
           "sizeBytes": 248372,
           "sha256": "6198db3a64b92f8e454fa5b286faad54cf5fe09f024fe71bb224557e91e255d7",
@@ -7185,18 +7086,6 @@
           "sizeBytes": 139928,
           "sha256": "97b3663088c1319bc777cbd56a69556f92ef1347b08b8ad06a43a75df7e1d2a9",
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/97b3663088c1319bc777cbd56a69556f92ef1347b08b8ad06a43a75df7e1d2a9-tornado.txd"
-        },
-        {
-          "path": "modloader/NOVA-PLACAS/trash.dff",
-          "sizeBytes": 206905,
-          "sha256": "56e291a3597ea1d625980b979b96951fc54f7d17298456eb3a7f5c5267ab582e",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/56e291a3597ea1d625980b979b96951fc54f7d17298456eb3a7f5c5267ab582e-trash.dff"
-        },
-        {
-          "path": "modloader/NOVA-PLACAS/trash.txd",
-          "sizeBytes": 141312,
-          "sha256": "98319597eb3adc4d66ce76e581dfd95e721580c91d4515ec8fe55dcd3116c330",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/98319597eb3adc4d66ce76e581dfd95e721580c91d4515ec8fe55dcd3116c330-trash.txd"
         },
         {
           "path": "modloader/NOVA-PLACAS/uranus.dff",
@@ -7596,15 +7485,15 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/fbiranch/fbiranch.dff",
-          "sizeBytes": 5881856,
-          "sha256": "502a3486b1d58c990b716866aad75c8f83d3b2a4529e015d62eacc565777c04e",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v9-dbfd38cd/502a3486b1d58c990b716866aad75c8f83d3b2a4529e015d62eacc565777c04e-fbiranch.dff"
+          "sizeBytes": 24621056,
+          "sha256": "e83206750975fb54eeb4f7a0232bb1c491a47746d45f10a403d4f63c0e6536f4",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v13-policia-a6db45b9/e83206750975fb54eeb4f7a0232bb1c491a47746d45f10a403d4f63c0e6536f4-fbiranch.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/fbiranch/fbiranch.txd",
-          "sizeBytes": 861096,
-          "sha256": "9d276f995e73db9670efa66cdecf6ac7e039e6c295647010f84b36ce3e043285",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v9-dbfd38cd/9d276f995e73db9670efa66cdecf6ac7e039e6c295647010f84b36ce3e043285-fbiranch.txd"
+          "sizeBytes": 9195136,
+          "sha256": "5eb709f6c5a43d5b57503837d0dc0c46148a98fc0a9e4406c8a0172720346df3",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v13-policia-a6db45b9/5eb709f6c5a43d5b57503837d0dc0c46148a98fc0a9e4406c8a0172720346df3-fbiranch.txd"
         },
         {
           "path": "modloader/NOVA-VEICULOS/fcr900/fcr900.dff",
@@ -15524,6 +15413,174 @@
           "sizeBytes": 65536,
           "sha256": "a08923479000cec366967fb8259e0920b7aa18859722c7dda1415726bed4774f",
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/a08923479000cec366967fb8259e0920b7aa18859722c7dda1415726bed4774f-vorbisHooked.dll"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/copcarru/copcarru.dff",
+          "sizeBytes": 5881856,
+          "sha256": "502a3486b1d58c990b716866aad75c8f83d3b2a4529e015d62eacc565777c04e",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v13-policia-a6db45b9/502a3486b1d58c990b716866aad75c8f83d3b2a4529e015d62eacc565777c04e-copcarru.dff"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/copcarru/copcarru.txd",
+          "sizeBytes": 869416,
+          "sha256": "c5f989559df099afe62af69f65ab8bbab848572e2d41fe075a4e68d1d46a1118",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v13-policia-a6db45b9/c5f989559df099afe62af69f65ab8bbab848572e2d41fe075a4e68d1d46a1118-copcarru.txd"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/copcarla/copcarla.dff",
+          "sizeBytes": 989184,
+          "sha256": "12dd685021856e550c4228229a3022d77455f9a44ddd7c7304c1f86064487286",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v13-policia-a6db45b9/12dd685021856e550c4228229a3022d77455f9a44ddd7c7304c1f86064487286-copcarla.dff"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/copcarla/copcarla.txd",
+          "sizeBytes": 861864,
+          "sha256": "51dbe804c61e451f4d74ac460aa6a7792bfabc1a0c519889294e535e1ff2dd63",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v13-policia-a6db45b9/51dbe804c61e451f4d74ac460aa6a7792bfabc1a0c519889294e535e1ff2dd63-copcarla.txd"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/copcarvg/copcarvg.dff",
+          "sizeBytes": 9385984,
+          "sha256": "5ff2547d67e8d101171f5bcbc6702b7f012f426b5223465afcf255581db6ceff",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v13-policia-a6db45b9/5ff2547d67e8d101171f5bcbc6702b7f012f426b5223465afcf255581db6ceff-copcarvg.dff"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/copcarvg/copcarvg.txd",
+          "sizeBytes": 797208,
+          "sha256": "3bd69455548b825cf2554ff25cd9f522b8e59fa45de55ea78ec4e1e10c58738c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v13-policia-a6db45b9/3bd69455548b825cf2554ff25cd9f522b8e59fa45de55ea78ec4e1e10c58738c-copcarvg.txd"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/copcarsf/copcarsf.dff",
+          "sizeBytes": 5043749,
+          "sha256": "c97c5c9399c452972efc2f99b97c8325f7f9ce7a650b6bc3ebb16140215d8f5d",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v13-policia-a6db45b9/c97c5c9399c452972efc2f99b97c8325f7f9ce7a650b6bc3ebb16140215d8f5d-copcarsf.dff"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/copcarsf/copcarsf.txd",
+          "sizeBytes": 8360,
+          "sha256": "ee43acbcce729f12152fb02100ae4d62e57a05f592d8f6190d7a8de61c9d8211",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v13-policia-a6db45b9/ee43acbcce729f12152fb02100ae4d62e57a05f592d8f6190d7a8de61c9d8211-copcarsf.txd"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/copbike/copbike.dff",
+          "sizeBytes": 10643456,
+          "sha256": "19fa88fad06f0d70e48a7c1ee55146ec9bca2185b1d03d70cb457fa2804db07c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v13-policia-a6db45b9/19fa88fad06f0d70e48a7c1ee55146ec9bca2185b1d03d70cb457fa2804db07c-copbike.dff"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/copbike/copbike.txd",
+          "sizeBytes": 55407896,
+          "sha256": "63f02baf1f0cda976185db89fada2164b89efc8495acef18d033e206737838a5",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v13-policia-a6db45b9/63f02baf1f0cda976185db89fada2164b89efc8495acef18d033e206737838a5-copbike.txd"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/patriot/patriot.dff",
+          "sizeBytes": 4663296,
+          "sha256": "a1465c9aff3c098d8e8c07974f9e318782fc79f9fbd1772625b36975d4b4e885",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v13-policia-a6db45b9/a1465c9aff3c098d8e8c07974f9e318782fc79f9fbd1772625b36975d4b4e885-patriot.dff"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/patriot/patriot.txd",
+          "sizeBytes": 3442216,
+          "sha256": "612acf0bbcde675a2a5d46c7f45257a6519f3305ec7e0d0def67250ed5db0e00",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v13-policia-a6db45b9/612acf0bbcde675a2a5d46c7f45257a6519f3305ec7e0d0def67250ed5db0e00-patriot.txd"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/fbitruck/fbitruck.dff",
+          "sizeBytes": 4967931,
+          "sha256": "426a33a5aaba7eebd6d9d008c289a011ba636c5e4e50571839754c2ee67c8a69",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v13-policia-a6db45b9/426a33a5aaba7eebd6d9d008c289a011ba636c5e4e50571839754c2ee67c8a69-fbitruck.dff"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/fbitruck/fbitruck.txd",
+          "sizeBytes": 8492,
+          "sha256": "4c2be4045a61fa627907369674b0b443497755f727cea30f80cd8464f880ca02",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v13-policia-a6db45b9/4c2be4045a61fa627907369674b0b443497755f727cea30f80cd8464f880ca02-fbitruck.txd"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/rhino/rhino.dff",
+          "sizeBytes": 6250930,
+          "sha256": "7f143b90068aec5e30ee40d79fb631515ef14933f4eb0de4a9a403dbb774eceb",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v13-policia-a6db45b9/7f143b90068aec5e30ee40d79fb631515ef14933f4eb0de4a9a403dbb774eceb-rhino.dff"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/rhino/rhino.txd",
+          "sizeBytes": 4500575,
+          "sha256": "8f675382e56ef952509af6e7d05161fdbd62f50c44c9f7bde06d20d0b53cab17",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v13-policia-a6db45b9/8f675382e56ef952509af6e7d05161fdbd62f50c44c9f7bde06d20d0b53cab17-rhino.txd"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/swatvan/swatvan.dff",
+          "sizeBytes": 4720640,
+          "sha256": "d0b8e7e8ef508fa8fc9b1b3655416324e5a41e6499fdf2038a3bf4bb72db31c4",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v13-policia-a6db45b9/d0b8e7e8ef508fa8fc9b1b3655416324e5a41e6499fdf2038a3bf4bb72db31c4-swatvan.dff"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/swatvan/swatvan.txd",
+          "sizeBytes": 1669056,
+          "sha256": "6c9e8f3c50bbfccffa41ca899a3b417ad976bc3eaa466db9cafd500f71cdbf43",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v13-policia-a6db45b9/6c9e8f3c50bbfccffa41ca899a3b417ad976bc3eaa466db9cafd500f71cdbf43-swatvan.txd"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/trash/trash.dff",
+          "sizeBytes": 1957888,
+          "sha256": "83f47f07e6888ab64359d482ab6d8a56bc15aab5667e9f4cbe2674aaa1ad001d",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v13-policia-a6db45b9/83f47f07e6888ab64359d482ab6d8a56bc15aab5667e9f4cbe2674aaa1ad001d-trash.dff"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/trash/trash.txd",
+          "sizeBytes": 2238888,
+          "sha256": "849e4eef3902adb43e2dca75af164fd7db06369e908fb2d9c7df5e7b586c0df9",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v13-policia-a6db45b9/849e4eef3902adb43e2dca75af164fd7db06369e908fb2d9c7df5e7b586c0df9-trash.txd"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/firetruk/firetruk.dff",
+          "sizeBytes": 11145216,
+          "sha256": "41168d0ba21603f27c6f34929058b4fbe126f3a86541fecf75b984d2547f7b96",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v13-policia-a6db45b9/41168d0ba21603f27c6f34929058b4fbe126f3a86541fecf75b984d2547f7b96-firetruk.dff"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/firetruk/firetruk.txd",
+          "sizeBytes": 3352744,
+          "sha256": "ee5772a3f0df141a90fc279ccffde1b98917035760d9119035041f89a277bd86",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v13-policia-a6db45b9/ee5772a3f0df141a90fc279ccffde1b98917035760d9119035041f89a277bd86-firetruk.txd"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/securica/securica.dff",
+          "sizeBytes": 2275328,
+          "sha256": "9a61b07481b21d90618aad0d309e19814c5f02ba14c818dab68230627c858c38",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v13-policia-a6db45b9/9a61b07481b21d90618aad0d309e19814c5f02ba14c818dab68230627c858c38-securica.dff"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/securica/securica.txd",
+          "sizeBytes": 5615656,
+          "sha256": "f1af22537ead14455668167279cd757d90a657e32f83e6d97d0efd44c2a8b7f7",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v13-policia-a6db45b9/f1af22537ead14455668167279cd757d90a657e32f83e6d97d0efd44c2a8b7f7-securica.txd"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/pizzaboy/pizzaboy.dff",
+          "sizeBytes": 6422844,
+          "sha256": "b6d33ca7482e8be3ce3e7c412372e322b9c46fa2276fbbbd60c7ebc1e2b4fad5",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v13-policia-a6db45b9/b6d33ca7482e8be3ce3e7c412372e322b9c46fa2276fbbbd60c7ebc1e2b4fad5-pizzaboy.dff"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/pizzaboy/pizzaboy.txd",
+          "sizeBytes": 40,
+          "sha256": "09adec46860117410ea6127e18195391575f6f9a137edd00a9ca0bb873e4f9dd",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v13-policia-a6db45b9/09adec46860117410ea6127e18195391575f6f9a137edd00a9ca0bb873e4f9dd-pizzaboy.txd"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/polmav/polmav.dff",
+          "sizeBytes": 2551808,
+          "sha256": "c2830b1ed0aabbab60993e5086a1eaf399b8d7ad7f42a662572498810ed3316d",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v13-policia-a6db45b9/c2830b1ed0aabbab60993e5086a1eaf399b8d7ad7f42a662572498810ed3316d-polmav.dff"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/polmav/polmav.txd",
+          "sizeBytes": 8462888,
+          "sha256": "e46b3f93c3f10a08125d2251d3939975989fe9e4e74001ea358910d42e914923",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v13-policia-a6db45b9/e46b3f93c3f10a08125d2251d3939975989fe9e4e74001ea358910d42e914923-polmav.txd"
         }
       ],
       "deletes": [
@@ -16372,10 +16429,30 @@
         "modloader/NOVA-PLACAS/towtruck.dff",
         "modloader/NOVA-PLACAS/towtruck.txd",
         "modloader/NOVA-PLACAS/zr350.dff",
-        "modloader/NOVA-PLACAS/zr350.txd"
+        "modloader/NOVA-PLACAS/zr350.txd",
+        "modloader/NOVA-PLACAS/copbike.dff",
+        "modloader/NOVA-PLACAS/copbike.txd",
+        "modloader/NOVA-PLACAS/copcarla.dff",
+        "modloader/NOVA-PLACAS/copcarla.txd",
+        "modloader/NOVA-PLACAS/copcarru.dff",
+        "modloader/NOVA-PLACAS/copcarru.txd",
+        "modloader/NOVA-PLACAS/copcarsf.dff",
+        "modloader/NOVA-PLACAS/copcarsf.txd",
+        "modloader/NOVA-PLACAS/copcarvg.dff",
+        "modloader/NOVA-PLACAS/copcarvg.txd",
+        "modloader/NOVA-PLACAS/firetruk.dff",
+        "modloader/NOVA-PLACAS/firetruk.txd",
+        "modloader/NOVA-PLACAS/patriot.dff",
+        "modloader/NOVA-PLACAS/patriot.txd",
+        "modloader/NOVA-PLACAS/pizzaboy.dff",
+        "modloader/NOVA-PLACAS/pizzaboy.txd",
+        "modloader/NOVA-PLACAS/securica.dff",
+        "modloader/NOVA-PLACAS/securica.txd",
+        "modloader/NOVA-PLACAS/trash.dff",
+        "modloader/NOVA-PLACAS/trash.txd"
       ],
       "mods": []
     }
   },
-  "minimumGameBuild": 144
+  "minimumGameBuild": 148
 }
