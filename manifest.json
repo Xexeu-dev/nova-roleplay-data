@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 4,
-  "updatedAt": "2026-08-15T16:02:55.251Z",
+  "dataVersion": 5,
+  "updatedAt": "2026-11-04T00:55:15.741Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -45,6 +45,15 @@
       "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v2/ped.ifp",
       "sha256": "f7483f49080a0f833dc73ef09aa2224f99a9e90757fa5c2b7db5505cbef33eac",
       "sizeBytes": 1433248,
+      "deletes": []
+    },
+    {
+      "kind": "package",
+      "version": 5,
+      "fromVersion": 4,
+      "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v5-skins-b60189cf/NOVA-MOBILE-SKINS-v5.zip",
+      "sha256": "b60189cf70a3d7691e84774dc0336fcaca654a05486b017f3b1816e927a9d753",
+      "sizeBytes": 114891346,
       "deletes": []
     }
   ],
@@ -1366,8 +1375,8 @@
     },
     {
       "path": "texdb/gta3.img",
-      "sizeBytes": 283521024,
-      "sha256": "103902ea06b479b146d54255e7a8f949b162d790f3de81c67f6c67ea07f34a3f"
+      "sizeBytes": 283856896,
+      "sha256": "90900f72d4bea184688347ca6111bce8d225635b8b7dcf43e227e639098c9d74"
     },
     {
       "path": "texdb/gta3/gta3.etc.dat",
@@ -1683,6 +1692,26 @@
       "path": "Textures/fonts/RussianFont.png",
       "sizeBytes": 38743,
       "sha256": "125f18a883f4861787346ea02a4d84cefc4821f85962bfe7619ea90018649f8e"
+    },
+    {
+      "path": "texdb/nova_mods/nova_mods.txt",
+      "sizeBytes": 455,
+      "sha256": "1ee45ad41bf7194ba13a1f2fbea8b5b0edba487301e9431fb4464c7806fb5a49"
+    },
+    {
+      "path": "texdb/nova_mods/nova_mods.unc.dat",
+      "sizeBytes": 2359374,
+      "sha256": "85ff81a069c0d674b263340fb710a6b8fd6ede6f78135bb8eec94dec5373518b"
+    },
+    {
+      "path": "texdb/nova_mods/nova_mods.unc.tmb",
+      "sizeBytes": 100,
+      "sha256": "0d9750f5286f996943e25c49f61550292ce42e1b0e78d6be96ba35ce26273872"
+    },
+    {
+      "path": "texdb/nova_mods/nova_mods.unc.toc",
+      "sizeBytes": 24,
+      "sha256": "111e784a888ff0f01aca85c40541e013ea443a5ece224538e4147cc67b01cab8"
     }
   ],
   "platforms": {
@@ -16326,5 +16355,6 @@
       ],
       "mods": []
     }
-  }
+  },
+  "minimumGameBuild": 143
 }
