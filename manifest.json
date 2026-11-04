@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 5,
-  "updatedAt": "2026-11-04T00:55:15.741Z",
+  "dataVersion": 6,
+  "updatedAt": "2026-11-04T01:07:26.094Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -49,11 +49,10 @@
     },
     {
       "kind": "package",
-      "version": 5,
-      "fromVersion": 4,
-      "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v5-skins-b60189cf/NOVA-MOBILE-SKINS-v5.zip",
-      "sha256": "b60189cf70a3d7691e84774dc0336fcaca654a05486b017f3b1816e927a9d753",
-      "sizeBytes": 114891346,
+      "version": 6,
+      "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v6-mods-4bee5481/NOVA-MOBILE-MODS-v6.zip",
+      "sha256": "4bee5481624aa57478b58b2e42579c34b1ac41437f167c13921f22dc29258daf",
+      "sizeBytes": 224031848,
       "deletes": []
     }
   ],
@@ -1375,8 +1374,8 @@
     },
     {
       "path": "texdb/gta3.img",
-      "sizeBytes": 283856896,
-      "sha256": "90900f72d4bea184688347ca6111bce8d225635b8b7dcf43e227e639098c9d74"
+      "sizeBytes": 499417088,
+      "sha256": "f0a8badb6f5a44429440a342fb66c812e4f1d8d0a44c7683a78b16ca812bb327"
     },
     {
       "path": "texdb/gta3/gta3.etc.dat",
@@ -1695,23 +1694,23 @@
     },
     {
       "path": "texdb/nova_mods/nova_mods.txt",
-      "sizeBytes": 455,
-      "sha256": "1ee45ad41bf7194ba13a1f2fbea8b5b0edba487301e9431fb4464c7806fb5a49"
+      "sizeBytes": 28338,
+      "sha256": "8ae7ae695f44f0186e250ac22e99762e5503bfedf4d879be88736a88c28fa2bf"
     },
     {
       "path": "texdb/nova_mods/nova_mods.unc.dat",
-      "sizeBytes": 2359374,
-      "sha256": "85ff81a069c0d674b263340fb710a6b8fd6ede6f78135bb8eec94dec5373518b"
+      "sizeBytes": 128729296,
+      "sha256": "bfa85d235ff7d0642216802901467b581ecf06c23c58370e6f46f01f322114f0"
     },
     {
       "path": "texdb/nova_mods/nova_mods.unc.tmb",
-      "sizeBytes": 100,
-      "sha256": "0d9750f5286f996943e25c49f61550292ce42e1b0e78d6be96ba35ce26273872"
+      "sizeBytes": 7600,
+      "sha256": "6a027ea01f4a56fdb15d7924fd51a059c9f5a5053bfce6948a559aeaf592c53a"
     },
     {
       "path": "texdb/nova_mods/nova_mods.unc.toc",
-      "sizeBytes": 24,
-      "sha256": "111e784a888ff0f01aca85c40541e013ea443a5ece224538e4147cc67b01cab8"
+      "sizeBytes": 1524,
+      "sha256": "15fadc81706f360df6247cf81d056f671c077e1bc430384c0ce13f97f8753af9"
     }
   ],
   "platforms": {
