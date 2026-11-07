@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "dataVersion": 13,
-  "updatedAt": "2026-11-07T20:15:12.305Z",
+  "updatedAt": "2026-11-07T21:53:12.730Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -4189,9 +4189,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 18,
-      "publicationId": "092595a7-fce1-4288-84bb-5db0cd9d5655",
-      "updatedAt": "2026-11-07T20:15:12.305Z",
+      "dataVersion": 19,
+      "publicationId": "ef15d7e7-1f36-4512-908c-86a4c3c6ccd2",
+      "updatedAt": "2026-11-07T21:53:12.730Z",
       "distributionMode": "official",
       "files": [
         {
@@ -17404,9 +17404,9 @@
         },
         {
           "path": "MoonLoader/NOVA-Phone.lua",
-          "sizeBytes": 12330,
-          "sha256": "8bacef1d812ae400dc238b0f01564749df0a391960f9aa1e26a1293f61062a67",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v17-input-8bacef1d/8bacef1d812ae400dc238b0f01564749df0a391960f9aa1e26a1293f61062a67-NOVA-Phone.lua"
+          "sizeBytes": 12532,
+          "sha256": "c62c85eaa316455217817191536dbd6a4806eec6cd26fbb3431cef6afe8d35cf",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v19-phone-c62c85ea/c62c85eaa316455217817191536dbd6a4806eec6cd26fbb3431cef6afe8d35cf-NOVA-Phone.lua"
         },
         {
           "path": "MoonLoader/NOVA-VoiceRecovery.lua",
