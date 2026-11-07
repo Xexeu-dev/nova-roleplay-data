@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 12,
-  "updatedAt": "2026-11-04T17:35:30.360279+00:00",
+  "dataVersion": 13,
+  "updatedAt": "2026-11-07T18:09:16.110Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -111,6 +111,15 @@
       "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v12-sync-0ae4ee9e/NOVA-DATA-v12-sync.zip",
       "sha256": "0ae4ee9e7a253dd16afaa34ce076caf8d0fb87d774b3a286a8be9837209dbdbd",
       "sizeBytes": 2894718,
+      "deletes": []
+    },
+    {
+      "kind": "package",
+      "version": 13,
+      "fromVersion": 12,
+      "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v13-streamini-1c6d2935/NOVA-DATA-v13-stream.ini.zip",
+      "sha256": "1c6d29352f1b414c692d82994355e2fb7030821195db759c04204eaef261dd24",
+      "sizeBytes": 242,
       "deletes": []
     }
   ],
@@ -3198,6 +3207,12 @@
         "archiveSizeBytes": 361532214,
         "compression": 8
       }
+    },
+    {
+      "path": "stream.ini",
+      "sizeBytes": 197,
+      "sha256": "e5b4ac3e7797a271660a091bdc0e4663beedcab43acaee2473086ca8f925a148",
+      "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v13-streamini-1c6d2935/stream.ini"
     },
     {
       "path": "texdb/gta_int.img",
@@ -18964,6 +18979,6 @@
       "mods": []
     }
   },
-  "minimumGameBuild": 150,
+  "minimumGameBuild": 151,
   "fileSyncSchema": 1
 }
