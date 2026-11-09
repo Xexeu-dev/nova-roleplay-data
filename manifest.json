@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 13,
-  "updatedAt": "2026-11-07T21:53:12.730Z",
+  "dataVersion": 14,
+  "updatedAt": "2026-11-09T14:12:59.687734+00:00",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -120,6 +120,15 @@
       "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v13-streamini-1c6d2935/NOVA-DATA-v13-stream.ini.zip",
       "sha256": "1c6d29352f1b414c692d82994355e2fb7030821195db759c04204eaef261dd24",
       "sizeBytes": 242,
+      "deletes": []
+    },
+    {
+      "kind": "package",
+      "version": 14,
+      "fromVersion": 13,
+      "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v14-maverick-6f0e155e/NOVA-DATA-v14-maverick.zip",
+      "sha256": "6f0e155efbe43761819053dd3500a82cb3f2aa950d86a5fdc2943c154cb95c1b",
+      "sizeBytes": 297972976,
       "deletes": []
     }
   ],
@@ -3288,13 +3297,13 @@
     },
     {
       "path": "texdb/gta3.img",
-      "sha256": "b23f29f99081b4019c6fbde6895d00a293002c650f243430ad260d8955bc9933",
-      "sizeBytes": 615778304,
+      "sha256": "506ef601d0884e7d6f52f964c3ebbb5b7e7648b2356851434bbdf1b85fac8ba5",
+      "sizeBytes": 614627328,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v11-trucks-21ccbbe1/NOVA-DATA-v11-trucks.zip",
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v14-maverick-6f0e155e/NOVA-DATA-v14-maverick.zip",
         "start": 44,
-        "sizeBytes": 262383536,
-        "archiveSizeBytes": 298037733,
+        "sizeBytes": 262198708,
+        "archiveSizeBytes": 297972976,
         "compression": 8
       }
     },
@@ -4056,49 +4065,49 @@
     },
     {
       "path": "texdb/nova_mods/nova_mods.txt",
-      "sha256": "576c4525738cc6ea2c97b60ce1703154c6db0367683e8a23b5623ba53bb02ba6",
-      "sizeBytes": 50922,
+      "sha256": "79a8ba6267db5cea721d8da205f1f5bdaf90afd17ef859ec6af93f2dca73ce25",
+      "sizeBytes": 51650,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v11-trucks-21ccbbe1/NOVA-DATA-v11-trucks.zip",
-        "start": 298028658,
-        "sizeBytes": 8681,
-        "archiveSizeBytes": 298037733,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v14-maverick-6f0e155e/NOVA-DATA-v14-maverick.zip",
+        "start": 262198811,
+        "sizeBytes": 8830,
+        "archiveSizeBytes": 297972976,
         "compression": 8
       }
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.dat",
-      "sha256": "ad44efb537585227fcfbc9d65ba5f8b328234cde177deae7ed46d5c1d95b40c5",
-      "sizeBytes": 216715506,
+      "sha256": "36728ee1174f9894e143515d323cb90f4269a60c9aa78d89908cbc0450fdf49b",
+      "sizeBytes": 217731452,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v11-trucks-21ccbbe1/NOVA-DATA-v11-trucks.zip",
-        "start": 262383643,
-        "sizeBytes": 35637958,
-        "archiveSizeBytes": 298037733,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v14-maverick-6f0e155e/NOVA-DATA-v14-maverick.zip",
+        "start": 262207704,
+        "sizeBytes": 35757785,
+        "archiveSizeBytes": 297972976,
         "compression": 8
       }
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.tmb",
-      "sha256": "d43f04992d361bdf852d9829c7e9e1748e9d8f1b8f65c5f45f6444fcd761457e",
-      "sizeBytes": 13140,
+      "sha256": "495a76f110e21dd7932acfef936a854952b55a801eccee28e96f66c6db8d19e1",
+      "sizeBytes": 13320,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v11-trucks-21ccbbe1/NOVA-DATA-v11-trucks.zip",
-        "start": 298021664,
-        "sizeBytes": 4375,
-        "archiveSizeBytes": 298037733,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v14-maverick-6f0e155e/NOVA-DATA-v14-maverick.zip",
+        "start": 297968145,
+        "sizeBytes": 4437,
+        "archiveSizeBytes": 297972976,
         "compression": 8
       }
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.toc",
-      "sha256": "be781a009891e8dbe4168e81d0888b9e2741bd22930dc92cd8f95e4cd5b01172",
-      "sizeBytes": 2632,
+      "sha256": "5f12d9b1fa777d8e9b73dd764ca69e0e5115dbbef2233c3df54182444c09539b",
+      "sizeBytes": 2668,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v11-trucks-21ccbbe1/NOVA-DATA-v11-trucks.zip",
-        "start": 298026102,
-        "sizeBytes": 2497,
-        "archiveSizeBytes": 298037733,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v14-maverick-6f0e155e/NOVA-DATA-v14-maverick.zip",
+        "start": 297965552,
+        "sizeBytes": 2530,
+        "archiveSizeBytes": 297972976,
         "compression": 8
       }
     },
@@ -4189,9 +4198,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 19,
-      "publicationId": "ef15d7e7-1f36-4512-908c-86a4c3c6ccd2",
-      "updatedAt": "2026-11-07T21:53:12.730Z",
+      "dataVersion": 20,
+      "publicationId": "71b0b9a5-a700-4363-8246-529705cdc5d1",
+      "updatedAt": "2026-11-09T14:12:59.687734+00:00",
       "distributionMode": "official",
       "files": [
         {
@@ -17835,15 +17844,15 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/maverick/maverick.dff",
-          "sizeBytes": 2035712,
-          "sha256": "5da2f4fd8771200a4d463ba3005442eaba1a12bfc6053a9f9cc4f41a9595708a",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v14-veiculos-2b240ae1/5da2f4fd8771200a4d463ba3005442eaba1a12bfc6053a9f9cc4f41a9595708a-maverick.dff"
+          "sha256": "bea8be63fe49669fc57fe251789cfc806276dff88c8f18849ca4c9777918530a",
+          "sizeBytes": 885820,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v20-maverick-6f0e155e/bea8be63fe49669fc57fe251789cfc806276dff88c8f18849ca4c9777918530a-maverick.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/maverick/maverick.txd",
-          "sizeBytes": 1251304,
-          "sha256": "07bd2e376d865fc6cff53a8e2f445d821932ee6b9b076013936242ce024b8533",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v14-veiculos-2b240ae1/07bd2e376d865fc6cff53a8e2f445d821932ee6b9b076013936242ce024b8533-maverick.txd"
+          "sha256": "c68650e06dbc48707ded9f9267f23a005e6d7e60cc385bfdc5d3fd58cf23dc35",
+          "sizeBytes": 620072,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v20-maverick-6f0e155e/c68650e06dbc48707ded9f9267f23a005e6d7e60cc385bfdc5d3fd58cf23dc35-maverick.txd"
         },
         {
           "path": "modloader/NOVA-VEICULOS/vortex/vortex.dff",
