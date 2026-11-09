@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 14,
-  "updatedAt": "2026-11-09T14:12:59.687734+00:00",
+  "dataVersion": 15,
+  "updatedAt": "2026-11-09T15:39:45.827751+00:00",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -129,6 +129,15 @@
       "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v14-maverick-6f0e155e/NOVA-DATA-v14-maverick.zip",
       "sha256": "6f0e155efbe43761819053dd3500a82cb3f2aa950d86a5fdc2943c154cb95c1b",
       "sizeBytes": 297972976,
+      "deletes": []
+    },
+    {
+      "kind": "package",
+      "version": 15,
+      "fromVersion": 14,
+      "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v15-bypdx-mural-eca7f4ff/NOVA-DATA-v15-bypdx-mural.zip",
+      "sha256": "eca7f4fff71b91ce1ff98a9ff549947da7ecbdfc33bccc7010816d1e7e802b7f",
+      "sizeBytes": 299940546,
       "deletes": []
     }
   ],
@@ -3297,13 +3306,13 @@
     },
     {
       "path": "texdb/gta3.img",
-      "sha256": "506ef601d0884e7d6f52f964c3ebbb5b7e7648b2356851434bbdf1b85fac8ba5",
-      "sizeBytes": 614627328,
+      "sha256": "19439b7a73e92d3b551185e1a26dad215bc9e0959b6b0d847fc420eefa27d4b8",
+      "sizeBytes": 616873984,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v14-maverick-6f0e155e/NOVA-DATA-v14-maverick.zip",
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v15-bypdx-mural-eca7f4ff/NOVA-DATA-v15-bypdx-mural.zip",
         "start": 44,
-        "sizeBytes": 262198708,
-        "archiveSizeBytes": 297972976,
+        "sizeBytes": 263040994,
+        "archiveSizeBytes": 299940546,
         "compression": 8
       }
     },
@@ -4065,49 +4074,49 @@
     },
     {
       "path": "texdb/nova_mods/nova_mods.txt",
-      "sha256": "79a8ba6267db5cea721d8da205f1f5bdaf90afd17ef859ec6af93f2dca73ce25",
-      "sizeBytes": 51650,
+      "sha256": "aca1354a94f27f0ae582e96b1a6dbc04b8cec741196146a57dc4882826795ff7",
+      "sizeBytes": 53448,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v14-maverick-6f0e155e/NOVA-DATA-v14-maverick.zip",
-        "start": 262198811,
-        "sizeBytes": 8830,
-        "archiveSizeBytes": 297972976,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v15-bypdx-mural-eca7f4ff/NOVA-DATA-v15-bypdx-mural.zip",
+        "start": 263041097,
+        "sizeBytes": 9216,
+        "archiveSizeBytes": 299940546,
         "compression": 8
       }
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.dat",
-      "sha256": "36728ee1174f9894e143515d323cb90f4269a60c9aa78d89908cbc0450fdf49b",
-      "sizeBytes": 217731452,
+      "sha256": "da5410bd5fec42bd1c7c64a14b4def2e22c2d2fdba1808a13dec9dd81c0e95e6",
+      "sizeBytes": 226046684,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v14-maverick-6f0e155e/NOVA-DATA-v14-maverick.zip",
-        "start": 262207704,
-        "sizeBytes": 35757785,
-        "archiveSizeBytes": 297972976,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v15-bypdx-mural-eca7f4ff/NOVA-DATA-v15-bypdx-mural.zip",
+        "start": 263050376,
+        "sizeBytes": 36882447,
+        "archiveSizeBytes": 299940546,
         "compression": 8
       }
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.tmb",
-      "sha256": "495a76f110e21dd7932acfef936a854952b55a801eccee28e96f66c6db8d19e1",
-      "sizeBytes": 13320,
+      "sha256": "6e02a9064e18cd7e5c7831269ccaac3b405aad89fea04941be4f60ab9c408d22",
+      "sizeBytes": 13760,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v14-maverick-6f0e155e/NOVA-DATA-v14-maverick.zip",
-        "start": 297968145,
-        "sizeBytes": 4437,
-        "archiveSizeBytes": 297972976,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v15-bypdx-mural-eca7f4ff/NOVA-DATA-v15-bypdx-mural.zip",
+        "start": 299935565,
+        "sizeBytes": 4587,
+        "archiveSizeBytes": 299940546,
         "compression": 8
       }
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.toc",
-      "sha256": "5f12d9b1fa777d8e9b73dd764ca69e0e5115dbbef2233c3df54182444c09539b",
-      "sizeBytes": 2668,
+      "sha256": "4c255e66f479dab175ac336fe5b9c374d4056ff6014ebf5813077131d93d4981",
+      "sizeBytes": 2756,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v14-maverick-6f0e155e/NOVA-DATA-v14-maverick.zip",
-        "start": 297965552,
-        "sizeBytes": 2530,
-        "archiveSizeBytes": 297972976,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v15-bypdx-mural-eca7f4ff/NOVA-DATA-v15-bypdx-mural.zip",
+        "start": 299932886,
+        "sizeBytes": 2616,
+        "archiveSizeBytes": 299940546,
         "compression": 8
       }
     },
@@ -4198,9 +4207,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 20,
-      "publicationId": "71b0b9a5-a700-4363-8246-529705cdc5d1",
-      "updatedAt": "2026-11-09T14:12:59.687734+00:00",
+      "dataVersion": 21,
+      "publicationId": "22150192-e434-402a-92a9-d358778fcc27",
+      "updatedAt": "2026-11-09T15:39:45.827751+00:00",
       "distributionMode": "official",
       "files": [
         {
@@ -17973,6 +17982,24 @@
           "sizeBytes": 24955,
           "sha256": "6c2775f78826c124f22349c8c6ae827ed482955fea6dfca199c606111bc51048",
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v16-phone-a88c96d2/6c2775f78826c124f22349c8c6ae827ed482955fea6dfca199c606111bc51048-phone_legacy.lua"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/emmet.dff",
+          "sha256": "fb59a9a6a41df6dc838deac7d779f06f02c69568bdb9061cd6fcfe4d7f5ce6ba",
+          "sizeBytes": 2287523,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v21-bypdx-mural-eca7f4ff/fb59a9a6a41df6dc838deac7d779f06f02c69568bdb9061cd6fcfe4d7f5ce6ba-emmet.dff"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/emmet.txd",
+          "sha256": "091350c8a5b6e93fbad41f19c9fb1e9141450ac61d3af131cf25260990f1a2da",
+          "sizeBytes": 2524136,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v21-bypdx-mural-eca7f4ff/091350c8a5b6e93fbad41f19c9fb1e9141450ac61d3af131cf25260990f1a2da-emmet.txd"
+        },
+        {
+          "path": "modloader/NOVA-MURAIS/eastlstr_lae2.txd",
+          "sha256": "8be06d74d699aee35f20b5d0ca567478bf48ae2e98aa485c8d474d623eeedbb7",
+          "sizeBytes": 4683944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v21-bypdx-mural-eca7f4ff/8be06d74d699aee35f20b5d0ca567478bf48ae2e98aa485c8d474d623eeedbb7-eastlstr_lae2.txd"
         }
       ],
       "deletes": [
