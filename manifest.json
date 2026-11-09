@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 17,
-  "updatedAt": "2026-11-09T16:22:06.611188+00:00",
+  "dataVersion": 18,
+  "updatedAt": "2026-11-09T19:27:55.292354+00:00",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -157,18 +157,27 @@
       "sha256": "9cfddc140a357f7a92f627320f582436bdaefc86626e475426e217dad8a373e9",
       "sizeBytes": 363040818,
       "deletes": []
+    },
+    {
+      "kind": "package",
+      "version": 18,
+      "fromVersion": 17,
+      "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v18-iphone-pickups-ac5a1d54/NOVA-DATA-v18-iphone-pickups-fonts.zip",
+      "sha256": "ac5a1d54427c08b5bc3bf70d09f1779faa21ecbc9865b40b9ef90dfc0e7185f7",
+      "sizeBytes": 381060940,
+      "deletes": []
     }
   ],
   "files": [
     {
       "path": "anim/anim.img",
-      "sizeBytes": 10942464,
-      "sha256": "bdde1f918fb12e4b4b9e46927f8a0281b6d80b85551b716e74cca68c6c9138ae",
+      "sha256": "1a2effa6f69f47ae6e923bdced2158ac5d8ebd50af9c1eafa636d17a5e73d7d8",
+      "sizeBytes": 10964992,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v1/nova-data-base-v1.zip",
-        "start": 450490,
-        "sizeBytes": 5538292,
-        "archiveSizeBytes": 361532214,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v18-iphone-pickups-ac5a1d54/NOVA-DATA-v18-iphone-pickups-fonts.zip",
+        "start": 372273874,
+        "sizeBytes": 5545341,
+        "archiveSizeBytes": 381060940,
         "compression": 8
       }
     },
@@ -1122,13 +1131,13 @@
     },
     {
       "path": "data/fonts.dat",
-      "sizeBytes": 3576,
-      "sha256": "173185446d11a5490ecb80ba67d37995eaf11ab8a3f465b6bfd1fcdbc1aeae69",
+      "sha256": "41cc8e84b24232344ea5d17c0d440d751f3f4516b9a46cccfa723501c5c12889",
+      "sizeBytes": 3410,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v1/nova-data-base-v1.zip",
-        "start": 61417568,
-        "sizeBytes": 1214,
-        "archiveSizeBytes": 361532214,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v18-iphone-pickups-ac5a1d54/NOVA-DATA-v18-iphone-pickups-fonts.zip",
+        "start": 378009830,
+        "sizeBytes": 1160,
+        "archiveSizeBytes": 381060940,
         "compression": 8
       }
     },
@@ -3066,37 +3075,37 @@
     },
     {
       "path": "MODELS/FONTS.TXD",
-      "sizeBytes": 2097448,
-      "sha256": "cdf9ff4fbf10993b5a137c7bbb27b658e3a47e7cb8cabef51da9e92e1f9c7e35",
+      "sha256": "76d242b9e5cd4718381a78c00bb456b10b95b579507c3eae1dd1cfb8b22060fa",
+      "sizeBytes": 6641316,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v1/nova-data-base-v1.zip",
-        "start": 361410631,
-        "sizeBytes": 95834,
-        "archiveSizeBytes": 361532214,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v18-iphone-pickups-ac5a1d54/NOVA-DATA-v18-iphone-pickups-fonts.zip",
+        "start": 380678898,
+        "sizeBytes": 190461,
+        "archiveSizeBytes": 381060940,
         "compression": 8
       }
     },
     {
       "path": "models/fonts.txd",
-      "sizeBytes": 2097448,
-      "sha256": "cdf9ff4fbf10993b5a137c7bbb27b658e3a47e7cb8cabef51da9e92e1f9c7e35",
+      "sha256": "76d242b9e5cd4718381a78c00bb456b10b95b579507c3eae1dd1cfb8b22060fa",
+      "sizeBytes": 6641316,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v1/nova-data-base-v1.zip",
-        "start": 361122979,
-        "sizeBytes": 95834,
-        "archiveSizeBytes": 361532214,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v18-iphone-pickups-ac5a1d54/NOVA-DATA-v18-iphone-pickups-fonts.zip",
+        "start": 377819325,
+        "sizeBytes": 190461,
+        "archiveSizeBytes": 381060940,
         "compression": 8
       }
     },
     {
       "path": "models/FONTS.TXD",
-      "sizeBytes": 2097448,
-      "sha256": "cdf9ff4fbf10993b5a137c7bbb27b658e3a47e7cb8cabef51da9e92e1f9c7e35",
+      "sha256": "76d242b9e5cd4718381a78c00bb456b10b95b579507c3eae1dd1cfb8b22060fa",
+      "sizeBytes": 6641316,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v1/nova-data-base-v1.zip",
-        "start": 361218865,
-        "sizeBytes": 95834,
-        "archiveSizeBytes": 361532214,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v18-iphone-pickups-ac5a1d54/NOVA-DATA-v18-iphone-pickups-fonts.zip",
+        "start": 380869405,
+        "sizeBytes": 190461,
+        "archiveSizeBytes": 381060940,
         "compression": 8
       }
     },
@@ -3324,13 +3333,13 @@
     },
     {
       "path": "texdb/gta3.img",
-      "sha256": "1a64ba89012ec60df20cdb923b6d46c0ce60068119d9ada62daff4501e9700e0",
-      "sizeBytes": 720414720,
+      "sha256": "385eebd5f2076134101ee0ec2c5993e3c4045f347f20c5d161cf585903f11bd1",
+      "sizeBytes": 721694720,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v17-gols-9cfddc14/NOVA-DATA-v17-gols.zip",
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v18-iphone-pickups-ac5a1d54/NOVA-DATA-v18-iphone-pickups-fonts.zip",
         "start": 44,
-        "sizeBytes": 309100710,
-        "archiveSizeBytes": 363040818,
+        "sizeBytes": 309598067,
+        "archiveSizeBytes": 381060940,
         "compression": 8
       }
     },
@@ -3696,13 +3705,13 @@
     },
     {
       "path": "texdb/samp.img",
-      "sizeBytes": 36902912,
-      "sha256": "c9862e8d7fae6961103d09cfc3771bc8c56e7f2bcbf18e86acaa90a1aca5ecf7",
+      "sha256": "8d8105ef449684a5e0bb7daff0372da44fb25abd5ddd0dbe7e5bc69f83f4952b",
+      "sizeBytes": 36055040,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v1/nova-data-base-v1.zip",
-        "start": 210142639,
-        "sizeBytes": 11389092,
-        "archiveSizeBytes": 361532214,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v18-iphone-pickups-ac5a1d54/NOVA-DATA-v18-iphone-pickups-fonts.zip",
+        "start": 309598155,
+        "sizeBytes": 10877188,
+        "archiveSizeBytes": 381060940,
         "compression": 8
       }
     },
@@ -3912,49 +3921,49 @@
     },
     {
       "path": "texdb/txd/txd.etc.dat",
-      "sizeBytes": 9422056,
-      "sha256": "334da08bbea999d761e2b0fd1e438b904d4fed634c34fe8dabe741d087602d92",
+      "sha256": "cfc58815921f994fcb508ee53c96b452fe9aac28d99fe1822f74c29955d20073",
+      "sizeBytes": 13314978,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v1/nova-data-base-v1.zip",
-        "start": 355468469,
-        "sizeBytes": 2666935,
-        "archiveSizeBytes": 361532214,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v18-iphone-pickups-ac5a1d54/NOVA-DATA-v18-iphone-pickups-fonts.zip",
+        "start": 378021813,
+        "sizeBytes": 2635292,
+        "archiveSizeBytes": 381060940,
         "compression": 8
       }
     },
     {
       "path": "texdb/txd/txd.etc.tmb",
+      "sha256": "b5f62b003f3003db1e3655b6d48cb1003cda6010bf9ffc5e5cf0f86c28354b0f",
       "sizeBytes": 49460,
-      "sha256": "9a8be97a60ebed79ecb7523144115451b59841b0249f6671164655433c4d29bb",
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v1/nova-data-base-v1.zip",
-        "start": 358135461,
-        "sizeBytes": 19799,
-        "archiveSizeBytes": 361532214,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v18-iphone-pickups-ac5a1d54/NOVA-DATA-v18-iphone-pickups-fonts.zip",
+        "start": 380659048,
+        "sizeBytes": 19804,
+        "archiveSizeBytes": 381060940,
         "compression": 8
       }
     },
     {
       "path": "texdb/txd/txd.etc.toc",
+      "sha256": "94b956b244e7c73c76a3b1722bea1f3d6feea1b855c288ec53937196ba11d39c",
       "sizeBytes": 2376,
-      "sha256": "96273b1bfc990b78023e553659b01807c36966fd437d21ebfe1f54dc86355c1a",
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v1/nova-data-base-v1.zip",
-        "start": 358155317,
-        "sizeBytes": 1829,
-        "archiveSizeBytes": 361532214,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v18-iphone-pickups-ac5a1d54/NOVA-DATA-v18-iphone-pickups-fonts.zip",
+        "start": 380657156,
+        "sizeBytes": 1841,
+        "archiveSizeBytes": 381060940,
         "compression": 8
       }
     },
     {
       "path": "texdb/txd/txd.txt",
-      "sizeBytes": 43193,
-      "sha256": "4feef74e4628ac9310ebd378be086cc1a998467e90eabd6e9d32d6bec1424810",
+      "sha256": "fd281747e1ccd3061bbc37510030c86d5af2e8b17c7e4b95f5577477d0157cec",
+      "sizeBytes": 43737,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v1/nova-data-base-v1.zip",
-        "start": 358157199,
-        "sizeBytes": 10670,
-        "archiveSizeBytes": 361532214,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v18-iphone-pickups-ac5a1d54/NOVA-DATA-v18-iphone-pickups-fonts.zip",
+        "start": 378011037,
+        "sizeBytes": 10725,
+        "archiveSizeBytes": 381060940,
         "compression": 8
       }
     },
@@ -4092,49 +4101,49 @@
     },
     {
       "path": "texdb/nova_mods/nova_mods.txt",
-      "sha256": "0f1fbef599c8a6bdc27b8554dbd28ff16532416d8f5d48dae5e17ac8b02bf609",
-      "sizeBytes": 71731,
+      "sha256": "917726fcfe5676336ed16e64e4f1bdb4d37176089a567d9dbaa3919127490907",
+      "sizeBytes": 73917,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v17-gols-9cfddc14/NOVA-DATA-v17-gols.zip",
-        "start": 309100813,
-        "sizeBytes": 12644,
-        "archiveSizeBytes": 363040818,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v18-iphone-pickups-ac5a1d54/NOVA-DATA-v18-iphone-pickups-fonts.zip",
+        "start": 320475402,
+        "sizeBytes": 13060,
+        "archiveSizeBytes": 381060940,
         "compression": 8
       }
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.dat",
-      "sha256": "1a90f752bdf544928111fa1bb6c31247e9c7911134a8400a7ec7d0100926f8b2",
-      "sizeBytes": 303667968,
+      "sha256": "1ef020cd97e53f1eea0a0772cb01f8922694c099647e787d80c1a379516d9788",
+      "sizeBytes": 311260318,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v17-gols-9cfddc14/NOVA-DATA-v17-gols.zip",
-        "start": 309113520,
-        "sizeBytes": 51057401,
-        "archiveSizeBytes": 363040818,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v18-iphone-pickups-ac5a1d54/NOVA-DATA-v18-iphone-pickups-fonts.zip",
+        "start": 320488525,
+        "sizeBytes": 51775367,
+        "archiveSizeBytes": 381060940,
         "compression": 8
       }
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.tmb",
-      "sha256": "42a50d8a466e760dcf2acd51532e0cb6ca4556d4fad76f4130efa61fb6242c8f",
-      "sizeBytes": 18240,
+      "sha256": "4d5444634c345b84b6ab100ec2660dce917db02fb4e6d1a1b0c3717943300185",
+      "sizeBytes": 18780,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v17-gols-9cfddc14/NOVA-DATA-v17-gols.zip",
-        "start": 360174534,
-        "sizeBytes": 6041,
-        "archiveSizeBytes": 363040818,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v18-iphone-pickups-ac5a1d54/NOVA-DATA-v18-iphone-pickups-fonts.zip",
+        "start": 372263955,
+        "sizeBytes": 6220,
+        "archiveSizeBytes": 381060940,
         "compression": 8
       }
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.toc",
-      "sha256": "a2f102ba04af450d79bae0173852f533d0b2c891032c6660ecfaa95a5217e325",
-      "sizeBytes": 3652,
+      "sha256": "c8f6f8d7deef8c4c751651cd9bef6bb909f74205462b73e4624e4ebe236096af",
+      "sizeBytes": 3760,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v17-gols-9cfddc14/NOVA-DATA-v17-gols.zip",
-        "start": 360170984,
-        "sizeBytes": 3487,
-        "archiveSizeBytes": 363040818,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v18-iphone-pickups-ac5a1d54/NOVA-DATA-v18-iphone-pickups-fonts.zip",
+        "start": 372270238,
+        "sizeBytes": 3593,
+        "archiveSizeBytes": 381060940,
         "compression": 8
       }
     },
@@ -4221,20 +4230,32 @@
         "archiveSizeBytes": 363040818,
         "compression": 8
       }
+    },
+    {
+      "path": "ru.lc",
+      "sha256": "8db601b4f84febc21a1b65dc71fb1fc4226473d3a0d7f5e784916b2d5b40be8d",
+      "sizeBytes": 27,
+      "source": {
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v18-iphone-pickups-ac5a1d54/NOVA-DATA-v18-iphone-pickups-fonts.zip",
+        "start": 377819250,
+        "sizeBytes": 29,
+        "archiveSizeBytes": 381060940,
+        "compression": 8
+      }
     }
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 23,
-      "publicationId": "464ae537-27b4-4168-afd7-aa301dcaeb23",
-      "updatedAt": "2026-11-09T16:22:06.611188+00:00",
+      "dataVersion": 24,
+      "publicationId": "ef776946-5c1a-43e2-af69-3b2c4fa364ce",
+      "updatedAt": "2026-11-09T19:27:55.292354+00:00",
       "distributionMode": "official",
       "files": [
         {
           "path": "anim/anim.img",
-          "sizeBytes": 10942464,
-          "sha256": "bdde1f918fb12e4b4b9e46927f8a0281b6d80b85551b716e74cca68c6c9138ae",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/bdde1f918fb12e4b4b9e46927f8a0281b6d80b85551b716e74cca68c6c9138ae-anim.img"
+          "sha256": "1a2effa6f69f47ae6e923bdced2158ac5d8ebd50af9c1eafa636d17a5e73d7d8",
+          "sizeBytes": 10964992,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v24-iphone-pickups-ac5a1d54/1a2effa6f69f47ae6e923bdced2158ac5d8ebd50af9c1eafa636d17a5e73d7d8-anim.img"
         },
         {
           "path": "anim/cuts.img",
@@ -4834,9 +4855,9 @@
         },
         {
           "path": "data/fonts.dat",
-          "sizeBytes": 3316,
-          "sha256": "f915a17b3673023c4c69fddb85d24709365bcdecee8615e5d882ac48721fd538",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v4-d7210caf/f915a17b3673023c4c69fddb85d24709365bcdecee8615e5d882ac48721fd538-fonts.dat"
+          "sha256": "41cc8e84b24232344ea5d17c0d440d751f3f4516b9a46cccfa723501c5c12889",
+          "sizeBytes": 3410,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v24-iphone-pickups-ac5a1d54/41cc8e84b24232344ea5d17c0d440d751f3f4516b9a46cccfa723501c5c12889-fonts.dat"
         },
         {
           "path": "data/fonts/fp_font.dat",
@@ -6238,9 +6259,9 @@
         },
         {
           "path": "models/fonts.txd",
-          "sizeBytes": 2097448,
-          "sha256": "be36090141494c1b3e75c51a56500a9e38e761e5dce41f6ca1c4c893325e7f1b",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v4-d7210caf/be36090141494c1b3e75c51a56500a9e38e761e5dce41f6ca1c4c893325e7f1b-fonts.txd"
+          "sha256": "76d242b9e5cd4718381a78c00bb456b10b95b579507c3eae1dd1cfb8b22060fa",
+          "sizeBytes": 6641316,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v24-iphone-pickups-ac5a1d54/76d242b9e5cd4718381a78c00bb456b10b95b579507c3eae1dd1cfb8b22060fa-fonts.txd"
         },
         {
           "path": "models/fronten_pc.txd",
@@ -17433,9 +17454,9 @@
         },
         {
           "path": "SAMP/SAMP.img",
-          "sizeBytes": 47261696,
-          "sha256": "7755badde82981616e6cdfe7f4be37ded413979f7c881e35ad63b758ca787d2f",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/7755badde82981616e6cdfe7f4be37ded413979f7c881e35ad63b758ca787d2f-SAMP.img"
+          "sha256": "d7b5a8fad5fed6b9bebfda5c6cc6b824486865a36f6cc9006d7b81d2865d436a",
+          "sizeBytes": 48396288,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v24-iphone-pickups-ac5a1d54/d7b5a8fad5fed6b9bebfda5c6cc6b824486865a36f6cc9006d7b81d2865d436a-SAMP.img"
         },
         {
           "path": "SAMP/SAMP.ipl",
@@ -18018,6 +18039,168 @@
           "sha256": "feae3b5ec11d0f985487548ed9434deb50f2e38e4d204c71799437794d30cdfc",
           "sizeBytes": 3440680,
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v23-gols-9cfddc14/feae3b5ec11d0f985487548ed9434deb50f2e38e4d204c71799437794d30cdfc-hermes.txd"
+        },
+        {
+          "path": "modloader/NOVA-PICKUPS/cj_money_bags.txd",
+          "sha256": "965a182968a1d64712614091df127e01c5ae7322289cbfff58e427c004537051",
+          "sizeBytes": 23263988,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v24-iphone-pickups-ac5a1d54/965a182968a1d64712614091df127e01c5ae7322289cbfff58e427c004537051-cj_money_bags.txd"
+        },
+        {
+          "path": "modloader/NOVA-PICKUPS/cj_money_bag.dff",
+          "sha256": "d3aeed6ed244b7cf53fa0dc7a34a650790e07339418be7d18399d4ed9d6b5fd5",
+          "sizeBytes": 385024,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v24-iphone-pickups-ac5a1d54/d3aeed6ed244b7cf53fa0dc7a34a650790e07339418be7d18399d4ed9d6b5fd5-cj_money_bag.dff"
+        },
+        {
+          "path": "modloader/NOVA-PICKUPS/cellphone.txd",
+          "sha256": "62a746b706cfb92f03a2ac7bdb072f2dbe1bc5b2e7819a1573c2cbc8f6ef1d6c",
+          "sizeBytes": 454396,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v24-iphone-pickups-ac5a1d54/62a746b706cfb92f03a2ac7bdb072f2dbe1bc5b2e7819a1573c2cbc8f6ef1d6c-cellphone.txd"
+        },
+        {
+          "path": "modloader/NOVA-PICKUPS/cellphone.dff",
+          "sha256": "26b70f5a1ee9197759ccf7afa705ec671cf5e76f533a58d6c552a2aa2256bd6d",
+          "sizeBytes": 11204,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v24-iphone-pickups-ac5a1d54/26b70f5a1ee9197759ccf7afa705ec671cf5e76f533a58d6c552a2aa2256bd6d-cellphone.dff"
+        },
+        {
+          "path": "modloader/NOVA-PICKUPS/icons8.txd",
+          "sha256": "eb30aa1da5dced8d55ac5d377f31dbdc6d05eb5ef464de7682788a89a501a59c",
+          "sizeBytes": 349756,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v24-iphone-pickups-ac5a1d54/eb30aa1da5dced8d55ac5d377f31dbdc6d05eb5ef464de7682788a89a501a59c-icons8.txd"
+        },
+        {
+          "path": "modloader/NOVA-PICKUPS/adrenaline.dff",
+          "sha256": "add840c9516f62096ab4ac4f5bbd2bd638ad6c5d2b8caba9312a4b5ffb98d233",
+          "sizeBytes": 49152,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v24-iphone-pickups-ac5a1d54/add840c9516f62096ab4ac4f5bbd2bd638ad6c5d2b8caba9312a4b5ffb98d233-adrenaline.dff"
+        },
+        {
+          "path": "modloader/NOVA-PICKUPS/ingame.txd",
+          "sha256": "c91f9168b5651a5dfb9aa93ce0281939db227938ff88428dc985cbf63548404d",
+          "sizeBytes": 2048,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v24-iphone-pickups-ac5a1d54/c91f9168b5651a5dfb9aa93ce0281939db227938ff88428dc985cbf63548404d-ingame.txd"
+        },
+        {
+          "path": "modloader/NOVA-PICKUPS/arrow.dff",
+          "sha256": "fbacaaf18c9921b1758aa3aa95c2590d6b954186b6afcf8677c9c3b4dcf84b46",
+          "sizeBytes": 6144,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v24-iphone-pickups-ac5a1d54/fbacaaf18c9921b1758aa3aa95c2590d6b954186b6afcf8677c9c3b4dcf84b46-arrow.dff"
+        },
+        {
+          "path": "modloader/NOVA-PICKUPS/icons2.txd",
+          "sha256": "911121d31cf9374a6c2e2a2e54c8bc0e5d3a945b18e8e4960d86b2035d7bd357",
+          "sizeBytes": 2796568,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v24-iphone-pickups-ac5a1d54/911121d31cf9374a6c2e2a2e54c8bc0e5d3a945b18e8e4960d86b2035d7bd357-icons2.txd"
+        },
+        {
+          "path": "modloader/NOVA-PICKUPS/bigdollar.dff",
+          "sha256": "5ff58fbfe13f65141a298edbe82d5dec372222a10a8ecd770a69cc193f51f9ff",
+          "sizeBytes": 174080,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v24-iphone-pickups-ac5a1d54/5ff58fbfe13f65141a298edbe82d5dec372222a10a8ecd770a69cc193f51f9ff-bigdollar.dff"
+        },
+        {
+          "path": "modloader/NOVA-PICKUPS/icons9.txd",
+          "sha256": "16685f122bb2d81ce86e8424096c371b9379589c77c194594f2a9efdacb60e6d",
+          "sizeBytes": 1748052,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v24-iphone-pickups-ac5a1d54/16685f122bb2d81ce86e8424096c371b9379589c77c194594f2a9efdacb60e6d-icons9.txd"
+        },
+        {
+          "path": "modloader/NOVA-PICKUPS/bribe.dff",
+          "sha256": "13089983428e44f8a59b7519747d2490992adf508cd4fd92741547848eaeb857",
+          "sizeBytes": 6144,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v24-iphone-pickups-ac5a1d54/13089983428e44f8a59b7519747d2490992adf508cd4fd92741547848eaeb857-bribe.dff"
+        },
+        {
+          "path": "modloader/NOVA-PICKUPS/icons1.txd",
+          "sha256": "412b32866e44065fe0d78f6db539edc01afa66dac3e8b3244362f63816d28dc7",
+          "sizeBytes": 356176,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v24-iphone-pickups-ac5a1d54/412b32866e44065fe0d78f6db539edc01afa66dac3e8b3244362f63816d28dc7-icons1.txd"
+        },
+        {
+          "path": "modloader/NOVA-PICKUPS/clothesp.dff",
+          "sha256": "d6ffdf217f53cf3fca1434fab6cfb44cec59fb070a2fa5725c869680e5f98cde",
+          "sizeBytes": 4748,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v24-iphone-pickups-ac5a1d54/d6ffdf217f53cf3fca1434fab6cfb44cec59fb070a2fa5725c869680e5f98cde-clothesp.dff"
+        },
+        {
+          "path": "modloader/NOVA-PICKUPS/icons5.txd",
+          "sha256": "3edcbb6c14c9418cf40b5e8c7c42d45ecb3d9e6959337e56b260a0ce89448139",
+          "sizeBytes": 525300,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v24-iphone-pickups-ac5a1d54/3edcbb6c14c9418cf40b5e8c7c42d45ecb3d9e6959337e56b260a0ce89448139-icons5.txd"
+        },
+        {
+          "path": "modloader/NOVA-PICKUPS/health.dff",
+          "sha256": "55140b07fbbaa6385e234c7db4bfccae10aaa5b763fe98cfc828ec194728a049",
+          "sizeBytes": 155648,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v24-iphone-pickups-ac5a1d54/55140b07fbbaa6385e234c7db4bfccae10aaa5b763fe98cfc828ec194728a049-health.dff"
+        },
+        {
+          "path": "modloader/NOVA-PICKUPS/icons6.txd",
+          "sha256": "0d47069bc980e5e7888884b77ec7e9d84509768c52ae073822af86cf14a83eee",
+          "sizeBytes": 6492,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v24-iphone-pickups-ac5a1d54/0d47069bc980e5e7888884b77ec7e9d84509768c52ae073822af86cf14a83eee-icons6.txd"
+        },
+        {
+          "path": "modloader/NOVA-PICKUPS/info.dff",
+          "sha256": "764f1abdd8264f52926bdf425524cd1fa9e6af4dc16314677288a395c5cc3bcb",
+          "sizeBytes": 76189,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v24-iphone-pickups-ac5a1d54/764f1abdd8264f52926bdf425524cd1fa9e6af4dc16314677288a395c5cc3bcb-info.dff"
+        },
+        {
+          "path": "modloader/NOVA-PICKUPS/icons.txd",
+          "sha256": "9d2985fbd2ca3d375960681821e28804f9ef37011582fb3bf4114adf69770159",
+          "sizeBytes": 15904,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v24-iphone-pickups-ac5a1d54/9d2985fbd2ca3d375960681821e28804f9ef37011582fb3bf4114adf69770159-icons.txd"
+        },
+        {
+          "path": "modloader/NOVA-PICKUPS/killfrenzy.dff",
+          "sha256": "fd71886bd05f9c134c042da672ebb7e6f34aeeea6fe8e7ff1fd91ca2e4bccb11",
+          "sizeBytes": 114985,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v24-iphone-pickups-ac5a1d54/fd71886bd05f9c134c042da672ebb7e6f34aeeea6fe8e7ff1fd91ca2e4bccb11-killfrenzy.dff"
+        },
+        {
+          "path": "modloader/NOVA-PICKUPS/killfrenzy2plyr.dff",
+          "sha256": "72af168226dce523edfe5d175f64d1d6172f21390ef6927092e97731c9735c88",
+          "sizeBytes": 235099,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v24-iphone-pickups-ac5a1d54/72af168226dce523edfe5d175f64d1d6172f21390ef6927092e97731c9735c88-killfrenzy2plyr.dff"
+        },
+        {
+          "path": "modloader/NOVA-PICKUPS/icons3.txd",
+          "sha256": "021c0b9330d9dc7df6fec531dcc5c74326fc162c960445c43afb7a95ef63feb9",
+          "sizeBytes": 22880,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v24-iphone-pickups-ac5a1d54/021c0b9330d9dc7df6fec531dcc5c74326fc162c960445c43afb7a95ef63feb9-icons3.txd"
+        },
+        {
+          "path": "modloader/NOVA-PICKUPS/property_fsale.dff",
+          "sha256": "ea1973ff56aa760b9742879c191f7d96d52a2316b37463ed0ffa30cbf9d4ef06",
+          "sizeBytes": 52442,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v24-iphone-pickups-ac5a1d54/ea1973ff56aa760b9742879c191f7d96d52a2316b37463ed0ffa30cbf9d4ef06-property_fsale.dff"
+        },
+        {
+          "path": "modloader/NOVA-PICKUPS/icons4.txd",
+          "sha256": "babc10087926ab6b56e0f63f5b3f13c64079737ced2c9091d7c34167a9b21acf",
+          "sizeBytes": 26132,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v24-iphone-pickups-ac5a1d54/babc10087926ab6b56e0f63f5b3f13c64079737ced2c9091d7c34167a9b21acf-icons4.txd"
+        },
+        {
+          "path": "modloader/NOVA-PICKUPS/property_locked.dff",
+          "sha256": "ea1973ff56aa760b9742879c191f7d96d52a2316b37463ed0ffa30cbf9d4ef06",
+          "sizeBytes": 52442,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v24-iphone-pickups-ac5a1d54/ea1973ff56aa760b9742879c191f7d96d52a2316b37463ed0ffa30cbf9d4ef06-property_locked.dff"
+        },
+        {
+          "path": "ru.lc",
+          "sha256": "8db601b4f84febc21a1b65dc71fb1fc4226473d3a0d7f5e784916b2d5b40be8d",
+          "sizeBytes": 27,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v24-iphone-pickups-ac5a1d54/8db601b4f84febc21a1b65dc71fb1fc4226473d3a0d7f5e784916b2d5b40be8d-ru.lc"
+        },
+        {
+          "path": "MoonLoader/NOVA Entry.lua",
+          "sha256": "2c63cbb49f5800295c5f8701752b0c1f5919293f098b551db0959b46c049602c",
+          "sizeBytes": 854,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v24-iphone-pickups-ac5a1d54/2c63cbb49f5800295c5f8701752b0c1f5919293f098b551db0959b46c049602c-NOVA.Entry.lua"
         }
       ],
       "deletes": [
