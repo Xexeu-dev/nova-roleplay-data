@@ -4246,9 +4246,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 26,
-      "publicationId": "0b4eb4fc-b5d0-4b80-a0a3-29d372dc21b2",
-      "updatedAt": "2026-11-10T13:45:01.936Z",
+      "dataVersion": 27,
+      "publicationId": "f4e2edfa-4c2f-488d-9259-d38742e0de38",
+      "updatedAt": "2026-11-10T15:22:58.812Z",
       "distributionMode": "official",
       "files": [
         {
@@ -6451,9 +6451,9 @@
         },
         {
           "path": "models/hud.txd",
-          "sizeBytes": 81684,
-          "sha256": "b5ae12f21ea6745dab798463d0fefa0f537e59c13918360594edbe24c0568484",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/b5ae12f21ea6745dab798463d0fefa0f537e59c13918360594edbe24c0568484-hud.txd"
+          "sha256": "d92d0f1aa71050de7b3ef15f18c078419475d346d1a228a7e3b7e9b8adad0bc9",
+          "sizeBytes": 69396,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-27-round-radar-20261110/d92d0f1aa71050de7b3ef15f18c078419475d346d1a228a7e3b7e9b8adad0bc9-hud.txd"
         },
         {
           "path": "models/LD_RCE1.txd",
