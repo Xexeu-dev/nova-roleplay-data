@@ -4246,9 +4246,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 29,
-      "publicationId": "5de0a291-1510-4aaf-9910-ba367859d35f",
-      "updatedAt": "2026-11-10T17:59:06.387Z",
+      "dataVersion": 30,
+      "publicationId": "51a82324-c2b0-4246-a26d-341b5f6ae882",
+      "updatedAt": "2026-11-10T18:33:27.363Z",
       "distributionMode": "official",
       "files": [
         {
@@ -18237,6 +18237,24 @@
           "sha256": "f34508a5f7aaee712657f48da1bf87ea97fc697e4bf09e9e3554b79c6289fe6d",
           "sizeBytes": 4272,
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-29-entity-guard-20261110/f34508a5f7aaee712657f48da1bf87ea97fc697e4bf09e9e3554b79c6289fe6d-NOVA-EntityGuardCore.lua"
+        },
+        {
+          "path": "MoonLoader/NOVA-VehicleGravity.lua",
+          "sha256": "6902fbc1784716fe4c85133570d030cf41ec1cab2cf61e826785fde46a79aa7f",
+          "sizeBytes": 421,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-30-gravity-sensa-20261110/6902fbc1784716fe4c85133570d030cf41ec1cab2cf61e826785fde46a79aa7f-NOVA-VehicleGravity.lua"
+        },
+        {
+          "path": "MoonLoader/lib/NOVA-VehicleGravityCore.lua",
+          "sha256": "56acf257327d6848a5c80fe919eefb24ac432901668a0a2b0208f95c28227dce",
+          "sizeBytes": 4809,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-30-gravity-sensa-20261110/56acf257327d6848a5c80fe919eefb24ac432901668a0a2b0208f95c28227dce-NOVA-VehicleGravityCore.lua"
+        },
+        {
+          "path": "MoonLoader/sensfix.lua",
+          "sha256": "9f0386fdaee036121afeb0abfb9e8715133bed9e099f4d4293668a647510469a",
+          "sizeBytes": 1162,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-30-gravity-sensa-20261110/9f0386fdaee036121afeb0abfb9e8715133bed9e099f4d4293668a647510469a-sensfix.lua"
         }
       ],
       "deletes": [
@@ -18258,7 +18276,6 @@
         "MoonLoader/lib/iconv/COPYING-libiconv",
         "MoonLoader/lib/iconv/README-libiconv",
         "MoonLoader/lib/iconv/README-lua-iconv",
-        "MoonLoader/sensfix.lua",
         "NOVA-OSFAIXA-CREDITOS-ORIGINAIS.txt",
         "NOVA-OSFAIXA-CREDITOS.txt",
         "NoShadows.asi",
