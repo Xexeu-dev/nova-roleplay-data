@@ -4246,9 +4246,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 24,
-      "publicationId": "ef776946-5c1a-43e2-af69-3b2c4fa364ce",
-      "updatedAt": "2026-11-09T19:27:55.292354+00:00",
+      "dataVersion": 25,
+      "publicationId": "fbe7cadf-469f-4fe7-b563-439feb24dcc3",
+      "updatedAt": "2026-11-10T03:21:21.309Z",
       "distributionMode": "official",
       "files": [
         {
@@ -9883,9 +9883,9 @@
         },
         {
           "path": "MoonLoader/config/gamefixerByPacocaR$.ini",
-          "sizeBytes": 7541,
-          "sha256": "63201ba328e9ad83d1d9d50d63ec059103959826e32acedffb7384e18b55fa7e",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v18-stability-63201ba3/63201ba328e9ad83d1d9d50d63ec059103959826e32acedffb7384e18b55fa7e-gamefixer-stable.ini"
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-25-accessory-particles-20261110/2d89919310b6276f99df3b00a5b049c6f4ed4e8a795ebcb81ffc387dc038f633-gamefixer-defaults.ini",
+          "sha256": "2d89919310b6276f99df3b00a5b049c6f4ed4e8a795ebcb81ffc387dc038f633",
+          "sizeBytes": 7542
         },
         {
           "path": "MoonLoader/config/sensfix.ini",
@@ -9895,9 +9895,9 @@
         },
         {
           "path": "MoonLoader/GameFixer.lua",
-          "sizeBytes": 379472,
-          "sha256": "c44322b5e0439500a19bf3823b3ddbec2f89a25dc59d3830408f1741772f8727",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v5-7d812a00/c44322b5e0439500a19bf3823b3ddbec2f89a25dc59d3830408f1741772f8727-GameFixer.lua"
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-25-accessory-particles-20261110/b09674a90fe9fad4b6a23ed1fa4625233c7f62add1e2ab872b45537b48723e3b-GameFixer.lua",
+          "sha256": "b09674a90fe9fad4b6a23ed1fa4625233c7f62add1e2ab872b45537b48723e3b",
+          "sizeBytes": 379796
         },
         {
           "path": "MoonLoader/gamefixer/fonts/fa-solid-900.ttf",
