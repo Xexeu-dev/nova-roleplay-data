@@ -4246,9 +4246,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 27,
-      "publicationId": "f4e2edfa-4c2f-488d-9259-d38742e0de38",
-      "updatedAt": "2026-11-10T15:22:58.812Z",
+      "dataVersion": 28,
+      "publicationId": "08610025-f184-40fd-bef8-5d42520806a4",
+      "updatedAt": "2026-11-10T17:22:07.489Z",
       "distributionMode": "official",
       "files": [
         {
@@ -18207,6 +18207,24 @@
           "sha256": "c195e634b666df0d3f5a85b56fe97e7967aa6b0086737b2731a8092fd1187b59",
           "sizeBytes": 764200,
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-26-bind-20261110/c195e634b666df0d3f5a85b56fe97e7967aa6b0086737b2731a8092fd1187b59-SA_Bind-1.luac"
+        },
+        {
+          "path": "MoonLoader/NOVA-VehiclePhysics.lua",
+          "sha256": "4da9f26be2d5a52a55eb4d50162c880b7956039f3dd48ad035e49c83762b9339",
+          "sizeBytes": 628,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-28-vehicle-speeds-20261110/4da9f26be2d5a52a55eb4d50162c880b7956039f3dd48ad035e49c83762b9339-NOVA-VehiclePhysics.lua"
+        },
+        {
+          "path": "MoonLoader/lib/NOVA-VehiclePhysicsCore.lua",
+          "sha256": "2821f10efe1c029dc2020f372dd84fc1b80e72324bf6723cea1f80ea1624cb99",
+          "sizeBytes": 5183,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-28-vehicle-speeds-20261110/2821f10efe1c029dc2020f372dd84fc1b80e72324bf6723cea1f80ea1624cb99-NOVA-VehiclePhysicsCore.lua"
+        },
+        {
+          "path": "MoonLoader/lib/NOVA-VehicleProfiles.lua",
+          "sha256": "818a2f74ea35aff705e6d3ebc83298e8ee6d2eee9ea13da23314104598284c28",
+          "sizeBytes": 5722,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-28-vehicle-speeds-20261110/818a2f74ea35aff705e6d3ebc83298e8ee6d2eee9ea13da23314104598284c28-NOVA-VehicleProfiles.lua"
         }
       ],
       "deletes": [
