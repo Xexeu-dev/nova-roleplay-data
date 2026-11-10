@@ -4246,9 +4246,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 28,
-      "publicationId": "08610025-f184-40fd-bef8-5d42520806a4",
-      "updatedAt": "2026-11-10T17:22:07.489Z",
+      "dataVersion": 29,
+      "publicationId": "5de0a291-1510-4aaf-9910-ba367859d35f",
+      "updatedAt": "2026-11-10T17:59:06.387Z",
       "distributionMode": "official",
       "files": [
         {
@@ -18225,6 +18225,18 @@
           "sha256": "818a2f74ea35aff705e6d3ebc83298e8ee6d2eee9ea13da23314104598284c28",
           "sizeBytes": 5722,
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-28-vehicle-speeds-20261110/818a2f74ea35aff705e6d3ebc83298e8ee6d2eee9ea13da23314104598284c28-NOVA-VehicleProfiles.lua"
+        },
+        {
+          "path": "MoonLoader/NOVA-EntityGuard.lua",
+          "sha256": "3b457b3822d72bb91a4e3204f1195bfaaf903e6f6a33a11c520bbdba2a419f2d",
+          "sizeBytes": 663,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-29-entity-guard-20261110/3b457b3822d72bb91a4e3204f1195bfaaf903e6f6a33a11c520bbdba2a419f2d-NOVA-EntityGuard.lua"
+        },
+        {
+          "path": "MoonLoader/lib/NOVA-EntityGuardCore.lua",
+          "sha256": "f34508a5f7aaee712657f48da1bf87ea97fc697e4bf09e9e3554b79c6289fe6d",
+          "sizeBytes": 4272,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-29-entity-guard-20261110/f34508a5f7aaee712657f48da1bf87ea97fc697e4bf09e9e3554b79c6289fe6d-NOVA-EntityGuardCore.lua"
         }
       ],
       "deletes": [
