@@ -4246,9 +4246,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 25,
-      "publicationId": "fbe7cadf-469f-4fe7-b563-439feb24dcc3",
-      "updatedAt": "2026-11-10T03:21:21.309Z",
+      "dataVersion": 26,
+      "publicationId": "0b4eb4fc-b5d0-4b80-a0a3-29d372dc21b2",
+      "updatedAt": "2026-11-10T13:45:01.936Z",
       "distributionMode": "official",
       "files": [
         {
@@ -18201,6 +18201,12 @@
           "sha256": "2c63cbb49f5800295c5f8701752b0c1f5919293f098b551db0959b46c049602c",
           "sizeBytes": 854,
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v24-iphone-pickups-ac5a1d54/2c63cbb49f5800295c5f8701752b0c1f5919293f098b551db0959b46c049602c-NOVA.Entry.lua"
+        },
+        {
+          "path": "MoonLoader/SA_Bind-1.luac",
+          "sha256": "c195e634b666df0d3f5a85b56fe97e7967aa6b0086737b2731a8092fd1187b59",
+          "sizeBytes": 764200,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-26-bind-20261110/c195e634b666df0d3f5a85b56fe97e7967aa6b0086737b2731a8092fd1187b59-SA_Bind-1.luac"
         }
       ],
       "deletes": [
@@ -18219,8 +18225,6 @@
         "GUI.fp",
         "Hooks.asi",
         "MapZoomFixerByDarkP1xel.ASI",
-        "MoonLoader/SA_Bind-1.luac",
-        "MoonLoader/config/nova-gamefixer-user.ini",
         "MoonLoader/lib/iconv/COPYING-libiconv",
         "MoonLoader/lib/iconv/README-libiconv",
         "MoonLoader/lib/iconv/README-lua-iconv",
