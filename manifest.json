@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "dataVersion": 20,
-  "updatedAt": "2026-11-11T05:37:40.992307+00:00",
+  "updatedAt": "2026-11-11T05:44:01.498Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -4265,8 +4265,8 @@
   "platforms": {
     "windows": {
       "dataVersion": 33,
-      "publicationId": "2d30dfc2-ab76-4978-914d-c0e7ff83ed7a",
-      "updatedAt": "2026-11-11T05:37:40.992307+00:00",
+      "publicationId": "70114538-c7fd-4da0-8ced-aa9f9bc6e8ba",
+      "updatedAt": "2026-11-11T05:44:01.498Z",
       "distributionMode": "official",
       "files": [
         {
@@ -4530,7 +4530,7 @@
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v5-7d812a00/ad0b170d940213097ec196c644b42e798960c7da01e5645b45c7250fc2874e46-Read_Me.txt"
         },
         {
-          "path": "CREDITOS-MODS/porsche/crÃƒÂ©ditos.txt",
+          "path": "CREDITOS-MODS/porsche/crÃ©ditos.txt",
           "sizeBytes": 106,
           "sha256": "07b85c7350c8783b0b0cd10072fd042653ea5e1dda7d7afaabd46a99a2e572fb",
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v4-d7210caf/07b85c7350c8783b0b0cd10072fd042653ea5e1dda7d7afaabd46a99a2e572fb-cr_ditos.txt"
@@ -18758,12 +18758,12 @@
         "modloader/NOVA-OSFAIXA-VEGETACAO/arquivos.img/vgsn_nitree_r02.dff",
         "modloader/NOVA-OSFAIXA-VEGETACAO/arquivos.img/vgsn_nitree_y01.dff",
         "modloader/NOVA-OSFAIXA-VEGETACAO/arquivos.img/vgsn_nitree_y02.dff",
-        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÂ§ÃƒÂ£o/maps/country/countn2.ide",
-        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÂ§ÃƒÂ£o/maps/country/countryS.ide",
-        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÂ§ÃƒÂ£o/maps/generic/procobj.ide",
-        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÂ§ÃƒÂ£o/maps/generic/vegepart.ide",
-        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÂ§ÃƒÂ£o/maps/occluveg.ipl",
-        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÂ§ÃƒÂ£o/maps/vegas/vegaxref.ide",
+        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃ§Ã£o/maps/country/countn2.ide",
+        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃ§Ã£o/maps/country/countryS.ide",
+        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃ§Ã£o/maps/generic/procobj.ide",
+        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃ§Ã£o/maps/generic/vegepart.ide",
+        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃ§Ã£o/maps/occluveg.ipl",
+        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃ§Ã£o/maps/vegas/vegaxref.ide",
         "modloader/NOVA-OSFAIXA-VEH/Dffs/admiral.dff",
         "modloader/NOVA-OSFAIXA-VEH/Dffs/alpha.dff",
         "modloader/NOVA-OSFAIXA-VEH/Dffs/ambulan.DFF",
