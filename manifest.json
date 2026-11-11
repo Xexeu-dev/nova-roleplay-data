@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 19,
-  "updatedAt": "2026-11-11T04:58:34.549655+00:00",
+  "dataVersion": 20,
+  "updatedAt": "2026-11-11T05:37:40.992307+00:00",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -174,6 +174,15 @@
       "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v19-cores-e63c84b8/NOVA-DATA-v19-cores.zip",
       "sha256": "e63c84b8b666fe5674191fca158eb2c135487a827bce54f4e93ed83cf5b44190",
       "sizeBytes": 309599034,
+      "deletes": []
+    },
+    {
+      "kind": "package",
+      "version": 20,
+      "fromVersion": 19,
+      "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v20-login-cfc0a372/NOVA-DATA-v20-login.zip",
+      "sha256": "cfc0a372a0dfc5521862674869ce822d4d8f18f650a8bfd1a3c9213ead905b65",
+      "sizeBytes": 2693417,
       "deletes": []
     }
   ],
@@ -3930,49 +3939,49 @@
     },
     {
       "path": "texdb/txd/txd.etc.dat",
-      "sha256": "cfc58815921f994fcb508ee53c96b452fe9aac28d99fe1822f74c29955d20073",
-      "sizeBytes": 13314978,
+      "sha256": "359f2a0a00a11fe972c313330ab857da9703f69022f0ec50e200de93c45e227b",
+      "sizeBytes": 14713096,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v18-iphone-pickups-ac5a1d54/NOVA-DATA-v18-iphone-pickups-fonts.zip",
-        "start": 378021813,
-        "sizeBytes": 2635292,
-        "archiveSizeBytes": 381060940,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v20-login-cfc0a372/NOVA-DATA-v20-login.zip",
+        "start": 10846,
+        "sizeBytes": 2660527,
+        "archiveSizeBytes": 2693417,
         "compression": 8
       }
     },
     {
       "path": "texdb/txd/txd.etc.tmb",
-      "sha256": "b5f62b003f3003db1e3655b6d48cb1003cda6010bf9ffc5e5cf0f86c28354b0f",
-      "sizeBytes": 49460,
+      "sha256": "45be927b9fde910dd06e89159e9a5a84094d8265603e8bb9301ccb5912ed44b3",
+      "sizeBytes": 49480,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v18-iphone-pickups-ac5a1d54/NOVA-DATA-v18-iphone-pickups-fonts.zip",
-        "start": 380659048,
-        "sizeBytes": 19804,
-        "archiveSizeBytes": 381060940,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v20-login-cfc0a372/NOVA-DATA-v20-login.zip",
+        "start": 2673319,
+        "sizeBytes": 19812,
+        "archiveSizeBytes": 2693417,
         "compression": 8
       }
     },
     {
       "path": "texdb/txd/txd.etc.toc",
-      "sha256": "94b956b244e7c73c76a3b1722bea1f3d6feea1b855c288ec53937196ba11d39c",
-      "sizeBytes": 2376,
+      "sha256": "4962969408fe6c932606581a9f4ac48c660ca4e92af469f37dae0bf64a2ce548",
+      "sizeBytes": 2380,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v18-iphone-pickups-ac5a1d54/NOVA-DATA-v18-iphone-pickups-fonts.zip",
-        "start": 380657156,
-        "sizeBytes": 1841,
-        "archiveSizeBytes": 381060940,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v20-login-cfc0a372/NOVA-DATA-v20-login.zip",
+        "start": 2671424,
+        "sizeBytes": 1844,
+        "archiveSizeBytes": 2693417,
         "compression": 8
       }
     },
     {
       "path": "texdb/txd/txd.txt",
-      "sha256": "fd281747e1ccd3061bbc37510030c86d5af2e8b17c7e4b95f5577477d0157cec",
-      "sizeBytes": 43737,
+      "sha256": "8d679679e324aefd8af5e8f3127d433b54ef0f12daad12b22ef928ce913b8be6",
+      "sizeBytes": 43808,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v18-iphone-pickups-ac5a1d54/NOVA-DATA-v18-iphone-pickups-fonts.zip",
-        "start": 378011037,
-        "sizeBytes": 10725,
-        "archiveSizeBytes": 381060940,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v20-login-cfc0a372/NOVA-DATA-v20-login.zip",
+        "start": 47,
+        "sizeBytes": 10748,
+        "archiveSizeBytes": 2693417,
         "compression": 8
       }
     },
@@ -4255,9 +4264,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 32,
-      "publicationId": "c8387a7c-12b9-42fa-8cb1-20a5d3bf8ef0",
-      "updatedAt": "2026-11-11T05:08:59.964Z",
+      "dataVersion": 33,
+      "publicationId": "2d30dfc2-ab76-4978-914d-c0e7ff83ed7a",
+      "updatedAt": "2026-11-11T05:37:40.992307+00:00",
       "distributionMode": "official",
       "files": [
         {
@@ -4521,7 +4530,7 @@
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v5-7d812a00/ad0b170d940213097ec196c644b42e798960c7da01e5645b45c7250fc2874e46-Read_Me.txt"
         },
         {
-          "path": "CREDITOS-MODS/porsche/crÃ©ditos.txt",
+          "path": "CREDITOS-MODS/porsche/crÃƒÂ©ditos.txt",
           "sizeBytes": 106,
           "sha256": "07b85c7350c8783b0b0cd10072fd042653ea5e1dda7d7afaabd46a99a2e572fb",
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v4-d7210caf/07b85c7350c8783b0b0cd10072fd042653ea5e1dda7d7afaabd46a99a2e572fb-cr_ditos.txt"
@@ -6676,9 +6685,9 @@
         },
         {
           "path": "models/txd/LD_SPAC.txd",
-          "sizeBytes": 186312,
-          "sha256": "9967758a09dca86d6dc63ee1941df59a219c6e453e571eb41ff3d1edd99529a0",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v4-d7210caf/9967758a09dca86d6dc63ee1941df59a219c6e453e571eb41ff3d1edd99529a0-LD_SPAC.txd"
+          "sha256": "f08cef814998cc2e790eb7a1a1c9a58da294dffa8220a14a601d2f1192e8c3da",
+          "sizeBytes": 2283592,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v33-login-cfc0a372/f08cef814998cc2e790eb7a1a1c9a58da294dffa8220a14a601d2f1192e8c3da-LD_SPAC.txd"
         },
         {
           "path": "models/txd/LD_TATT.txd",
@@ -18749,12 +18758,12 @@
         "modloader/NOVA-OSFAIXA-VEGETACAO/arquivos.img/vgsn_nitree_r02.dff",
         "modloader/NOVA-OSFAIXA-VEGETACAO/arquivos.img/vgsn_nitree_y01.dff",
         "modloader/NOVA-OSFAIXA-VEGETACAO/arquivos.img/vgsn_nitree_y02.dff",
-        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃ§Ã£o/maps/country/countn2.ide",
-        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃ§Ã£o/maps/country/countryS.ide",
-        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃ§Ã£o/maps/generic/procobj.ide",
-        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃ§Ã£o/maps/generic/vegepart.ide",
-        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃ§Ã£o/maps/occluveg.ipl",
-        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃ§Ã£o/maps/vegas/vegaxref.ide",
+        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÂ§ÃƒÂ£o/maps/country/countn2.ide",
+        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÂ§ÃƒÂ£o/maps/country/countryS.ide",
+        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÂ§ÃƒÂ£o/maps/generic/procobj.ide",
+        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÂ§ÃƒÂ£o/maps/generic/vegepart.ide",
+        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÂ§ÃƒÂ£o/maps/occluveg.ipl",
+        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÂ§ÃƒÂ£o/maps/vegas/vegaxref.ide",
         "modloader/NOVA-OSFAIXA-VEH/Dffs/admiral.dff",
         "modloader/NOVA-OSFAIXA-VEH/Dffs/alpha.dff",
         "modloader/NOVA-OSFAIXA-VEH/Dffs/ambulan.DFF",
