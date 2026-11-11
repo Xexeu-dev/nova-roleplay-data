@@ -4255,9 +4255,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 31,
-      "publicationId": "5fbaebf0-396a-475c-896d-149c5c8277cd",
-      "updatedAt": "2026-11-11T04:58:34.549655+00:00",
+      "dataVersion": 32,
+      "publicationId": "c8387a7c-12b9-42fa-8cb1-20a5d3bf8ef0",
+      "updatedAt": "2026-11-11T05:08:59.964Z",
       "distributionMode": "official",
       "files": [
         {
@@ -18273,9 +18273,9 @@
         },
         {
           "path": "MoonLoader/NOVA-VehicleAudio.lua",
-          "sha256": "eeb49aad2fabaebc1f9da0e68110c3973aded990fb5012db100228cd3207c16a",
+          "sha256": "c39cb897a6786c1c6e70f1759842eee8e5bec06030d62223d14b33cba45a9295",
           "sizeBytes": 15097,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v31-audio-cores-e63c84b8/eeb49aad2fabaebc1f9da0e68110c3973aded990fb5012db100228cd3207c16a-NOVA-VehicleAudio.lua"
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v32-audio-20261111/c39cb897a6786c1c6e70f1759842eee8e5bec06030d62223d14b33cba45a9295-NOVA-VehicleAudio.lua"
         }
       ],
       "deletes": [
