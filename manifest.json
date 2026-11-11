@@ -4273,9 +4273,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 34,
-      "publicationId": "de7f6773-ef19-46bf-84aa-4acfca58a21f",
-      "updatedAt": "2026-11-11T14:51:35.216064+00:00",
+      "dataVersion": 35,
+      "publicationId": "f5f91b13-c8dc-48ea-bccd-5704eabd59b9",
+      "updatedAt": "2026-11-11T18:26:22.763Z",
       "distributionMode": "official",
       "files": [
         {
@@ -9910,9 +9910,9 @@
         },
         {
           "path": "MoonLoader/config/gamefixerByPacocaR$.ini",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-25-accessory-particles-20261110/2d89919310b6276f99df3b00a5b049c6f4ed4e8a795ebcb81ffc387dc038f633-gamefixer-defaults.ini",
-          "sha256": "2d89919310b6276f99df3b00a5b049c6f4ed4e8a795ebcb81ffc387dc038f633",
-          "sizeBytes": 7542
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-35-chat-cleaner-20261111/eaaca0b61012d12aaf2dfe061adc77aeeee0665517d275ca26e9a1374f34a2d9-gamefixer-defaults.ini",
+          "sha256": "eaaca0b61012d12aaf2dfe061adc77aeeee0665517d275ca26e9a1374f34a2d9",
+          "sizeBytes": 7544
         },
         {
           "path": "MoonLoader/config/sensfix.ini",
@@ -9922,9 +9922,9 @@
         },
         {
           "path": "MoonLoader/GameFixer.lua",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-25-accessory-particles-20261110/b09674a90fe9fad4b6a23ed1fa4625233c7f62add1e2ab872b45537b48723e3b-GameFixer.lua",
-          "sha256": "b09674a90fe9fad4b6a23ed1fa4625233c7f62add1e2ab872b45537b48723e3b",
-          "sizeBytes": 379796
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-35-chat-cleaner-20261111/c3874586f6ad246112d2fee0e44317ab95c65cd8776e048a95068249d9809c19-GameFixer.lua",
+          "sha256": "c3874586f6ad246112d2fee0e44317ab95c65cd8776e048a95068249d9809c19",
+          "sizeBytes": 376479
         },
         {
           "path": "MoonLoader/gamefixer/fonts/fa-solid-900.ttf",
@@ -18294,6 +18294,12 @@
           "sha256": "c39cb897a6786c1c6e70f1759842eee8e5bec06030d62223d14b33cba45a9295",
           "sizeBytes": 15097,
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v32-audio-20261111/c39cb897a6786c1c6e70f1759842eee8e5bec06030d62223d14b33cba45a9295-NOVA-VehicleAudio.lua"
+        },
+        {
+          "path": "chat.asi",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-35-chat-cleaner-20261111/d949531156739049d454663949b5abdabc3992d9085bf02fe5e71a8356414e6f-chat.asi",
+          "sha256": "d949531156739049d454663949b5abdabc3992d9085bf02fe5e71a8356414e6f",
+          "sizeBytes": 926208
         }
       ],
       "deletes": [
@@ -18325,7 +18331,6 @@
         "SAMPUninstall.exe",
         "SA_GPS.asi",
         "WeaponTrails.SA.asi",
-        "chat.asi",
         "fix.black_roads.asi",
         "models/FirstPerson.txd",
         "models/effectsPC.fxp",
@@ -19222,7 +19227,8 @@
         "modloader/NOVA-PLACAS/hermes.dff",
         "modloader/NOVA-PLACAS/hermes.txd"
       ],
-      "mods": []
+      "mods": [],
+      "totalBytes": 1794399507
     }
   },
   "minimumGameBuild": 151,
