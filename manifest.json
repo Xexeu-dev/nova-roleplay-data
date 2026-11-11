@@ -4273,9 +4273,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 36,
-      "publicationId": "5ea7e42b-0905-47d7-944c-2b79704b2c1a",
-      "updatedAt": "2026-11-11T20:02:49.694Z",
+      "dataVersion": 37,
+      "publicationId": "fe6e4192-dd41-4dd6-94cb-97ca76068384",
+      "updatedAt": "2026-11-11T23:47:28.058Z",
       "distributionMode": "official",
       "files": [
         {
@@ -18267,15 +18267,15 @@
         },
         {
           "path": "MoonLoader/NOVA-VehicleGravity.lua",
-          "sha256": "6902fbc1784716fe4c85133570d030cf41ec1cab2cf61e826785fde46a79aa7f",
+          "sha256": "657193725825888e31c7ef362a116e1b58331d3dc972ef6cfeaad3c0f5366921",
           "sizeBytes": 421,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-30-gravity-sensa-20261110/6902fbc1784716fe4c85133570d030cf41ec1cab2cf61e826785fde46a79aa7f-NOVA-VehicleGravity.lua"
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-37-aircraft-gravity-20261111/657193725825888e31c7ef362a116e1b58331d3dc972ef6cfeaad3c0f5366921-NOVA-VehicleGravity.lua"
         },
         {
           "path": "MoonLoader/lib/NOVA-VehicleGravityCore.lua",
-          "sha256": "56acf257327d6848a5c80fe919eefb24ac432901668a0a2b0208f95c28227dce",
-          "sizeBytes": 4809,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-30-gravity-sensa-20261110/56acf257327d6848a5c80fe919eefb24ac432901668a0a2b0208f95c28227dce-NOVA-VehicleGravityCore.lua"
+          "sha256": "d82687f4facdcd522a2b278f8afd7a902c5811258c2fb05119622aee62f47bac",
+          "sizeBytes": 5152,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-37-aircraft-gravity-20261111/d82687f4facdcd522a2b278f8afd7a902c5811258c2fb05119622aee62f47bac-NOVA-VehicleGravityCore.lua"
         },
         {
           "path": "MoonLoader/sensfix.lua",
@@ -19246,7 +19246,7 @@
         "modloader/NOVA-PLACAS/hermes.txd"
       ],
       "mods": [],
-      "totalBytes": 1794601277
+      "totalBytes": 1794601620
     }
   },
   "minimumGameBuild": 151,
