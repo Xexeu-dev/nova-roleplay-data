@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 20,
-  "updatedAt": "2026-11-11T05:44:01.498Z",
+  "dataVersion": 21,
+  "updatedAt": "2026-11-11T14:51:35.216064+00:00",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -183,6 +183,15 @@
       "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v20-login-cfc0a372/NOVA-DATA-v20-login.zip",
       "sha256": "cfc0a372a0dfc5521862674869ce822d4d8f18f650a8bfd1a3c9213ead905b65",
       "sizeBytes": 2693417,
+      "deletes": []
+    },
+    {
+      "kind": "package",
+      "version": 21,
+      "fromVersion": 20,
+      "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v21-contraste-1fac498c/NOVA-DATA-v21-contraste.zip",
+      "sha256": "1fac498c45c50ff5a6731bed84227d21208837de80834296a0cfb9f8f00dd4ae",
+      "sizeBytes": 2686250,
       "deletes": []
     }
   ],
@@ -3939,25 +3948,25 @@
     },
     {
       "path": "texdb/txd/txd.etc.dat",
-      "sha256": "359f2a0a00a11fe972c313330ab857da9703f69022f0ec50e200de93c45e227b",
+      "sha256": "cc0683a00af00165cd83c714fe57c52a7e5d0dbafb71a88fb326d16c1eaaa40f",
       "sizeBytes": 14713096,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v20-login-cfc0a372/NOVA-DATA-v20-login.zip",
-        "start": 10846,
-        "sizeBytes": 2660527,
-        "archiveSizeBytes": 2693417,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v21-contraste-1fac498c/NOVA-DATA-v21-contraste.zip",
+        "start": 51,
+        "sizeBytes": 2666180,
+        "archiveSizeBytes": 2686250,
         "compression": 8
       }
     },
     {
       "path": "texdb/txd/txd.etc.tmb",
-      "sha256": "45be927b9fde910dd06e89159e9a5a84094d8265603e8bb9301ccb5912ed44b3",
+      "sha256": "4e0fb32c18107d62b9dab5f555dddd8ae0928acfa8c114798f6db55d54862ac1",
       "sizeBytes": 49480,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v20-login-cfc0a372/NOVA-DATA-v20-login.zip",
-        "start": 2673319,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v21-contraste-1fac498c/NOVA-DATA-v21-contraste.zip",
+        "start": 2666282,
         "sizeBytes": 19812,
-        "archiveSizeBytes": 2693417,
+        "archiveSizeBytes": 2686250,
         "compression": 8
       }
     },
@@ -4264,9 +4273,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 33,
-      "publicationId": "70114538-c7fd-4da0-8ced-aa9f9bc6e8ba",
-      "updatedAt": "2026-11-11T05:44:01.498Z",
+      "dataVersion": 34,
+      "publicationId": "de7f6773-ef19-46bf-84aa-4acfca58a21f",
+      "updatedAt": "2026-11-11T14:51:35.216064+00:00",
       "distributionMode": "official",
       "files": [
         {
@@ -6685,9 +6694,9 @@
         },
         {
           "path": "models/txd/LD_SPAC.txd",
-          "sha256": "f08cef814998cc2e790eb7a1a1c9a58da294dffa8220a14a601d2f1192e8c3da",
+          "sha256": "d479dd0b4a07912f76c5debed3bba9469e8f130402d62e89a3fbe722c7f37070",
           "sizeBytes": 2283592,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v33-login-cfc0a372/f08cef814998cc2e790eb7a1a1c9a58da294dffa8220a14a601d2f1192e8c3da-LD_SPAC.txd"
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v34-contraste-1fac498c/d479dd0b4a07912f76c5debed3bba9469e8f130402d62e89a3fbe722c7f37070-LD_SPAC.txd"
         },
         {
           "path": "models/txd/LD_TATT.txd",
