@@ -4273,9 +4273,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 35,
-      "publicationId": "f5f91b13-c8dc-48ea-bccd-5704eabd59b9",
-      "updatedAt": "2026-11-11T18:26:22.763Z",
+      "dataVersion": 36,
+      "publicationId": "5ea7e42b-0905-47d7-944c-2b79704b2c1a",
+      "updatedAt": "2026-11-11T20:02:49.694Z",
       "distributionMode": "official",
       "files": [
         {
@@ -17332,9 +17332,9 @@
         },
         {
           "path": "MoonLoader/NOVA-Phone.lua",
-          "sizeBytes": 12532,
-          "sha256": "c62c85eaa316455217817191536dbd6a4806eec6cd26fbb3431cef6afe8d35cf",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v19-phone-c62c85ea/c62c85eaa316455217817191536dbd6a4806eec6cd26fbb3431cef6afe8d35cf-NOVA-Phone.lua"
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-36-phone-display-20261111/594c7bc5dc082a88b4396ee3ced9e50764d9512d3fb78cede30601c78a54840c-NOVA-Phone.lua",
+          "sha256": "594c7bc5dc082a88b4396ee3ced9e50764d9512d3fb78cede30601c78a54840c",
+          "sizeBytes": 13514
         },
         {
           "path": "MoonLoader/NOVA-VoiceRecovery.lua",
@@ -18300,6 +18300,24 @@
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-35-chat-cleaner-20261111/d949531156739049d454663949b5abdabc3992d9085bf02fe5e71a8356414e6f-chat.asi",
           "sha256": "d949531156739049d454663949b5abdabc3992d9085bf02fe5e71a8356414e6f",
           "sizeBytes": 926208
+        },
+        {
+          "path": "MoonLoader/lib/nova/phone_pointer.lua",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-36-phone-display-20261111/448201565ef3e842f23b850cbf141c98b65fb4873036879f4bcaac8e7516269f-phone_pointer.lua",
+          "sha256": "448201565ef3e842f23b850cbf141c98b65fb4873036879f4bcaac8e7516269f",
+          "sizeBytes": 623
+        },
+        {
+          "path": "MoonLoader/lib/nova/phone_win32.lua",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-36-phone-display-20261111/fc2f43c64d8167235604434323b4a45f8b34b4e5f6db97275387273a921a7c94-phone_win32.lua",
+          "sha256": "fc2f43c64d8167235604434323b4a45f8b34b4e5f6db97275387273a921a7c94",
+          "sizeBytes": 2021
+        },
+        {
+          "path": "NovaDisplay.asi",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-36-phone-display-20261111/cb12e4be22807bb80ec97b737030b2742f6f0f3f6f7e46b07763c7af4f29e5ca-NovaDisplay.asi",
+          "sha256": "cb12e4be22807bb80ec97b737030b2742f6f0f3f6f7e46b07763c7af4f29e5ca",
+          "sizeBytes": 198144
         }
       ],
       "deletes": [
@@ -19228,7 +19246,7 @@
         "modloader/NOVA-PLACAS/hermes.txd"
       ],
       "mods": [],
-      "totalBytes": 1794399507
+      "totalBytes": 1794601277
     }
   },
   "minimumGameBuild": 151,
