@@ -4273,9 +4273,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 38,
-      "publicationId": "7826f087-f293-48cc-90dc-acd86f5dfc5c",
-      "updatedAt": "2026-11-12T02:24:12.264Z",
+      "dataVersion": 39,
+      "publicationId": "6f12b7bb-8590-465c-b5b6-e9bb0c16e934",
+      "updatedAt": "2026-11-12T02:45:37.805Z",
       "distributionMode": "official",
       "files": [
         {
@@ -17332,9 +17332,9 @@
         },
         {
           "path": "MoonLoader/NOVA-Phone.lua",
-          "sha256": "aba7d354a8998fa4c908473082ae05a5ce5a7ad152cf9c1402e01e0232853027",
-          "sizeBytes": 13691,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-38-social-phone-20261111/aba7d354a8998fa4c908473082ae05a5ce5a7ad152cf9c1402e01e0232853027-NOVA-Phone.lua"
+          "sha256": "40366a0683d69ce4fef554da1638050dfa51088f88ff6eb6cdfb4a2bd272200a",
+          "sizeBytes": 13954,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-39-camera-native-20261111/40366a0683d69ce4fef554da1638050dfa51088f88ff6eb6cdfb4a2bd272200a-NOVA-Phone.lua"
         },
         {
           "path": "MoonLoader/NOVA-VoiceRecovery.lua",
@@ -19246,7 +19246,7 @@
         "modloader/NOVA-PLACAS/hermes.txd"
       ],
       "mods": [],
-      "totalBytes": 1794601797
+      "totalBytes": 1794602060
     }
   },
   "minimumGameBuild": 151,
