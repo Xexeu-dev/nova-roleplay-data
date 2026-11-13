@@ -4273,9 +4273,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 40,
-      "publicationId": "43f076b9-16ce-47b3-a38d-959a6702d48d",
-      "updatedAt": "2026-11-12T15:07:49.213Z",
+      "dataVersion": 41,
+      "publicationId": "01a9ad91-dbd6-40f0-9cfc-2b275748399b",
+      "updatedAt": "2026-11-13T19:00:03.136Z",
       "distributionMode": "official",
       "files": [
         {
@@ -4292,9 +4292,9 @@
         },
         {
           "path": "anim/ped.ifp",
-          "sizeBytes": 1433248,
-          "sha256": "f7483f49080a0f833dc73ef09aa2224f99a9e90757fa5c2b7db5505cbef33eac",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/f7483f49080a0f833dc73ef09aa2224f99a9e90757fa5c2b7db5505cbef33eac-ped.ifp"
+          "sizeBytes": 1431328,
+          "sha256": "0f106808051aa1987a25f2d9c2d8c07819e2005a6248b2bf2db4d67986011ba4",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-41-correcoes-20261113/0f106808051aa1987a25f2d9c2d8c07819e2005a6248b2bf2db4d67986011ba4-ped.ifp"
         },
         {
           "path": "audio/CONFIG/AudioEventHistory.txt",
@@ -6478,9 +6478,9 @@
         },
         {
           "path": "models/hud.txd",
-          "sha256": "d92d0f1aa71050de7b3ef15f18c078419475d346d1a228a7e3b7e9b8adad0bc9",
-          "sizeBytes": 69396,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-27-round-radar-20261110/d92d0f1aa71050de7b3ef15f18c078419475d346d1a228a7e3b7e9b8adad0bc9-hud.txd"
+          "sha256": "fd1c177b083f7f5c380f0012204ab70bdbcfc5fe7402baa275febc4cf4f7a17d",
+          "sizeBytes": 102420,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-41-correcoes-20261113/fd1c177b083f7f5c380f0012204ab70bdbcfc5fe7402baa275febc4cf4f7a17d-hud.txd"
         },
         {
           "path": "models/LD_RCE1.txd",
@@ -9640,9 +9640,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/bravura/bravura.dff",
-          "sha256": "0eda315b11c5e578fe0ddb07cb42f1f4da83b6b4e6abb9068bd3fe0889939d89",
+          "sha256": "e7451c6889b155af48e524523a9cbe2c9dd75f2bc8b168f1f4b354f853048587",
           "sizeBytes": 12462080,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v31-audio-cores-e63c84b8/0eda315b11c5e578fe0ddb07cb42f1f4da83b6b4e6abb9068bd3fe0889939d89-bravura.dff"
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-41-correcoes-20261113/e7451c6889b155af48e524523a9cbe2c9dd75f2bc8b168f1f4b354f853048587-bravura.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/bravura/bravura.txd",
@@ -9652,9 +9652,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/coach/coach.dff",
-          "sha256": "7bd5aeb36967308ce7d3591ad534ec8cb01d2ae1e36c3f011c5affd21424fc6f",
+          "sha256": "bbd9f8bf78b8f38fd912e83465c1f054c46de4b1c9f5ff6fb167e1a2142d4af8",
           "sizeBytes": 9150320,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v31-audio-cores-e63c84b8/7bd5aeb36967308ce7d3591ad534ec8cb01d2ae1e36c3f011c5affd21424fc6f-coach.dff"
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-41-correcoes-20261113/bbd9f8bf78b8f38fd912e83465c1f054c46de4b1c9f5ff6fb167e1a2142d4af8-coach.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/coach/coach.txd",
@@ -9676,9 +9676,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/enforcer/enforcer.dff",
-          "sizeBytes": 13809907,
-          "sha256": "07e7ddc57ab3a4525e8a64d38035419b3c51e46f5445c9b333b1cde8025af864",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v9-dbfd38cd/07e7ddc57ab3a4525e8a64d38035419b3c51e46f5445c9b333b1cde8025af864-enforcer.dff"
+          "sizeBytes": 13809587,
+          "sha256": "62c14b00227b65aa472ee87793c72c784cbf70fd2e0ce0e38f3f1b4eb5f14182",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-41-correcoes-20261113/62c14b00227b65aa472ee87793c72c784cbf70fd2e0ce0e38f3f1b4eb5f14182-enforcer.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/enforcer/enforcer.txd",
@@ -9689,8 +9689,8 @@
         {
           "path": "modloader/NOVA-VEICULOS/faggio/faggio.dff",
           "sizeBytes": 407552,
-          "sha256": "83d76b1fcb6ebfaf03036ac4b3cfb336a7fb9cf4049217173da6d8ebb32aaefe",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v4-d7210caf/83d76b1fcb6ebfaf03036ac4b3cfb336a7fb9cf4049217173da6d8ebb32aaefe-faggio.dff"
+          "sha256": "a8ba5d0c718c331b8a2ff786973a260c16b9a3a7224b9b62e39466b65f1f5edf",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-41-correcoes-20261113/a8ba5d0c718c331b8a2ff786973a260c16b9a3a7224b9b62e39466b65f1f5edf-faggio.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/faggio/faggio.txd",
@@ -9796,9 +9796,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/pcj600/pcj600.dff",
-          "sha256": "e3c1f0799086cff2d6823abf67aff7788e1da9d6b0cd0303cb908a97d308e1d8",
+          "sha256": "2c0c890455424e151262ff3aa6d2f2ccbffd94b897420331b1bc232382ac1c20",
           "sizeBytes": 9065957,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v31-audio-cores-e63c84b8/e3c1f0799086cff2d6823abf67aff7788e1da9d6b0cd0303cb908a97d308e1d8-pcj600.dff"
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-41-correcoes-20261113/2c0c890455424e151262ff3aa6d2f2ccbffd94b897420331b1bc232382ac1c20-pcj600.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/pcj600/pcj600.txd",
@@ -9821,8 +9821,8 @@
         {
           "path": "modloader/NOVA-VEICULOS/previon/previon.dff",
           "sizeBytes": 10559488,
-          "sha256": "8a13df374e79d2cf1a451461f765e3fa2b008471adf7bf111fc46b0cc45e7bdd",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v9-dbfd38cd/8a13df374e79d2cf1a451461f765e3fa2b008471adf7bf111fc46b0cc45e7bdd-previon.dff"
+          "sha256": "8acb4b95f9a67062a8d19063ae936e0a03b08b0d36009a95199a79bf1e32a030",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-41-correcoes-20261113/8acb4b95f9a67062a8d19063ae936e0a03b08b0d36009a95199a79bf1e32a030-previon.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/previon/previon.txd",
@@ -17332,9 +17332,9 @@
         },
         {
           "path": "MoonLoader/NOVA-Phone.lua",
-          "sha256": "f83f1f72666e0ad26b504e314cf58ace697883db0baacb569b788af780c1ced3",
-          "sizeBytes": 15791,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-40-phone-camera-20261112/f83f1f72666e0ad26b504e314cf58ace697883db0baacb569b788af780c1ced3-NOVA-Phone.lua"
+          "sha256": "6319b093aa2b9c1afd2637acc0e22821070788385a0a5390ee14647040e4080b",
+          "sizeBytes": 21256,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-41-correcoes-20261113/6319b093aa2b9c1afd2637acc0e22821070788385a0a5390ee14647040e4080b-NOVA-Phone.lua"
         },
         {
           "path": "MoonLoader/NOVA-VoiceRecovery.lua",
@@ -17596,8 +17596,8 @@
         {
           "path": "modloader/NOVA-VEICULOS/copcarru/copcarru.dff",
           "sizeBytes": 5881856,
-          "sha256": "502a3486b1d58c990b716866aad75c8f83d3b2a4529e015d62eacc565777c04e",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v13-policia-a6db45b9/502a3486b1d58c990b716866aad75c8f83d3b2a4529e015d62eacc565777c04e-copcarru.dff"
+          "sha256": "13693f819e4a4264fd45419a45b12dc9e71f3fa897c8c6d50bc60b79ee56cb68",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-41-correcoes-20261113/13693f819e4a4264fd45419a45b12dc9e71f3fa897c8c6d50bc60b79ee56cb68-copcarru.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/copcarru/copcarru.txd",
@@ -17691,9 +17691,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/swatvan/swatvan.dff",
-          "sha256": "fa7b9c451d8e96eac4f96048f821cb79ba5a842a33661b6bd4f52dbb24f581b8",
+          "sha256": "c6ddfc12e220c5d4601e23722e49fab4e0eb78de36ad2614a5869bf24b59a225",
           "sizeBytes": 4720640,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v31-audio-cores-e63c84b8/fa7b9c451d8e96eac4f96048f821cb79ba5a842a33661b6bd4f52dbb24f581b8-swatvan.dff"
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-41-correcoes-20261113/c6ddfc12e220c5d4601e23722e49fab4e0eb78de36ad2614a5869bf24b59a225-swatvan.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/swatvan/swatvan.txd",
@@ -17800,8 +17800,8 @@
         {
           "path": "modloader/NOVA-VEICULOS/infernus/infernus.dff",
           "sizeBytes": 11517952,
-          "sha256": "a95d1c2ff8c1f562b3eb92695dd841503c989ee548b17e8c22d3898de5209fe8",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v14-veiculos-2b240ae1/a95d1c2ff8c1f562b3eb92695dd841503c989ee548b17e8c22d3898de5209fe8-infernus.dff"
+          "sha256": "6c43bb889046fe5af76447bd72afd7828647590be97f370402c925db9413f5d1",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-41-correcoes-20261113/6c43bb889046fe5af76447bd72afd7828647590be97f370402c925db9413f5d1-infernus.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/infernus/infernus.txd",
@@ -17871,9 +17871,9 @@
         },
         {
           "path": "NovaPhoneRenderer.dll",
-          "sizeBytes": 46080,
-          "sha256": "1da809aaa43c1da36cb390d29cab16a35f5dddfecc62f23ede851cf217f1f794",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v16-phone-a88c96d2/1da809aaa43c1da36cb390d29cab16a35f5dddfecc62f23ede851cf217f1f794-NovaPhoneRenderer.dll"
+          "sizeBytes": 53248,
+          "sha256": "b67a50e13f1bf5d69f32851e3cc2b315792c8a188decd26d0a0091132d2d57e0",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-41-correcoes-20261113/b67a50e13f1bf5d69f32851e3cc2b315792c8a188decd26d0a0091132d2d57e0-NovaPhoneRenderer.dll"
         },
         {
           "path": "MoonLoader/lib/nova/phone_legacy.lua",
@@ -17913,9 +17913,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/monsterb/monsterb.dff",
-          "sha256": "5fdc2e699ff320f82188f9e45ea13099bc1f1603483a30eb3829ca51a7dd36aa",
+          "sha256": "45a739f94004e3a6de534402bff411947737f49522f58c3de60f1626173cb0b9",
           "sizeBytes": 7391232,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v31-audio-cores-e63c84b8/5fdc2e699ff320f82188f9e45ea13099bc1f1603483a30eb3829ca51a7dd36aa-monsterb.dff"
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-41-correcoes-20261113/45a739f94004e3a6de534402bff411947737f49522f58c3de60f1626173cb0b9-monsterb.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/monsterb/monsterb.txd",
@@ -18021,9 +18021,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/camper/camper.dff",
-          "sha256": "e057ef366177111dd4554cbc538845c296d267d30cd11abef1b447fac39a3ac3",
+          "sha256": "3cb07e8915f413311f760a5cb9552a092c9dbf11d070c64fe3228453a94f7065",
           "sizeBytes": 5130240,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v22-veiculos-612bebdb/e057ef366177111dd4554cbc538845c296d267d30cd11abef1b447fac39a3ac3-camper.dff"
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-41-correcoes-20261113/3cb07e8915f413311f760a5cb9552a092c9dbf11d070c64fe3228453a94f7065-camper.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/camper/camper.txd",
@@ -18243,9 +18243,9 @@
         },
         {
           "path": "MoonLoader/lib/NOVA-VehiclePhysicsCore.lua",
-          "sha256": "2821f10efe1c029dc2020f372dd84fc1b80e72324bf6723cea1f80ea1624cb99",
-          "sizeBytes": 5183,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-28-vehicle-speeds-20261110/2821f10efe1c029dc2020f372dd84fc1b80e72324bf6723cea1f80ea1624cb99-NOVA-VehiclePhysicsCore.lua"
+          "sha256": "02ae898a1537da8c7853ce90e1e4a2bb6c266a3230664d4d09cb2bb1a7f2b60c",
+          "sizeBytes": 6009,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-41-correcoes-20261113/02ae898a1537da8c7853ce90e1e4a2bb6c266a3230664d4d09cb2bb1a7f2b60c-NOVA-VehiclePhysicsCore.lua"
         },
         {
           "path": "MoonLoader/lib/NOVA-VehicleProfiles.lua",
@@ -19246,7 +19246,9 @@
         "modloader/NOVA-PLACAS/hermes.txd"
       ],
       "mods": [],
-      "totalBytes": 1794603897
+      "totalBytes": 1794648140,
+      "publishedAt": "2026-11-13T19:00:03.136Z",
+      "notes": "Pintura dos veículos, aderência, animações e suporte ao microfone privado do telefone. Atualização incremental."
     }
   },
   "minimumGameBuild": 151,
