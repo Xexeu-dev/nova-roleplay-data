@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 23,
-  "updatedAt": "2026-11-13T20:00:21.757535+00:00",
+  "dataVersion": 24,
+  "updatedAt": "2026-11-13T20:07:48.434476+00:00",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -210,6 +210,15 @@
       "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v23-skin42-7f870ed7/NOVA-DATA-v23-skin42.zip",
       "sha256": "7f870ed70a251fd42f2af2ddffc31247bac468bf9ca69e7538b10719816dc1ea",
       "sizeBytes": 363608139,
+      "deletes": []
+    },
+    {
+      "kind": "package",
+      "version": 24,
+      "fromVersion": 23,
+      "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v24-skin5-4c41ebc0/NOVA-DATA-v24-skin5.zip",
+      "sha256": "4c41ebc03ffb3bb8c784a581ad85493de0d97baa443b687c2a9ae257f0fca1d9",
+      "sizeBytes": 364819203,
       "deletes": []
     }
   ],
@@ -3378,13 +3387,13 @@
     },
     {
       "path": "texdb/gta3.img",
-      "sha256": "63b6b3fbe0bb1746f892eec1a2cf43ab3b0de06d0b819224d5624c775345eb8b",
-      "sizeBytes": 724330496,
+      "sha256": "58cfbc426b4b5a79a4e8712f82d31a39d5d1fda68f84cb6c66ecbed305795340",
+      "sizeBytes": 725538816,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v23-skin42-7f870ed7/NOVA-DATA-v23-skin42.zip",
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v24-skin5-4c41ebc0/NOVA-DATA-v24-skin5.zip",
         "start": 44,
-        "sizeBytes": 310833697,
-        "archiveSizeBytes": 363608139,
+        "sizeBytes": 311421570,
+        "archiveSizeBytes": 364819203,
         "compression": 8
       }
     },
@@ -4146,49 +4155,49 @@
     },
     {
       "path": "texdb/nova_mods/nova_mods.txt",
-      "sha256": "a7dc96092fd3ad29e75c0b7621f641fe34aaf9d99a8d590e5ff0a10f3d68fb9b",
-      "sizeBytes": 74863,
+      "sha256": "8326d299081f5c70675135bbc8082c494320acc7b4b74a28c9a738accff8478e",
+      "sizeBytes": 75563,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v23-skin42-7f870ed7/NOVA-DATA-v23-skin42.zip",
-        "start": 310833800,
-        "sizeBytes": 13230,
-        "archiveSizeBytes": 363608139,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v24-skin5-4c41ebc0/NOVA-DATA-v24-skin5.zip",
+        "start": 311421673,
+        "sizeBytes": 13353,
+        "archiveSizeBytes": 364819203,
         "compression": 8
       }
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.dat",
-      "sha256": "aceb7ebcc4779b6c3be70d900e08f755f2096254280f4894a2d6ae0258442b5f",
-      "sizeBytes": 316156590,
+      "sha256": "8e4e057e5a4283214914c5829cf2bcf627145e87da7fb6cc9a115ba0a39a70da",
+      "sizeBytes": 318866232,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v23-skin42-7f870ed7/NOVA-DATA-v23-skin42.zip",
-        "start": 310847093,
-        "sizeBytes": 52750583,
-        "archiveSizeBytes": 363608139,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v24-skin5-4c41ebc0/NOVA-DATA-v24-skin5.zip",
+        "start": 311435089,
+        "sizeBytes": 53373553,
+        "archiveSizeBytes": 364819203,
         "compression": 8
       }
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.tmb",
-      "sha256": "8bafff8c7087e2bf6c89bac0c64d49de8d9cb0a35870e5c5d9bae29f2055c724",
-      "sizeBytes": 19020,
+      "sha256": "e0d3259f92246cab0b9d50eb20f4692e4557ea6b82503cb59fbf8bccb3f38122",
+      "sizeBytes": 19200,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v23-skin42-7f870ed7/NOVA-DATA-v23-skin42.zip",
-        "start": 363597739,
-        "sizeBytes": 6302,
-        "archiveSizeBytes": 363608139,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v24-skin5-4c41ebc0/NOVA-DATA-v24-skin5.zip",
+        "start": 364808705,
+        "sizeBytes": 6365,
+        "archiveSizeBytes": 364819203,
         "compression": 8
       }
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.toc",
-      "sha256": "3ad90d1ff0713d7afaf23feb33d02a442217257c6569fb27c2583bccf978bdc6",
-      "sizeBytes": 3808,
+      "sha256": "a7c4e9af48da6116579d59018d9d18a59405cdb4cee381b9c0011f0d5d2ff47b",
+      "sizeBytes": 3844,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v23-skin42-7f870ed7/NOVA-DATA-v23-skin42.zip",
-        "start": 363604104,
-        "sizeBytes": 3641,
-        "archiveSizeBytes": 363608139,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v24-skin5-4c41ebc0/NOVA-DATA-v24-skin5.zip",
+        "start": 364815133,
+        "sizeBytes": 3676,
+        "archiveSizeBytes": 364819203,
         "compression": 8
       }
     },
@@ -4291,9 +4300,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 43,
-      "publicationId": "41a197ce-7199-4b36-bffc-f038da40ab2d",
-      "updatedAt": "2026-11-13T20:00:21.757535+00:00",
+      "dataVersion": 44,
+      "publicationId": "699d067c-f30b-45ac-b53a-0625f24faf9d",
+      "updatedAt": "2026-11-13T20:07:48.434476+00:00",
       "distributionMode": "official",
       "files": [
         {
@@ -18360,6 +18369,18 @@
           "sha256": "6d040d1d2c414a266d86f25012e23a48ab2d8877ce2c24701c28453154f4974a",
           "sizeBytes": 643700,
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v43-skin42-7f870ed7/6d040d1d2c414a266d86f25012e23a48ab2d8877ce2c24701c28453154f4974a-jethro.txd"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/bb.dff",
+          "sha256": "3705d1aa22a3588473f5908f55371a26d412ff4df689df808b6db8daa9970587",
+          "sizeBytes": 1255303,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v44-skin5-4c41ebc0/3705d1aa22a3588473f5908f55371a26d412ff4df689df808b6db8daa9970587-bb.dff"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/bb.txd",
+          "sha256": "c8ed8fda849c9b4f652c8c84f53984cc70d083bbae092955b63a588959d29f0f",
+          "sizeBytes": 999004,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v44-skin5-4c41ebc0/c8ed8fda849c9b4f652c8c84f53984cc70d083bbae092955b63a588959d29f0f-bb.txd"
         }
       ],
       "deletes": [
@@ -19288,9 +19309,9 @@
         "modloader/NOVA-PLACAS/hermes.txd"
       ],
       "mods": [],
-      "totalBytes": 1799593418,
-      "publishedAt": "2026-11-13T20:00:21.757535+00:00",
-      "notes": "Skin Byelzin_PRESO no ID 42 (jethro). Demais mods preservados."
+      "totalBytes": 1801847725,
+      "publishedAt": "2026-11-13T20:07:48.434476+00:00",
+      "notes": "Skin byht2 no ID 5 (bb). Demais mods preservados."
     }
   },
   "minimumGameBuild": 151,
