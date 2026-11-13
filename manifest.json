@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 21,
-  "updatedAt": "2026-11-11T14:51:35.216064+00:00",
+  "dataVersion": 22,
+  "updatedAt": "2026-11-13T19:50:10.966631+00:00",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -192,6 +192,15 @@
       "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v21-contraste-1fac498c/NOVA-DATA-v21-contraste.zip",
       "sha256": "1fac498c45c50ff5a6731bed84227d21208837de80834296a0cfb9f8f00dd4ae",
       "sizeBytes": 2686250,
+      "deletes": []
+    },
+    {
+      "kind": "package",
+      "version": 22,
+      "fromVersion": 21,
+      "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v22-skin93-33e01e84/NOVA-DATA-v22-skin93.zip",
+      "sha256": "33e01e845c16ca22d20bd071143745976aaeecca46f346271f1beb2c0a38cc34",
+      "sizeBytes": 362584620,
       "deletes": []
     }
   ],
@@ -3360,13 +3369,13 @@
     },
     {
       "path": "texdb/gta3.img",
-      "sha256": "f8354a73021d5ae33cfe924ee764e3d14df7e837163066e6238869d6c8abce1f",
-      "sizeBytes": 721694720,
+      "sha256": "3cd46f51c0f67ff4a6973ba9dbef1db8964ab9a1106ba43f33d47d068963bbdd",
+      "sizeBytes": 723570688,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v19-cores-e63c84b8/NOVA-DATA-v19-cores.zip",
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v22-skin93-33e01e84/NOVA-DATA-v22-skin93.zip",
         "start": 44,
-        "sizeBytes": 309598908,
-        "archiveSizeBytes": 309599034,
+        "sizeBytes": 310462956,
+        "archiveSizeBytes": 362584620,
         "compression": 8
       }
     },
@@ -4128,49 +4137,49 @@
     },
     {
       "path": "texdb/nova_mods/nova_mods.txt",
-      "sha256": "917726fcfe5676336ed16e64e4f1bdb4d37176089a567d9dbaa3919127490907",
-      "sizeBytes": 73917,
+      "sha256": "764fa94f35cbae89d98ab7a30c95291397c093feb1b0f9088f520c52df315800",
+      "sizeBytes": 74389,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v18-iphone-pickups-ac5a1d54/NOVA-DATA-v18-iphone-pickups-fonts.zip",
-        "start": 320475402,
-        "sizeBytes": 13060,
-        "archiveSizeBytes": 381060940,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v22-skin93-33e01e84/NOVA-DATA-v22-skin93.zip",
+        "start": 310463059,
+        "sizeBytes": 13150,
+        "archiveSizeBytes": 362584620,
         "compression": 8
       }
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.dat",
-      "sha256": "1ef020cd97e53f1eea0a0772cb01f8922694c099647e787d80c1a379516d9788",
-      "sizeBytes": 311260318,
+      "sha256": "bdca0722b95d19b983816042b0fe5a5f8432782b55c3c2ad8da6cc892a463ebc",
+      "sizeBytes": 313010770,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v18-iphone-pickups-ac5a1d54/NOVA-DATA-v18-iphone-pickups-fonts.zip",
-        "start": 320488525,
-        "sizeBytes": 51775367,
-        "archiveSizeBytes": 381060940,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v22-skin93-33e01e84/NOVA-DATA-v22-skin93.zip",
+        "start": 310476272,
+        "sizeBytes": 52097951,
+        "archiveSizeBytes": 362584620,
         "compression": 8
       }
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.tmb",
-      "sha256": "4d5444634c345b84b6ab100ec2660dce917db02fb4e6d1a1b0c3717943300185",
-      "sizeBytes": 18780,
+      "sha256": "e72bbf38a45dfbde3cc6a037b6a9396579cb0710e954f43baa534f8fdf63c95f",
+      "sizeBytes": 18900,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v18-iphone-pickups-ac5a1d54/NOVA-DATA-v18-iphone-pickups-fonts.zip",
-        "start": 372263955,
-        "sizeBytes": 6220,
-        "archiveSizeBytes": 381060940,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v22-skin93-33e01e84/NOVA-DATA-v22-skin93.zip",
+        "start": 362574286,
+        "sizeBytes": 6261,
+        "archiveSizeBytes": 362584620,
         "compression": 8
       }
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.toc",
-      "sha256": "c8f6f8d7deef8c4c751651cd9bef6bb909f74205462b73e4624e4ebe236096af",
-      "sizeBytes": 3760,
+      "sha256": "7e74d7ada44de0eab4fd5c2aa1a51b7617f4c13f5848eff78cd614e05a19d7a6",
+      "sizeBytes": 3784,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v18-iphone-pickups-ac5a1d54/NOVA-DATA-v18-iphone-pickups-fonts.zip",
-        "start": 372270238,
-        "sizeBytes": 3593,
-        "archiveSizeBytes": 381060940,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v22-skin93-33e01e84/NOVA-DATA-v22-skin93.zip",
+        "start": 362580610,
+        "sizeBytes": 3616,
+        "archiveSizeBytes": 362584620,
         "compression": 8
       }
     },
@@ -4273,9 +4282,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 41,
-      "publicationId": "01a9ad91-dbd6-40f0-9cfc-2b275748399b",
-      "updatedAt": "2026-11-13T19:00:03.136Z",
+      "dataVersion": 42,
+      "publicationId": "d6d228da-b462-41b3-bd71-7d00d51f1b99",
+      "updatedAt": "2026-11-13T19:50:10.966631+00:00",
       "distributionMode": "official",
       "files": [
         {
@@ -18318,6 +18327,18 @@
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-36-phone-display-20261111/cb12e4be22807bb80ec97b737030b2742f6f0f3f6f7e46b07763c7af4f29e5ca-NovaDisplay.asi",
           "sha256": "cb12e4be22807bb80ec97b737030b2742f6f0f3f6f7e46b07763c7af4f29e5ca",
           "sizeBytes": 198144
+        },
+        {
+          "path": "modloader/NOVA-SKINS/wfyst.dff",
+          "sha256": "c699e03b2a724af3d760b4cbecf4fd9d7eeb79d0923598e213ac79873d5385cf",
+          "sizeBytes": 1920162,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v42-skin93-33e01e84/c699e03b2a724af3d760b4cbecf4fd9d7eeb79d0923598e213ac79873d5385cf-wfyst.dff"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/wfyst.txd",
+          "sha256": "b6077bfd49a01d8103a7ce38e825731da43a7af950569f82cbda1e620d8875b7",
+          "sizeBytes": 1568732,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v42-skin93-33e01e84/b6077bfd49a01d8103a7ce38e825731da43a7af950569f82cbda1e620d8875b7-wfyst.txd"
         }
       ],
       "deletes": [
@@ -19246,9 +19267,9 @@
         "modloader/NOVA-PLACAS/hermes.txd"
       ],
       "mods": [],
-      "totalBytes": 1794648140,
-      "publishedAt": "2026-11-13T19:00:03.136Z",
-      "notes": "Pintura dos veículos, aderência, animações e suporte ao microfone privado do telefone. Atualização incremental."
+      "totalBytes": 1798137034,
+      "publishedAt": "2026-11-13T19:50:10.966631+00:00",
+      "notes": "Skin DragonByAndrea no ID 93 (wfyst). Demais mods preservados."
     }
   },
   "minimumGameBuild": 151,
