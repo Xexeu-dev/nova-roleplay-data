@@ -4300,7 +4300,7 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 44,
+      "dataVersion": 45,
       "publicationId": "699d067c-f30b-45ac-b53a-0625f24faf9d",
       "updatedAt": "2026-11-13T20:07:48.434476+00:00",
       "distributionMode": "official",
@@ -18381,6 +18381,30 @@
           "sha256": "c8ed8fda849c9b4f652c8c84f53984cc70d083bbae092955b63a588959d29f0f",
           "sizeBytes": 999004,
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v44-skin5-4c41ebc0/c8ed8fda849c9b4f652c8c84f53984cc70d083bbae092955b63a588959d29f0f-bb.txd"
+        },
+        {
+          "path": "CREDITOS-MODS/WindowedMode-LICENSE.txt",
+          "sizeBytes": 35825,
+          "sha256": "bfde1fd94c3b17b89fbbfa6321660c8284f631bf126db1e0a32c897944a842db",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-45-focus/bfde1fd94c3b17b89fbbfa6321660c8284f631bf126db1e0a32c897944a842db-WindowedMode-LICENSE.txt"
+        },
+        {
+          "path": "CREDITOS-MODS/WindowedMode-README.txt",
+          "sizeBytes": 582,
+          "sha256": "1410192506959a943d96c4cfb9f13779a74f6057ceaf281b71dd995691c71c3a",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-45-focus/1410192506959a943d96c4cfb9f13779a74f6057ceaf281b71dd995691c71c3a-WindowedMode-README.txt"
+        },
+        {
+          "path": "III.VC.SA.WindowedMode.asi",
+          "sizeBytes": 3243784,
+          "sha256": "e511fbf590d817c6ade0acc097e65673fbd83d54bd8bcb71f309fe49b8224c4b",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-45-focus/e511fbf590d817c6ade0acc097e65673fbd83d54bd8bcb71f309fe49b8224c4b-III.VC.SA.WindowedMode.asi"
+        },
+        {
+          "path": "III.VC.SA.WindowedMode.cfg",
+          "sizeBytes": 146,
+          "sha256": "9fac6f36341a108dd1ce80166b289f3ba4acc69dc0874be524a0513db6c2585a",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-45-focus/9fac6f36341a108dd1ce80166b289f3ba4acc69dc0874be524a0513db6c2585a-III.VC.SA.WindowedMode.cfg"
         }
       ],
       "deletes": [
@@ -19309,7 +19333,7 @@
         "modloader/NOVA-PLACAS/hermes.txd"
       ],
       "mods": [],
-      "totalBytes": 1801847725,
+      "totalBytes": 1805128062,
       "publishedAt": "2026-11-13T20:07:48.434476+00:00",
       "notes": "Skin byht2 no ID 5 (bb). Demais mods preservados."
     }
