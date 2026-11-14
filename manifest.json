@@ -19315,5 +19315,2269 @@
     }
   },
   "minimumGameBuild": 151,
-  "fileSyncSchema": 1
+  "fileSyncSchema": 1,
+  "mobileMods": {
+    "schemaVersion": 1,
+    "version": 24,
+    "models": [
+      {
+        "name": "wheel_gn1.dff",
+        "sizeBytes": 6144,
+        "sha256": "c468200609410e02bc864200da138204490380d1f3b7a38c62e8a9e222232b44",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 43,
+          "sizeBytes": 2409,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "wheel_gn2.dff",
+        "sizeBytes": 8192,
+        "sha256": "c4407f65a72da0cfc07dffd3e6f298ab5765e6e9ed2e73464066e943bf9bb054",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 2495,
+          "sizeBytes": 2996,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "wheel_gn3.dff",
+        "sizeBytes": 8192,
+        "sha256": "cace9c4dcc918eeefadda8bb9e79ba0705103b8699fa3960cf81e4a3e07c58c4",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 5534,
+          "sizeBytes": 2903,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "wheel_gn4.dff",
+        "sizeBytes": 8192,
+        "sha256": "2f26ec54226a4cadc2d1ca375d96d08b27a70b5f25734da57667b29aec12ad7b",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 8480,
+          "sizeBytes": 3328,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "wheel_gn5.dff",
+        "sizeBytes": 10240,
+        "sha256": "de2b45c1f5749fd7909fc77e69b09a7fe2ef2a19dbd9e55dd1ee8349a288624b",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 11851,
+          "sizeBytes": 3819,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "wheel_lr1.dff",
+        "sizeBytes": 12288,
+        "sha256": "022afd3da4d018dd5bb27a201693ab501193fe6a66abd1e1b8f1d329684830a8",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 15713,
+          "sizeBytes": 4946,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "wheel_lr2.dff",
+        "sizeBytes": 8192,
+        "sha256": "25d40a8cf4f2c19217678f1c742b044bda564fcef6a13eeba5bdb97133652aba",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 20702,
+          "sizeBytes": 3184,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "wheel_lr3.dff",
+        "sizeBytes": 8192,
+        "sha256": "4c3de9472c431148e5c9adbb1a819440cf0e89b056acb3c026f0ab91d21c29c3",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 23929,
+          "sizeBytes": 3611,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "wheel_lr4.dff",
+        "sizeBytes": 8192,
+        "sha256": "be87048f31ffbd830653c6a9a180e4fe2a7f48d6f203b56352b330eda8c5e809",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 27583,
+          "sizeBytes": 3583,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "wheel_lr5.dff",
+        "sizeBytes": 10240,
+        "sha256": "7a06acba69a903644ce9f3b6b75809260d424d4b5a639c88e6b76094c7537aac",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 31209,
+          "sizeBytes": 4252,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "wheel_or1.dff",
+        "sizeBytes": 6144,
+        "sha256": "9b1fc361193b327d4dff67c212bfc25ffeeee63c2881ba77af075f852cb87adc",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 35504,
+          "sizeBytes": 2473,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "wheel_sr1.dff",
+        "sizeBytes": 12288,
+        "sha256": "6b74a535841eafb0483378a0ace6ffcd86f055f8525a2ddf76ea6931b3f17714",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 38020,
+          "sizeBytes": 4690,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "wheel_sr2.dff",
+        "sizeBytes": 8192,
+        "sha256": "4faab0592711ebffb78371d61de07498cd31511ad32585b7f1e6bdbeb13f7bd7",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 42753,
+          "sizeBytes": 3134,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "wheel_sr3.dff",
+        "sizeBytes": 8192,
+        "sha256": "dfe836f335ab452a8945875f081aaa029226926fa40aee9320e8be5b6821c868",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 45930,
+          "sizeBytes": 3657,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "wheel_sr4.dff",
+        "sizeBytes": 6144,
+        "sha256": "bbad691044779a669df100978c0c24e48dc340e3fe67086fb2168618aade656d",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 49630,
+          "sizeBytes": 2722,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "wheel_sr5.dff",
+        "sizeBytes": 8192,
+        "sha256": "f65a1f7e549059a69238bed9aa86f3ff7cc7e739ff02fe2c62b20c5116fda033",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 52395,
+          "sizeBytes": 3661,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "wheel_sr6.dff",
+        "sizeBytes": 8192,
+        "sha256": "12e00b4f644edcada78a5ce603987319c487c235c1ddd62a8d96fb7a1f19b491",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 56099,
+          "sizeBytes": 4164,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "bb.dff",
+        "sizeBytes": 1255424,
+        "sha256": "6e079e3607771f38e0503a0b608a8bdc1f46e42824ff64cab00555ef1fc66d7a",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 60299,
+          "sizeBytes": 615273,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "emmet.dff",
+        "sizeBytes": 2289664,
+        "sha256": "b5092be3550c3b03d587b64e4fa29d6fe9ebadb43e8f6a2b2be69c010001426c",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 675611,
+          "sizeBytes": 895298,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "jethro.dff",
+        "sizeBytes": 813056,
+        "sha256": "75bd8640f6eef02ebb434d117cc984a6457c80dd6c21e13b6f5e29dadd9c557c",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 1570949,
+          "sizeBytes": 402078,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "maccer.dff",
+        "sizeBytes": 98304,
+        "sha256": "91e50c2f832500397f0409597f6681e3e48f1362c68a0f48a682ab49903c7d1a",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 1973067,
+          "sizeBytes": 45692,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "wfyclot.dff",
+        "sizeBytes": 88064,
+        "sha256": "963f91a10f2c685fb3f6be9be846f5824d70cc3c482e616c6652e880739b1173",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 2018800,
+          "sizeBytes": 38821,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "wfyst.dff",
+        "sizeBytes": 1921024,
+        "sha256": "d5c4ddf9d4ec37b88df0eed3479ab17180e2fed7920d6b9ebd6c13f011a615b7",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 2057660,
+          "sizeBytes": 873933,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "wmyclot.dff",
+        "sizeBytes": 90112,
+        "sha256": "2b3d10f11bc8a7f459b02014335b6260b5278d5468773f4ac0932182f57bd070",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 2931634,
+          "sizeBytes": 41665,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "cellphone.dff",
+        "sizeBytes": 12288,
+        "sha256": "e098d50d43163a3fee01dab37c70625bdc9a4f77440281cabdf79d54c3deaab3",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 2973342,
+          "sizeBytes": 4246,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "jetpack.dff",
+        "sizeBytes": 24576,
+        "sha256": "cfbd45772a0934f6a7a9634e11a4a483422715352216919ecd0d294ff8e1fdad",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 2977629,
+          "sizeBytes": 10111,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "admiral.dff",
+        "sizeBytes": 172032,
+        "sha256": "c0541f239beead6b03fd5555a7334e216d3871cda55b5316ef7965490e29220a",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 2987781,
+          "sizeBytes": 63660,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "alpha.dff",
+        "sizeBytes": 155648,
+        "sha256": "75f8763a50e337c94fff45f8816d0ec9fd7610ba623af63ba574778ea3912be0",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 3051480,
+          "sizeBytes": 63399,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "ambulan.dff",
+        "sizeBytes": 1064960,
+        "sha256": "3af4202167c5566fd3c6d14d767862816c79fb9bd00318bb2b751db9bd1a216f",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 3114920,
+          "sizeBytes": 340008,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "bandito.dff",
+        "sizeBytes": 882688,
+        "sha256": "f4146737100e9980c15955012c606dfc0c8ff27f9d7ab861df517352ff343af6",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 3454969,
+          "sizeBytes": 391943,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "banshee.dff",
+        "sizeBytes": 4812800,
+        "sha256": "63fa8df4209dfbfe3089ea1cc6dbf4c06812b437ef153a25eeebfd16e0dec541",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 3846953,
+          "sizeBytes": 2801142,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "barracks.dff",
+        "sizeBytes": 149504,
+        "sha256": "f0a2668776ed3cd1056be2194da897955b44831ad16075f36b8dc8b319f7daf9",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 6648137,
+          "sizeBytes": 53712,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "benson.dff",
+        "sizeBytes": 182272,
+        "sha256": "cbe4d3200da2dfa2e22586166b0f97626b6f87ccb81e4e238ef102415890fc47",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 6701889,
+          "sizeBytes": 61577,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "bf400.dff",
+        "sizeBytes": 4990976,
+        "sha256": "4fce7de112e27e91bc6b9804cb388daf6cd5d75a1d9e88772f2c29885692e043",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 6763505,
+          "sizeBytes": 3007716,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "bfinject.dff",
+        "sizeBytes": 176128,
+        "sha256": "fa55ceb44506fc475a144854e33ea48272a88aa9ed9f8070a0169941804f9e10",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 9771263,
+          "sizeBytes": 75051,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "blade.dff",
+        "sizeBytes": 178176,
+        "sha256": "6955ba3708b77ac5cf5778f518acb1dfb17a94c22ede612dfe2493dcd2e223e7",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 9846353,
+          "sizeBytes": 72174,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "blistac.dff",
+        "sizeBytes": 9949184,
+        "sha256": "a75f5d44754d78da0ec18d2bdd8efd3ac0880fedde94cdf9998d7bc6cc05656a",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 9918568,
+          "sizeBytes": 3886499,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "bloodra.dff",
+        "sizeBytes": 178176,
+        "sha256": "8ff181e4f3d2165647fe392c3e82f5f6ef4236240b4a59dc02573c31a3d00423",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 13805108,
+          "sizeBytes": 68109,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "bobcat.dff",
+        "sizeBytes": 178176,
+        "sha256": "cfbd99a049ec0fcad6bcb1b37f91a9d8b8d49278896284275cb2afa61e04df52",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 13873257,
+          "sizeBytes": 61636,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "boxburg.dff",
+        "sizeBytes": 169984,
+        "sha256": "7b4a7baf127bb22f9935f014cab9d012782e10106ef0946ea83b5050ed057d29",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 13934934,
+          "sizeBytes": 53206,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "boxville.dff",
+        "sizeBytes": 169984,
+        "sha256": "da6461e2dc09a0a595ed76a7bac35f8ef8b2f7cf6d1a8d10ea1ef070f7b2d539",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 13988182,
+          "sizeBytes": 53186,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "bravura.dff",
+        "sizeBytes": 12460032,
+        "sha256": "f5823042160552e909b6eb0062fb4bea27a110cbfc3e114dfe27c4b08f0b3988",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 14041409,
+          "sizeBytes": 4778809,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "broadway.dff",
+        "sizeBytes": 161792,
+        "sha256": "89ed4451f029f7dff7661d8f5fd376119e5d4d65e34d3611c46bb04b929f26f6",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 18820260,
+          "sizeBytes": 67645,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "buccanee.dff",
+        "sizeBytes": 178176,
+        "sha256": "2ddad9c065880fec42c6a40fcca9e177fcccf69c0ae764c53300c629ae4a0207",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 18887947,
+          "sizeBytes": 73091,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "buffalo.dff",
+        "sizeBytes": 159744,
+        "sha256": "38ddf4d381bfce8cd6dc4f4a486e773293aa170741cb70dd760b5cc3209086ec",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 18961079,
+          "sizeBytes": 66236,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "bullet.dff",
+        "sizeBytes": 186368,
+        "sha256": "2a94ce70d1686a86273560da41acf48861aa4fe9c7ed3dc288459942b9ca2b7e",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 19027355,
+          "sizeBytes": 74613,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "burrito.dff",
+        "sizeBytes": 202752,
+        "sha256": "7235dcdd84ea6461978f197f7f7727f948773d27d33415a34d99073b675f6bda",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 19102009,
+          "sizeBytes": 69991,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "bus.dff",
+        "sizeBytes": 169984,
+        "sha256": "0b57383d0602542eb870ff943688e7847adfe9b9db18255ae4774bfb94efa28a",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 19172037,
+          "sizeBytes": 54667,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "cabbie.dff",
+        "sizeBytes": 172032,
+        "sha256": "fd481426cbf17a5be99431cd3440d6018e42caba041a8f3b5fac81a6da49e78b",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 19226744,
+          "sizeBytes": 64161,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "cadrona.dff",
+        "sizeBytes": 5679104,
+        "sha256": "3ac526f0e5faea360ce1bf9243a6281c23e967acf4da11d0f9faeedb99fa598c",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 19290946,
+          "sizeBytes": 2867293,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "camper.dff",
+        "sizeBytes": 5132288,
+        "sha256": "08d44b2a5f02b38e8ce027368376302aae7eec986768293a6851729840fd1a13",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 22158279,
+          "sizeBytes": 1998146,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "cement.dff",
+        "sizeBytes": 200704,
+        "sha256": "6a3bf38db6d1cc114497fe38b75e515e9719c3a4102cd66db37694fae0e4e7a5",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 24156465,
+          "sizeBytes": 78754,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "cheetah.dff",
+        "sizeBytes": 163840,
+        "sha256": "34cbd3d8d8989913b7649161369d524c211324ca7aa03e02d7b61a58a431aebe",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 24235260,
+          "sizeBytes": 60759,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "clover.dff",
+        "sizeBytes": 194560,
+        "sha256": "a85b041eba3d8662e511b1922b29b49bb69e7631e5edc702dad7d440fa5b83c5",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 24296059,
+          "sizeBytes": 73207,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "club.dff",
+        "sizeBytes": 11110400,
+        "sha256": "b97056797914451ca96d3eb05fff4d8bde4d3653fb2679e27a27c45e60d4de73",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 24369304,
+          "sizeBytes": 4901513,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "coach.dff",
+        "sizeBytes": 9150464,
+        "sha256": "0c75cb8791b924eac3d6f7be147f93f0876666be00568843c6a55622f5dc7602",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 29270856,
+          "sizeBytes": 3576235,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "comet.dff",
+        "sizeBytes": 9377792,
+        "sha256": "8bf23786749b793eae2006e0a7ffa780ea4223230e0b936e8969ccc35365b653",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 32847130,
+          "sizeBytes": 3893108,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "copbike.dff",
+        "sizeBytes": 10645504,
+        "sha256": "9951422f62da12242a68dc831b9d2eedeea4650c2bac5211cc919e63a01376a9",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 36740279,
+          "sizeBytes": 5118057,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "copcarla.dff",
+        "sizeBytes": 991232,
+        "sha256": "c46d7ed17513fb2a34e66536a4b4b4a124dd07f051c92b2df6a97074925565fb",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 41858378,
+          "sizeBytes": 397571,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "copcarru.dff",
+        "sizeBytes": 5881856,
+        "sha256": "db7e4b2a7e6be69a9191a28b72ac101442a751f5926e7edf2cbd0777e40a9cb8",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 42255991,
+          "sizeBytes": 2537152,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "copcarsf.dff",
+        "sizeBytes": 5044224,
+        "sha256": "3c1a57567940626f221c7fa3b343c63b9350d1ec36ede3308e51081fda0b9348",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 44793185,
+          "sizeBytes": 2674911,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "copcarvg.dff",
+        "sizeBytes": 9388032,
+        "sha256": "94419d6a263a360c0391adb44c2477992c6da8d6abe2910038885a550177f8b7",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 47468138,
+          "sizeBytes": 3955352,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "dft30.dff",
+        "sizeBytes": 186368,
+        "sha256": "b48bd2146ce1620230b1f8ebc024c7d2496466b9d92339d9eddf425622b5565a",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 51423529,
+          "sizeBytes": 73860,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "elegant.dff",
+        "sizeBytes": 188416,
+        "sha256": "f1cc7f458b5cb6a21cc6e98512b92b3cda24b1fd094c8099d219983d85c2764c",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 51497430,
+          "sizeBytes": 71077,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "elegy.dff",
+        "sizeBytes": 10082304,
+        "sha256": "8853652707ce5197121da33ecf217cdc2e8421bab951d1fc1bc07e964e540cce",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 51568546,
+          "sizeBytes": 4377422,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "emperor.dff",
+        "sizeBytes": 202752,
+        "sha256": "fdeb5ff4483ba32d28c6effac2f5d061e812d6edc49aa6762e5796ce28dffb0c",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 55946009,
+          "sizeBytes": 78970,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "enforcer.dff",
+        "sizeBytes": 13811712,
+        "sha256": "0cd8f3ba47385a24614eeee7d0f6614f78e905b58cdad0267b520efc8c5172ed",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 56025021,
+          "sizeBytes": 5326037,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "esperant.dff",
+        "sizeBytes": 163840,
+        "sha256": "0d793f7df2a9d959c5ec7f49d6b7faccfee99de6ce897a9e174f0cf14e53e0ce",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 61351100,
+          "sizeBytes": 65352,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "euros.dff",
+        "sizeBytes": 8241152,
+        "sha256": "457c6cfc74811eaed0b3ddb223416055340bae5b7fe239a11236cd2a6d72d39a",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 61416491,
+          "sizeBytes": 3606449,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "faggio.dff",
+        "sizeBytes": 407552,
+        "sha256": "e8fb78dd33154bda1327f99e955e872b1b294dece068a3ee7c8afc94ea804c2b",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 65022980,
+          "sizeBytes": 216307,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "fbiranch.dff",
+        "sizeBytes": 24623104,
+        "sha256": "947ddf2e12c1d676d34c2e5558268bcaa85f6d549e223a1d8ccc512ce05d3b68",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 65239329,
+          "sizeBytes": 11503252,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "fbitruck.dff",
+        "sizeBytes": 4968448,
+        "sha256": "26c20f3e6f988efdd37a3d9546e41ec27c2cd81a206edcbcc343a6da7cd09007",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 76742623,
+          "sizeBytes": 2658893,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "fcr900.dff",
+        "sizeBytes": 8761344,
+        "sha256": "6d238786e4697bcb8381805791d06d7cbdc2c99c4d998ba0cfcc852628007160",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 79401556,
+          "sizeBytes": 4660304,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "feltzer.dff",
+        "sizeBytes": 176128,
+        "sha256": "13d8615e96210957e49bd8c3f01969e31e5055d96c71393ca97f27d1c3217fb7",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 84061901,
+          "sizeBytes": 70626,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "firela.dff",
+        "sizeBytes": 212992,
+        "sha256": "201ebcf1a40f6e4104ed0c11d3fdb27fc71b94003f1571de8389acdaeea337b4",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 84132567,
+          "sizeBytes": 76663,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "firetruk.dff",
+        "sizeBytes": 11147264,
+        "sha256": "8f10db6a41941f803f086c00a62c77c2f8a249a856647f1fedf06f7e4d2ce2d4",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 84209272,
+          "sizeBytes": 4750088,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "flash.dff",
+        "sizeBytes": 196608,
+        "sha256": "c2316aa227b3f2c7459d46739ec86e23cbb66bb512c9ca0c6aabd430341c51da",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 88959399,
+          "sizeBytes": 81496,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "flatbed.dff",
+        "sizeBytes": 227328,
+        "sha256": "6195d4d9b7dc22c0a42d1069af6f51ae559e81e3a5d4c22e3af5fe21361418b1",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 89040936,
+          "sizeBytes": 79023,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "fortune.dff",
+        "sizeBytes": 157696,
+        "sha256": "75b1b1b954417bbc4a40d122cb8436b6e49b2409f9be55732ed6c0efa03c8a99",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 89120000,
+          "sizeBytes": 63509,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "freeway.dff",
+        "sizeBytes": 106496,
+        "sha256": "f465ebb3438b67c9bb7c9540aa1b16db6af7be845faf8c6c2527a6110f071f4e",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 89183550,
+          "sizeBytes": 47357,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "glendale.dff",
+        "sizeBytes": 575488,
+        "sha256": "4a2701ce8b8afc4900b15404b6d6abde363a9be05cbbbf9b07b845027f6dc7b9",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 89230949,
+          "sizeBytes": 185386,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "glenshit.dff",
+        "sizeBytes": 92160,
+        "sha256": "00f7c5b6e862da160a13176f8e0a0d33735d4ceb007058d0c2050fd6e40a2546",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 89416377,
+          "sizeBytes": 39086,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "greenwoo.dff",
+        "sizeBytes": 200704,
+        "sha256": "960491a7508f63fc224b756bf876b80eeb17e0c98d1b53c330e147fef79dc380",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 89455505,
+          "sizeBytes": 72915,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "hermes.dff",
+        "sizeBytes": 5851136,
+        "sha256": "b6f24f379b9cbf7d6530f8c59507ff034e1b9681fb285469cc41960a31be52f1",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 89528460,
+          "sizeBytes": 2667568,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "hotdog.dff",
+        "sizeBytes": 202752,
+        "sha256": "7365fbd256b3ef1c650318cb88c3dfcebb09ff0b9a8343d113e4b05480907157",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 92196068,
+          "sizeBytes": 87987,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "hotknife.dff",
+        "sizeBytes": 10428416,
+        "sha256": "75b104f6dd76824dfaf4cf11a9fb359c4c475ce5a8c98aa7b79a88b7d7d64f56",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 92284097,
+          "sizeBytes": 4159903,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "hotrina.dff",
+        "sizeBytes": 5046272,
+        "sha256": "f7d5379a8792006d3ecafc2d4881d929e5fdef201988c11a40b2a18fe82b3d57",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 96444041,
+          "sizeBytes": 2672195,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "huntley.dff",
+        "sizeBytes": 3938304,
+        "sha256": "513050aaa41b2acf859fad490ad7701f2b35cecd5bdf59ae84728ae433bcecd8",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 99116277,
+          "sizeBytes": 2027999,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "hustler.dff",
+        "sizeBytes": 3530752,
+        "sha256": "4b43429a3e343e783b7716fbad54ef7cae3759314c739e3c4aa84bfbd5794d36",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 101144317,
+          "sizeBytes": 1826549,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "infernus.dff",
+        "sizeBytes": 11520000,
+        "sha256": "609aec4790242b2219489a3c2355b99513b34d9b916c2956ca97f06ded405d1f",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 102970908,
+          "sizeBytes": 4439210,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "intruder.dff",
+        "sizeBytes": 206848,
+        "sha256": "f4301948aca9c2e60ea86c128743223fb59b38ca48e886a0c946fc7400d9e74f",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 107410160,
+          "sizeBytes": 77967,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "jester.dff",
+        "sizeBytes": 7028736,
+        "sha256": "df25b79fde529804ad7212f51c3a6eb2c123678d6303b45884eeaa18b9182dec",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 107488167,
+          "sizeBytes": 3102440,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "journey.dff",
+        "sizeBytes": 204800,
+        "sha256": "fbb697d2df3e834df11094e36d63532279d448c75ba7c26bfddd68db4d7416d6",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 110590648,
+          "sizeBytes": 80334,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "kart.dff",
+        "sizeBytes": 307200,
+        "sha256": "f651c73a9ec0b077d509e51a3c31a721d52b63a4304f0183129b38d205e819ed",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 110671020,
+          "sizeBytes": 85826,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "landstal.dff",
+        "sizeBytes": 225280,
+        "sha256": "991ee9c4b509c71d32ea97bae130aeb42901f26b44402cf34d94d31033ca8ffd",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 110756888,
+          "sizeBytes": 76942,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "linerun.dff",
+        "sizeBytes": 48740352,
+        "sha256": "2429439404ac1ebe9d7d6ea28924181ef3fab96b34ad6da0cc87e7685c1d4d65",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 110833871,
+          "sizeBytes": 20441736,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "majestic.dff",
+        "sizeBytes": 192512,
+        "sha256": "f85e1f85b9f59645c05c27a50ad760a4c93db257446d085cb5bfaf3d89852c7b",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 131275649,
+          "sizeBytes": 76251,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "manana.dff",
+        "sizeBytes": 155648,
+        "sha256": "0dfd46f6ddd7f2aae318011f1e6f020a7af00b28a4fd3c0f6e15ce2858b25cb7",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 131351940,
+          "sizeBytes": 54132,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "maverick.dff",
+        "sizeBytes": 886784,
+        "sha256": "3927f9d2a31612b0385b30d7b828dea7d7a469cbe9874856ac336cf205114318",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 131406114,
+          "sizeBytes": 428830,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "merit.dff",
+        "sizeBytes": 208896,
+        "sha256": "cb518790e27ed390e3f2dce2d847b1e0a2d2d3da5d6f9e7fa84b3eee14179140",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 131834983,
+          "sizeBytes": 76974,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "mesa.dff",
+        "sizeBytes": 192512,
+        "sha256": "9a9d4f0f175945ad8165d3c7edc3ca72b11da1930a5e92bfa7b5fac87ccf9873",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 131911995,
+          "sizeBytes": 68414,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "monstera.dff",
+        "sizeBytes": 161792,
+        "sha256": "89d99678314267208177dc6c64bf0a9470513f473b9c23ff7fbe1a9e9f7807b9",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 131980451,
+          "sizeBytes": 67133,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "monsterb.dff",
+        "sizeBytes": 7393280,
+        "sha256": "72efcf0730c53e383d599a4bca5c191ef869395c30b4f7863da730e4d6032229",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 132047626,
+          "sizeBytes": 3351236,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "moonbeam.dff",
+        "sizeBytes": 704512,
+        "sha256": "c21cd3138a2d61782c1e97841fef1e74016dab91b5373a888cb19ca3fbca4129",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 135398904,
+          "sizeBytes": 275181,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "mrwhoop.dff",
+        "sizeBytes": 172032,
+        "sha256": "c1175e4014516420a0f2327cc9e3807afd5cec5a54ed9da879b79646e60ebb94",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 135674126,
+          "sizeBytes": 61099,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "mule.dff",
+        "sizeBytes": 163840,
+        "sha256": "46ff4286e6b68f20b0621fbe64ed85e54ec4e5b60a87ef214309201b4c18e156",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 135735263,
+          "sizeBytes": 55601,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "nebula.dff",
+        "sizeBytes": 198656,
+        "sha256": "226c4396b8385cf510e32e8702d9ec853da414fdf46df12f046f7be0709ef4d7",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 135790904,
+          "sizeBytes": 71541,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "newsvan.dff",
+        "sizeBytes": 217088,
+        "sha256": "1a7da2dc5dc6b55ba8745bab37c7b32e8762c4f04c9c10694a9157c9767c08c4",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 135862486,
+          "sizeBytes": 74570,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "nrg500.dff",
+        "sizeBytes": 6279168,
+        "sha256": "e3049293f58956eefe8e660513190a6cb7548db40d8ed1adbfc5012bb0cdcefc",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 135937096,
+          "sizeBytes": 2191174,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "oceanic.dff",
+        "sizeBytes": 174080,
+        "sha256": "d361547937821caf0076e8a9b5cf09f7769b4a2095087684bb7224fe0a64cf11",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 138128311,
+          "sizeBytes": 64223,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "packer.dff",
+        "sizeBytes": 200704,
+        "sha256": "36e0da0b4f33288dd820f6d15f08184695573113c35bd14783ca65641952c308",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 138192574,
+          "sizeBytes": 71226,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "patriot.dff",
+        "sizeBytes": 4665344,
+        "sha256": "6bbebf1c7bc25a8375ba488c2871496da384db6a5fc5dbe6ddc356a54a03b6f9",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 138263841,
+          "sizeBytes": 2207779,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "pcj600.dff",
+        "sizeBytes": 9066496,
+        "sha256": "ebaa1bc133b7fbce3f3ab1c415aa75f378bfc0d6f094714d5a871267252b439d",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 140471660,
+          "sizeBytes": 4566439,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "peren.dff",
+        "sizeBytes": 204800,
+        "sha256": "d20af59e65e90ad9dea1522d0c453c73899a081aebb14e6ebf8a9c5c9b33571b",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 145038138,
+          "sizeBytes": 70277,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "phoenix.dff",
+        "sizeBytes": 3954688,
+        "sha256": "48a0ae58b0706b130566d3cd357a904aa8d40afd328e267cf46f4828d82f53bc",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 145108456,
+          "sizeBytes": 1474452,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "picador.dff",
+        "sizeBytes": 196608,
+        "sha256": "4381ca56e6dc33c723253fe5443161fdb251b85b89286b0a9a654af99ea15a9f",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 146582949,
+          "sizeBytes": 77562,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "pizzaboy.dff",
+        "sizeBytes": 6424576,
+        "sha256": "b40b4b825cdab01d87e650db6be4c1ac1d99ddfc7bd12f7ffbaa0316eb2c8454",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 146660553,
+          "sizeBytes": 3155645,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "polmav.dff",
+        "sizeBytes": 2553856,
+        "sha256": "0622ddd376e2a48dd889d7162abae33d8f01ef8a92037eb0052250131a105f67",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 149816238,
+          "sizeBytes": 1162455,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "pony.dff",
+        "sizeBytes": 184320,
+        "sha256": "506d8a727e77589f514d26cd8b4a4ccbc1268291094c201b9e8fa9f1462e47fc",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 150978731,
+          "sizeBytes": 62587,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "premier.dff",
+        "sizeBytes": 190464,
+        "sha256": "ab46c2d1e15da4ed8f727020b6e8dc833294c0d4dc44456a7c965606ef1bcc56",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 151041359,
+          "sizeBytes": 71533,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "previon.dff",
+        "sizeBytes": 10561536,
+        "sha256": "0a67047908b0d21d9ea1ce3408e6c4eb335e806c7eedabebbea572a6b39acf10",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 151112933,
+          "sizeBytes": 4650205,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "primo.dff",
+        "sizeBytes": 194560,
+        "sha256": "3adbe53cdaad503fa0665fb4598522d5074996b418b887456b91c2a26acad9b7",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 155763177,
+          "sizeBytes": 74013,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "quad.dff",
+        "sizeBytes": 145408,
+        "sha256": "afc26725463aee2be648dcedff2fd4ec9aa6705333d602a562c79c8d067b5c33",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 155837228,
+          "sizeBytes": 54044,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "rancher.dff",
+        "sizeBytes": 198656,
+        "sha256": "77713aa3d510faabda233a9809e23aec764399a1a7bca97ab6157cfe89a40711",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 155891313,
+          "sizeBytes": 76514,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "rdtrain.dff",
+        "sizeBytes": 194560,
+        "sha256": "171dccc9f8de001018c8a0e2c2df2824103c6a145089bad2884d3d4d5c194cdf",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 155967868,
+          "sizeBytes": 76276,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "regina.dff",
+        "sizeBytes": 212992,
+        "sha256": "dd996346fddf463de7d1dc68123353bbdcc9bf5b09bd16aa66f36e1befc20aba",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 156044184,
+          "sizeBytes": 78218,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "remingtn.dff",
+        "sizeBytes": 176128,
+        "sha256": "473db8ef54a1e05a82556158416af12ef39fae60b6525d5a056903dbd4e57b47",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 156122444,
+          "sizeBytes": 68430,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "rhino.dff",
+        "sizeBytes": 6252544,
+        "sha256": "d434da3747041784123d4d5ddd48725845daa068343d3c09550987eed378970f",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 156190913,
+          "sizeBytes": 1851143,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "rnchlure.dff",
+        "sizeBytes": 202752,
+        "sha256": "f324e3cf653b00401bde5f6125808194518da620b73e45052882634ca0917c62",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 158042098,
+          "sizeBytes": 78750,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "romero.dff",
+        "sizeBytes": 212992,
+        "sha256": "263fe7ca8bd81795516e8201ea5a06321e2da66e758bd054c626b1c55d258195",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 158120888,
+          "sizeBytes": 74811,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "rumpo.dff",
+        "sizeBytes": 202752,
+        "sha256": "e025202f1124af45e6fed41a85782212a1b5c753165ded1acfa5c6669fee1f79",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 158195738,
+          "sizeBytes": 69148,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "sabre.dff",
+        "sizeBytes": 10346496,
+        "sha256": "d9be1924ac166e0bae38a3920472c5bf683202b975e0dc2c7a33e51e74491954",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 158264925,
+          "sizeBytes": 4759104,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "sadler.dff",
+        "sizeBytes": 237568,
+        "sha256": "772b309a4fde50fb77936daa20a4ff7c901bcc8b0a460a48c598d3fc8773e7c0",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 163024069,
+          "sizeBytes": 102370,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "sadlshit.dff",
+        "sizeBytes": 124928,
+        "sha256": "f78473d7fb0e239e5683002c1530e5d7795fb85216d6d2b4a7e4e6734dcaf525",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 163126481,
+          "sizeBytes": 52110,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "sanchez.dff",
+        "sizeBytes": 8824832,
+        "sha256": "99d1edd8f0bf379512ebf60b887b1feb7778c81d2cc89e7a2844d31ff0dd15a8",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 163178632,
+          "sizeBytes": 3713170,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "sandking.dff",
+        "sizeBytes": 196608,
+        "sha256": "b3c418a5346c220245bd7aa5b2b82399d839aae54267840da17c8b6e63480e46",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 166891844,
+          "sizeBytes": 82518,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "savanna.dff",
+        "sizeBytes": 210944,
+        "sha256": "965f57e290377294e7798d8104906697a94c92ada39cd8397dfc23175bcaa941",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 166974403,
+          "sizeBytes": 74364,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "securica.dff",
+        "sizeBytes": 2277376,
+        "sha256": "e54303ce5626af9b34f16d168cfb8fe104d9f793ae83f118653e24e2b406cca2",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 167048809,
+          "sizeBytes": 705313,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "sentinel.dff",
+        "sizeBytes": 200704,
+        "sha256": "4e935899a29afca39ed9f1f60680ca650856d749fd946ca5cc82f2620b750b6c",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 167754164,
+          "sizeBytes": 72000,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "slamvan.dff",
+        "sizeBytes": 4171776,
+        "sha256": "233bc8009f75fba912b5f82ffd8533ece27d4093f451112262e912f0aa627f8e",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 167826205,
+          "sizeBytes": 1862153,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "solair.dff",
+        "sizeBytes": 9115648,
+        "sha256": "418fd7bc9c8b4acb49710c94f6893045117d5eb9132c363416e064d7e50bafa4",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 169688398,
+          "sizeBytes": 4924861,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "stafford.dff",
+        "sizeBytes": 198656,
+        "sha256": "b6b4da0b556d10a19ad985590b4ab7d3a428bf0b1d6b94d2ad44984e395b9f9f",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 174613301,
+          "sizeBytes": 81703,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "stallion.dff",
+        "sizeBytes": 3620864,
+        "sha256": "54bfd74b9910c92d4d2cd8f47784dbf664ce777c9ca42d63c172e89e75e882a4",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 174695046,
+          "sizeBytes": 1528850,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "stratum.dff",
+        "sizeBytes": 7088128,
+        "sha256": "da481912c94372b3703b7295d6ecabcd0b248f6b621066e72bad13bdfec1e4ea",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 176223937,
+          "sizeBytes": 3744418,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "stretch.dff",
+        "sizeBytes": 202752,
+        "sha256": "6a344a7f9d22bb1f7bed30c5dd920c94833ca548af4744a14d295e410a28dd52",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 179968396,
+          "sizeBytes": 75648,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "sultan.dff",
+        "sizeBytes": 9142272,
+        "sha256": "0d0ce2414ff3806685b2abecef284ac5069cd28233e8aa9610f0f8d30aaecedf",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 180044084,
+          "sizeBytes": 4154316,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "sunrise.dff",
+        "sizeBytes": 196608,
+        "sha256": "115390a800c4044f115127a2644ffb1919eaf880b1e3d379524402d2c56a3eea",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 184198441,
+          "sizeBytes": 76280,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "supergt.dff",
+        "sizeBytes": 15476736,
+        "sha256": "67f0662c3bd50628a05a24351e7fd9141337f0aabaf343215905f1747dcbbe17",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 184274762,
+          "sizeBytes": 5999434,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "swatvan.dff",
+        "sizeBytes": 4722688,
+        "sha256": "9eeeee9a0f35fd2b0a58cc8aca2704a5e375a6b1dff2f656c8e6750902a36257",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 190274237,
+          "sizeBytes": 2057151,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "sweeper.dff",
+        "sizeBytes": 165888,
+        "sha256": "80fc6569264c49638258a4456c78e7bb05cc28715a03180787a843cd062ca7ab",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 192331429,
+          "sizeBytes": 59807,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "tahoma.dff",
+        "sizeBytes": 182272,
+        "sha256": "13e8657840c121a501fbcbbba707b8db3ad602444c38256dba9e5c44713f0383",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 192391276,
+          "sizeBytes": 66942,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "tampa.dff",
+        "sizeBytes": 182272,
+        "sha256": "e5e666badbfef43db7d034e6f6144c6aca2817c7eeb792a67e9878804b28d6f1",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 192458257,
+          "sizeBytes": 71916,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "taxi.dff",
+        "sizeBytes": 192512,
+        "sha256": "68bbceb66a943b77c35afbf3cf76cf33c0aa76d4ac1014eba2af4a46dc181051",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 192530211,
+          "sizeBytes": 71844,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "topfun.dff",
+        "sizeBytes": 131072,
+        "sha256": "3c0c334f7509fca51913e0d1787f302145f9442b7c2613b6d8800b26b7f064c6",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 192602095,
+          "sizeBytes": 45600,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "tornado.dff",
+        "sizeBytes": 178176,
+        "sha256": "c0c1c14cfccdd83ff8136d1ee07cbac48e63d544b2922e9384fd24af7284fc14",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 192647736,
+          "sizeBytes": 74936,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "towtruck.dff",
+        "sizeBytes": 7385088,
+        "sha256": "abae18c024ce6a85dd422840a25cbbe97c79899c77299e6b1b71d0190569808e",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 192722714,
+          "sizeBytes": 2431644,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "trash.dff",
+        "sizeBytes": 1959936,
+        "sha256": "d9c0d9d3218a8eff4e6205cc954659615408fd8a6845811d399b67fdaecbefff",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 195154397,
+          "sizeBytes": 576296,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "turismo.dff",
+        "sizeBytes": 9177088,
+        "sha256": "d8a649415b289d147d7c90dd6789a5a056d4abf7059b3eecd248dd0bf640daf2",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 195730734,
+          "sizeBytes": 3669354,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "uranus.dff",
+        "sizeBytes": 176128,
+        "sha256": "cfb52473a87d2c7119a81e21ec3415e65c188d3d640c41205a17b9cdd89b3454",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 199400128,
+          "sizeBytes": 74519,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "utility.dff",
+        "sizeBytes": 229376,
+        "sha256": "ac5c3aff8263a225107f094fb6ea50c463cf13c6dda1c5b47e2d063aa0c494e1",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 199474688,
+          "sizeBytes": 88704,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "vincent.dff",
+        "sizeBytes": 198656,
+        "sha256": "16dfbe51727063d3c210eece963e4ec20a6f1dfa7f88e84f51ebd587e9053388",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 199563433,
+          "sizeBytes": 72134,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "virgo.dff",
+        "sizeBytes": 194560,
+        "sha256": "6ae3c815808c25d7ce2df6554fc3fa6500532fbfbcacb68e3dc7fa6fa9592329",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 199635606,
+          "sizeBytes": 72127,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "voodoo.dff",
+        "sizeBytes": 100352,
+        "sha256": "0a618c196fc071ec7123848ebf6cb3450bd23a869000bc90c5113c48bc24baf3",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 199707773,
+          "sizeBytes": 39240,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "vortex.dff",
+        "sizeBytes": 241664,
+        "sha256": "d2ca257b9fed6da9e9193ea2869f04fcc706836bb5a8938b7d8e9f805b068545",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 199747053,
+          "sizeBytes": 88234,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "walton.dff",
+        "sizeBytes": 210944,
+        "sha256": "6a8b0c3cac608ed2937e2f8f356cf3bb909c4c8d78440e76d3a0bbf79ae4ecb8",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 199835327,
+          "sizeBytes": 77028,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "washing.dff",
+        "sizeBytes": 200704,
+        "sha256": "4eb3604d90993af0a848c7eddaaf623de02792d8478a942d4f17a9d16ef039b1",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 199912396,
+          "sizeBytes": 71619,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "wayfarer.dff",
+        "sizeBytes": 104448,
+        "sha256": "5aa3bf041e4e069a3025ed224986098ed871837b43e6a2791ac01d424535c407",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 199984057,
+          "sizeBytes": 44096,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "willard.dff",
+        "sizeBytes": 208896,
+        "sha256": "f1aabf1b8b2a12002267cc2ccf08861284fcf8ab15b5bd055bde8bca249d0b5b",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 200028194,
+          "sizeBytes": 78078,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "windsor.dff",
+        "sizeBytes": 139264,
+        "sha256": "eb8513780c4a2601ec94eda080415799b472c39c3cf4946a7b6fb562b35d5858",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 200106313,
+          "sizeBytes": 57224,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "yankee.dff",
+        "sizeBytes": 172032,
+        "sha256": "9a35e5a07e34fa918833bef179c27a620561739f345a8de67fa69fae22d793ae",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 200163577,
+          "sizeBytes": 58005,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "yosemite.dff",
+        "sizeBytes": 1284096,
+        "sha256": "ba7f0cda4657b02196b3d445396ff486198873dbccd0fc005649f5316f4fdceb",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 200221624,
+          "sizeBytes": 692165,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "zr350.dff",
+        "sizeBytes": 5214208,
+        "sha256": "0b02bd9d4e6fd91d42091a8fd25bda05a53c088352ac340f46ec57e876463add",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 200913828,
+          "sizeBytes": 2770315,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "adrenaline.dff",
+        "sizeBytes": 51200,
+        "sha256": "a54130b771f3aa0352a9990e7235265114126825a863aa5533c03559c1590aa0",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 203684187,
+          "sizeBytes": 25083,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "arrow.dff",
+        "sizeBytes": 8192,
+        "sha256": "cb0fc5b0509a2aead344eb542705ef0249a088690d3f727a4f189dbc31d7d669",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 203709309,
+          "sizeBytes": 2753,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "bigdollar.dff",
+        "sizeBytes": 176128,
+        "sha256": "2c29bfde9f60002552b7dcd8c81c53a24798b09f3067afa90887fe7869be8e2d",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 203712105,
+          "sizeBytes": 90615,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "bribe.dff",
+        "sizeBytes": 8192,
+        "sha256": "0bb4eff902f04483cf16e5f96336030475f6ecd370ea818c882cc23ccf916c6e",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 203802759,
+          "sizeBytes": 2065,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "clothesp.dff",
+        "sizeBytes": 6144,
+        "sha256": "340577632126af1f7cfbdcfa401049fba44ec9750984c46053a73616e654bbe2",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 203804866,
+          "sizeBytes": 1550,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "health.dff",
+        "sizeBytes": 157696,
+        "sha256": "ced5d487cd2405a311c7723f61d208507f4fcc71f90481954bbf062fba2362b6",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 203806456,
+          "sizeBytes": 87976,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "info.dff",
+        "sizeBytes": 77824,
+        "sha256": "0d4805a57bfc820c2458ec697b0ecfbb0310a87e157527e5eb108bdddcc23fce",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 203894470,
+          "sizeBytes": 14556,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "killfrenzy.dff",
+        "sizeBytes": 116736,
+        "sha256": "6a86cb0e59f7ea87af874c395e371bf08cb8b7ba2e7d535104d32db0a891a6fb",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 203909070,
+          "sizeBytes": 32830,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "killfrenzy2plyr.dff",
+        "sizeBytes": 235520,
+        "sha256": "0b4ea7fbbfc5c8ece49143fa9bbba5d3ca5b8ad74edeb364ad84c49335fcc2ba",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 203941949,
+          "sizeBytes": 57482,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "property_fsale.dff",
+        "sizeBytes": 53248,
+        "sha256": "dce64c708d36d84f4a5255c222a3e77b6f721a03257222d75b4d4637b2dfbf68",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 203999479,
+          "sizeBytes": 6913,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "property_locked.dff",
+        "sizeBytes": 53248,
+        "sha256": "1bf30877bba639e1b17814246366df598ab88bae2dc7c03403dd3e164fa5e537",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 204006441,
+          "sizeBytes": 6913,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      },
+      {
+        "name": "cj_money_bag.dff",
+        "sizeBytes": 387072,
+        "sha256": "0a70ba3f5e021b61720f5c5e053f37dab024df1e92a5d7b3b8eecfad326e0434",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v24-73aadd05/NOVA-ANDROID-MODS.zip",
+          "start": 204013400,
+          "sizeBytes": 180774,
+          "archiveSizeBytes": 204204682,
+          "compression": 8
+        }
+      }
+    ],
+    "files": [
+      {
+        "path": "texdb/nova_mods/nova_mods.txt",
+        "sha256": "8326d299081f5c70675135bbc8082c494320acc7b4b74a28c9a738accff8478e",
+        "sizeBytes": 75563,
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v24-skin5-4c41ebc0/NOVA-DATA-v24-skin5.zip",
+          "start": 311421673,
+          "sizeBytes": 13353,
+          "archiveSizeBytes": 364819203,
+          "compression": 8
+        }
+      },
+      {
+        "path": "texdb/nova_mods/nova_mods.etc.dat",
+        "sha256": "8e4e057e5a4283214914c5829cf2bcf627145e87da7fb6cc9a115ba0a39a70da",
+        "sizeBytes": 318866232,
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v24-skin5-4c41ebc0/NOVA-DATA-v24-skin5.zip",
+          "start": 311435089,
+          "sizeBytes": 53373553,
+          "archiveSizeBytes": 364819203,
+          "compression": 8
+        }
+      },
+      {
+        "path": "texdb/nova_mods/nova_mods.etc.tmb",
+        "sha256": "e0d3259f92246cab0b9d50eb20f4692e4557ea6b82503cb59fbf8bccb3f38122",
+        "sizeBytes": 19200,
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v24-skin5-4c41ebc0/NOVA-DATA-v24-skin5.zip",
+          "start": 364808705,
+          "sizeBytes": 6365,
+          "archiveSizeBytes": 364819203,
+          "compression": 8
+        }
+      },
+      {
+        "path": "texdb/nova_mods/nova_mods.etc.toc",
+        "sha256": "a7c4e9af48da6116579d59018d9d18a59405cdb4cee381b9c0011f0d5d2ff47b",
+        "sizeBytes": 3844,
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v24-skin5-4c41ebc0/NOVA-DATA-v24-skin5.zip",
+          "start": 364815133,
+          "sizeBytes": 3676,
+          "archiveSizeBytes": 364819203,
+          "compression": 8
+        }
+      }
+    ]
+  }
 }
