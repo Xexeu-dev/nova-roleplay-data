@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 30,
-  "updatedAt": "2026-11-15T17:55:05.506539+00:00",
+  "dataVersion": 31,
+  "updatedAt": "2026-11-15T18:25:42.205273+00:00",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -273,6 +273,15 @@
       "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v30-rota-b1f895e3/NOVA-DATA-v30-rota.zip",
       "sha256": "b1f895e3a96b21805b5e679f67041305806b40ef9e0d540ebaa1fcf7f1eb63c9",
       "sizeBytes": 392315591,
+      "deletes": []
+    },
+    {
+      "kind": "package",
+      "version": 31,
+      "fromVersion": 30,
+      "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v31-prf-exercito-dfabbfdf/NOVA-DATA-v31-prf-exercito.zip",
+      "sha256": "dfabbfdfb27ccc22560a69a9dc58974feccc92fd00cb06a2b4268ec20314c145",
+      "sizeBytes": 413152273,
       "deletes": []
     }
   ],
@@ -3441,13 +3450,13 @@
     },
     {
       "path": "texdb/gta3.img",
-      "sha256": "cc8c7049890fbaec3f0730ddbf8dfe0ac1450d46ed415f2fb2ff61b6fbe53de6",
-      "sizeBytes": 759265280,
+      "sha256": "3d3aeadaedaa1c7379f5e2880bdf42547f4b6e53f60dfa17be0509dc59dcd59f",
+      "sizeBytes": 769675264,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v30-rota-b1f895e3/NOVA-DATA-v30-rota.zip",
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v31-prf-exercito-dfabbfdf/NOVA-DATA-v31-prf-exercito.zip",
         "start": 44,
-        "sizeBytes": 326302038,
-        "archiveSizeBytes": 392315591,
+        "sizeBytes": 330686512,
+        "archiveSizeBytes": 413152273,
         "compression": 8
       }
     },
@@ -3813,13 +3822,13 @@
     },
     {
       "path": "texdb/samp.img",
-      "sha256": "8d8105ef449684a5e0bb7daff0372da44fb25abd5ddd0dbe7e5bc69f83f4952b",
-      "sizeBytes": 36055040,
+      "sha256": "9b527373558652c38c1b0bf5a4fbfc58d1040a63b5941b81d7e3cac9e95a60aa",
+      "sizeBytes": 44210176,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v18-iphone-pickups-ac5a1d54/NOVA-DATA-v18-iphone-pickups-fonts.zip",
-        "start": 309598155,
-        "sizeBytes": 10877188,
-        "archiveSizeBytes": 381060940,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v31-prf-exercito-dfabbfdf/NOVA-DATA-v31-prf-exercito.zip",
+        "start": 399212395,
+        "sizeBytes": 13939424,
+        "archiveSizeBytes": 413152273,
         "compression": 8
       }
     },
@@ -4209,49 +4218,49 @@
     },
     {
       "path": "texdb/nova_mods/nova_mods.txt",
-      "sha256": "e9fcf87a468e3f903b06b7211269c06be2df4e057e455ae42646ddf985a1d516",
-      "sizeBytes": 97179,
+      "sha256": "9bdb48af12fd53e245989bee1ae7bb54ae6d01af04b03e280e8d80d4f984ab91",
+      "sizeBytes": 100412,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v30-rota-b1f895e3/NOVA-DATA-v30-rota.zip",
-        "start": 326302141,
-        "sizeBytes": 17219,
-        "archiveSizeBytes": 392315591,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v31-prf-exercito-dfabbfdf/NOVA-DATA-v31-prf-exercito.zip",
+        "start": 330686615,
+        "sizeBytes": 17781,
+        "archiveSizeBytes": 413152273,
         "compression": 8
       }
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.dat",
-      "sha256": "c5cac69f8d10b4772f984fc54de4511ab1c394277fe624240a51d1d1f643ee16",
-      "sizeBytes": 399329014,
+      "sha256": "1a2445e19a70c1796fa27cb7fe0c6115d8a8bb250cf27d3ea7b8b81046da80cd",
+      "sizeBytes": 411520018,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v30-rota-b1f895e3/NOVA-DATA-v30-rota.zip",
-        "start": 326319423,
-        "sizeBytes": 65982884,
-        "archiveSizeBytes": 392315591,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v31-prf-exercito-dfabbfdf/NOVA-DATA-v31-prf-exercito.zip",
+        "start": 330704459,
+        "sizeBytes": 68494578,
+        "archiveSizeBytes": 413152273,
         "compression": 8
       }
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.tmb",
-      "sha256": "7463e10248b001d503446229d4e9efaee636f484ac77a4818a26cfb56020ead7",
-      "sizeBytes": 24540,
+      "sha256": "65d1802174fd07cd1c521675ed181ed6e4581cb62ff844255f64f1c8c87ef6b6",
+      "sizeBytes": 25340,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v30-rota-b1f895e3/NOVA-DATA-v30-rota.zip",
-        "start": 392307155,
-        "sizeBytes": 8042,
-        "archiveSizeBytes": 392315591,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v31-prf-exercito-dfabbfdf/NOVA-DATA-v31-prf-exercito.zip",
+        "start": 399204042,
+        "sizeBytes": 8309,
+        "archiveSizeBytes": 413152273,
         "compression": 8
       }
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.toc",
-      "sha256": "504e864390b7a8ca56af924112b49525a09d8aba97d0672e379b725cf1ab5a1a",
-      "sizeBytes": 4912,
+      "sha256": "8a37467355693cb5454d7e08b6fdcd35b868e8c1b082eb0c4f09bc4afea7fbaf",
+      "sizeBytes": 5072,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v30-rota-b1f895e3/NOVA-DATA-v30-rota.zip",
-        "start": 392302370,
-        "sizeBytes": 4722,
-        "archiveSizeBytes": 392315591,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v31-prf-exercito-dfabbfdf/NOVA-DATA-v31-prf-exercito.zip",
+        "start": 399199100,
+        "sizeBytes": 4879,
+        "archiveSizeBytes": 413152273,
         "compression": 8
       }
     },
@@ -4354,9 +4363,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 51,
-      "publicationId": "c591ea7d-16cd-4db0-a5f7-ef25c56b413d",
-      "updatedAt": "2026-11-15T17:55:05.506539+00:00",
+      "dataVersion": 52,
+      "publicationId": "8a6e74c6-7832-4671-aba4-658875e05dd7",
+      "updatedAt": "2026-11-15T18:25:42.205273+00:00",
       "distributionMode": "official",
       "files": [
         {
@@ -18492,9 +18501,9 @@
         },
         {
           "path": "modloader/NOVA-SKINS/lapd1.txd",
-          "sha256": "236c497045e474ab856c5224485a8a2066364e72eff08f266fe4babe7dd76399",
-          "sizeBytes": 1676612,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v49-bope-7b3f039c/236c497045e474ab856c5224485a8a2066364e72eff08f266fe4babe7dd76399-lapd1.txd"
+          "sha256": "b4eb716c955f33690260eee1cdf3bc3edff4f09e0e71d6e836272028395b618d",
+          "sizeBytes": 2776776,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v52-prf-exercito-dfabbfdf/b4eb716c955f33690260eee1cdf3bc3edff4f09e0e71d6e836272028395b618d-lapd1.txd"
         },
         {
           "path": "modloader/NOVA-SKINS/sfpd1.dff",
@@ -18543,6 +18552,54 @@
           "sha256": "4080614c869f2319e2000f811b9e3a61ce995e16109e005df5cd3794de0fcb55",
           "sizeBytes": 845792,
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v51-rota-b1f895e3/4080614c869f2319e2000f811b9e3a61ce995e16109e005df5cd3794de0fcb55-lapdm1.txd"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/swat.dff",
+          "sha256": "722f926e9f80ea9c63f1188ae38b14f3aecd6f6279008980c9a8733e44c1cadc",
+          "sizeBytes": 1621180,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v52-prf-exercito-dfabbfdf/722f926e9f80ea9c63f1188ae38b14f3aecd6f6279008980c9a8733e44c1cadc-swat.dff"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/swat.txd",
+          "sha256": "4725f0337ac9c5715a64da2ecbabb65120e8a532b4c8dda000f07bcecfea41f0",
+          "sizeBytes": 1726552,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v52-prf-exercito-dfabbfdf/4725f0337ac9c5715a64da2ecbabb65120e8a532b4c8dda000f07bcecfea41f0-swat.txd"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/fbi.dff",
+          "sha256": "5578cc85a3c7bf935b09ec6f8017389ed1fa9c1328a6fc0f7249ee7a67406b3b",
+          "sizeBytes": 2890202,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v52-prf-exercito-dfabbfdf/5578cc85a3c7bf935b09ec6f8017389ed1fa9c1328a6fc0f7249ee7a67406b3b-fbi.dff"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/fbi.txd",
+          "sha256": "90cd46bc84a324a255232ea7ceb8f1d2a4372ada8c28d0082a72f006f35e86bf",
+          "sizeBytes": 1278072,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v52-prf-exercito-dfabbfdf/90cd46bc84a324a255232ea7ceb8f1d2a4372ada8c28d0082a72f006f35e86bf-fbi.txd"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/army.dff",
+          "sha256": "973449442214599f4837cc58341a7eb5a3243056d0db638855fb0db018186369",
+          "sizeBytes": 1877017,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v52-prf-exercito-dfabbfdf/973449442214599f4837cc58341a7eb5a3243056d0db638855fb0db018186369-army.dff"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/army.txd",
+          "sha256": "a2d9004a3450fa0dbfe834b017b6486538ec26e9486997f82f81d4723551dc7f",
+          "sizeBytes": 673236,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v52-prf-exercito-dfabbfdf/a2d9004a3450fa0dbfe834b017b6486538ec26e9486997f82f81d4723551dc7f-army.txd"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/lapdna.dff",
+          "sha256": "9526e52d178dde3c69ed73209fce092e9549cd6478292e5a40308f11f12f5dd9",
+          "sizeBytes": 4146278,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v52-prf-exercito-dfabbfdf/9526e52d178dde3c69ed73209fce092e9549cd6478292e5a40308f11f12f5dd9-lapdna.dff"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/lapdna.txd",
+          "sha256": "9a9d0bd5234a33e97dabd7f18e7a65af8dc2ffa3ecff68a21c13072452acd8fe",
+          "sizeBytes": 1100204,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v52-prf-exercito-dfabbfdf/9a9d0bd5234a33e97dabd7f18e7a65af8dc2ffa3ecff68a21c13072452acd8fe-lapdna.txd"
         }
       ],
       "deletes": [
@@ -19481,16 +19538,16 @@
         "modloader/NOVA-SKINS/maccer.txd"
       ],
       "mods": [],
-      "totalBytes": 1848161102,
-      "publishedAt": "2026-11-15T17:55:05.506539+00:00",
-      "notes": "Uniformes ROTA: masculino na skin 283 e feminino na 284, para as duas unidades ROTA."
+      "totalBytes": 1864574007,
+      "publishedAt": "2026-11-15T18:25:42.205273+00:00",
+      "notes": "Uniformes Exército 285/286 e PRF 287/300, preservando BOPE, ROTAM e ROTA."
     }
   },
   "minimumGameBuild": 179,
   "fileSyncSchema": 1,
   "mobileMods": {
     "schemaVersion": 1,
-    "version": 30,
+    "version": 31,
     "models": [
       {
         "name": "wheel_gn1.dff",
@@ -21783,54 +21840,102 @@
           "archiveSizeBytes": 68305662,
           "compression": 8
         }
+      },
+      {
+        "name": "swat.dff",
+        "sha256": "ee903ee53172db10a3fcb462ae1f2add7932cbcc995401e67b2dd7890a6fc7d8",
+        "sizeBytes": 1622016,
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v31-6e1eefb3/NOVA-ANDROID-MODS-v31.zip",
+          "start": 45,
+          "sizeBytes": 697340,
+          "archiveSizeBytes": 73007959,
+          "compression": 8
+        }
+      },
+      {
+        "name": "fbi.dff",
+        "sha256": "0573cd0dc90b910c98e0402c57b9fd245a4971389c544804efdf65292560cde7",
+        "sizeBytes": 2891776,
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v31-6e1eefb3/NOVA-ANDROID-MODS-v31.zip",
+          "start": 697429,
+          "sizeBytes": 1264516,
+          "archiveSizeBytes": 73007959,
+          "compression": 8
+        }
+      },
+      {
+        "name": "army.dff",
+        "sha256": "08d780dda9e83fe64c499361e5f395c59d360a83e207f6055ed6064b4987bfb9",
+        "sizeBytes": 1878016,
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v31-6e1eefb3/NOVA-ANDROID-MODS-v31.zip",
+          "start": 1961990,
+          "sizeBytes": 951094,
+          "archiveSizeBytes": 73007959,
+          "compression": 8
+        }
+      },
+      {
+        "name": "lapdna.dff",
+        "sha256": "c045653c57829e53f99ee1edb0162ff49b74f35f16b4d529e93f055cdd105be0",
+        "sizeBytes": 4147200,
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v31-6e1eefb3/NOVA-ANDROID-MODS-v31.zip",
+          "start": 2913131,
+          "sizeBytes": 1568454,
+          "archiveSizeBytes": 73007959,
+          "compression": 8
+        }
       }
     ],
     "files": [
       {
         "path": "texdb/nova_mods/nova_mods.txt",
-        "sha256": "e9fcf87a468e3f903b06b7211269c06be2df4e057e455ae42646ddf985a1d516",
-        "sizeBytes": 97179,
+        "sha256": "9bdb48af12fd53e245989bee1ae7bb54ae6d01af04b03e280e8d80d4f984ab91",
+        "sizeBytes": 100412,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v30-29fe8a27/NOVA-ANDROID-MODS-v30.zip",
-          "start": 2292147,
-          "sizeBytes": 17219,
-          "archiveSizeBytes": 68305662,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v31-6e1eefb3/NOVA-ANDROID-MODS-v31.zip",
+          "start": 4481644,
+          "sizeBytes": 17781,
+          "archiveSizeBytes": 73007959,
           "compression": 8
         }
       },
       {
         "path": "texdb/nova_mods/nova_mods.etc.dat",
-        "sha256": "c5cac69f8d10b4772f984fc54de4511ab1c394277fe624240a51d1d1f643ee16",
-        "sizeBytes": 399329014,
+        "sha256": "1a2445e19a70c1796fa27cb7fe0c6115d8a8bb250cf27d3ea7b8b81046da80cd",
+        "sizeBytes": 411520018,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v30-29fe8a27/NOVA-ANDROID-MODS-v30.zip",
-          "start": 2309429,
-          "sizeBytes": 65982884,
-          "archiveSizeBytes": 68305662,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v31-6e1eefb3/NOVA-ANDROID-MODS-v31.zip",
+          "start": 4499488,
+          "sizeBytes": 68494578,
+          "archiveSizeBytes": 73007959,
           "compression": 8
         }
       },
       {
         "path": "texdb/nova_mods/nova_mods.etc.toc",
-        "sha256": "504e864390b7a8ca56af924112b49525a09d8aba97d0672e379b725cf1ab5a1a",
-        "sizeBytes": 4912,
+        "sha256": "8a37467355693cb5454d7e08b6fdcd35b868e8c1b082eb0c4f09bc4afea7fbaf",
+        "sizeBytes": 5072,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v30-29fe8a27/NOVA-ANDROID-MODS-v30.zip",
-          "start": 68292376,
-          "sizeBytes": 4722,
-          "archiveSizeBytes": 68305662,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v31-6e1eefb3/NOVA-ANDROID-MODS-v31.zip",
+          "start": 72994129,
+          "sizeBytes": 4879,
+          "archiveSizeBytes": 73007959,
           "compression": 8
         }
       },
       {
         "path": "texdb/nova_mods/nova_mods.etc.tmb",
-        "sha256": "7463e10248b001d503446229d4e9efaee636f484ac77a4818a26cfb56020ead7",
-        "sizeBytes": 24540,
+        "sha256": "65d1802174fd07cd1c521675ed181ed6e4581cb62ff844255f64f1c8c87ef6b6",
+        "sizeBytes": 25340,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v30-29fe8a27/NOVA-ANDROID-MODS-v30.zip",
-          "start": 68297161,
-          "sizeBytes": 8042,
-          "archiveSizeBytes": 68305662,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v31-6e1eefb3/NOVA-ANDROID-MODS-v31.zip",
+          "start": 72999071,
+          "sizeBytes": 8309,
+          "archiveSizeBytes": 73007959,
           "compression": 8
         }
       }
