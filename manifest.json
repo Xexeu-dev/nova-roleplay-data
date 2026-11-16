@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 34,
-  "updatedAt": "2026-11-16T06:42:40.260Z",
+  "dataVersion": 35,
+  "updatedAt": "2026-11-16T17:26:58.270955+00:00",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -309,6 +309,15 @@
       "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v34-vehicles-bikes-41531c07/NOVA-DATA-v34-vehicles-bikes.zip",
       "sha256": "41531c07002d811570427895826c82f5c1385ea91cef33b99d16b86ab4308c57",
       "sizeBytes": 477307393,
+      "deletes": []
+    },
+    {
+      "kind": "package",
+      "version": 35,
+      "fromVersion": 34,
+      "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v35-wheels-8a2cf618/NOVA-DATA-v35-wheels.zip",
+      "sha256": "8a2cf61814f7535af752b304ba6ccc3fd5113e0467ffe09be9eeb9bc321f19ee",
+      "sizeBytes": 385217041,
       "deletes": []
     }
   ],
@@ -3477,14 +3486,763 @@
     },
     {
       "path": "texdb/gta3.img",
-      "sha256": "9b2e0a879357f67c1e49cb7e1940a60948c15d485e5ac7349dfa80c4af19b391",
+      "sha256": "49261e5ae905a753c771041c391c930a7421b161b4407583181174d25791f4bf",
       "sizeBytes": 879890432,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v34-vehicles-bikes-41531c07/NOVA-DATA-v34-vehicles-bikes.zip",
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v35-wheels-8a2cf618/NOVA-DATA-v35-wheels.zip",
         "start": 44,
-        "sizeBytes": 384349965,
-        "archiveSizeBytes": 477307393,
+        "sizeBytes": 385216915,
+        "archiveSizeBytes": 385217041,
         "compression": 8
+      },
+      "modelDelta": {
+        "fromSha256": "9b2e0a879357f67c1e49cb7e1940a60948c15d485e5ac7349dfa80c4af19b391",
+        "models": [
+          {
+            "name": "ambulan.dff",
+            "sha256": "4671c6297e97072df1a46d28cb6a45ce96bec0231eb55e3b753d2f0460fef54f",
+            "sizeBytes": 1064960,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 48,
+              "sizeBytes": 342286,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "bandito.dff",
+            "sha256": "22603bab27577def067e9763a74a3c82392b6089b74b1b4c48d14318731db1b8",
+            "sizeBytes": 882688,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 342382,
+              "sizeBytes": 393897,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "banshee.dff",
+            "sha256": "443ef819791c0178b1f2c247352c5e80f6ad087314dbe576dbbe61d2bc660419",
+            "sizeBytes": 4812800,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 736327,
+              "sizeBytes": 2807088,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "barracks.dff",
+            "sha256": "bc6b6fa030f5f60945fc5d195c5e968d65bea897566c6674ce3c61148d1d599d",
+            "sizeBytes": 9213952,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 3543464,
+              "sizeBytes": 3835143,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "blistac.dff",
+            "sha256": "5a2b4d0edbf4eb8718e57586db07403f2d73aaf6cbba752b10cb9fdbdda282f0",
+            "sizeBytes": 9949184,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 7378655,
+              "sizeBytes": 3905543,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "bravura.dff",
+            "sha256": "0776f9fe9810885fef9f917ceff906d63c9de081184a6fabae9f5803b1dcd15f",
+            "sizeBytes": 12460032,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 11284246,
+              "sizeBytes": 4794744,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "cadrona.dff",
+            "sha256": "8e77ea6a43b84fa9d2ac3d12d8e817d5370149cb66a9187b2c21ef44c5f849d8",
+            "sizeBytes": 5679104,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 16079038,
+              "sizeBytes": 2874314,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "camper.dff",
+            "sha256": "ecb2e89fb17c792bd5d82b8a7e7f8ed0a3c4358c031208097eea9695c88cce0c",
+            "sizeBytes": 5132288,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 18953399,
+              "sizeBytes": 2004369,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "clover.dff",
+            "sha256": "14940aae747eba1389e4f7594c56fc6ea5dd6fb8081f94c89d9471f559c3e5d3",
+            "sizeBytes": 3919872,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 20957815,
+              "sizeBytes": 1609851,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "club.dff",
+            "sha256": "0d327bb844d58bf53250ac939fe522a1b774d5dd3e679233b9f426affa7e595c",
+            "sizeBytes": 11110400,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 22567711,
+              "sizeBytes": 4912015,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "coach.dff",
+            "sha256": "318ccc13fcdcfb7f3ee22848a826c2b94d616eb1c4d34e955d50c20c42bf9910",
+            "sizeBytes": 9150464,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 27479772,
+              "sizeBytes": 3593388,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "comet.dff",
+            "sha256": "769b01e5685be67e99553ac9aee14f6820cc94c3035cff44651d952e2f22b3b1",
+            "sizeBytes": 9377792,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 31073206,
+              "sizeBytes": 3904213,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "copcarla.dff",
+            "sha256": "7ba10f5244d6ad72f1489810cd60c9e8ffadb9a50f75a75fcb6543eb3569701d",
+            "sizeBytes": 9854976,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 34977468,
+              "sizeBytes": 4330035,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "copcarru.dff",
+            "sha256": "72634afabaefd21e9bac373d9e8d2bc62017dba9873db67f41106b20479dd33a",
+            "sizeBytes": 12877824,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 39307552,
+              "sizeBytes": 5816518,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "copcarsf.dff",
+            "sha256": "6d8f337f051535f400c356074b34987aa9a3f84983a0fd73bf7ca6ae03b18cca",
+            "sizeBytes": 1312768,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 45124119,
+              "sizeBytes": 577195,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "copcarvg.dff",
+            "sha256": "51ec6189aa053427e4713160270a063896ce6f9ffe7082a4266fc99874d83029",
+            "sizeBytes": 10323968,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 45701363,
+              "sizeBytes": 5322337,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "elegy.dff",
+            "sha256": "4046eb3cbf6d5afa1fa5fa13ee0f3ee5a0d4641a64a1edacf68b590e707978ef",
+            "sizeBytes": 10082304,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 51023746,
+              "sizeBytes": 4376502,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "emperor.dff",
+            "sha256": "d3ed9ca0da0bf579bcf811b221e2d24d2b31aa1b3f178792e95fb5b6b0e61d9b",
+            "sizeBytes": 9652224,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 55400296,
+              "sizeBytes": 4380380,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "enforcer.dff",
+            "sha256": "e6bcc93526fb8b220de17d4c0c1661ed2a4b401d2667ce1b2cb29911958219fb",
+            "sizeBytes": 364544,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 59780725,
+              "sizeBytes": 126685,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "euros.dff",
+            "sha256": "7a88dd901bf0e96e78a4a5cf493cb43b9be905d4683ad036e2ed1e06fc44ec4c",
+            "sizeBytes": 8241152,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 59907456,
+              "sizeBytes": 3614395,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "fbiranch.dff",
+            "sha256": "51ec6189aa053427e4713160270a063896ce6f9ffe7082a4266fc99874d83029",
+            "sizeBytes": 10323968,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 63521900,
+              "sizeBytes": 5322337,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "firetruk.dff",
+            "sha256": "fe6881ec58ddc45fd2cc33bbefa22e0b98178c6ee1266907ffe784d027317ff8",
+            "sizeBytes": 11147264,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 68844286,
+              "sizeBytes": 4764344,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "glendale.dff",
+            "sha256": "06b4c41be81810ef3567b53ca861af537de332d4d0330a7753c241995f602d59",
+            "sizeBytes": 1654784,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 73608679,
+              "sizeBytes": 833740,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "hermes.dff",
+            "sha256": "aaa8ffc4b1b23b2c2d2ed917e149559a8f94a060a5b9831c94b08aaa9f3446d7",
+            "sizeBytes": 5851136,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 74442466,
+              "sizeBytes": 2677753,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "hotknife.dff",
+            "sha256": "45fd2cbd91ddfc9fc71ae954f91b40515d7fc6252aa4b3d49ea837d36c97a84f",
+            "sizeBytes": 10428416,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 77120268,
+              "sizeBytes": 4163394,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "hotrina.dff",
+            "sha256": "720b01db886c0c7f635c552b5717464a45e3e9481a0aa81320924b503b922288",
+            "sizeBytes": 5046272,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 81283710,
+              "sizeBytes": 2676071,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "huntley.dff",
+            "sha256": "045f8589bf0f12a7ef8f6ca179d414684b6665abe935655f90626f2880ca3191",
+            "sizeBytes": 3938304,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 83959829,
+              "sizeBytes": 2036190,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "hustler.dff",
+            "sha256": "173f00579a7bbeb98628ef1b4bc386a8010668d41538c06accf40cf034d818e2",
+            "sizeBytes": 3530752,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 85996067,
+              "sizeBytes": 1832490,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "infernus.dff",
+            "sha256": "6813b5bcdbf12939fc1a6cd784a9e6e1cf538c7b1647ab6e4a2d154870bb1654",
+            "sizeBytes": 12171264,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 87828606,
+              "sizeBytes": 4584464,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "kart.dff",
+            "sha256": "5c305a6adecaec1672ee91e3b26a07b23e0694a6d30a58ec49c5d4f630d70b3a",
+            "sizeBytes": 307200,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 92413115,
+              "sizeBytes": 86151,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "landstal.dff",
+            "sha256": "b91221672b2a7cabe24dac9a74a10e5f3fd21ef82dfbb61b1ad07317c138e878",
+            "sizeBytes": 26077184,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 92499315,
+              "sizeBytes": 12330355,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "merit.dff",
+            "sha256": "b09ef4a19585f77397e5f2dbd88d0628606ef68c3cbe92e4722dab45887e2c1f",
+            "sizeBytes": 8974336,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 104829716,
+              "sizeBytes": 4084791,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "monsterb.dff",
+            "sha256": "6ae217e38d3e462b186083be28ce55d034181c29521bb4b41a9af8d5db333421",
+            "sizeBytes": 7393280,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 108914556,
+              "sizeBytes": 3359518,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "moonbeam.dff",
+            "sha256": "d3e52cdf5b83bb62beea60a329d4b690bc6a236462e9e181ba6fc2705717d1af",
+            "sizeBytes": 704512,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 112274123,
+              "sizeBytes": 276377,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "patriot.dff",
+            "sha256": "cc280c9abadabacbc255b92c3cc62871c6c7db26dc45b252ad048fe0d4f355ea",
+            "sizeBytes": 253952,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 112550548,
+              "sizeBytes": 88311,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "peren.dff",
+            "sha256": "f2a0ee6d2da5fd8f12270a443c0b627996dbd51981fc64ec44f267c69cd4fb0c",
+            "sizeBytes": 17666048,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 112638905,
+              "sizeBytes": 8667676,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "phoenix.dff",
+            "sha256": "4687e12b12aa2b4689d32dc426135d704480960e53680feb6b39a8dc7cc5b34d",
+            "sizeBytes": 3954688,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 121306629,
+              "sizeBytes": 1478484,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "pony.dff",
+            "sha256": "bd6ef4ca23b664e6978f272aee7c42efc0950c088e1239a4b0ae9cc513a7cd56",
+            "sizeBytes": 6883328,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 122785158,
+              "sizeBytes": 3356498,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "premier.dff",
+            "sha256": "1e34f16febca23108d0a8371e28bb22dbed72ecf5eb8dbafc7d627f5982b4e8c",
+            "sizeBytes": 8136704,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 126141704,
+              "sizeBytes": 3783026,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "previon.dff",
+            "sha256": "b71825e0904f5c5213d235c6e3f967028cd956473957c9eeeeede4d76ec27ec8",
+            "sizeBytes": 10561536,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 129924778,
+              "sizeBytes": 4654806,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "regina.dff",
+            "sha256": "ff04b3d6e28f2eb1c93d00266939eaff790e9b865ccef3daddd29337b9877049",
+            "sizeBytes": 16097280,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 134579631,
+              "sizeBytes": 9598369,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "rhino.dff",
+            "sha256": "cf9ce353fc625e33bc9f56736a402222f31390a5ab16db3a769be89bbdc5f087",
+            "sizeBytes": 6252544,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 144178046,
+              "sizeBytes": 1850482,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "sabre.dff",
+            "sha256": "1ed4594dfccb3aaf2aaa126eda4c1820a61824b37ba183ad326797d2183a1bc6",
+            "sizeBytes": 10346496,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 146028574,
+              "sizeBytes": 4768813,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "sadler.dff",
+            "sha256": "f6b241241807767bc6fa30d149deac59ed619cb5596add2fb6c08647ed855193",
+            "sizeBytes": 11595776,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 150797434,
+              "sizeBytes": 4770063,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "savanna.dff",
+            "sha256": "5f16d3dc7afff2fee5bca1fb45feab80b532960659197bb607c7c60a277df6d3",
+            "sizeBytes": 505856,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 155567545,
+              "sizeBytes": 218083,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "securica.dff",
+            "sha256": "0ebcdf27f7846b377761c6de51b4eadadad22806e26b525de2ab4b2eb4d6e208",
+            "sizeBytes": 2277376,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 155785677,
+              "sizeBytes": 707740,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "sentinel.dff",
+            "sha256": "165abdba28801ca99f6de1280100c0d0260ca39d1ae7605735097c0d0ce8afa6",
+            "sizeBytes": 12412928,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 156493466,
+              "sizeBytes": 5984811,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "slamvan.dff",
+            "sha256": "f636b390a22ae3af9deed1e2350242abc4415df004962a5e13b3f6b0e5390621",
+            "sizeBytes": 4171776,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 162478325,
+              "sizeBytes": 1865314,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "solair.dff",
+            "sha256": "c010d2260280b6f27a9ff0698236e5a5063814585ae8eaabc41880182f8ca152",
+            "sizeBytes": 9115648,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 164343686,
+              "sizeBytes": 4939944,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "stafford.dff",
+            "sha256": "724789509f207e13bc368f05a99ac58a6a37ffe0484e81a039191d23a0ba426b",
+            "sizeBytes": 1822720,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 169283679,
+              "sizeBytes": 751348,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "stallion.dff",
+            "sha256": "902d74e75a15e200ca74cf854b124ddcf1b7ce93520983a150b35d6f7b734d07",
+            "sizeBytes": 3620864,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 170035076,
+              "sizeBytes": 1531676,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "stratum.dff",
+            "sha256": "39dc9291bd340103d30847d0868a96d237cfba0f6b3639db8fd7dddd5ea8bee5",
+            "sizeBytes": 7088128,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 171566800,
+              "sizeBytes": 3734914,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "sultan.dff",
+            "sha256": "51a34331f93f944067d9294c050a5edb34c5774166020f3aa2fa427612aa29a4",
+            "sizeBytes": 9142272,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 175301761,
+              "sizeBytes": 4162172,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "supergt.dff",
+            "sha256": "d6061f08f910b4eff5e82e8d4f69bf314246fd749ee57da31566deb00c48bf99",
+            "sizeBytes": 15476736,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 179463981,
+              "sizeBytes": 6019783,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "swatvan.dff",
+            "sha256": "3835336300c29807fd18289f98c1ec9fdad93d95c40dd1572b7e4f3b0e55ce6e",
+            "sizeBytes": 4722688,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 185483812,
+              "sizeBytes": 2061739,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "tampa.dff",
+            "sha256": "e17096f9ed544487c0aac27431e3a538d5d5aaf9235b81adb42db7fb8b4e1ebc",
+            "sizeBytes": 5081088,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 187545597,
+              "sizeBytes": 2080950,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "towtruck.dff",
+            "sha256": "930ddba6980fc6a393d36de9df77f2d36789108124c59cd97852ca7d8f56f65b",
+            "sizeBytes": 7385088,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 189626596,
+              "sizeBytes": 2441802,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "trash.dff",
+            "sha256": "02e7649e8a18d86f942b6611e702e52919a04cd92086d0379d58a3fa42a8c504",
+            "sizeBytes": 1959936,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 192068444,
+              "sizeBytes": 579339,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "turismo.dff",
+            "sha256": "368ac1f9763c26ef57d119beae09635707d8168a98bfccfee9abfe8519411235",
+            "sizeBytes": 1419264,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 192647831,
+              "sizeBytes": 560318,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "washing.dff",
+            "sha256": "d384cae89299f097963a3897bbe181d674b67431185eb19cf63ad4ae9a4b0c6b",
+            "sizeBytes": 11319296,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 193208197,
+              "sizeBytes": 5062559,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "yosemite.dff",
+            "sha256": "f38c5761e33a2a8e8191e46e0ac1d576d3ed7d9220e870b3fbce869572edfe9f",
+            "sizeBytes": 1284096,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 198270805,
+              "sizeBytes": 694718,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          },
+          {
+            "name": "zr350.dff",
+            "sha256": "4a8feba6ea3fa49525dd31a8a8bcd611a26572272d9222382880558dee037454",
+            "sizeBytes": 5214208,
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+              "start": 198965569,
+              "sizeBytes": 2779076,
+              "archiveSizeBytes": 201748617,
+              "compression": 8
+            }
+          }
+        ]
       }
     },
     {
@@ -4390,9 +5148,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 56,
-      "publicationId": "95a0b2b8-0f57-4645-a162-2e3189d0bd4b",
-      "updatedAt": "2026-11-16T06:42:40.260Z",
+      "dataVersion": 57,
+      "publicationId": "1191858a-7b29-4722-9f29-2cc5cc83018d",
+      "updatedAt": "2026-11-16T17:26:58.270955+00:00",
       "distributionMode": "official",
       "files": [
         {
@@ -4656,7 +5414,7 @@
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v5-7d812a00/ad0b170d940213097ec196c644b42e798960c7da01e5645b45c7250fc2874e46-Read_Me.txt"
         },
         {
-          "path": "CREDITOS-MODS/porsche/crÃƒÆ’Ã‚Â©ditos.txt",
+          "path": "CREDITOS-MODS/porsche/crÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©ditos.txt",
           "sizeBytes": 106,
           "sha256": "07b85c7350c8783b0b0cd10072fd042653ea5e1dda7d7afaabd46a99a2e572fb",
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v4-d7210caf/07b85c7350c8783b0b0cd10072fd042653ea5e1dda7d7afaabd46a99a2e572fb-cr_ditos.txt"
@@ -9614,8 +10372,8 @@
         {
           "path": "modloader/NOVA-VEICULOS/ambulan/ambulan.dff",
           "sizeBytes": 1064960,
-          "sha256": "4af1cf64910bace87151e8d8d9cf0010d003a69802bb6f40224d675ef00226df",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v4-d7210caf/4af1cf64910bace87151e8d8d9cf0010d003a69802bb6f40224d675ef00226df-ambulan.dff"
+          "sha256": "afaea4c139f6ae1124f3a0ce5c5efdaf6620978fe924362a04bf0f34a61397a5",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/afaea4c139f6ae1124f3a0ce5c5efdaf6620978fe924362a04bf0f34a61397a5-ambulan.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/ambulan/ambulan.txd",
@@ -9625,9 +10383,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/bandito/bandito.dff",
-          "sha256": "0a9856dcaf9d9bc90cb33b9414e6abc6c8685000539e22c3f48874715b161b49",
           "sizeBytes": 882688,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v31-audio-cores-e63c84b8/0a9856dcaf9d9bc90cb33b9414e6abc6c8685000539e22c3f48874715b161b49-bandito.dff"
+          "sha256": "59502acb774332e20852e39f78abb435c5fc3bc16da11ffcc6c5f9358069c0b0",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/59502acb774332e20852e39f78abb435c5fc3bc16da11ffcc6c5f9358069c0b0-bandito.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/bandito/bandito.txd",
@@ -9638,8 +10396,8 @@
         {
           "path": "modloader/NOVA-VEICULOS/banshee/banshee.dff",
           "sizeBytes": 4811522,
-          "sha256": "4fc8f6220de97fbceb7428038401907d6ca93d3b5f9386fa1deb17899fc6fb28",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v9-dbfd38cd/4fc8f6220de97fbceb7428038401907d6ca93d3b5f9386fa1deb17899fc6fb28-banshee.dff"
+          "sha256": "b013419c543dcd23e4fc363d96f52b35d8ebb3f9488fc7d147a57a0c16efb7d6",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/b013419c543dcd23e4fc363d96f52b35d8ebb3f9488fc7d147a57a0c16efb7d6-banshee.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/banshee/banshee.txd",
@@ -9661,9 +10419,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/bravura/bravura.dff",
-          "sha256": "e7451c6889b155af48e524523a9cbe2c9dd75f2bc8b168f1f4b354f853048587",
           "sizeBytes": 12462080,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-41-correcoes-20261113/e7451c6889b155af48e524523a9cbe2c9dd75f2bc8b168f1f4b354f853048587-bravura.dff"
+          "sha256": "b01d7efce14e4a40df59a85c45aa1a5fd51e200528dc3e8f218021dae9bbe351",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/b01d7efce14e4a40df59a85c45aa1a5fd51e200528dc3e8f218021dae9bbe351-bravura.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/bravura/bravura.txd",
@@ -9673,9 +10431,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/coach/coach.dff",
-          "sha256": "bbd9f8bf78b8f38fd912e83465c1f054c46de4b1c9f5ff6fb167e1a2142d4af8",
           "sizeBytes": 9150320,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-41-correcoes-20261113/bbd9f8bf78b8f38fd912e83465c1f054c46de4b1c9f5ff6fb167e1a2142d4af8-coach.dff"
+          "sha256": "e9974f4b41f4a1ca9989cde439bab63b9ba918b61752b388b00ee2f692afb0be",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/e9974f4b41f4a1ca9989cde439bab63b9ba918b61752b388b00ee2f692afb0be-coach.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/coach/coach.txd",
@@ -9686,8 +10444,8 @@
         {
           "path": "modloader/NOVA-VEICULOS/elegy/elegy.dff",
           "sizeBytes": 10081870,
-          "sha256": "1d9c771a9885d3f423b4a2834995b9f8ff83bfa42a64cd8be4b4bf68ba876310",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v4-d7210caf/1d9c771a9885d3f423b4a2834995b9f8ff83bfa42a64cd8be4b4bf68ba876310-elegy.dff"
+          "sha256": "c8238ff42c37250bdd4be474c51c6d945f62c25545044938d92c6d671aec435e",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/c8238ff42c37250bdd4be474c51c6d945f62c25545044938d92c6d671aec435e-elegy.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/elegy/elegy.txd",
@@ -9697,9 +10455,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/enforcer/enforcer.dff",
-          "sha256": "e1f05d96a7fd7f8f2ea9eb73ccb6485d200a3a4ac9bfb886201a49cb64a67bef",
           "sizeBytes": 368640,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v46-corporacoes-cde80882/e1f05d96a7fd7f8f2ea9eb73ccb6485d200a3a4ac9bfb886201a49cb64a67bef-enforcer.dff"
+          "sha256": "a3e8690d52442bfc850727d843e21be7664da5279ba7f907f0937a75c0e029be",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/a3e8690d52442bfc850727d843e21be7664da5279ba7f907f0937a75c0e029be-enforcer.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/enforcer/enforcer.txd",
@@ -9721,9 +10479,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/fbiranch/fbiranch.dff",
-          "sha256": "16f1ea69bb94b4cbd8f07ededf8c79a6d156f7ad1cc96773ef610471e9237452",
           "sizeBytes": 10323968,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v46-corporacoes-cde80882/16f1ea69bb94b4cbd8f07ededf8c79a6d156f7ad1cc96773ef610471e9237452-fbiranch.dff"
+          "sha256": "1feb284eda6084795e9da8e08534a34e1705e2ef74744df2282ec8ed661279a5",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/1feb284eda6084795e9da8e08534a34e1705e2ef74744df2282ec8ed661279a5-fbiranch.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/fbiranch/fbiranch.txd",
@@ -9746,8 +10504,8 @@
         {
           "path": "modloader/NOVA-VEICULOS/hotknife/hotknife.dff",
           "sizeBytes": 10426368,
-          "sha256": "dfa7057d9595fb04f650f19c39e813fb0aa9d2e40f44b2b21a78c829f21b6832",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v9-dbfd38cd/dfa7057d9595fb04f650f19c39e813fb0aa9d2e40f44b2b21a78c829f21b6832-hotknife.dff"
+          "sha256": "35ea2cfd2b1356d7845fc6c66f2813bbb3a9c245de5e8b1feeed5e167a0dde52",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/35ea2cfd2b1356d7845fc6c66f2813bbb3a9c245de5e8b1feeed5e167a0dde52-hotknife.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/hotknife/hotknife.txd",
@@ -9758,8 +10516,8 @@
         {
           "path": "modloader/NOVA-VEICULOS/hotrina/hotrina.dff",
           "sizeBytes": 5045497,
-          "sha256": "3900711b1631b2c19a438b0b5e2cb1439514112e41b9aee50a276c1240fd4f9e",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/3900711b1631b2c19a438b0b5e2cb1439514112e41b9aee50a276c1240fd4f9e-hotrina.dff"
+          "sha256": "6151dc787ab6d8425d472ebc7329f1017b039f377ffee40e077ba11b62cf511d",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/6151dc787ab6d8425d472ebc7329f1017b039f377ffee40e077ba11b62cf511d-hotrina.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/hotrina/hotrina.txd",
@@ -9770,8 +10528,8 @@
         {
           "path": "modloader/NOVA-VEICULOS/hustler/hustler.dff",
           "sizeBytes": 3528741,
-          "sha256": "2858b960593b78c31dd3c62f970b9329d58b01c38d2c562a82b63ead6d6fed5f",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/2858b960593b78c31dd3c62f970b9329d58b01c38d2c562a82b63ead6d6fed5f-hustler.dff"
+          "sha256": "162c039df7e5ffc4aa6d4cd89fed5e5657d9a87450e1b1455b2667de8e7317ac",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/162c039df7e5ffc4aa6d4cd89fed5e5657d9a87450e1b1455b2667de8e7317ac-hustler.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/hustler/hustler.txd",
@@ -9830,8 +10588,8 @@
         {
           "path": "modloader/NOVA-VEICULOS/phoenix/phoenix.dff",
           "sizeBytes": 3952948,
-          "sha256": "d7b2d490d250614d63e5c5f0804d2da5533da539084d12f8a9ee2d2d1de90881",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v4-d7210caf/d7b2d490d250614d63e5c5f0804d2da5533da539084d12f8a9ee2d2d1de90881-phoenix.dff"
+          "sha256": "716e2c9c9b5e427e3f01c4e6829d8f89eac879a0443519ee021a4dee6d2c32ac",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/716e2c9c9b5e427e3f01c4e6829d8f89eac879a0443519ee021a4dee6d2c32ac-phoenix.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/phoenix/phoenix.txd",
@@ -9842,8 +10600,8 @@
         {
           "path": "modloader/NOVA-VEICULOS/previon/previon.dff",
           "sizeBytes": 10559488,
-          "sha256": "8acb4b95f9a67062a8d19063ae936e0a03b08b0d36009a95199a79bf1e32a030",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-41-correcoes-20261113/8acb4b95f9a67062a8d19063ae936e0a03b08b0d36009a95199a79bf1e32a030-previon.dff"
+          "sha256": "32ab8996123d348713dfa751144b47bede66d4ca94bfaf77b9dda5f11a759d2d",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/32ab8996123d348713dfa751144b47bede66d4ca94bfaf77b9dda5f11a759d2d-previon.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/previon/previon.txd",
@@ -9865,9 +10623,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/stratum/stratum.dff",
-          "sha256": "668ac8615bbd87925bc8feca310502b5348692b01ed6a71a47ff228bfe7af5c3",
           "sizeBytes": 7086080,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v22-veiculos-612bebdb/668ac8615bbd87925bc8feca310502b5348692b01ed6a71a47ff228bfe7af5c3-stratum.dff"
+          "sha256": "4a2245034299129bdc1f9c0cc7649ef6d9a83b8badf16ad23345378203430984",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/4a2245034299129bdc1f9c0cc7649ef6d9a83b8badf16ad23345378203430984-stratum.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/stratum/stratum.txd",
@@ -9878,8 +10636,8 @@
         {
           "path": "modloader/NOVA-VEICULOS/sultan/sultan.dff",
           "sizeBytes": 9140224,
-          "sha256": "9b7e6488e4f62bb9cf77c67007cc7b308119fc4deb13904416fd9025bfc9e2ee",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v4-d7210caf/9b7e6488e4f62bb9cf77c67007cc7b308119fc4deb13904416fd9025bfc9e2ee-sultan.dff"
+          "sha256": "61814ca82c9b67824e31a03a4ebbd8b402aa8637cbb450b87bf6dcc1d7b044d4",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/61814ca82c9b67824e31a03a4ebbd8b402aa8637cbb450b87bf6dcc1d7b044d4-sultan.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/sultan/sultan.txd",
@@ -9889,9 +10647,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/towtruck/towtruck.dff",
-          "sha256": "2be8807d3782614ebd8a62e24dce04bc7b0b65ba396fc700672b8f74c2c211f9",
           "sizeBytes": 7385088,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v31-audio-cores-e63c84b8/2be8807d3782614ebd8a62e24dce04bc7b0b65ba396fc700672b8f74c2c211f9-towtruck.dff"
+          "sha256": "df453ca3e598e6fd89bfcdccd05ff9872ba12db33725d489c7d6bbd2592f61c2",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/df453ca3e598e6fd89bfcdccd05ff9872ba12db33725d489c7d6bbd2592f61c2-towtruck.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/towtruck/towtruck.txd",
@@ -9901,9 +10659,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/turismo/turismo.dff",
-          "sha256": "eb7e5ddb41f30a4e1f70f95c5870c97a052652ca093f2897fdf6f9abfe4257d6",
           "sizeBytes": 1419264,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v55-vehicles-bikes-41531c07/eb7e5ddb41f30a4e1f70f95c5870c97a052652ca093f2897fdf6f9abfe4257d6-turismo.dff"
+          "sha256": "87c04b342abc5553101c02bafbe6a331d75f674de7c55e81f5227bdf25884f63",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/87c04b342abc5553101c02bafbe6a331d75f674de7c55e81f5227bdf25884f63-turismo.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/turismo/turismo.txd",
@@ -9914,8 +10672,8 @@
         {
           "path": "modloader/NOVA-VEICULOS/zr350/zr350.dff",
           "sizeBytes": 5212614,
-          "sha256": "01bb94ef50b99826f0c5610bc72cb9c06939f1f5b3a0aed635690af5b5b6f554",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v9-dbfd38cd/01bb94ef50b99826f0c5610bc72cb9c06939f1f5b3a0aed635690af5b5b6f554-zr350.dff"
+          "sha256": "4090f5a7b35b21129746485f773256ff604aa0fd4fabc7ab8f377ebdeee50bfa",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/4090f5a7b35b21129746485f773256ff604aa0fd4fabc7ab8f377ebdeee50bfa-zr350.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/zr350/zr350.txd",
@@ -17616,9 +18374,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/copcarru/copcarru.dff",
-          "sha256": "92bcaeb4ded0800644115de57dce492697e00fff165eea885cb59d48f600ad3f",
           "sizeBytes": 12875776,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v46-corporacoes-cde80882/92bcaeb4ded0800644115de57dce492697e00fff165eea885cb59d48f600ad3f-copcarru.dff"
+          "sha256": "a654518ffda58aee51e59bb969bfa9b4bb02496e71a65ecc772566935cc08971",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/a654518ffda58aee51e59bb969bfa9b4bb02496e71a65ecc772566935cc08971-copcarru.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/copcarru/copcarru.txd",
@@ -17628,9 +18386,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/copcarla/copcarla.dff",
-          "sha256": "e732d5ebaee4a4416fda8387796faefc71d549ea98443fc6e26c9da30196e941",
           "sizeBytes": 9854976,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v46-corporacoes-cde80882/e732d5ebaee4a4416fda8387796faefc71d549ea98443fc6e26c9da30196e941-copcarla.dff"
+          "sha256": "ff96f2685408657813a2cf9a6efdd1209fecc8af7ebdd4ac776c6675c4630c14",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/ff96f2685408657813a2cf9a6efdd1209fecc8af7ebdd4ac776c6675c4630c14-copcarla.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/copcarla/copcarla.txd",
@@ -17640,9 +18398,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/copcarvg/copcarvg.dff",
-          "sha256": "16f1ea69bb94b4cbd8f07ededf8c79a6d156f7ad1cc96773ef610471e9237452",
           "sizeBytes": 10323968,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v46-corporacoes-cde80882/16f1ea69bb94b4cbd8f07ededf8c79a6d156f7ad1cc96773ef610471e9237452-copcarvg.dff"
+          "sha256": "1feb284eda6084795e9da8e08534a34e1705e2ef74744df2282ec8ed661279a5",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/1feb284eda6084795e9da8e08534a34e1705e2ef74744df2282ec8ed661279a5-copcarvg.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/copcarvg/copcarvg.txd",
@@ -17652,9 +18410,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/copcarsf/copcarsf.dff",
-          "sha256": "7c58be252013a210bb8d8f1f5325d3591d1955b12bcba1490fa2a8cb695d91de",
           "sizeBytes": 1310720,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v46-corporacoes-cde80882/7c58be252013a210bb8d8f1f5325d3591d1955b12bcba1490fa2a8cb695d91de-copcarsf.dff"
+          "sha256": "cf45ec73b6cb7064a93b8a407278535cf10a91789b1537553401c270a69c9a2b",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/cf45ec73b6cb7064a93b8a407278535cf10a91789b1537553401c270a69c9a2b-copcarsf.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/copcarsf/copcarsf.txd",
@@ -17676,9 +18434,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/patriot/patriot.dff",
-          "sha256": "cbed97fcf55b03857f56293d4789666ed303e669454d9fdee80cda9262ecb9ff",
           "sizeBytes": 251904,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v46-corporacoes-cde80882/cbed97fcf55b03857f56293d4789666ed303e669454d9fdee80cda9262ecb9ff-patriot.dff"
+          "sha256": "4e6a6df8c0f76afcc110a411c39e554d819c8ed337422cbc2dc7de28beaa0a96",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/4e6a6df8c0f76afcc110a411c39e554d819c8ed337422cbc2dc7de28beaa0a96-patriot.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/patriot/patriot.txd",
@@ -17700,9 +18458,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/rhino/rhino.dff",
-          "sha256": "e3537d2b08f80ffc372d8af1bef64609812bcb2b58e2b2b1ead7d57be27454e6",
           "sizeBytes": 6250930,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v31-audio-cores-e63c84b8/e3537d2b08f80ffc372d8af1bef64609812bcb2b58e2b2b1ead7d57be27454e6-rhino.dff"
+          "sha256": "b686064382290d9c1b02ab39438f7cffe37de254ed4db87d2918bb796014e6ee",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/b686064382290d9c1b02ab39438f7cffe37de254ed4db87d2918bb796014e6ee-rhino.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/rhino/rhino.txd",
@@ -17712,9 +18470,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/swatvan/swatvan.dff",
-          "sha256": "c6ddfc12e220c5d4601e23722e49fab4e0eb78de36ad2614a5869bf24b59a225",
           "sizeBytes": 4720640,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-41-correcoes-20261113/c6ddfc12e220c5d4601e23722e49fab4e0eb78de36ad2614a5869bf24b59a225-swatvan.dff"
+          "sha256": "056a53e157ba8e3a0fab363d0378d40e62c821b85fd8b0827847cb2bd4583d73",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/056a53e157ba8e3a0fab363d0378d40e62c821b85fd8b0827847cb2bd4583d73-swatvan.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/swatvan/swatvan.txd",
@@ -17725,8 +18483,8 @@
         {
           "path": "modloader/NOVA-VEICULOS/trash/trash.dff",
           "sizeBytes": 1957888,
-          "sha256": "83f47f07e6888ab64359d482ab6d8a56bc15aab5667e9f4cbe2674aaa1ad001d",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v13-policia-a6db45b9/83f47f07e6888ab64359d482ab6d8a56bc15aab5667e9f4cbe2674aaa1ad001d-trash.dff"
+          "sha256": "5725d2ac47a2d3570e2b07550598f5cfa87a527180b072a70a0621cb9d7f46b5",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/5725d2ac47a2d3570e2b07550598f5cfa87a527180b072a70a0621cb9d7f46b5-trash.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/trash/trash.txd",
@@ -17736,9 +18494,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/firetruk/firetruk.dff",
-          "sha256": "f48f1203328e19e61f6131d11547788b5b407c16e74499f9d95cd239df246561",
           "sizeBytes": 11145216,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v31-audio-cores-e63c84b8/f48f1203328e19e61f6131d11547788b5b407c16e74499f9d95cd239df246561-firetruk.dff"
+          "sha256": "b6b9c71abf859f6d554ebd4f80d452fe1eaba0ba5a093475d56468cf4b3c3c18",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/b6b9c71abf859f6d554ebd4f80d452fe1eaba0ba5a093475d56468cf4b3c3c18-firetruk.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/firetruk/firetruk.txd",
@@ -17748,9 +18506,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/securica/securica.dff",
-          "sha256": "4d66f13b7bdb4c4dd67ba6d9c14552b1c3527c5a8a15480744364ce11ff61460",
           "sizeBytes": 2275328,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v31-audio-cores-e63c84b8/4d66f13b7bdb4c4dd67ba6d9c14552b1c3527c5a8a15480744364ce11ff61460-securica.dff"
+          "sha256": "84e0ccbaf89abf645be0f6df810f638187c281bfacd27aad7185088ac16f5b77",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/84e0ccbaf89abf645be0f6df810f638187c281bfacd27aad7185088ac16f5b77-securica.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/securica/securica.txd",
@@ -17820,9 +18578,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/infernus/infernus.dff",
-          "sha256": "665f0c20f797a41d4d1ccaa09a43f74ef6c8c40eb90dd55c6d47a57cfb896332",
           "sizeBytes": 12169216,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v53-stafford-stability-b84940fd/665f0c20f797a41d4d1ccaa09a43f74ef6c8c40eb90dd55c6d47a57cfb896332-infernus.dff"
+          "sha256": "a444019851e8b5a142bb75d4bceb10276f09456fda7eb79d2df58c324ceb97ac",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/a444019851e8b5a142bb75d4bceb10276f09456fda7eb79d2df58c324ceb97ac-infernus.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/infernus/infernus.txd",
@@ -17833,8 +18591,8 @@
         {
           "path": "modloader/NOVA-VEICULOS/yosemite/yosemite.dff",
           "sizeBytes": 1282048,
-          "sha256": "f2f4364110d7c63d51a037589ac7f91b18700f4775f3255ce461843ca9b91236",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v15-trucks-21ccbbe1/f2f4364110d7c63d51a037589ac7f91b18700f4775f3255ce461843ca9b91236-yosemite.dff"
+          "sha256": "2e535e29e1236787163f468882bf60832397fc6845458e3b519c42620920f2c0",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/2e535e29e1236787163f468882bf60832397fc6845458e3b519c42620920f2c0-yosemite.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/yosemite/yosemite.txd",
@@ -17845,8 +18603,8 @@
         {
           "path": "modloader/NOVA-VEICULOS/slamvan/slamvan.dff",
           "sizeBytes": 4169728,
-          "sha256": "0d36d7ed77999b5ee1eb77841b2cf2e680d81387a30af4ce2091832c11cfb13a",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v15-trucks-21ccbbe1/0d36d7ed77999b5ee1eb77841b2cf2e680d81387a30af4ce2091832c11cfb13a-slamvan.dff"
+          "sha256": "94691047bd7030c19b37df1a83e869a670a33dd3e7e3c867565c4e6853961827",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/94691047bd7030c19b37df1a83e869a670a33dd3e7e3c867565c4e6853961827-slamvan.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/slamvan/slamvan.txd",
@@ -17857,8 +18615,8 @@
         {
           "path": "modloader/NOVA-VEICULOS/huntley/huntley.dff",
           "sizeBytes": 3938078,
-          "sha256": "bdb1a4e860f9c56735f4170b60301ca177837a5065716abb43bb947088c79afe",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v15-trucks-21ccbbe1/bdb1a4e860f9c56735f4170b60301ca177837a5065716abb43bb947088c79afe-huntley.dff"
+          "sha256": "5993c06519690f97a8e918e782488fb506250aaaaba90600c27e92977993d0c7",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/5993c06519690f97a8e918e782488fb506250aaaaba90600c27e92977993d0c7-huntley.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/huntley/huntley.txd",
@@ -17869,8 +18627,8 @@
         {
           "path": "modloader/NOVA-VEICULOS/moonbeam/moonbeam.dff",
           "sizeBytes": 702464,
-          "sha256": "9110c327e43b28eeb57ed9bb93448951ac40e9612eccd947ba752854ad12b628",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v15-trucks-21ccbbe1/9110c327e43b28eeb57ed9bb93448951ac40e9612eccd947ba752854ad12b628-moonbeam.dff"
+          "sha256": "7e5d8e141bf655cd2b3acb8ec27fa08cdcd1aeafe919ca78ffc988c687493b1d",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/7e5d8e141bf655cd2b3acb8ec27fa08cdcd1aeafe919ca78ffc988c687493b1d-moonbeam.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/moonbeam/moonbeam.txd",
@@ -17922,9 +18680,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/glendale/glendale.dff",
-          "sha256": "e8627c129494a66c63d798a525067d03c09269a501e764e80b6936378e93e0be",
           "sizeBytes": 1654784,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v46-corporacoes-cde80882/e8627c129494a66c63d798a525067d03c09269a501e764e80b6936378e93e0be-glendale.dff"
+          "sha256": "df5acf6709548c4ced3d71278160d0acd2dbd16214bda1d101565da7d8eb0c02",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/df5acf6709548c4ced3d71278160d0acd2dbd16214bda1d101565da7d8eb0c02-glendale.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/glendale/glendale.txd",
@@ -17934,9 +18692,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/monsterb/monsterb.dff",
-          "sha256": "45a739f94004e3a6de534402bff411947737f49522f58c3de60f1626173cb0b9",
           "sizeBytes": 7391232,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-41-correcoes-20261113/45a739f94004e3a6de534402bff411947737f49522f58c3de60f1626173cb0b9-monsterb.dff"
+          "sha256": "fa866befb9383f42682adafce29dac1ed23b28bba6f1fdc9898c33fc2eaaef32",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/fa866befb9383f42682adafce29dac1ed23b28bba6f1fdc9898c33fc2eaaef32-monsterb.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/monsterb/monsterb.txd",
@@ -17946,9 +18704,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/club/club.dff",
-          "sha256": "59ed6052f4fcc681e7b97b19f9b37cf9cc894e03d2592522cec19b7e4b790eca",
           "sizeBytes": 11108352,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v22-veiculos-612bebdb/59ed6052f4fcc681e7b97b19f9b37cf9cc894e03d2592522cec19b7e4b790eca-club.dff"
+          "sha256": "9a93f56e77d5d8ef1e55e79fc08fc594bb1da324344c75d7d2413890f9dc31a5",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/9a93f56e77d5d8ef1e55e79fc08fc594bb1da324344c75d7d2413890f9dc31a5-club.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/club/club.txd",
@@ -17958,9 +18716,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/cadrona/cadrona.dff",
-          "sha256": "8c4a98cff27c38d8ae19707ba3df119c30b50c5a9f90d15b54f2a6c65596983f",
           "sizeBytes": 5677994,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v22-veiculos-612bebdb/8c4a98cff27c38d8ae19707ba3df119c30b50c5a9f90d15b54f2a6c65596983f-cadrona.dff"
+          "sha256": "79ae1845a715d5e2bed89673deed1160a22baf12c1661a1e081d6373e009348b",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/79ae1845a715d5e2bed89673deed1160a22baf12c1661a1e081d6373e009348b-cadrona.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/cadrona/cadrona.txd",
@@ -17970,9 +18728,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/euros/euros.dff",
-          "sha256": "d0b494d2541ad7215af7429ea336369f70a7aaf27e28c62b489b9342192e6873",
           "sizeBytes": 8240072,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v22-veiculos-612bebdb/d0b494d2541ad7215af7429ea336369f70a7aaf27e28c62b489b9342192e6873-euros.dff"
+          "sha256": "bba4d7b93e69a5eb4e679527c6a034a8ab354726a084e9525c4051f6eb7e0fd8",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/bba4d7b93e69a5eb4e679527c6a034a8ab354726a084e9525c4051f6eb7e0fd8-euros.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/euros/euros.txd",
@@ -17982,9 +18740,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/solair/solair.dff",
-          "sha256": "8805bdc5e437e87f56994a2d17bf29654bca7b7af96c8e354ed65388da912e05",
           "sizeBytes": 9113660,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v22-veiculos-612bebdb/8805bdc5e437e87f56994a2d17bf29654bca7b7af96c8e354ed65388da912e05-solair.dff"
+          "sha256": "bfa4380573b5d285dd7548a57c6d7bbcc5ea9616a43f0b8ba56a4857c6587bc9",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/bfa4380573b5d285dd7548a57c6d7bbcc5ea9616a43f0b8ba56a4857c6587bc9-solair.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/solair/solair.txd",
@@ -17994,9 +18752,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/sabre/sabre.dff",
-          "sha256": "fe60706dbece2cb5ce2c015c44c603e4a413e0c88fa1dcf46ee9206f85775f84",
           "sizeBytes": 10344448,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v31-audio-cores-e63c84b8/fe60706dbece2cb5ce2c015c44c603e4a413e0c88fa1dcf46ee9206f85775f84-sabre.dff"
+          "sha256": "2a65a2f0f44d8a1900f46a874da0708a052438ea056263aa0b72c4494cb847b0",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/2a65a2f0f44d8a1900f46a874da0708a052438ea056263aa0b72c4494cb847b0-sabre.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/sabre/sabre.txd",
@@ -18006,9 +18764,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/comet/comet.dff",
-          "sha256": "cd5055246cca6d96b6bfa8d4b4df1c8f0663c100923ae898977ec01ee10d3a25",
           "sizeBytes": 9375152,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v31-audio-cores-e63c84b8/cd5055246cca6d96b6bfa8d4b4df1c8f0663c100923ae898977ec01ee10d3a25-comet.dff"
+          "sha256": "48f4a98ffd08dfaaf6f3df0d1617041764be17ee4c3db2082b5b725e615e480c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/48f4a98ffd08dfaaf6f3df0d1617041764be17ee4c3db2082b5b725e615e480c-comet.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/comet/comet.txd",
@@ -18018,9 +18776,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/supergt/supergt.dff",
-          "sha256": "2718c100612a085813d8b55e69a07c2f9c0ef9ef5192cabeea7147e7da7b92b7",
           "sizeBytes": 15474688,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v22-veiculos-612bebdb/2718c100612a085813d8b55e69a07c2f9c0ef9ef5192cabeea7147e7da7b92b7-supergt.dff"
+          "sha256": "a4b9f3bab9a0d6127e472bac17fb94e3836cc534f9860cfa1d7172c00239fb81",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/a4b9f3bab9a0d6127e472bac17fb94e3836cc534f9860cfa1d7172c00239fb81-supergt.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/supergt/supergt.txd",
@@ -18030,9 +18788,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/stallion/stallion.dff",
-          "sha256": "529931585839bf647ffff1f6c775ce96bb89b08c783947e6349423df1311a215",
           "sizeBytes": 3618816,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v22-veiculos-612bebdb/529931585839bf647ffff1f6c775ce96bb89b08c783947e6349423df1311a215-stallion.dff"
+          "sha256": "05f1c94e2df02e5ad27ee08434dab028c66de2ea33de8ffd71c38771964579bb",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/05f1c94e2df02e5ad27ee08434dab028c66de2ea33de8ffd71c38771964579bb-stallion.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/stallion/stallion.txd",
@@ -18042,9 +18800,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/camper/camper.dff",
-          "sha256": "3cb07e8915f413311f760a5cb9552a092c9dbf11d070c64fe3228453a94f7065",
           "sizeBytes": 5130240,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-41-correcoes-20261113/3cb07e8915f413311f760a5cb9552a092c9dbf11d070c64fe3228453a94f7065-camper.dff"
+          "sha256": "ad4b00a6dd98e58cc2f7e33d801969edc6befbda8664244e6183f8476d0c7461",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/ad4b00a6dd98e58cc2f7e33d801969edc6befbda8664244e6183f8476d0c7461-camper.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/camper/camper.txd",
@@ -18054,9 +18812,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/kart/kart.dff",
-          "sha256": "ad1c24d84a4168ea940791fb329f944825e5e41eba31781f0e3b02bbba2c59db",
           "sizeBytes": 306211,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v22-veiculos-612bebdb/ad1c24d84a4168ea940791fb329f944825e5e41eba31781f0e3b02bbba2c59db-kart.dff"
+          "sha256": "fda52c192347de0ec150fd05689c53bfba474b720ecb9954a0fb0a8e36433d7c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/fda52c192347de0ec150fd05689c53bfba474b720ecb9954a0fb0a8e36433d7c-kart.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/kart/kart.txd",
@@ -18066,9 +18824,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/blistac/blistac.dff",
-          "sha256": "49384e7116aac8db5d1b2add98feac8e2809da55676e45461d686d0933f11fab",
           "sizeBytes": 9947136,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v23-gols-9cfddc14/49384e7116aac8db5d1b2add98feac8e2809da55676e45461d686d0933f11fab-blistac.dff"
+          "sha256": "f9263ca2ed5978b9f4114aa139cb047b9aaae2376fb05c2572e4cbd72bc76ec4",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/f9263ca2ed5978b9f4114aa139cb047b9aaae2376fb05c2572e4cbd72bc76ec4-blistac.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/blistac/blistac.txd",
@@ -18078,9 +18836,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/hermes/hermes.dff",
-          "sha256": "d06196a12558a1aae671acbdfedc1becb444de22ea0b8cb3502a961528d2e460",
           "sizeBytes": 5849088,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v23-gols-9cfddc14/d06196a12558a1aae671acbdfedc1becb444de22ea0b8cb3502a961528d2e460-hermes.dff"
+          "sha256": "c97e3720ec421f82f342d9927c0e29b37a549e3c95cd8bededebe1fafbe3eb0f",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/c97e3720ec421f82f342d9927c0e29b37a549e3c95cd8bededebe1fafbe3eb0f-hermes.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/hermes/hermes.txd",
@@ -18264,9 +19022,9 @@
         },
         {
           "path": "MoonLoader/lib/NOVA-VehiclePhysicsCore.lua",
-          "sha256": "b5f4d441e0fff893deb820eac2ba31fd23b5207aeb8caaca83eed980a52d9860",
-          "sizeBytes": 9097,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v53-stafford-stability-b84940fd/b5f4d441e0fff893deb820eac2ba31fd23b5207aeb8caaca83eed980a52d9860-NOVA-VehiclePhysicsCore.lua"
+          "sizeBytes": 9313,
+          "sha256": "4c44f797cdefd40b308baeba4d287ae6a6fd48f8f18a1539b7b6176345ff4aeb",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/4c44f797cdefd40b308baeba4d287ae6a6fd48f8f18a1539b7b6176345ff4aeb-NOVA-VehiclePhysicsCore.lua"
         },
         {
           "path": "MoonLoader/lib/NOVA-VehicleProfiles.lua",
@@ -18402,9 +19160,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/merit/merit.dff",
-          "sha256": "8e9f178760611416270e68837bd0555c2c098c741438deaa6745200396c6c8b8",
           "sizeBytes": 8974336,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v46-corporacoes-cde80882/8e9f178760611416270e68837bd0555c2c098c741438deaa6745200396c6c8b8-merit.dff"
+          "sha256": "3d169246993f6403ff02edb7eff790a0a758610691f61d917ce85c930ca1bfea",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/3d169246993f6403ff02edb7eff790a0a758610691f61d917ce85c930ca1bfea-merit.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/merit/merit.txd",
@@ -18414,9 +19172,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/emperor/emperor.dff",
-          "sha256": "b4c70571b38ad99f90d35ba4c82bed1e1ec3a92f1ffcfb7c97ee01062aa3a0f6",
           "sizeBytes": 9650176,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v46-corporacoes-cde80882/b4c70571b38ad99f90d35ba4c82bed1e1ec3a92f1ffcfb7c97ee01062aa3a0f6-emperor.dff"
+          "sha256": "947c3a8c694f9f33a8fb2e47b6a8f1492e732388a951c96ba05c34f5115e72d2",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/947c3a8c694f9f33a8fb2e47b6a8f1492e732388a951c96ba05c34f5115e72d2-emperor.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/emperor/emperor.txd",
@@ -18426,9 +19184,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/pony/pony.dff",
-          "sha256": "7781ce7c7fafec72d2ae1c1ca6feefac69ea7cffea57c327f7b0b4457e2ea16e",
           "sizeBytes": 6880823,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v46-corporacoes-cde80882/7781ce7c7fafec72d2ae1c1ca6feefac69ea7cffea57c327f7b0b4457e2ea16e-pony.dff"
+          "sha256": "74289679fb0886dff2c6d060c25a12caec24fd55d287427a38abd5bac03763fc",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/74289679fb0886dff2c6d060c25a12caec24fd55d287427a38abd5bac03763fc-pony.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/pony/pony.txd",
@@ -18438,9 +19196,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/barracks/barracks.dff",
-          "sha256": "faf077f85469ed8b6243a5ec1187abff4e7ddbfc306014a95fd6295107d20816",
           "sizeBytes": 9211904,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v47-mira-veiculos-23116519/faf077f85469ed8b6243a5ec1187abff4e7ddbfc306014a95fd6295107d20816-barracks.dff"
+          "sha256": "2e048c94062fcfe80beffd265394ed2adf1e9c55c7cfdd3e549397a6b5e94c01",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/2e048c94062fcfe80beffd265394ed2adf1e9c55c7cfdd3e549397a6b5e94c01-barracks.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/barracks/barracks.txd",
@@ -18606,9 +19364,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/savanna/savanna.dff",
-          "sha256": "a54d2d1af6c5e33e619bea3500ebe14d44372ff4d90e80ad603dbd63f462387c",
           "sizeBytes": 503808,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v53-stafford-stability-b84940fd/a54d2d1af6c5e33e619bea3500ebe14d44372ff4d90e80ad603dbd63f462387c-savanna.dff"
+          "sha256": "d6d076602a0b95544c2220f5105f0dab2e4d5e511f9f9a1b82c95c4ea93e0549",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/d6d076602a0b95544c2220f5105f0dab2e4d5e511f9f9a1b82c95c4ea93e0549-savanna.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/savanna/savanna.txd",
@@ -18618,9 +19376,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/sentinel/sentinel.dff",
-          "sha256": "e2caf09d9768a60328d92ba3944be278068ea93e1a2fc28f0971660a9c4a3eba",
           "sizeBytes": 12410880,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v53-stafford-stability-b84940fd/e2caf09d9768a60328d92ba3944be278068ea93e1a2fc28f0971660a9c4a3eba-sentinel.dff"
+          "sha256": "a181e56d6abf964169de603e7864f96b178091fb42b3cb83a09ed2aec919862c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/a181e56d6abf964169de603e7864f96b178091fb42b3cb83a09ed2aec919862c-sentinel.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/sentinel/sentinel.txd",
@@ -18630,9 +19388,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/stafford/stafford.dff",
-          "sha256": "b11f3dbcfe2e6adc493e72d96faf842c029883129c043d708de99be6cb5d8a19",
           "sizeBytes": 1820672,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v53-stafford-stability-b84940fd/b11f3dbcfe2e6adc493e72d96faf842c029883129c043d708de99be6cb5d8a19-stafford.dff"
+          "sha256": "8ed16856384ca458072bafd99bf11c54c735d5730e9a66f845913da7d4ec1f4b",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/8ed16856384ca458072bafd99bf11c54c735d5730e9a66f845913da7d4ec1f4b-stafford.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/stafford/stafford.txd",
@@ -18678,9 +19436,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/sadler/sadler.dff",
-          "sha256": "e8d61d1f7370fd483c6bc392c169d18a0bda8319f7fc41da56fd352619449c35",
           "sizeBytes": 11595776,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v55-vehicles-bikes-41531c07/e8d61d1f7370fd483c6bc392c169d18a0bda8319f7fc41da56fd352619449c35-sadler.dff"
+          "sha256": "11d6e288828f125941b9c99a9585da08daf8b0e95c503611b6df2c5dd857e522",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/11d6e288828f125941b9c99a9585da08daf8b0e95c503611b6df2c5dd857e522-sadler.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/sadler/sadler.txd",
@@ -18690,9 +19448,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/tampa/tampa.dff",
-          "sha256": "d6cf91a20f69727664b64a1f7cc07b95b1005dba98b6ec956b37c4228d6583c2",
           "sizeBytes": 5079040,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v55-vehicles-bikes-41531c07/d6cf91a20f69727664b64a1f7cc07b95b1005dba98b6ec956b37c4228d6583c2-tampa.dff"
+          "sha256": "a8e3c2afdd0443e55f2b5e90fa716eee88097eb9dd0db7925a491a28ff1591ff",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/a8e3c2afdd0443e55f2b5e90fa716eee88097eb9dd0db7925a491a28ff1591ff-tampa.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/tampa/tampa.txd",
@@ -18702,9 +19460,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/premier/premier.dff",
-          "sha256": "ee5a0405a7a4cab47a7b775e612cd044d9d35ebcd6bffacab16bbd9c903a075a",
           "sizeBytes": 8134656,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v55-vehicles-bikes-41531c07/ee5a0405a7a4cab47a7b775e612cd044d9d35ebcd6bffacab16bbd9c903a075a-premier.dff"
+          "sha256": "52f887dc8cc775d327c0ef3c7a652a1f299c48d7e54eec2022f42b2a677f664f",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/52f887dc8cc775d327c0ef3c7a652a1f299c48d7e54eec2022f42b2a677f664f-premier.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/premier/premier.txd",
@@ -18714,9 +19472,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/clover/clover.dff",
-          "sha256": "dcaa80d516224d4acac2656330c03ca979d0d718fe604aac463c0bd13245332f",
           "sizeBytes": 3917824,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v55-vehicles-bikes-41531c07/dcaa80d516224d4acac2656330c03ca979d0d718fe604aac463c0bd13245332f-clover.dff"
+          "sha256": "80aef5dbc747a92024319d0cfee130da2121a57af8201f7caaeabf1557ddc84a",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/80aef5dbc747a92024319d0cfee130da2121a57af8201f7caaeabf1557ddc84a-clover.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/clover/clover.txd",
@@ -18726,9 +19484,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/landstal/landstal.dff",
-          "sha256": "c279d092584fba01902715567e4ce583beea4f2e8f916047c65f234b37c3fdc2",
           "sizeBytes": 26077184,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v55-vehicles-bikes-41531c07/c279d092584fba01902715567e4ce583beea4f2e8f916047c65f234b37c3fdc2-landstal.dff"
+          "sha256": "f9ee2b0df021877487d23a38f80abf6d647213724ea640a8870bf793979b651a",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/f9ee2b0df021877487d23a38f80abf6d647213724ea640a8870bf793979b651a-landstal.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/landstal/landstal.txd",
@@ -18738,9 +19496,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/peren/peren.dff",
-          "sha256": "87207d555de67d39a058c89da5028a6df0e3d210b97badfc62f2c7bf164389a4",
           "sizeBytes": 17666048,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v55-vehicles-bikes-41531c07/87207d555de67d39a058c89da5028a6df0e3d210b97badfc62f2c7bf164389a4-peren.dff"
+          "sha256": "9031e9fd3f8c9cb93b175f894e0f497147b0f00ad4b4c5c58928c9f2fe747ba3",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/9031e9fd3f8c9cb93b175f894e0f497147b0f00ad4b4c5c58928c9f2fe747ba3-peren.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/peren/peren.txd",
@@ -18750,9 +19508,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/regina/regina.dff",
-          "sha256": "3399510f9ae2c50afdf0fd4e07537fc5c4f99e7ea2fd2f438182933ed5b0e7b5",
           "sizeBytes": 16095934,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v55-vehicles-bikes-41531c07/3399510f9ae2c50afdf0fd4e07537fc5c4f99e7ea2fd2f438182933ed5b0e7b5-regina.dff"
+          "sha256": "33fe26430d7ec8d96229b9c7826a978eb977c41bdb8b3d38b905461504868f0c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/33fe26430d7ec8d96229b9c7826a978eb977c41bdb8b3d38b905461504868f0c-regina.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/regina/regina.txd",
@@ -18762,9 +19520,9 @@
         },
         {
           "path": "modloader/NOVA-VEICULOS/washing/washing.dff",
-          "sha256": "3dd077c32f3c09cb89e5cd3b69a2449ef30fa37673e87b73792a27dab64c893e",
           "sizeBytes": 11315200,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v55-vehicles-bikes-41531c07/3dd077c32f3c09cb89e5cd3b69a2449ef30fa37673e87b73792a27dab64c893e-washing.dff"
+          "sha256": "dc6fb4c54118dbac8e1d80edb3149dc81ddfbc5b111d88621e36921de3258071",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/dc6fb4c54118dbac8e1d80edb3149dc81ddfbc5b111d88621e36921de3258071-washing.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/washing/washing.txd",
@@ -18777,6 +19535,18 @@
           "sha256": "2bdc5416a4acf566d3d14dbc32572eedd8e356fd595b96d51c189334b4bb0280",
           "sizeBytes": 67294,
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v55-vehicles-bikes-41531c07/2bdc5416a4acf566d3d14dbc32572eedd8e356fd595b96d51c189334b4bb0280-bikes.ifp"
+        },
+        {
+          "path": "MoonLoader/NOVA-Hud.lua",
+          "sizeBytes": 7452,
+          "sha256": "6230ed9f1490ca940beb33853e1a91d0b773df5c28c41c71fc89f4c90c7f3bd3",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/6230ed9f1490ca940beb33853e1a91d0b773df5c28c41c71fc89f4c90c7f3bd3-NOVA-Hud.lua"
+        },
+        {
+          "path": "MoonLoader/resource/nova-hud/nova-n.png",
+          "sizeBytes": 64479,
+          "sha256": "33c91bb159af6f7787890112c40dd69b38d6acf68e95695d5843ed49f18452e8",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/33c91bb159af6f7787890112c40dd69b38d6acf68e95695d5843ed49f18452e8-nova-n.png"
         }
       ],
       "deletes": [
@@ -19249,12 +20019,12 @@
         "modloader/NOVA-OSFAIXA-VEGETACAO/arquivos.img/vgsn_nitree_r02.dff",
         "modloader/NOVA-OSFAIXA-VEGETACAO/arquivos.img/vgsn_nitree_y01.dff",
         "modloader/NOVA-OSFAIXA-VEGETACAO/arquivos.img/vgsn_nitree_y02.dff",
-        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o/maps/country/countn2.ide",
-        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o/maps/country/countryS.ide",
-        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o/maps/generic/procobj.ide",
-        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o/maps/generic/vegepart.ide",
-        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o/maps/occluveg.ipl",
-        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o/maps/vegas/vegaxref.ide",
+        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£o/maps/country/countn2.ide",
+        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£o/maps/country/countryS.ide",
+        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£o/maps/generic/procobj.ide",
+        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£o/maps/generic/vegepart.ide",
+        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£o/maps/occluveg.ipl",
+        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£o/maps/vegas/vegaxref.ide",
         "modloader/NOVA-OSFAIXA-VEH/Dffs/admiral.dff",
         "modloader/NOVA-OSFAIXA-VEH/Dffs/alpha.dff",
         "modloader/NOVA-OSFAIXA-VEH/Dffs/ambulan.DFF",
@@ -19721,16 +20491,16 @@
         "modloader/NOVA-PLACAS/stafford.txd"
       ],
       "mods": [],
-      "totalBytes": 2015225517,
-      "publishedAt": "2026-11-16T06:42:40.260Z",
-      "notes": "Ferrari Enzo no Turismo, oito novos veiculos em slots livres e animacao de motos, com nomes atualizados. Correcao da textura da farda PRF feminina (300)."
+      "totalBytes": 2015297664,
+      "publishedAt": "2026-11-16T17:26:58.270955+00:00",
+      "notes": "Nova HUD nativa azul-clara: fome, sede, sono, logo N e velocimetro por proporcao de velocidade; suspensao e alinhamento das rodas."
     }
   },
-  "minimumGameBuild": 187,
+  "minimumGameBuild": 189,
   "fileSyncSchema": 1,
   "mobileMods": {
     "schemaVersion": 1,
-    "version": 34,
+    "version": 35,
     "models": [
       {
         "name": "wheel_gn1.dff",
@@ -20070,49 +20840,49 @@
       },
       {
         "name": "ambulan.dff",
+        "sha256": "4671c6297e97072df1a46d28cb6a45ce96bec0231eb55e3b753d2f0460fef54f",
         "sizeBytes": 1064960,
-        "sha256": "3af4202167c5566fd3c6d14d767862816c79fb9bd00318bb2b751db9bd1a216f",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 3114920,
-          "sizeBytes": 340008,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 48,
+          "sizeBytes": 342286,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
       {
         "name": "bandito.dff",
+        "sha256": "22603bab27577def067e9763a74a3c82392b6089b74b1b4c48d14318731db1b8",
         "sizeBytes": 882688,
-        "sha256": "f4146737100e9980c15955012c606dfc0c8ff27f9d7ab861df517352ff343af6",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 3454969,
-          "sizeBytes": 391943,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 342382,
+          "sizeBytes": 393897,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
       {
         "name": "banshee.dff",
+        "sha256": "443ef819791c0178b1f2c247352c5e80f6ad087314dbe576dbbe61d2bc660419",
         "sizeBytes": 4812800,
-        "sha256": "63fa8df4209dfbfe3089ea1cc6dbf4c06812b437ef153a25eeebfd16e0dec541",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 3846953,
-          "sizeBytes": 2801142,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 736327,
+          "sizeBytes": 2807088,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
       {
         "name": "barracks.dff",
+        "sha256": "bc6b6fa030f5f60945fc5d195c5e968d65bea897566c6674ce3c61148d1d599d",
         "sizeBytes": 9213952,
-        "sha256": "d506cb0ecdb2d3a3d744005352779fffabb1d3fe1a02513d0bb1c296fd0f6220",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 6648137,
-          "sizeBytes": 3832204,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 3543464,
+          "sizeBytes": 3835143,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
@@ -20166,13 +20936,13 @@
       },
       {
         "name": "blistac.dff",
+        "sha256": "5a2b4d0edbf4eb8718e57586db07403f2d73aaf6cbba752b10cb9fdbdda282f0",
         "sizeBytes": 9949184,
-        "sha256": "a75f5d44754d78da0ec18d2bdd8efd3ac0880fedde94cdf9998d7bc6cc05656a",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 13697060,
-          "sizeBytes": 3886499,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 7378655,
+          "sizeBytes": 3905543,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
@@ -20226,13 +20996,13 @@
       },
       {
         "name": "bravura.dff",
+        "sha256": "0776f9fe9810885fef9f917ceff906d63c9de081184a6fabae9f5803b1dcd15f",
         "sizeBytes": 12460032,
-        "sha256": "f5823042160552e909b6eb0062fb4bea27a110cbfc3e114dfe27c4b08f0b3988",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 17819901,
-          "sizeBytes": 4778809,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 11284246,
+          "sizeBytes": 4794744,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
@@ -20322,25 +21092,25 @@
       },
       {
         "name": "cadrona.dff",
+        "sha256": "8e77ea6a43b84fa9d2ac3d12d8e817d5370149cb66a9187b2c21ef44c5f849d8",
         "sizeBytes": 5679104,
-        "sha256": "3ac526f0e5faea360ce1bf9243a6281c23e967acf4da11d0f9faeedb99fa598c",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 23069438,
-          "sizeBytes": 2867293,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 16079038,
+          "sizeBytes": 2874314,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
       {
         "name": "camper.dff",
+        "sha256": "ecb2e89fb17c792bd5d82b8a7e7f8ed0a3c4358c031208097eea9695c88cce0c",
         "sizeBytes": 5132288,
-        "sha256": "08d44b2a5f02b38e8ce027368376302aae7eec986768293a6851729840fd1a13",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 25936771,
-          "sizeBytes": 1998146,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 18953399,
+          "sizeBytes": 2004369,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
@@ -20370,49 +21140,49 @@
       },
       {
         "name": "clover.dff",
-        "sha256": "59b3725d7d60ed924f7f35f00bbdb6f3d99a2fd891f32423802f8be562c15c3d",
+        "sha256": "14940aae747eba1389e4f7594c56fc6ea5dd6fb8081f94c89d9471f559c3e5d3",
         "sizeBytes": 3919872,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v34-a9b44c63/NOVA-ANDROID-MODS-v34.zip",
-          "start": 11178310,
-          "sizeBytes": 1606105,
-          "archiveSizeBytes": 130057082,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 20957815,
+          "sizeBytes": 1609851,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
       {
         "name": "club.dff",
+        "sha256": "0d327bb844d58bf53250ac939fe522a1b774d5dd3e679233b9f426affa7e595c",
         "sizeBytes": 11110400,
-        "sha256": "b97056797914451ca96d3eb05fff4d8bde4d3653fb2679e27a27c45e60d4de73",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 28147796,
-          "sizeBytes": 4901513,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 22567711,
+          "sizeBytes": 4912015,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
       {
         "name": "coach.dff",
+        "sha256": "318ccc13fcdcfb7f3ee22848a826c2b94d616eb1c4d34e955d50c20c42bf9910",
         "sizeBytes": 9150464,
-        "sha256": "0c75cb8791b924eac3d6f7be147f93f0876666be00568843c6a55622f5dc7602",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 33049348,
-          "sizeBytes": 3576235,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 27479772,
+          "sizeBytes": 3593388,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
       {
         "name": "comet.dff",
+        "sha256": "769b01e5685be67e99553ac9aee14f6820cc94c3035cff44651d952e2f22b3b1",
         "sizeBytes": 9377792,
-        "sha256": "8bf23786749b793eae2006e0a7ffa780ea4223230e0b936e8969ccc35365b653",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 36625622,
-          "sizeBytes": 3893108,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 31073206,
+          "sizeBytes": 3904213,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
@@ -20430,49 +21200,49 @@
       },
       {
         "name": "copcarla.dff",
+        "sha256": "7ba10f5244d6ad72f1489810cd60c9e8ffadb9a50f75a75fcb6543eb3569701d",
         "sizeBytes": 9854976,
-        "sha256": "267a57d859e515318a7cefce5d87927c7d2170ed95535461e04de9e7c12899f7",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 45636870,
-          "sizeBytes": 4343042,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 34977468,
+          "sizeBytes": 4330035,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
       {
         "name": "copcarru.dff",
+        "sha256": "72634afabaefd21e9bac373d9e8d2bc62017dba9873db67f41106b20479dd33a",
         "sizeBytes": 12877824,
-        "sha256": "cb2d7a596ec5b4c2151d95560eec775dcabfeb8c572327c52265828ca94ce3b9",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 49979954,
-          "sizeBytes": 5805974,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 39307552,
+          "sizeBytes": 5816518,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
       {
         "name": "copcarsf.dff",
+        "sha256": "6d8f337f051535f400c356074b34987aa9a3f84983a0fd73bf7ca6ae03b18cca",
         "sizeBytes": 1312768,
-        "sha256": "37babefe6c55fa7daaed81b2662bec30607ada76599d1795d9b402281a977924",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 55785970,
-          "sizeBytes": 575323,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 45124119,
+          "sizeBytes": 577195,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
       {
         "name": "copcarvg.dff",
+        "sha256": "51ec6189aa053427e4713160270a063896ce6f9ffe7082a4266fc99874d83029",
         "sizeBytes": 10323968,
-        "sha256": "1119b431563dd6037d0de328085ea7e21fd12d0de592660f45ed2987c105056a",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 56361335,
-          "sizeBytes": 5326172,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 45701363,
+          "sizeBytes": 5322337,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
@@ -20502,37 +21272,37 @@
       },
       {
         "name": "elegy.dff",
+        "sha256": "4046eb3cbf6d5afa1fa5fa13ee0f3ee5a0d4641a64a1edacf68b590e707978ef",
         "sizeBytes": 10082304,
-        "sha256": "8853652707ce5197121da33ecf217cdc2e8421bab951d1fc1bc07e964e540cce",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 61832563,
-          "sizeBytes": 4377422,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 51023746,
+          "sizeBytes": 4376502,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
       {
         "name": "emperor.dff",
+        "sha256": "d3ed9ca0da0bf579bcf811b221e2d24d2b31aa1b3f178792e95fb5b6b0e61d9b",
         "sizeBytes": 9652224,
-        "sha256": "87a49f960087fdb55cb19631f01ff98583d56cd085c38c32ebf0420506f043a9",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 66210026,
-          "sizeBytes": 4376938,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 55400296,
+          "sizeBytes": 4380380,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
       {
         "name": "enforcer.dff",
+        "sha256": "e6bcc93526fb8b220de17d4c0c1661ed2a4b401d2667ce1b2cb29911958219fb",
         "sizeBytes": 364544,
-        "sha256": "e8754a6b5ef7c1fc4273b3a68e31c4ddf0e54e8631bc4bad1d210b40ed6e0983",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 70587006,
-          "sizeBytes": 126200,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 59780725,
+          "sizeBytes": 126685,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
@@ -20550,13 +21320,13 @@
       },
       {
         "name": "euros.dff",
+        "sha256": "7a88dd901bf0e96e78a4a5cf493cb43b9be905d4683ad036e2ed1e06fc44ec4c",
         "sizeBytes": 8241152,
-        "sha256": "457c6cfc74811eaed0b3ddb223416055340bae5b7fe239a11236cd2a6d72d39a",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 70778639,
-          "sizeBytes": 3606449,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 59907456,
+          "sizeBytes": 3614395,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
@@ -20574,13 +21344,13 @@
       },
       {
         "name": "fbiranch.dff",
+        "sha256": "51ec6189aa053427e4713160270a063896ce6f9ffe7082a4266fc99874d83029",
         "sizeBytes": 10323968,
-        "sha256": "1119b431563dd6037d0de328085ea7e21fd12d0de592660f45ed2987c105056a",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 74601477,
-          "sizeBytes": 5326172,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 63521900,
+          "sizeBytes": 5322337,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
@@ -20634,13 +21404,13 @@
       },
       {
         "name": "firetruk.dff",
+        "sha256": "fe6881ec58ddc45fd2cc33bbefa22e0b98178c6ee1266907ffe784d027317ff8",
         "sizeBytes": 11147264,
-        "sha256": "8f10db6a41941f803f086c00a62c77c2f8a249a856647f1fedf06f7e4d2ce2d4",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 85336762,
-          "sizeBytes": 4750088,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 68844286,
+          "sizeBytes": 4764344,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
@@ -20694,13 +21464,13 @@
       },
       {
         "name": "glendale.dff",
+        "sha256": "06b4c41be81810ef3567b53ca861af537de332d4d0330a7753c241995f602d59",
         "sizeBytes": 1654784,
-        "sha256": "c86c1a61ffd9842fc9179a670c2c0836f5e2b4cd8aef02da55c7c97679ff44c7",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 90358439,
-          "sizeBytes": 831976,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 73608679,
+          "sizeBytes": 833740,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
@@ -20730,13 +21500,13 @@
       },
       {
         "name": "hermes.dff",
+        "sha256": "aaa8ffc4b1b23b2c2d2ed917e149559a8f94a060a5b9831c94b08aaa9f3446d7",
         "sizeBytes": 5851136,
-        "sha256": "b6f24f379b9cbf7d6530f8c59507ff034e1b9681fb285469cc41960a31be52f1",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 91302540,
-          "sizeBytes": 2667568,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 74442466,
+          "sizeBytes": 2677753,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
@@ -20754,61 +21524,61 @@
       },
       {
         "name": "hotknife.dff",
+        "sha256": "45fd2cbd91ddfc9fc71ae954f91b40515d7fc6252aa4b3d49ea837d36c97a84f",
         "sizeBytes": 10428416,
-        "sha256": "75b104f6dd76824dfaf4cf11a9fb359c4c475ce5a8c98aa7b79a88b7d7d64f56",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 94058177,
-          "sizeBytes": 4159903,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 77120268,
+          "sizeBytes": 4163394,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
       {
         "name": "hotrina.dff",
+        "sha256": "720b01db886c0c7f635c552b5717464a45e3e9481a0aa81320924b503b922288",
         "sizeBytes": 5046272,
-        "sha256": "f7d5379a8792006d3ecafc2d4881d929e5fdef201988c11a40b2a18fe82b3d57",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 98218121,
-          "sizeBytes": 2672195,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 81283710,
+          "sizeBytes": 2676071,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
       {
         "name": "huntley.dff",
+        "sha256": "045f8589bf0f12a7ef8f6ca179d414684b6665abe935655f90626f2880ca3191",
         "sizeBytes": 3938304,
-        "sha256": "513050aaa41b2acf859fad490ad7701f2b35cecd5bdf59ae84728ae433bcecd8",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 100890357,
-          "sizeBytes": 2027999,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 83959829,
+          "sizeBytes": 2036190,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
       {
         "name": "hustler.dff",
+        "sha256": "173f00579a7bbeb98628ef1b4bc386a8010668d41538c06accf40cf034d818e2",
         "sizeBytes": 3530752,
-        "sha256": "4b43429a3e343e783b7716fbad54ef7cae3759314c739e3c4aa84bfbd5794d36",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 102918397,
-          "sizeBytes": 1826549,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 85996067,
+          "sizeBytes": 1832490,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
       {
         "name": "infernus.dff",
-        "sha256": "b6f732eacac564286399423d3a832be4a5c92da91ade3776c88ba64692090e28",
+        "sha256": "6813b5bcdbf12939fc1a6cd784a9e6e1cf538c7b1647ab6e4a2d154870bb1654",
         "sizeBytes": 12171264,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v32-bdcc6fa2/NOVA-ANDROID-MODS-v32.zip",
-          "start": 45801,
-          "sizeBytes": 4578766,
-          "archiveSizeBytes": 84308182,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 87828606,
+          "sizeBytes": 4584464,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
@@ -20850,25 +21620,25 @@
       },
       {
         "name": "kart.dff",
+        "sha256": "5c305a6adecaec1672ee91e3b26a07b23e0694a6d30a58ec49c5d4f630d70b3a",
         "sizeBytes": 307200,
-        "sha256": "f651c73a9ec0b077d509e51a3c31a721d52b63a4304f0183129b38d205e819ed",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 112584732,
-          "sizeBytes": 85826,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 92413115,
+          "sizeBytes": 86151,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
       {
         "name": "landstal.dff",
-        "sha256": "74790b1a653541e92c05a05a53cb69e6979ac7426dcdce85dcc90863ec536e5c",
+        "sha256": "b91221672b2a7cabe24dac9a74a10e5f3fd21ef82dfbb61b1ad07317c138e878",
         "sizeBytes": 26077184,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v34-a9b44c63/NOVA-ANDROID-MODS-v34.zip",
-          "start": 12784464,
-          "sizeBytes": 12311045,
-          "archiveSizeBytes": 130057082,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 92499315,
+          "sizeBytes": 12330355,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
@@ -20922,13 +21692,13 @@
       },
       {
         "name": "merit.dff",
+        "sha256": "b09ef4a19585f77397e5f2dbd88d0628606ef68c3cbe92e4722dab45887e2c1f",
         "sizeBytes": 8974336,
-        "sha256": "9c0bc5ef63a5ab989ada68d843fdff9dd3c4ad62a34ca6f4e7a8b1a7af802d1d",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 133748695,
-          "sizeBytes": 4089297,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 104829716,
+          "sizeBytes": 4084791,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
@@ -20958,25 +21728,25 @@
       },
       {
         "name": "monsterb.dff",
+        "sha256": "6ae217e38d3e462b186083be28ce55d034181c29521bb4b41a9af8d5db333421",
         "sizeBytes": 7393280,
-        "sha256": "72efcf0730c53e383d599a4bca5c191ef869395c30b4f7863da730e4d6032229",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 137973661,
-          "sizeBytes": 3351236,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 108914556,
+          "sizeBytes": 3359518,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
       {
         "name": "moonbeam.dff",
+        "sha256": "d3e52cdf5b83bb62beea60a329d4b690bc6a236462e9e181ba6fc2705717d1af",
         "sizeBytes": 704512,
-        "sha256": "c21cd3138a2d61782c1e97841fef1e74016dab91b5373a888cb19ca3fbca4129",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 141324939,
-          "sizeBytes": 275181,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 112274123,
+          "sizeBytes": 276377,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
@@ -21066,13 +21836,13 @@
       },
       {
         "name": "patriot.dff",
+        "sha256": "cc280c9abadabacbc255b92c3cc62871c6c7db26dc45b252ad048fe0d4f355ea",
         "sizeBytes": 253952,
-        "sha256": "500aac79f1b26a7b058c8b70a3445f82313d13a89bd692b7836eda2255a5367d",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 144189876,
-          "sizeBytes": 87894,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 112550548,
+          "sizeBytes": 88311,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
@@ -21090,25 +21860,25 @@
       },
       {
         "name": "peren.dff",
-        "sha256": "7f9e53e3eb69fce2096d844d4f1cc925483a8ea41ff2fbf4b33ce17844a0d3ca",
+        "sha256": "f2a0ee6d2da5fd8f12270a443c0b627996dbd51981fc64ec44f267c69cd4fb0c",
         "sizeBytes": 17666048,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v34-a9b44c63/NOVA-ANDROID-MODS-v34.zip",
-          "start": 25095555,
-          "sizeBytes": 8665217,
-          "archiveSizeBytes": 130057082,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 112638905,
+          "sizeBytes": 8667676,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
       {
         "name": "phoenix.dff",
+        "sha256": "4687e12b12aa2b4689d32dc426135d704480960e53680feb6b39a8dc7cc5b34d",
         "sizeBytes": 3954688,
-        "sha256": "48a0ae58b0706b130566d3cd357a904aa8d40afd328e267cf46f4828d82f53bc",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 148914606,
-          "sizeBytes": 1474452,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 121306629,
+          "sizeBytes": 1478484,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
@@ -21150,37 +21920,37 @@
       },
       {
         "name": "pony.dff",
+        "sha256": "bd6ef4ca23b664e6978f272aee7c42efc0950c088e1239a4b0ae9cc513a7cd56",
         "sizeBytes": 6883328,
-        "sha256": "035d375aa0e6172212bd63a374089ffdc63d3091541b1abf08f326b201010f53",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 154784881,
-          "sizeBytes": 3346699,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 122785158,
+          "sizeBytes": 3356498,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
       {
         "name": "premier.dff",
-        "sha256": "56b5759532f8c4632064b34c73656cce541cb52af90e10c6ea88927af03c3073",
+        "sha256": "1e34f16febca23108d0a8371e28bb22dbed72ecf5eb8dbafc7d627f5982b4e8c",
         "sizeBytes": 8136704,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v34-a9b44c63/NOVA-ANDROID-MODS-v34.zip",
-          "start": 7402304,
-          "sizeBytes": 3775959,
-          "archiveSizeBytes": 130057082,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 126141704,
+          "sizeBytes": 3783026,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
       {
         "name": "previon.dff",
+        "sha256": "b71825e0904f5c5213d235c6e3f967028cd956473957c9eeeeede4d76ec27ec8",
         "sizeBytes": 10561536,
-        "sha256": "0a67047908b0d21d9ea1ce3408e6c4eb335e806c7eedabebbea572a6b39acf10",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 158203195,
-          "sizeBytes": 4650205,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 129924778,
+          "sizeBytes": 4654806,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
@@ -21234,13 +22004,13 @@
       },
       {
         "name": "regina.dff",
-        "sha256": "e00f77415a334a00600f7bacd0552d39fafdba2ef81b91647dc7e81198ea7973",
+        "sha256": "ff04b3d6e28f2eb1c93d00266939eaff790e9b865ccef3daddd29337b9877049",
         "sizeBytes": 16097280,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v34-a9b44c63/NOVA-ANDROID-MODS-v34.zip",
-          "start": 33760819,
-          "sizeBytes": 9562229,
-          "archiveSizeBytes": 130057082,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 134579631,
+          "sizeBytes": 9598369,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
@@ -21258,13 +22028,13 @@
       },
       {
         "name": "rhino.dff",
+        "sha256": "cf9ce353fc625e33bc9f56736a402222f31390a5ab16db3a769be89bbdc5f087",
         "sizeBytes": 6252544,
-        "sha256": "d434da3747041784123d4d5ddd48725845daa068343d3c09550987eed378970f",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 163281175,
-          "sizeBytes": 1851143,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 144178046,
+          "sizeBytes": 1850482,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
@@ -21306,25 +22076,25 @@
       },
       {
         "name": "sabre.dff",
+        "sha256": "1ed4594dfccb3aaf2aaa126eda4c1820a61824b37ba183ad326797d2183a1bc6",
         "sizeBytes": 10346496,
-        "sha256": "d9be1924ac166e0bae38a3920472c5bf683202b975e0dc2c7a33e51e74491954",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 165355187,
-          "sizeBytes": 4759104,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 146028574,
+          "sizeBytes": 4768813,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
       {
         "name": "sadler.dff",
-        "sha256": "12ada41dfd0e3c7e8a86321dfad799e42f183daa1ed4475da83d2698b75f2caa",
+        "sha256": "f6b241241807767bc6fa30d149deac59ed619cb5596add2fb6c08647ed855193",
         "sizeBytes": 11595776,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v34-a9b44c63/NOVA-ANDROID-MODS-v34.zip",
-          "start": 559875,
-          "sizeBytes": 4759773,
-          "archiveSizeBytes": 130057082,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 150797434,
+          "sizeBytes": 4770063,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
@@ -21366,97 +22136,97 @@
       },
       {
         "name": "savanna.dff",
-        "sha256": "f6b39f715d90cc6c2175e8b01e59b7967d22fbaebe46d8ab1f659ec9faaa9984",
+        "sha256": "5f16d3dc7afff2fee5bca1fb45feab80b532960659197bb607c7c60a277df6d3",
         "sizeBytes": 505856,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v32-bdcc6fa2/NOVA-ANDROID-MODS-v32.zip",
-          "start": 4624615,
-          "sizeBytes": 217413,
-          "archiveSizeBytes": 84308182,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 155567545,
+          "sizeBytes": 218083,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
       {
         "name": "securica.dff",
+        "sha256": "0ebcdf27f7846b377761c6de51b4eadadad22806e26b525de2ab4b2eb4d6e208",
         "sizeBytes": 2277376,
-        "sha256": "e54303ce5626af9b34f16d168cfb8fe104d9f793ae83f118653e24e2b406cca2",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 174139071,
-          "sizeBytes": 705313,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 155785677,
+          "sizeBytes": 707740,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
       {
         "name": "sentinel.dff",
-        "sha256": "ae9a71416e7c640d31bd7bf6f34f249272c2da3c991b7009674f8c4e8d85de79",
+        "sha256": "165abdba28801ca99f6de1280100c0d0260ca39d1ae7605735097c0d0ce8afa6",
         "sizeBytes": 12412928,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v32-bdcc6fa2/NOVA-ANDROID-MODS-v32.zip",
-          "start": 4842077,
-          "sizeBytes": 5975132,
-          "archiveSizeBytes": 84308182,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 156493466,
+          "sizeBytes": 5984811,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
       {
         "name": "slamvan.dff",
+        "sha256": "f636b390a22ae3af9deed1e2350242abc4415df004962a5e13b3f6b0e5390621",
         "sizeBytes": 4171776,
-        "sha256": "233bc8009f75fba912b5f82ffd8533ece27d4093f451112262e912f0aa627f8e",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 174916467,
-          "sizeBytes": 1862153,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 162478325,
+          "sizeBytes": 1865314,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
       {
         "name": "solair.dff",
+        "sha256": "c010d2260280b6f27a9ff0698236e5a5063814585ae8eaabc41880182f8ca152",
         "sizeBytes": 9115648,
-        "sha256": "418fd7bc9c8b4acb49710c94f6893045117d5eb9132c363416e064d7e50bafa4",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 176778660,
-          "sizeBytes": 4924861,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 164343686,
+          "sizeBytes": 4939944,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
       {
         "name": "stafford.dff",
-        "sha256": "68cbb66fa8c81a403e06b8497e285d79adb2d6da072fb53ceb19ced6a42f7ec8",
+        "sha256": "724789509f207e13bc368f05a99ac58a6a37ffe0484e81a039191d23a0ba426b",
         "sizeBytes": 1822720,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v32-bdcc6fa2/NOVA-ANDROID-MODS-v32.zip",
-          "start": 10817258,
-          "sizeBytes": 748618,
-          "archiveSizeBytes": 84308182,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 169283679,
+          "sizeBytes": 751348,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
       {
         "name": "stallion.dff",
+        "sha256": "902d74e75a15e200ca74cf854b124ddcf1b7ce93520983a150b35d6f7b734d07",
         "sizeBytes": 3620864,
-        "sha256": "54bfd74b9910c92d4d2cd8f47784dbf664ce777c9ca42d63c172e89e75e882a4",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 181785308,
-          "sizeBytes": 1528850,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 170035076,
+          "sizeBytes": 1531676,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
       {
         "name": "stratum.dff",
+        "sha256": "39dc9291bd340103d30847d0868a96d237cfba0f6b3639db8fd7dddd5ea8bee5",
         "sizeBytes": 7088128,
-        "sha256": "da481912c94372b3703b7295d6ecabcd0b248f6b621066e72bad13bdfec1e4ea",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 183314199,
-          "sizeBytes": 3744418,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 171566800,
+          "sizeBytes": 3734914,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
@@ -21474,13 +22244,13 @@
       },
       {
         "name": "sultan.dff",
+        "sha256": "51a34331f93f944067d9294c050a5edb34c5774166020f3aa2fa427612aa29a4",
         "sizeBytes": 9142272,
-        "sha256": "0d0ce2414ff3806685b2abecef284ac5069cd28233e8aa9610f0f8d30aaecedf",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 187134346,
-          "sizeBytes": 4154316,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 175301761,
+          "sizeBytes": 4162172,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
@@ -21498,25 +22268,25 @@
       },
       {
         "name": "supergt.dff",
+        "sha256": "d6061f08f910b4eff5e82e8d4f69bf314246fd749ee57da31566deb00c48bf99",
         "sizeBytes": 15476736,
-        "sha256": "67f0662c3bd50628a05a24351e7fd9141337f0aabaf343215905f1747dcbbe17",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 191365024,
-          "sizeBytes": 5999434,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 179463981,
+          "sizeBytes": 6019783,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
       {
         "name": "swatvan.dff",
+        "sha256": "3835336300c29807fd18289f98c1ec9fdad93d95c40dd1572b7e4f3b0e55ce6e",
         "sizeBytes": 4722688,
-        "sha256": "9eeeee9a0f35fd2b0a58cc8aca2704a5e375a6b1dff2f656c8e6750902a36257",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 197364499,
-          "sizeBytes": 2057151,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 185483812,
+          "sizeBytes": 2061739,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
@@ -21546,13 +22316,13 @@
       },
       {
         "name": "tampa.dff",
-        "sha256": "c0131f9f1e179ab4b314584b642056b9372f168f32dcbee4b3ba7ac02acca8ec",
+        "sha256": "e17096f9ed544487c0aac27431e3a538d5d5aaf9235b81adb42db7fb8b4e1ebc",
         "sizeBytes": 5081088,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v34-a9b44c63/NOVA-ANDROID-MODS-v34.zip",
-          "start": 5319694,
-          "sizeBytes": 2082562,
-          "archiveSizeBytes": 130057082,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 187545597,
+          "sizeBytes": 2080950,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
@@ -21594,37 +22364,37 @@
       },
       {
         "name": "towtruck.dff",
+        "sha256": "930ddba6980fc6a393d36de9df77f2d36789108124c59cd97852ca7d8f56f65b",
         "sizeBytes": 7385088,
-        "sha256": "abae18c024ce6a85dd422840a25cbbe97c79899c77299e6b1b71d0190569808e",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 199812976,
-          "sizeBytes": 2431644,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 189626596,
+          "sizeBytes": 2441802,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
       {
         "name": "trash.dff",
+        "sha256": "02e7649e8a18d86f942b6611e702e52919a04cd92086d0379d58a3fa42a8c504",
         "sizeBytes": 1959936,
-        "sha256": "d9c0d9d3218a8eff4e6205cc954659615408fd8a6845811d399b67fdaecbefff",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 202244659,
-          "sizeBytes": 576296,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 192068444,
+          "sizeBytes": 579339,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
       {
         "name": "turismo.dff",
-        "sha256": "dd7b40ad82c2b81d4e9965a5fe10982ddbf5366daea29f97de7664fc28b80e6e",
+        "sha256": "368ac1f9763c26ef57d119beae09635707d8168a98bfccfee9abfe8519411235",
         "sizeBytes": 1419264,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v34-a9b44c63/NOVA-ANDROID-MODS-v34.zip",
-          "start": 48,
-          "sizeBytes": 559780,
-          "archiveSizeBytes": 130057082,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 192647831,
+          "sizeBytes": 560318,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
@@ -21714,13 +22484,13 @@
       },
       {
         "name": "washing.dff",
-        "sha256": "c872c2d242ef6b30fe1aadeba4e5cf877f09074fb6ad619ae25762f2a0a9f492",
+        "sha256": "d384cae89299f097963a3897bbe181d674b67431185eb19cf63ad4ae9a4b0c6b",
         "sizeBytes": 11319296,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v34-a9b44c63/NOVA-ANDROID-MODS-v34.zip",
-          "start": 43323096,
-          "sizeBytes": 5035439,
-          "archiveSizeBytes": 130057082,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 193208197,
+          "sizeBytes": 5062559,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
@@ -21774,25 +22544,25 @@
       },
       {
         "name": "yosemite.dff",
+        "sha256": "f38c5761e33a2a8e8191e46e0ac1d576d3ed7d9220e870b3fbce869572edfe9f",
         "sizeBytes": 1284096,
-        "sha256": "ba7f0cda4657b02196b3d445396ff486198873dbccd0fc005649f5316f4fdceb",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 207311886,
-          "sizeBytes": 692165,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 198270805,
+          "sizeBytes": 694718,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
       {
         "name": "zr350.dff",
+        "sha256": "4a8feba6ea3fa49525dd31a8a8bcd611a26572272d9222382880558dee037454",
         "sizeBytes": 5214208,
-        "sha256": "0b02bd9d4e6fd91d42091a8fd25bda05a53c088352ac340f46ec57e876463add",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 208004090,
-          "sizeBytes": 2770315,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
+          "start": 198965569,
+          "sizeBytes": 2779076,
+          "archiveSizeBytes": 201748617,
           "compression": 8
         }
       },
