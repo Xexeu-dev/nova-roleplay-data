@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "dataVersion": 34,
-  "updatedAt": "2026-11-16T06:26:34.746731+00:00",
+  "updatedAt": "2026-11-16T06:42:40.260Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -4390,9 +4390,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 55,
-      "publicationId": "cfe901de-e84a-4470-9156-207023130c55",
-      "updatedAt": "2026-11-16T06:26:34.746731+00:00",
+      "dataVersion": 56,
+      "publicationId": "95a0b2b8-0f57-4645-a162-2e3189d0bd4b",
+      "updatedAt": "2026-11-16T06:42:40.260Z",
       "distributionMode": "official",
       "files": [
         {
@@ -17496,9 +17496,9 @@
         },
         {
           "path": "SAMP/SAMP.ide",
-          "sha256": "c0c9bfbf405b1282fa6900fd0893053b2c2df854b5b49c24410f8c090e81e0e4",
-          "sizeBytes": 89349,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v54-pmerj-skins-9fa12c47/c0c9bfbf405b1282fa6900fd0893053b2c2df854b5b49c24410f8c090e81e0e4-SAMP.ide"
+          "sha256": "9857cea3730ac672a4156877eab20623ed6133fcfc8722730a3d52df9f884f99",
+          "sizeBytes": 89350,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v56-prf-texture-9857cea3/9857cea3730ac672a4156877eab20623ed6133fcfc8722730a3d52df9f884f99-SAMP.ide"
         },
         {
           "path": "SAMP/SAMP.img",
@@ -19721,9 +19721,9 @@
         "modloader/NOVA-PLACAS/stafford.txd"
       ],
       "mods": [],
-      "totalBytes": 2015225516,
-      "publishedAt": "2026-11-16T06:26:34.746731+00:00",
-      "notes": "Ferrari Enzo no Turismo, oito novos veiculos em slots livres e animacao de motos, com nomes atualizados."
+      "totalBytes": 2015225517,
+      "publishedAt": "2026-11-16T06:42:40.260Z",
+      "notes": "Ferrari Enzo no Turismo, oito novos veiculos em slots livres e animacao de motos, com nomes atualizados. Correcao da textura da farda PRF feminina (300)."
     }
   },
   "minimumGameBuild": 187,
