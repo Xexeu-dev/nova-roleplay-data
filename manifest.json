@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 32,
-  "updatedAt": "2026-11-15T23:15:18.714147+00:00",
+  "dataVersion": 33,
+  "updatedAt": "2026-11-16T05:46:03.843996+00:00",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -291,6 +291,15 @@
       "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v32-stafford-stability-b84940fd/NOVA-DATA-v32-stafford-stability.zip",
       "sha256": "b84940fda874a9ad4075a980b7e668c3fe353cf44b2d5c92b9a123dc187dcbcb",
       "sizeBytes": 410164244,
+      "deletes": []
+    },
+    {
+      "kind": "package",
+      "version": 33,
+      "fromVersion": 32,
+      "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v33-pmerj-skins-9fa12c47/NOVA-DATA-v33-pmerj-skins.zip",
+      "sha256": "9fa12c4701dcb36c405ba77fdddb7b17d97d758fd7e322e742e9e163d1a02ac0",
+      "sizeBytes": 414694347,
       "deletes": []
     }
   ],
@@ -3459,13 +3468,13 @@
     },
     {
       "path": "texdb/gta3.img",
-      "sha256": "94361f8468b86fc707b6084c886110622e1948af74e2d3b99d4f24b72af22024",
-      "sizeBytes": 783851520,
+      "sha256": "ce42f67def3f75f0f4a3d20e31377280ac65c9d13f11cc8749312599cf8313a7",
+      "sizeBytes": 789403648,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v32-stafford-stability-b84940fd/NOVA-DATA-v32-stafford-stability.zip",
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v33-pmerj-skins-9fa12c47/NOVA-DATA-v33-pmerj-skins.zip",
         "start": 44,
-        "sizeBytes": 337422156,
-        "archiveSizeBytes": 410164244,
+        "sizeBytes": 340258497,
+        "archiveSizeBytes": 414694347,
         "compression": 8
       }
     },
@@ -4227,49 +4236,49 @@
     },
     {
       "path": "texdb/nova_mods/nova_mods.txt",
-      "sha256": "f8dff0eb8ce9541a3ee3247ce3ae0b34dc9bf868ea91763b50b99fa676a22b0c",
-      "sizeBytes": 112664,
+      "sha256": "f25f6b35e1bbde567f038d8fe685e636fae359f3c13e6df524acd30f651ae9b4",
+      "sizeBytes": 114527,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v32-stafford-stability-b84940fd/NOVA-DATA-v32-stafford-stability.zip",
-        "start": 337422259,
-        "sizeBytes": 19884,
-        "archiveSizeBytes": 410164244,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v33-pmerj-skins-9fa12c47/NOVA-DATA-v33-pmerj-skins.zip",
+        "start": 340258600,
+        "sizeBytes": 20195,
+        "archiveSizeBytes": 414694347,
         "compression": 8
       }
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.dat",
-      "sha256": "69c424164682d02dd85a7d8ffdcdb8146cce99e4ac26b2ff08ed75b00bd698b6",
-      "sizeBytes": 440413452,
+      "sha256": "f2827c32891f0ed05d6ca98f709fd361dc3777eca47e0280b589a070f232242a",
+      "sizeBytes": 449807298,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v32-stafford-stability-b84940fd/NOVA-DATA-v32-stafford-stability.zip",
-        "start": 337442206,
-        "sizeBytes": 72706802,
-        "archiveSizeBytes": 410164244,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v33-pmerj-skins-9fa12c47/NOVA-DATA-v33-pmerj-skins.zip",
+        "start": 340278858,
+        "sizeBytes": 74400021,
+        "archiveSizeBytes": 414694347,
         "compression": 8
       }
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.tmb",
-      "sha256": "66495d2694d0ba900741c34d27928909bc348b0bbcab2ca11ec9ca929771422e",
-      "sizeBytes": 28400,
+      "sha256": "4dd5983a6d97fe7fd6e0d8d30b8e7c0fbf2f7c2aacb7db8cca3c487ccb950e16",
+      "sizeBytes": 28860,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v32-stafford-stability-b84940fd/NOVA-DATA-v32-stafford-stability.zip",
-        "start": 410154606,
-        "sizeBytes": 9244,
-        "archiveSizeBytes": 410164244,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v33-pmerj-skins-9fa12c47/NOVA-DATA-v33-pmerj-skins.zip",
+        "start": 414684569,
+        "sizeBytes": 9384,
+        "archiveSizeBytes": 414694347,
         "compression": 8
       }
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.toc",
-      "sha256": "d5e8c3ab4240929229bda35dbb9f74f9df6c351e030d8e6f99e319db25dc2be0",
-      "sizeBytes": 5684,
+      "sha256": "fb0c6e547a2f9b7028d7e4ccb85164169dbc82da80a8cdd73e4b5cd3f3542cef",
+      "sizeBytes": 5776,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v32-stafford-stability-b84940fd/NOVA-DATA-v32-stafford-stability.zip",
-        "start": 410149071,
-        "sizeBytes": 5472,
-        "archiveSizeBytes": 410164244,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v33-pmerj-skins-9fa12c47/NOVA-DATA-v33-pmerj-skins.zip",
+        "start": 414678942,
+        "sizeBytes": 5564,
+        "archiveSizeBytes": 414694347,
         "compression": 8
       }
     },
@@ -4372,9 +4381,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 53,
-      "publicationId": "8adde4ca-bff1-4324-b6e4-c8b8b34e4607",
-      "updatedAt": "2026-11-15T23:15:18.714147+00:00",
+      "dataVersion": 54,
+      "publicationId": "b6a153e5-76b2-4ed1-8813-e7b0c4848f3d",
+      "updatedAt": "2026-11-16T05:46:03.843996+00:00",
       "distributionMode": "official",
       "files": [
         {
@@ -17478,9 +17487,9 @@
         },
         {
           "path": "SAMP/SAMP.ide",
-          "sizeBytes": 89347,
-          "sha256": "dd66aa822943526dffe0f80af88547615672c9bb6e9f3fcfde6d6f8b860f93f5",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/dd66aa822943526dffe0f80af88547615672c9bb6e9f3fcfde6d6f8b860f93f5-SAMP.ide"
+          "sha256": "c0c9bfbf405b1282fa6900fd0893053b2c2df854b5b49c24410f8c090e81e0e4",
+          "sizeBytes": 89349,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v54-pmerj-skins-9fa12c47/c0c9bfbf405b1282fa6900fd0893053b2c2df854b5b49c24410f8c090e81e0e4-SAMP.ide"
         },
         {
           "path": "SAMP/SAMP.img",
@@ -18633,6 +18642,30 @@
           "sha256": "b8616172c140d00f8f19ae59a3b2afc12a6d307d4f54606c8851acfa41036636",
           "sizeBytes": 6615,
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v53-stafford-stability-b84940fd/b8616172c140d00f8f19ae59a3b2afc12a6d307d4f54606c8851acfa41036636-NOVA-StabilityCore.lua"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/sfpdna.dff",
+          "sha256": "cfb7928593fcff4ab787066bdb9780ec1a3186217a3d3e2221397caf8ec5876b",
+          "sizeBytes": 2976828,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v54-pmerj-skins-9fa12c47/cfb7928593fcff4ab787066bdb9780ec1a3186217a3d3e2221397caf8ec5876b-sfpdna.dff"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/sfpdna.txd",
+          "sha256": "ee67df8a0081c4b3f4edd4347de449b4add4ff86cae3a97056de5edfdedae906",
+          "sizeBytes": 6716016,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v54-pmerj-skins-9fa12c47/ee67df8a0081c4b3f4edd4347de449b4add4ff86cae3a97056de5edfdedae906-sfpdna.txd"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/lvpdna.dff",
+          "sha256": "f1cad048898bdeb21d839dec030a4ec044e06f182266f57e74eea6bd2db65a9c",
+          "sizeBytes": 2573820,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v54-pmerj-skins-9fa12c47/f1cad048898bdeb21d839dec030a4ec044e06f182266f57e74eea6bd2db65a9c-lvpdna.dff"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/lvpdna.txd",
+          "sha256": "8130828f6456485faed882802a0b84091bcb44c007557aa77af8c36f92ca89eb",
+          "sizeBytes": 7123116,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v54-pmerj-skins-9fa12c47/8130828f6456485faed882802a0b84091bcb44c007557aa77af8c36f92ca89eb-lvpdna.txd"
         }
       ],
       "deletes": [
@@ -19577,16 +19610,16 @@
         "modloader/NOVA-PLACAS/stafford.txd"
       ],
       "mods": [],
-      "totalBytes": 1890037171,
-      "publishedAt": "2026-11-15T23:15:18.714147+00:00",
-      "notes": "Data PC 53 / Android 32: Cognoscenti Blindado no Stafford 580; skin pessoal XEXEU-7 271; pintura configuravel da Bugatti; Mercedes Classe G no Savanna 567 e Audi RS3 no Sentinel 405. Uniformes policiais preservados.\n\nAceleracao dos 160 carros e motos aumentada em 30%, com as maximas configuradas preservadas. Aderencia e estabilidade em curvas ajustadas, com tratamento proprio para NRG-500 e Ferrari F1 (Bandito). Aeronaves, barcos e gravidade global preservados."
+      "totalBytes": 1909426953,
+      "publishedAt": "2026-11-16T05:46:03.843996+00:00",
+      "notes": "Uniformes PMERJ masculino (301) e feminino (302), com associacao individual das texturas no PC."
     }
   },
   "minimumGameBuild": 181,
   "fileSyncSchema": 1,
   "mobileMods": {
     "schemaVersion": 1,
-    "version": 32,
+    "version": 33,
     "models": [
       {
         "name": "wheel_gn1.dff",
@@ -21939,54 +21972,78 @@
           "archiveSizeBytes": 84308182,
           "compression": 8
         }
+      },
+      {
+        "name": "sfpdna.dff",
+        "sha256": "0fbca02c2d4a670255476ccf701357d3753f00c5412358ea031dd0575c2c7caf",
+        "sizeBytes": 2977792,
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v33-b20200e9/NOVA-ANDROID-MODS-v33.zip",
+          "start": 47,
+          "sizeBytes": 1520689,
+          "archiveSizeBytes": 77271285,
+          "compression": 8
+        }
+      },
+      {
+        "name": "lvpdna.dff",
+        "sha256": "f5c429d2f8ee36b58414dc29518f57e521d9b9819d9b5a84da054feea0bdea29",
+        "sizeBytes": 2574336,
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v33-b20200e9/NOVA-ANDROID-MODS-v33.zip",
+          "start": 1520783,
+          "sizeBytes": 1314630,
+          "archiveSizeBytes": 77271285,
+          "compression": 8
+        }
       }
     ],
     "files": [
       {
         "path": "texdb/nova_mods/nova_mods.txt",
-        "sha256": "f8dff0eb8ce9541a3ee3247ce3ae0b34dc9bf868ea91763b50b99fa676a22b0c",
-        "sizeBytes": 112664,
+        "sha256": "f25f6b35e1bbde567f038d8fe685e636fae359f3c13e6df524acd30f651ae9b4",
+        "sizeBytes": 114527,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v32-bdcc6fa2/NOVA-ANDROID-MODS-v32.zip",
-          "start": 11565935,
-          "sizeBytes": 19884,
-          "archiveSizeBytes": 84308182,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v33-b20200e9/NOVA-ANDROID-MODS-v33.zip",
+          "start": 2835472,
+          "sizeBytes": 20195,
+          "archiveSizeBytes": 77271285,
           "compression": 8
         }
       },
       {
         "path": "texdb/nova_mods/nova_mods.etc.dat",
-        "sha256": "69c424164682d02dd85a7d8ffdcdb8146cce99e4ac26b2ff08ed75b00bd698b6",
-        "sizeBytes": 440413452,
+        "sha256": "f2827c32891f0ed05d6ca98f709fd361dc3777eca47e0280b589a070f232242a",
+        "sizeBytes": 449807298,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v32-bdcc6fa2/NOVA-ANDROID-MODS-v32.zip",
-          "start": 11585882,
-          "sizeBytes": 72706802,
-          "archiveSizeBytes": 84308182,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v33-b20200e9/NOVA-ANDROID-MODS-v33.zip",
+          "start": 2855730,
+          "sizeBytes": 74400021,
+          "archiveSizeBytes": 77271285,
           "compression": 8
         }
       },
       {
         "path": "texdb/nova_mods/nova_mods.etc.toc",
-        "sha256": "d5e8c3ab4240929229bda35dbb9f74f9df6c351e030d8e6f99e319db25dc2be0",
-        "sizeBytes": 5684,
+        "sha256": "fb0c6e547a2f9b7028d7e4ccb85164169dbc82da80a8cdd73e4b5cd3f3542cef",
+        "sizeBytes": 5776,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v32-bdcc6fa2/NOVA-ANDROID-MODS-v32.zip",
-          "start": 84292747,
-          "sizeBytes": 5472,
-          "archiveSizeBytes": 84308182,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v33-b20200e9/NOVA-ANDROID-MODS-v33.zip",
+          "start": 77255814,
+          "sizeBytes": 5564,
+          "archiveSizeBytes": 77271285,
           "compression": 8
         }
       },
       {
         "path": "texdb/nova_mods/nova_mods.etc.tmb",
-        "sha256": "66495d2694d0ba900741c34d27928909bc348b0bbcab2ca11ec9ca929771422e",
-        "sizeBytes": 28400,
+        "sha256": "4dd5983a6d97fe7fd6e0d8d30b8e7c0fbf2f7c2aacb7db8cca3c487ccb950e16",
+        "sizeBytes": 28860,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v32-bdcc6fa2/NOVA-ANDROID-MODS-v32.zip",
-          "start": 84298282,
-          "sizeBytes": 9244,
-          "archiveSizeBytes": 84308182,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v33-b20200e9/NOVA-ANDROID-MODS-v33.zip",
+          "start": 77261441,
+          "sizeBytes": 9384,
+          "archiveSizeBytes": 77271285,
           "compression": 8
         }
       }
