@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 38,
-  "updatedAt": "2026-11-17T13:46:33.926Z",
+  "dataVersion": 39,
+  "updatedAt": "2026-11-17T13:57:34.527Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -4895,11 +4895,11 @@
       "sha256": "2d15d89c65beef66d12f418838c5cea38f2a47326a0c11796443498b0f4139b4",
       "sizeBytes": 1342970,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v38-vehicle-names-verified/NOVA-DATA-v38-vehicle-names-verified.zip",
-        "start": 11970,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v39-gxt-case-compat/NOVA-DATA-v39-gxt-case-compat.zip",
+        "start": 47,
         "sizeBytes": 405785,
         "compression": 8,
-        "archiveSizeBytes": 5698932
+        "archiveSizeBytes": 5709384
       }
     },
     {
@@ -4907,11 +4907,11 @@
       "sha256": "edc85bd7108aa0c6d329c72c3f42bd128c06f39f37e496e467ad80eb39952aa6",
       "sizeBytes": 1471392,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v38-vehicle-names-verified/NOVA-DATA-v38-vehicle-names-verified.zip",
-        "start": 417800,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v39-gxt-case-compat/NOVA-DATA-v39-gxt-case-compat.zip",
+        "start": 811709,
         "sizeBytes": 426531,
         "compression": 8,
-        "archiveSizeBytes": 5698932
+        "archiveSizeBytes": 5709384
       }
     },
     {
@@ -4919,11 +4919,11 @@
       "sha256": "be377f73c388553c834c75f3b79c1bd9b91f63dfe2f21fc43c76f65045feab51",
       "sizeBytes": 1500932,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v38-vehicle-names-verified/NOVA-DATA-v38-vehicle-names-verified.zip",
-        "start": 844376,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v39-gxt-case-compat/NOVA-DATA-v39-gxt-case-compat.zip",
+        "start": 1664861,
         "sizeBytes": 442635,
         "compression": 8,
-        "archiveSizeBytes": 5698932
+        "archiveSizeBytes": 5709384
       }
     },
     {
@@ -4931,11 +4931,11 @@
       "sha256": "6188c6c3d96dabafd31ea6b4b21e962ec080297605abe3a5d8d0af0e036068e7",
       "sizeBytes": 1374822,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v38-vehicle-names-verified/NOVA-DATA-v38-vehicle-names-verified.zip",
-        "start": 1287057,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v39-gxt-case-compat/NOVA-DATA-v39-gxt-case-compat.zip",
+        "start": 2550222,
         "sizeBytes": 410796,
         "compression": 8,
-        "archiveSizeBytes": 5698932
+        "archiveSizeBytes": 5709384
       }
     },
     {
@@ -4943,11 +4943,11 @@
       "sha256": "07b74384b7c7e568238411b6c080ccb00baae7ad9696b089baf6ceac6a0578a8",
       "sizeBytes": 647218,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v38-vehicle-names-verified/NOVA-DATA-v38-vehicle-names-verified.zip",
-        "start": 1697900,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v39-gxt-case-compat/NOVA-DATA-v39-gxt-case-compat.zip",
+        "start": 3371907,
         "sizeBytes": 312484,
         "compression": 8,
-        "archiveSizeBytes": 5698932
+        "archiveSizeBytes": 5709384
       }
     },
     {
@@ -4955,11 +4955,11 @@
       "sha256": "078b0b5f5dc7c075e435e574ff3f8fd3dee97cace9bf397595b473e7e7c2040a",
       "sizeBytes": 1425038,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v38-vehicle-names-verified/NOVA-DATA-v38-vehicle-names-verified.zip",
-        "start": 2010430,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v39-gxt-case-compat/NOVA-DATA-v39-gxt-case-compat.zip",
+        "start": 3996968,
         "sizeBytes": 439880,
         "compression": 8,
-        "archiveSizeBytes": 5698932
+        "archiveSizeBytes": 5709384
       }
     },
     {
@@ -4967,11 +4967,11 @@
       "sha256": "622bc71a9da6354d67c9445dca3494a9df411c5c0ab84786c388300de81938d5",
       "sizeBytes": 1390514,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v38-vehicle-names-verified/NOVA-DATA-v38-vehicle-names-verified.zip",
-        "start": 2450356,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v39-gxt-case-compat/NOVA-DATA-v39-gxt-case-compat.zip",
+        "start": 4876820,
         "sizeBytes": 415814,
         "compression": 8,
-        "archiveSizeBytes": 5698932
+        "archiveSizeBytes": 5709384
       }
     },
     {
@@ -5060,86 +5060,86 @@
     },
     {
       "path": "TEXT/AMERICAN.GXT",
-      "sha256": "82c80a86d03e0498d95111c355b30296ed18982fef5356d882e6948de0172302",
-      "sizeBytes": 1345884,
+      "sha256": "2d15d89c65beef66d12f418838c5cea38f2a47326a0c11796443498b0f4139b4",
+      "sizeBytes": 1342970,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v38-vehicle-names-verified/NOVA-DATA-v38-vehicle-names-verified.zip",
-        "start": 2866217,
-        "sizeBytes": 402119,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v39-gxt-case-compat/NOVA-DATA-v39-gxt-case-compat.zip",
+        "start": 405879,
+        "sizeBytes": 405785,
         "compression": 8,
-        "archiveSizeBytes": 5698932
+        "archiveSizeBytes": 5709384
       }
     },
     {
       "path": "TEXT/FRENCH.GXT",
-      "sha256": "d793b0fd12ef784b847e2b61da3976afdba7adf6c27fa9a92ed015c368abf7d4",
-      "sizeBytes": 1465504,
+      "sha256": "edc85bd7108aa0c6d329c72c3f42bd128c06f39f37e496e467ad80eb39952aa6",
+      "sizeBytes": 1471392,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v38-vehicle-names-verified/NOVA-DATA-v38-vehicle-names-verified.zip",
-        "start": 3268381,
-        "sizeBytes": 421759,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v39-gxt-case-compat/NOVA-DATA-v39-gxt-case-compat.zip",
+        "start": 1238285,
+        "sizeBytes": 426531,
         "compression": 8,
-        "archiveSizeBytes": 5698932
+        "archiveSizeBytes": 5709384
       }
     },
     {
       "path": "TEXT/GERMAN.GXT",
-      "sha256": "0a797b1feb22ec7663b9fd66b650d7583696cd92c0d380bf7e388098e1f43ff7",
-      "sizeBytes": 1503642,
+      "sha256": "be377f73c388553c834c75f3b79c1bd9b91f63dfe2f21fc43c76f65045feab51",
+      "sizeBytes": 1500932,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v38-vehicle-names-verified/NOVA-DATA-v38-vehicle-names-verified.zip",
-        "start": 3690185,
-        "sizeBytes": 436192,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v39-gxt-case-compat/NOVA-DATA-v39-gxt-case-compat.zip",
+        "start": 2107541,
+        "sizeBytes": 442635,
         "compression": 8,
-        "archiveSizeBytes": 5698932
+        "archiveSizeBytes": 5709384
       }
     },
     {
       "path": "TEXT/ITALIAN.GXT",
-      "sha256": "21bbf46874d23032919d2a6430282f699802518c7f97fa72e935cd16f4d0a78b",
-      "sizeBytes": 1377508,
+      "sha256": "6188c6c3d96dabafd31ea6b4b21e962ec080297605abe3a5d8d0af0e036068e7",
+      "sizeBytes": 1374822,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v38-vehicle-names-verified/NOVA-DATA-v38-vehicle-names-verified.zip",
-        "start": 4126423,
-        "sizeBytes": 406577,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v39-gxt-case-compat/NOVA-DATA-v39-gxt-case-compat.zip",
+        "start": 2961064,
+        "sizeBytes": 410796,
         "compression": 8,
-        "archiveSizeBytes": 5698932
+        "archiveSizeBytes": 5709384
       }
     },
     {
       "path": "TEXT/JAPANESE.GXT",
-      "sha256": "1d5f058fbced74b2ee5471f783f2f00ebbd08b7d5e31c0aa240fc78c3f27e4e9",
-      "sizeBytes": 649662,
+      "sha256": "07b74384b7c7e568238411b6c080ccb00baae7ad9696b089baf6ceac6a0578a8",
+      "sizeBytes": 647218,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v38-vehicle-names-verified/NOVA-DATA-v38-vehicle-names-verified.zip",
-        "start": 4533047,
-        "sizeBytes": 313051,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v39-gxt-case-compat/NOVA-DATA-v39-gxt-case-compat.zip",
+        "start": 3684438,
+        "sizeBytes": 312484,
         "compression": 8,
-        "archiveSizeBytes": 5698932
+        "archiveSizeBytes": 5709384
       }
     },
     {
       "path": "TEXT/RUSSIAN.GXT",
-      "sha256": "6c101ad39b93446a33a0b8a48e30b090d6bac8ec251c20cb463579f1ffab5d3b",
-      "sizeBytes": 1427496,
+      "sha256": "078b0b5f5dc7c075e435e574ff3f8fd3dee97cace9bf397595b473e7e7c2040a",
+      "sizeBytes": 1425038,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v38-vehicle-names-verified/NOVA-DATA-v38-vehicle-names-verified.zip",
-        "start": 4846144,
-        "sizeBytes": 440480,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v39-gxt-case-compat/NOVA-DATA-v39-gxt-case-compat.zip",
+        "start": 4436894,
+        "sizeBytes": 439880,
         "compression": 8,
-        "archiveSizeBytes": 5698932
+        "archiveSizeBytes": 5709384
       }
     },
     {
       "path": "TEXT/SPANISH.GXT",
-      "sha256": "d96d9d594b6f3e189815462db054db059879fe1c22677954d3e3a806bbd2e17a",
-      "sizeBytes": 1393204,
+      "sha256": "622bc71a9da6354d67c9445dca3494a9df411c5c0ab84786c388300de81938d5",
+      "sizeBytes": 1390514,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v38-vehicle-names-verified/NOVA-DATA-v38-vehicle-names-verified.zip",
-        "start": 5286670,
-        "sizeBytes": 411246,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v39-gxt-case-compat/NOVA-DATA-v39-gxt-case-compat.zip",
+        "start": 5292680,
+        "sizeBytes": 415814,
         "compression": 8,
-        "archiveSizeBytes": 5698932
+        "archiveSizeBytes": 5709384
       }
     },
     {
@@ -5423,7 +5423,7 @@
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v5-7d812a00/ad0b170d940213097ec196c644b42e798960c7da01e5645b45c7250fc2874e46-Read_Me.txt"
         },
         {
-          "path": "CREDITOS-MODS/porsche/crÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â©ditos.txt",
+          "path": "CREDITOS-MODS/porsche/crÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â©ditos.txt",
           "sizeBytes": 106,
           "sha256": "07b85c7350c8783b0b0cd10072fd042653ea5e1dda7d7afaabd46a99a2e572fb",
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v4-d7210caf/07b85c7350c8783b0b0cd10072fd042653ea5e1dda7d7afaabd46a99a2e572fb-cr_ditos.txt"
@@ -20040,12 +20040,12 @@
         "modloader/NOVA-OSFAIXA-VEGETACAO/arquivos.img/vgsn_nitree_r02.dff",
         "modloader/NOVA-OSFAIXA-VEGETACAO/arquivos.img/vgsn_nitree_y01.dff",
         "modloader/NOVA-OSFAIXA-VEGETACAO/arquivos.img/vgsn_nitree_y02.dff",
-        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£o/maps/country/countn2.ide",
-        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£o/maps/country/countryS.ide",
-        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£o/maps/generic/procobj.ide",
-        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£o/maps/generic/vegepart.ide",
-        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£o/maps/occluveg.ipl",
-        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£o/maps/vegas/vegaxref.ide",
+        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£o/maps/country/countn2.ide",
+        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£o/maps/country/countryS.ide",
+        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£o/maps/generic/procobj.ide",
+        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£o/maps/generic/vegepart.ide",
+        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£o/maps/occluveg.ipl",
+        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£o/maps/vegas/vegaxref.ide",
         "modloader/NOVA-OSFAIXA-VEH/Dffs/admiral.dff",
         "modloader/NOVA-OSFAIXA-VEH/Dffs/alpha.dff",
         "modloader/NOVA-OSFAIXA-VEH/Dffs/ambulan.DFF",
