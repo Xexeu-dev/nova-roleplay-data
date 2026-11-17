@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "dataVersion": 39,
-  "updatedAt": "2026-11-17T13:57:34.527Z",
+  "updatedAt": "2026-11-17T15:16:28.233Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -20517,7 +20517,7 @@
       "notes": "Nomes reais dos 77 veiculos com mods; arquivos de idioma e menus sincronizados."
     }
   },
-  "minimumGameBuild": 196,
+  "minimumGameBuild": 197,
   "fileSyncSchema": 1,
   "mobileMods": {
     "schemaVersion": 1,
