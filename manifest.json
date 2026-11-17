@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 37,
-  "updatedAt": "2026-11-17T06:07:11.771Z",
+  "dataVersion": 38,
+  "updatedAt": "2026-11-17T13:46:33.926Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -3009,14 +3009,14 @@
     },
     {
       "path": "data/vehicles.ide",
-      "sha256": "cfecf0ef82825c816dac04819764e82cd42da41d21e9014ca9c023abed0802f1",
-      "sizeBytes": 21074,
+      "sha256": "c72beb30315e210aa49d02e5a0c7feef92315f2d1bf1d599795919ab1075ae51",
+      "sizeBytes": 21081,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v36-bike-poses/NOVA-DATA-v36-bike-poses.zip",
-        "start": 5545431,
-        "sizeBytes": 5952,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v38-vehicle-names-verified/NOVA-DATA-v38-vehicle-names-verified.zip",
+        "start": 47,
+        "sizeBytes": 5912,
         "compression": 8,
-        "archiveSizeBytes": 5551527
+        "archiveSizeBytes": 5698932
       }
     },
     {
@@ -3393,14 +3393,14 @@
     },
     {
       "path": "SAMP/vehicles.ide",
-      "sizeBytes": 21077,
-      "sha256": "975c6eef42f2f3e73f436098d8bb75313f34e607daa83834b574898150063d28",
+      "sizeBytes": 21105,
+      "sha256": "ce759cd95aa7b9a81b3b048c6966672b1aba5215b7a99a5b0e899b6bea13047e",
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v37-samp-bike-poses/NOVA-SAMP-BIKES-v37.zip",
-        "start": 47,
-        "sizeBytes": 5885,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v38-vehicle-names-verified/NOVA-DATA-v38-vehicle-names-verified.zip",
+        "start": 6006,
+        "sizeBytes": 5917,
         "compression": 8,
-        "archiveSizeBytes": 6017
+        "archiveSizeBytes": 5698932
       }
     },
     {
@@ -4892,86 +4892,86 @@
     },
     {
       "path": "Text/american.gxt",
-      "sha256": "f0877da8dc5d298f82d32758fdee0419ebae9c5380edfb44bb16aadf70c126c0",
-      "sizeBytes": 1339466,
+      "sha256": "2d15d89c65beef66d12f418838c5cea38f2a47326a0c11796443498b0f4139b4",
+      "sizeBytes": 1342970,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v34-vehicles-bikes-41531c07/NOVA-DATA-v34-vehicles-bikes.zip",
-        "start": 471568569,
-        "sizeBytes": 409677,
-        "archiveSizeBytes": 477307393,
-        "compression": 8
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v38-vehicle-names-verified/NOVA-DATA-v38-vehicle-names-verified.zip",
+        "start": 11970,
+        "sizeBytes": 405785,
+        "compression": 8,
+        "archiveSizeBytes": 5698932
       }
     },
     {
       "path": "Text/french.gxt",
-      "sha256": "e992d2f9ac4825ed243d949e004d660d0020bac570e6849ccb2dc8d362c7c7b1",
-      "sizeBytes": 1467888,
+      "sha256": "edc85bd7108aa0c6d329c72c3f42bd128c06f39f37e496e467ad80eb39952aa6",
+      "sizeBytes": 1471392,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v34-vehicles-bikes-41531c07/NOVA-DATA-v34-vehicles-bikes.zip",
-        "start": 471978291,
-        "sizeBytes": 432530,
-        "archiveSizeBytes": 477307393,
-        "compression": 8
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v38-vehicle-names-verified/NOVA-DATA-v38-vehicle-names-verified.zip",
+        "start": 417800,
+        "sizeBytes": 426531,
+        "compression": 8,
+        "archiveSizeBytes": 5698932
       }
     },
     {
       "path": "Text/german.gxt",
-      "sha256": "f9dd00b10a7a79122adeda2c215894d006043c6bfd34aef6c3d5fadec7ba3a84",
-      "sizeBytes": 1497428,
+      "sha256": "be377f73c388553c834c75f3b79c1bd9b91f63dfe2f21fc43c76f65045feab51",
+      "sizeBytes": 1500932,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v34-vehicles-bikes-41531c07/NOVA-DATA-v34-vehicles-bikes.zip",
-        "start": 472410866,
-        "sizeBytes": 447098,
-        "archiveSizeBytes": 477307393,
-        "compression": 8
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v38-vehicle-names-verified/NOVA-DATA-v38-vehicle-names-verified.zip",
+        "start": 844376,
+        "sizeBytes": 442635,
+        "compression": 8,
+        "archiveSizeBytes": 5698932
       }
     },
     {
       "path": "Text/italian.gxt",
-      "sha256": "ffa97e7da59e19c2e55534f3dd11066eb46a3c51e30d33ad2b94a0c26cd77cf4",
-      "sizeBytes": 1371318,
+      "sha256": "6188c6c3d96dabafd31ea6b4b21e962ec080297605abe3a5d8d0af0e036068e7",
+      "sizeBytes": 1374822,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v34-vehicles-bikes-41531c07/NOVA-DATA-v34-vehicles-bikes.zip",
-        "start": 472858010,
-        "sizeBytes": 415417,
-        "archiveSizeBytes": 477307393,
-        "compression": 8
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v38-vehicle-names-verified/NOVA-DATA-v38-vehicle-names-verified.zip",
+        "start": 1287057,
+        "sizeBytes": 410796,
+        "compression": 8,
+        "archiveSizeBytes": 5698932
       }
     },
     {
       "path": "Text/japanese.gxt",
-      "sha256": "f4134d42c00061c42609d7a9b40daefb0884d7da3d6fc71eaa262e57d1b6e3b5",
-      "sizeBytes": 643714,
+      "sha256": "07b74384b7c7e568238411b6c080ccb00baae7ad9696b089baf6ceac6a0578a8",
+      "sizeBytes": 647218,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v34-vehicles-bikes-41531c07/NOVA-DATA-v34-vehicles-bikes.zip",
-        "start": 473273474,
-        "sizeBytes": 311465,
-        "archiveSizeBytes": 477307393,
-        "compression": 8
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v38-vehicle-names-verified/NOVA-DATA-v38-vehicle-names-verified.zip",
+        "start": 1697900,
+        "sizeBytes": 312484,
+        "compression": 8,
+        "archiveSizeBytes": 5698932
       }
     },
     {
       "path": "Text/russian.gxt",
-      "sha256": "de3c845a947a2a787f94bfbd6e754b7b8712be125bf750cc3618b0c44640033f",
-      "sizeBytes": 1421534,
+      "sha256": "078b0b5f5dc7c075e435e574ff3f8fd3dee97cace9bf397595b473e7e7c2040a",
+      "sizeBytes": 1425038,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v34-vehicles-bikes-41531c07/NOVA-DATA-v34-vehicles-bikes.zip",
-        "start": 473584985,
-        "sizeBytes": 443517,
-        "archiveSizeBytes": 477307393,
-        "compression": 8
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v38-vehicle-names-verified/NOVA-DATA-v38-vehicle-names-verified.zip",
+        "start": 2010430,
+        "sizeBytes": 439880,
+        "compression": 8,
+        "archiveSizeBytes": 5698932
       }
     },
     {
       "path": "Text/spanish.gxt",
-      "sha256": "05304264d10cd87d0f9a15788298ea22703eaaf6cec4bb5348d435f0620df1f6",
-      "sizeBytes": 1387010,
+      "sha256": "622bc71a9da6354d67c9445dca3494a9df411c5c0ab84786c388300de81938d5",
+      "sizeBytes": 1390514,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v34-vehicles-bikes-41531c07/NOVA-DATA-v34-vehicles-bikes.zip",
-        "start": 474028548,
-        "sizeBytes": 421532,
-        "archiveSizeBytes": 477307393,
-        "compression": 8
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v38-vehicle-names-verified/NOVA-DATA-v38-vehicle-names-verified.zip",
+        "start": 2450356,
+        "sizeBytes": 415814,
+        "compression": 8,
+        "archiveSizeBytes": 5698932
       }
     },
     {
@@ -5060,86 +5060,86 @@
     },
     {
       "path": "TEXT/AMERICAN.GXT",
-      "sha256": "7b5fbbafbcd6088e939bd5a2da5b811b10d6a36575a22a14cd5b1ae2e0e95bb4",
-      "sizeBytes": 1342876,
+      "sha256": "82c80a86d03e0498d95111c355b30296ed18982fef5356d882e6948de0172302",
+      "sizeBytes": 1345884,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v34-vehicles-bikes-41531c07/NOVA-DATA-v34-vehicles-bikes.zip",
-        "start": 474450127,
-        "sizeBytes": 405094,
-        "archiveSizeBytes": 477307393,
-        "compression": 8
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v38-vehicle-names-verified/NOVA-DATA-v38-vehicle-names-verified.zip",
+        "start": 2866217,
+        "sizeBytes": 402119,
+        "compression": 8,
+        "archiveSizeBytes": 5698932
       }
     },
     {
       "path": "TEXT/FRENCH.GXT",
-      "sha256": "d72ad92a00fcb5863570577369a9c8452128a6321f196df241502970403b71c6",
-      "sizeBytes": 1462496,
+      "sha256": "d793b0fd12ef784b847e2b61da3976afdba7adf6c27fa9a92ed015c368abf7d4",
+      "sizeBytes": 1465504,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v34-vehicles-bikes-41531c07/NOVA-DATA-v34-vehicles-bikes.zip",
-        "start": 474855266,
-        "sizeBytes": 425485,
-        "archiveSizeBytes": 477307393,
-        "compression": 8
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v38-vehicle-names-verified/NOVA-DATA-v38-vehicle-names-verified.zip",
+        "start": 3268381,
+        "sizeBytes": 421759,
+        "compression": 8,
+        "archiveSizeBytes": 5698932
       }
     },
     {
       "path": "TEXT/GERMAN.GXT",
-      "sha256": "26dcf824e8177b10a24ce9f20a5fbc03092b2f57cc836a90cec22449d6325341",
-      "sizeBytes": 1500634,
+      "sha256": "0a797b1feb22ec7663b9fd66b650d7583696cd92c0d380bf7e388098e1f43ff7",
+      "sizeBytes": 1503642,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v34-vehicles-bikes-41531c07/NOVA-DATA-v34-vehicles-bikes.zip",
-        "start": 475280796,
-        "sizeBytes": 440180,
-        "archiveSizeBytes": 477307393,
-        "compression": 8
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v38-vehicle-names-verified/NOVA-DATA-v38-vehicle-names-verified.zip",
+        "start": 3690185,
+        "sizeBytes": 436192,
+        "compression": 8,
+        "archiveSizeBytes": 5698932
       }
     },
     {
       "path": "TEXT/ITALIAN.GXT",
-      "sha256": "3b1d2c6e112903bd813714503383e546f6892acb4f963c42806e4ca29b20404d",
-      "sizeBytes": 1374500,
+      "sha256": "21bbf46874d23032919d2a6430282f699802518c7f97fa72e935cd16f4d0a78b",
+      "sizeBytes": 1377508,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v34-vehicles-bikes-41531c07/NOVA-DATA-v34-vehicles-bikes.zip",
-        "start": 475721022,
-        "sizeBytes": 410858,
-        "archiveSizeBytes": 477307393,
-        "compression": 8
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v38-vehicle-names-verified/NOVA-DATA-v38-vehicle-names-verified.zip",
+        "start": 4126423,
+        "sizeBytes": 406577,
+        "compression": 8,
+        "archiveSizeBytes": 5698932
       }
     },
     {
       "path": "TEXT/JAPANESE.GXT",
-      "sha256": "dd58189277c403745c3a86c82aa35f41f40deaa7898cd3dd4b066d34c40092db",
-      "sizeBytes": 646654,
+      "sha256": "1d5f058fbced74b2ee5471f783f2f00ebbd08b7d5e31c0aa240fc78c3f27e4e9",
+      "sizeBytes": 649662,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v34-vehicles-bikes-41531c07/NOVA-DATA-v34-vehicles-bikes.zip",
-        "start": 476131927,
-        "sizeBytes": 312914,
-        "archiveSizeBytes": 477307393,
-        "compression": 8
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v38-vehicle-names-verified/NOVA-DATA-v38-vehicle-names-verified.zip",
+        "start": 4533047,
+        "sizeBytes": 313051,
+        "compression": 8,
+        "archiveSizeBytes": 5698932
       }
     },
     {
       "path": "TEXT/RUSSIAN.GXT",
-      "sha256": "d001212cdcc58bc91647428bcb7db6ba2224384d6dfb175a6d064a5a8fc37353",
-      "sizeBytes": 1424488,
+      "sha256": "6c101ad39b93446a33a0b8a48e30b090d6bac8ec251c20cb463579f1ffab5d3b",
+      "sizeBytes": 1427496,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v34-vehicles-bikes-41531c07/NOVA-DATA-v34-vehicles-bikes.zip",
-        "start": 476444887,
-        "sizeBytes": 445096,
-        "archiveSizeBytes": 477307393,
-        "compression": 8
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v38-vehicle-names-verified/NOVA-DATA-v38-vehicle-names-verified.zip",
+        "start": 4846144,
+        "sizeBytes": 440480,
+        "compression": 8,
+        "archiveSizeBytes": 5698932
       }
     },
     {
       "path": "TEXT/SPANISH.GXT",
-      "sha256": "a0f0f8257b7318b910b1eb5f8e553179a25c12c61fcb6e8fcadea21d8417162c",
-      "sizeBytes": 1390196,
+      "sha256": "d96d9d594b6f3e189815462db054db059879fe1c22677954d3e3a806bbd2e17a",
+      "sizeBytes": 1393204,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v34-vehicles-bikes-41531c07/NOVA-DATA-v34-vehicles-bikes.zip",
-        "start": 476890029,
-        "sizeBytes": 415980,
-        "archiveSizeBytes": 477307393,
-        "compression": 8
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v38-vehicle-names-verified/NOVA-DATA-v38-vehicle-names-verified.zip",
+        "start": 5286670,
+        "sizeBytes": 411246,
+        "compression": 8,
+        "archiveSizeBytes": 5698932
       }
     },
     {
@@ -5157,9 +5157,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 58,
-      "publicationId": "pc-data-v58-phone-injury-tuning",
-      "updatedAt": "2026-11-17T00:00:27.611Z",
+      "dataVersion": 59,
+      "publicationId": "pc-data-v59-vehicle-names",
+      "updatedAt": "2026-11-17T13:46:33.926Z",
       "distributionMode": "official",
       "files": [
         {
@@ -7086,9 +7086,9 @@
         },
         {
           "path": "data/vehicles.ide",
-          "sha256": "cfecf0ef82825c816dac04819764e82cd42da41d21e9014ca9c023abed0802f1",
-          "sizeBytes": 21074,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v58-phone-injury-tuning/cfecf0ef82825c816dac04819764e82cd42da41d21e9014ca9c023abed0802f1-vehicles.ide"
+          "sha256": "c72beb30315e210aa49d02e5a0c7feef92315f2d1bf1d599795919ab1075ae51",
+          "sizeBytes": 21081,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v59-vehicle-names/c72beb30315e210aa49d02e5a0c7feef92315f2d1bf1d599795919ab1075ae51-vehicles.ide"
         },
         {
           "path": "data/water.dat",
@@ -18335,33 +18335,33 @@
         },
         {
           "path": "text/american.gxt",
-          "sha256": "4bfe45b83588d5a38948db67786d0bf1d73749af7fb6047da6e6306469d5b449",
-          "sizeBytes": 740239,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v55-vehicles-bikes-41531c07/4bfe45b83588d5a38948db67786d0bf1d73749af7fb6047da6e6306469d5b449-american.gxt"
+          "sha256": "618172eaf617310b4567027964541f9d74392ec8ed10396173b939fb6437b9ee",
+          "sizeBytes": 741799,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v59-vehicle-names/618172eaf617310b4567027964541f9d74392ec8ed10396173b939fb6437b9ee-american.gxt"
         },
         {
           "path": "text/french.gxt",
-          "sha256": "cba90233676c4c81df2571dbf631b599aa66e49d32e2bc874a7c57e06e9bea6b",
-          "sizeBytes": 800956,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v55-vehicles-bikes-41531c07/cba90233676c4c81df2571dbf631b599aa66e49d32e2bc874a7c57e06e9bea6b-french.gxt"
+          "sha256": "8ab7359b8117f6f2def2c149dd0db77fcb15500a6b62320b9b5ed6b6ad854259",
+          "sizeBytes": 802516,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v59-vehicle-names/8ab7359b8117f6f2def2c149dd0db77fcb15500a6b62320b9b5ed6b6ad854259-french.gxt"
         },
         {
           "path": "text/german.gxt",
-          "sha256": "770134eee045cd506f41c72b9d1f70a72d8976076dee3bf207ea3d34cca63bf0",
-          "sizeBytes": 814918,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v55-vehicles-bikes-41531c07/770134eee045cd506f41c72b9d1f70a72d8976076dee3bf207ea3d34cca63bf0-german.gxt"
+          "sha256": "1083ad690253e49b92cb1fb89506dd9a961d15133154d497dbb0762d9af72b9a",
+          "sizeBytes": 816478,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v59-vehicle-names/1083ad690253e49b92cb1fb89506dd9a961d15133154d497dbb0762d9af72b9a-german.gxt"
         },
         {
           "path": "text/italian.gxt",
-          "sha256": "e1937817e73307b92ac5537c3103d211a441341b74465e0208847345d8976cc2",
-          "sizeBytes": 753361,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v55-vehicles-bikes-41531c07/e1937817e73307b92ac5537c3103d211a441341b74465e0208847345d8976cc2-italian.gxt"
+          "sha256": "da73f7b4fdae5984445b5b52db3c4f298797e9f1bb4f6943a5f86708576f6864",
+          "sizeBytes": 754921,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v59-vehicle-names/da73f7b4fdae5984445b5b52db3c4f298797e9f1bb4f6943a5f86708576f6864-italian.gxt"
         },
         {
           "path": "text/spanish.gxt",
-          "sha256": "4bfe45b83588d5a38948db67786d0bf1d73749af7fb6047da6e6306469d5b449",
-          "sizeBytes": 740239,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v55-vehicles-bikes-41531c07/4bfe45b83588d5a38948db67786d0bf1d73749af7fb6047da6e6306469d5b449-spanish.gxt"
+          "sha256": "618172eaf617310b4567027964541f9d74392ec8ed10396173b939fb6437b9ee",
+          "sizeBytes": 741799,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v59-vehicle-names/618172eaf617310b4567027964541f9d74392ec8ed10396173b939fb6437b9ee-spanish.gxt"
         },
         {
           "path": "vorbis.dll",
@@ -20512,9 +20512,9 @@
         "modloader/NOVA-PLACAS/stafford.txd"
       ],
       "mods": [],
-      "totalBytes": 2015305623,
-      "publishedAt": "2026-11-17T00:00:27.611Z",
-      "notes": "Telefone, notificacoes, blindagens, tracao de caminhoes/motos e protecao de componentes ausentes."
+      "totalBytes": 2015313430,
+      "publishedAt": "2026-11-17T13:46:33.926Z",
+      "notes": "Nomes reais dos 77 veiculos com mods; arquivos de idioma e menus sincronizados."
     }
   },
   "minimumGameBuild": 196,
