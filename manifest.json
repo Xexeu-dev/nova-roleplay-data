@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 36,
-  "updatedAt": "2026-11-17T00:00:27.611Z",
+  "dataVersion": 37,
+  "updatedAt": "2026-11-17T06:07:11.771Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -3394,13 +3394,13 @@
     {
       "path": "SAMP/vehicles.ide",
       "sizeBytes": 21077,
-      "sha256": "ba1f1ce26c12b13a150fe7d257884dac515b5615c97402e2a164aebd1acb6b31",
+      "sha256": "975c6eef42f2f3e73f436098d8bb75313f34e607daa83834b574898150063d28",
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v12-sync-0ae4ee9e/NOVA-DATA-v12-sync.zip",
-        "start": 2857268,
-        "sizeBytes": 5935,
-        "archiveSizeBytes": 2894718,
-        "compression": 8
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v37-samp-bike-poses/NOVA-SAMP-BIKES-v37.zip",
+        "start": 47,
+        "sizeBytes": 5885,
+        "compression": 8,
+        "archiveSizeBytes": 6017
       }
     },
     {
@@ -20517,11 +20517,11 @@
       "notes": "Telefone, notificacoes, blindagens, tracao de caminhoes/motos e protecao de componentes ausentes."
     }
   },
-  "minimumGameBuild": 195,
+  "minimumGameBuild": 196,
   "fileSyncSchema": 1,
   "mobileMods": {
     "schemaVersion": 1,
-    "version": 36,
+    "version": 37,
     "models": [
       {
         "name": "wheel_gn1.dff",
