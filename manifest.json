@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 35,
-  "updatedAt": "2026-11-16T17:26:58.270955+00:00",
+  "dataVersion": 36,
+  "updatedAt": "2026-11-17T00:00:27.611Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -319,19 +319,28 @@
       "sha256": "8a2cf61814f7535af752b304ba6ccc3fd5113e0467ffe09be9eeb9bc321f19ee",
       "sizeBytes": 385217041,
       "deletes": []
+    },
+    {
+      "kind": "package",
+      "version": 36,
+      "fromVersion": 35,
+      "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v36-bike-poses/NOVA-DATA-v36-bike-poses.zip",
+      "sha256": "be28ccf22cf90827086efabd781ea0c6c9f6000167951a736efde2cb0d5dda22",
+      "sizeBytes": 5551527,
+      "deletes": []
     }
   ],
   "files": [
     {
       "path": "anim/anim.img",
-      "sha256": "59c28c16a6e3629c15cf95c27d66fb0e9f8a6836422c81953f0b8908fc7cfaf8",
-      "sizeBytes": 10962944,
+      "sha256": "1a2effa6f69f47ae6e923bdced2158ac5d8ebd50af9c1eafa636d17a5e73d7d8",
+      "sizeBytes": 10964992,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v34-vehicles-bikes-41531c07/NOVA-DATA-v34-vehicles-bikes.zip",
-        "start": 466023292,
-        "sizeBytes": 5545230,
-        "archiveSizeBytes": 477307393,
-        "compression": 8
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v36-bike-poses/NOVA-DATA-v36-bike-poses.zip",
+        "start": 43,
+        "sizeBytes": 5545341,
+        "compression": 8,
+        "archiveSizeBytes": 5551527
       }
     },
     {
@@ -3000,14 +3009,14 @@
     },
     {
       "path": "data/vehicles.ide",
-      "sha256": "36a64c491ade7283d931c16256a6fe9b6c6914c922bd71a98dd3370377aa8a16",
-      "sizeBytes": 21071,
+      "sha256": "cfecf0ef82825c816dac04819764e82cd42da41d21e9014ca9c023abed0802f1",
+      "sizeBytes": 21074,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v34-vehicles-bikes-41531c07/NOVA-DATA-v34-vehicles-bikes.zip",
-        "start": 466017310,
-        "sizeBytes": 5939,
-        "archiveSizeBytes": 477307393,
-        "compression": 8
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v36-bike-poses/NOVA-DATA-v36-bike-poses.zip",
+        "start": 5545431,
+        "sizeBytes": 5952,
+        "compression": 8,
+        "archiveSizeBytes": 5551527
       }
     },
     {
@@ -5148,9 +5157,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 57,
-      "publicationId": "1191858a-7b29-4722-9f29-2cc5cc83018d",
-      "updatedAt": "2026-11-16T17:26:58.270955+00:00",
+      "dataVersion": 58,
+      "publicationId": "pc-data-v58-phone-injury-tuning",
+      "updatedAt": "2026-11-17T00:00:27.611Z",
       "distributionMode": "official",
       "files": [
         {
@@ -5414,7 +5423,7 @@
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v5-7d812a00/ad0b170d940213097ec196c644b42e798960c7da01e5645b45c7250fc2874e46-Read_Me.txt"
         },
         {
-          "path": "CREDITOS-MODS/porsche/crÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©ditos.txt",
+          "path": "CREDITOS-MODS/porsche/crÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â©ditos.txt",
           "sizeBytes": 106,
           "sha256": "07b85c7350c8783b0b0cd10072fd042653ea5e1dda7d7afaabd46a99a2e572fb",
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v4-d7210caf/07b85c7350c8783b0b0cd10072fd042653ea5e1dda7d7afaabd46a99a2e572fb-cr_ditos.txt"
@@ -7077,9 +7086,9 @@
         },
         {
           "path": "data/vehicles.ide",
-          "sha256": "36a64c491ade7283d931c16256a6fe9b6c6914c922bd71a98dd3370377aa8a16",
-          "sizeBytes": 21071,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v55-vehicles-bikes-41531c07/36a64c491ade7283d931c16256a6fe9b6c6914c922bd71a98dd3370377aa8a16-vehicles.ide"
+          "sha256": "cfecf0ef82825c816dac04819764e82cd42da41d21e9014ca9c023abed0802f1",
+          "sizeBytes": 21074,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v58-phone-injury-tuning/cfecf0ef82825c816dac04819764e82cd42da41d21e9014ca9c023abed0802f1-vehicles.ide"
         },
         {
           "path": "data/water.dat",
@@ -18111,9 +18120,9 @@
         },
         {
           "path": "MoonLoader/NOVA-Phone.lua",
-          "sha256": "6319b093aa2b9c1afd2637acc0e22821070788385a0a5390ee14647040e4080b",
-          "sizeBytes": 21256,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-41-correcoes-20261113/6319b093aa2b9c1afd2637acc0e22821070788385a0a5390ee14647040e4080b-NOVA-Phone.lua"
+          "sha256": "a496f29fc3e4b09e61a39553ae2f5bc165c8942202812fd6baa39c04e87274fc",
+          "sizeBytes": 21800,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v58-phone-injury-tuning/a496f29fc3e4b09e61a39553ae2f5bc165c8942202812fd6baa39c04e87274fc-NOVA-Phone.lua"
         },
         {
           "path": "MoonLoader/NOVA-VoiceRecovery.lua",
@@ -19022,9 +19031,9 @@
         },
         {
           "path": "MoonLoader/lib/NOVA-VehiclePhysicsCore.lua",
-          "sizeBytes": 9313,
-          "sha256": "4c44f797cdefd40b308baeba4d287ae6a6fd48f8f18a1539b7b6176345ff4aeb",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/4c44f797cdefd40b308baeba4d287ae6a6fd48f8f18a1539b7b6176345ff4aeb-NOVA-VehiclePhysicsCore.lua"
+          "sha256": "9aaffc91fc932bd7ea9656c19dccc02b244e223902a8a56fd374d8ec9d3067b7",
+          "sizeBytes": 10003,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v58-phone-injury-tuning/9aaffc91fc932bd7ea9656c19dccc02b244e223902a8a56fd374d8ec9d3067b7-NOVA-VehiclePhysicsCore.lua"
         },
         {
           "path": "MoonLoader/lib/NOVA-VehicleProfiles.lua",
@@ -19532,21 +19541,33 @@
         },
         {
           "path": "modloader/NOVA-ANIMACOES/bikes.ifp",
-          "sha256": "2bdc5416a4acf566d3d14dbc32572eedd8e356fd595b96d51c189334b4bb0280",
-          "sizeBytes": 67294,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v55-vehicles-bikes-41531c07/2bdc5416a4acf566d3d14dbc32572eedd8e356fd595b96d51c189334b4bb0280-bikes.ifp"
+          "sha256": "35a719b6b5c513f714df37bc37b8276f44e9a0ee8eb07a73c9d49585f765b94d",
+          "sizeBytes": 69632,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v58-phone-injury-tuning/35a719b6b5c513f714df37bc37b8276f44e9a0ee8eb07a73c9d49585f765b94d-bikes.ifp"
         },
         {
           "path": "MoonLoader/NOVA-Hud.lua",
-          "sizeBytes": 7452,
-          "sha256": "6230ed9f1490ca940beb33853e1a91d0b773df5c28c41c71fc89f4c90c7f3bd3",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/6230ed9f1490ca940beb33853e1a91d0b773df5c28c41c71fc89f4c90c7f3bd3-NOVA-Hud.lua"
+          "sha256": "b88fd60802f528252155e3260cbc05128e121583575a94714913620f8f1f1c12",
+          "sizeBytes": 7466,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v58-phone-injury-tuning/b88fd60802f528252155e3260cbc05128e121583575a94714913620f8f1f1c12-NOVA-Hud.lua"
         },
         {
           "path": "MoonLoader/resource/nova-hud/nova-n.png",
           "sizeBytes": 64479,
           "sha256": "33c91bb159af6f7787890112c40dd69b38d6acf68e95695d5843ed49f18452e8",
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/33c91bb159af6f7787890112c40dd69b38d6acf68e95695d5843ed49f18452e8-nova-n.png"
+        },
+        {
+          "path": "MoonLoader/NOVA-FrameGuard.lua",
+          "sha256": "7fbae0acbeff340cfd0ca5938d27b5153734e62fdff2413c67b284929909f1ab",
+          "sizeBytes": 515,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v58-phone-injury-tuning/7fbae0acbeff340cfd0ca5938d27b5153734e62fdff2413c67b284929909f1ab-NOVA-FrameGuard.lua"
+        },
+        {
+          "path": "MoonLoader/lib/NOVA-FrameGuardCore.lua",
+          "sha256": "d2b38768055e62273436b81b1966ea68f9ad038f5e1d0a4a711d76536d3160a7",
+          "sizeBytes": 3855,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v58-phone-injury-tuning/d2b38768055e62273436b81b1966ea68f9ad038f5e1d0a4a711d76536d3160a7-NOVA-FrameGuardCore.lua"
         }
       ],
       "deletes": [
@@ -20019,12 +20040,12 @@
         "modloader/NOVA-OSFAIXA-VEGETACAO/arquivos.img/vgsn_nitree_r02.dff",
         "modloader/NOVA-OSFAIXA-VEGETACAO/arquivos.img/vgsn_nitree_y01.dff",
         "modloader/NOVA-OSFAIXA-VEGETACAO/arquivos.img/vgsn_nitree_y02.dff",
-        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£o/maps/country/countn2.ide",
-        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£o/maps/country/countryS.ide",
-        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£o/maps/generic/procobj.ide",
-        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£o/maps/generic/vegepart.ide",
-        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£o/maps/occluveg.ipl",
-        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£o/maps/vegas/vegaxref.ide",
+        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£o/maps/country/countn2.ide",
+        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£o/maps/country/countryS.ide",
+        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£o/maps/generic/procobj.ide",
+        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£o/maps/generic/vegepart.ide",
+        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£o/maps/occluveg.ipl",
+        "modloader/NOVA-OSFAIXA-VEGETACAO/vegetaÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£o/maps/vegas/vegaxref.ide",
         "modloader/NOVA-OSFAIXA-VEH/Dffs/admiral.dff",
         "modloader/NOVA-OSFAIXA-VEH/Dffs/alpha.dff",
         "modloader/NOVA-OSFAIXA-VEH/Dffs/ambulan.DFF",
@@ -20491,16 +20512,16 @@
         "modloader/NOVA-PLACAS/stafford.txd"
       ],
       "mods": [],
-      "totalBytes": 2015297664,
-      "publishedAt": "2026-11-16T17:26:58.270955+00:00",
-      "notes": "Nova HUD nativa azul-clara: fome, sede, sono, logo N e velocimetro por proporcao de velocidade; suspensao e alinhamento das rodas."
+      "totalBytes": 2015305623,
+      "publishedAt": "2026-11-17T00:00:27.611Z",
+      "notes": "Telefone, notificacoes, blindagens, tracao de caminhoes/motos e protecao de componentes ausentes."
     }
   },
-  "minimumGameBuild": 189,
+  "minimumGameBuild": 195,
   "fileSyncSchema": 1,
   "mobileMods": {
     "schemaVersion": 1,
-    "version": 35,
+    "version": 36,
     "models": [
       {
         "name": "wheel_gn1.dff",
@@ -22932,14 +22953,14 @@
     "animations": [
       {
         "name": "bikes.ifp",
-        "sha256": "2246f699d49415291ca27d11f17392dd6ab5df2c5a3924661a72c712708de022",
-        "sizeBytes": 67584,
+        "sha256": "35a719b6b5c513f714df37bc37b8276f44e9a0ee8eb07a73c9d49585f765b94d",
+        "sizeBytes": 69632,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v34-a9b44c63/NOVA-ANDROID-MODS-v34.zip",
-          "start": 130025839,
-          "sizeBytes": 30273,
-          "archiveSizeBytes": 130057082,
-          "compression": 8
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v36-bike-poses/NOVA-ANIM-v36-bike-poses.zip",
+          "start": 50,
+          "sizeBytes": 30513,
+          "compression": 8,
+          "archiveSizeBytes": 30651
         }
       }
     ]
