@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "dataVersion": 40,
-  "updatedAt": "2026-11-18T04:13:51.321Z",
+  "updatedAt": "2026-11-18T05:30:02.558Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -4417,9 +4417,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 60,
-      "publicationId": "a10bf766-034e-453e-bad4-b285c82784b5",
-      "updatedAt": "2026-11-18T04:13:51.321Z",
+      "dataVersion": 61,
+      "publicationId": "a55b9ef4-56f2-4c9a-85d5-f07f39f261fc",
+      "updatedAt": "2026-11-18T05:30:02.558Z",
       "distributionMode": "official",
       "files": [
         {
@@ -18333,15 +18333,15 @@
         },
         {
           "path": "MoonLoader/NOVA-AudioRecovery.lua",
-          "sha256": "9c3d247ba59a5758c4ff63484141caceb3de7919d453489f147559ce3198e882",
-          "sizeBytes": 1214,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v31-audio-cores-e63c84b8/9c3d247ba59a5758c4ff63484141caceb3de7919d453489f147559ce3198e882-NOVA-AudioRecovery.lua"
+          "sha256": "97ebde654fbf973bcbda7358857c4e05f9b3e79349f7ab0a0e7593c6fc25b44f",
+          "sizeBytes": 3048,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v61-audio-recovery/97ebde654fbf973bcbda7358857c4e05f9b3e79349f7ab0a0e7593c6fc25b44f-NOVA-AudioRecovery.lua"
         },
         {
           "path": "MoonLoader/NOVA-VehicleAudio.lua",
-          "sha256": "c39cb897a6786c1c6e70f1759842eee8e5bec06030d62223d14b33cba45a9295",
-          "sizeBytes": 15097,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v32-audio-20261111/c39cb897a6786c1c6e70f1759842eee8e5bec06030d62223d14b33cba45a9295-NOVA-VehicleAudio.lua"
+          "sha256": "7f5c00f139551544e8c9d65ee784d93b4fd488f78faab4fea53b1917d54ae92b",
+          "sizeBytes": 14309,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v61-audio-recovery/7f5c00f139551544e8c9d65ee784d93b4fd488f78faab4fea53b1917d54ae92b-NOVA-VehicleAudio.lua"
         },
         {
           "path": "chat.asi",
@@ -19784,9 +19784,9 @@
         "modloader/NOVA-PLACAS/stafford.txd"
       ],
       "mods": [],
-      "totalBytes": 2017109486,
-      "publishedAt": "2026-11-18T04:13:51.321Z",
-      "notes": "Mira centralizada, recuperação de áudio do VOIP e ajustes de tração e aceleração. Uniforme feminino no ID 199."
+      "totalBytes": 2017110532,
+      "publishedAt": "2026-11-18T05:30:02.558Z",
+      "notes": "Recupera??o de ?udio do GTA no Windows. Perfis de motor dos 77 ve?culos modificados."
     }
   },
   "minimumGameBuild": 196,
