@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 40,
-  "updatedAt": "2026-11-18T05:30:02.558Z",
+  "dataVersion": 41,
+  "updatedAt": "2026-11-18T18:37:22.070Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -336,6 +336,15 @@
       "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v40-prison-uniform/NOVA-DATA-v40-prison-uniform.zip",
       "sha256": "1c9a7367e334d759681022ed1d6aad630ba7a46463d9a5665c38def4c39003b5",
       "sizeBytes": 473217500,
+      "deletes": []
+    },
+    {
+      "kind": "package",
+      "version": 41,
+      "fromVersion": 40,
+      "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v41-rodas-hq/NOVA-DATA-v41-rodas-hq.zip",
+      "sha256": "6f9b2789edfb37e9ed53b336e7e49588165e7b993e7d3fb8dc058e56d4532251",
+      "sizeBytes": 472353706,
       "deletes": []
     }
   ],
@@ -3504,13 +3513,13 @@
     },
     {
       "path": "texdb/gta3.img",
-      "sizeBytes": 881117184,
-      "sha256": "473d04e7f9b57123d1339f84b82a7f54d3889f2a94257cf7caaa5ac6c60c6f8c",
+      "sha256": "c305d50c15936c005a80cf5adb3cf61d99b57b55a2efb910263994c99055e742",
+      "sizeBytes": 883914752,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v40-prison-uniform/NOVA-DATA-v40-prison-uniform.zip",
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v41-rodas-hq/NOVA-DATA-v41-rodas-hq.zip",
         "start": 44,
-        "sizeBytes": 387655191,
-        "archiveSizeBytes": 473217500,
+        "sizeBytes": 386902188,
+        "archiveSizeBytes": 472353706,
         "compression": 8
       }
     },
@@ -4272,49 +4281,49 @@
     },
     {
       "path": "texdb/nova_mods/nova_mods.txt",
-      "sizeBytes": 130249,
-      "sha256": "f6d9bf66762dbdc9d3cbb9ba1188cd5d6d4a4ff7d126006f2650f1f4764bd18e",
+      "sha256": "038a22b7605f04dc0765b21d12c33592332ddf3c4360efdaf4a6cdc5a72a24dd",
+      "sizeBytes": 132605,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v40-prison-uniform/NOVA-DATA-v40-prison-uniform.zip",
-        "start": 473193037,
-        "sizeBytes": 24069,
-        "archiveSizeBytes": 473217500,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v41-rodas-hq/NOVA-DATA-v41-rodas-hq.zip",
+        "start": 386902291,
+        "sizeBytes": 23640,
+        "archiveSizeBytes": 472353706,
         "compression": 8
       }
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.dat",
-      "sizeBytes": 495834266,
-      "sha256": "885957870823b392f5cdaf493cd2f851074ceb233b73a435b8a9e188a4cdf16c",
+      "sha256": "82b36429fd558a14d19aea100b6758da390cf504fac03a32582b17b853cb96ba",
+      "sizeBytes": 501907744,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v40-prison-uniform/NOVA-DATA-v40-prison-uniform.zip",
-        "start": 387655298,
-        "sizeBytes": 85520466,
-        "archiveSizeBytes": 473217500,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v41-rodas-hq/NOVA-DATA-v41-rodas-hq.zip",
+        "start": 386925994,
+        "sizeBytes": 85409842,
+        "archiveSizeBytes": 472353706,
         "compression": 8
       }
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.tmb",
-      "sizeBytes": 32780,
-      "sha256": "aca650e1de530cf956bedaa57cecfb39164cd5c1f6c20a2f59acf1623d7f491d",
+      "sha256": "dbe24930f677a85aef99888ea64669b64aed66f47c1a1031b4b8bca59934d7ff",
+      "sizeBytes": 33400,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v40-prison-uniform/NOVA-DATA-v40-prison-uniform.zip",
-        "start": 473175827,
-        "sizeBytes": 10789,
-        "archiveSizeBytes": 473217500,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v41-rodas-hq/NOVA-DATA-v41-rodas-hq.zip",
+        "start": 472342384,
+        "sizeBytes": 10928,
+        "archiveSizeBytes": 472353706,
         "compression": 8
       }
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.toc",
-      "sizeBytes": 6560,
-      "sha256": "46c7a1e1338a874fc945e777f0451e4016b12f6e0fd44de8635939a3ab706572",
+      "sha256": "9bf65c8d4da0a2e2abf42cbbb1b97166295db97d046bc62fc6d8268ab5864511",
+      "sizeBytes": 6684,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v40-prison-uniform/NOVA-DATA-v40-prison-uniform.zip",
-        "start": 473186679,
-        "sizeBytes": 6299,
-        "archiveSizeBytes": 473217500,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v41-rodas-hq/NOVA-DATA-v41-rodas-hq.zip",
+        "start": 472335899,
+        "sizeBytes": 6422,
+        "archiveSizeBytes": 472353706,
         "compression": 8
       }
     },
@@ -19793,7 +19802,7 @@
   "fileSyncSchema": 1,
   "mobileMods": {
     "schemaVersion": 1,
-    "version": 38,
+    "version": 39,
     "models": [
       {
         "name": "admiral.dff",
@@ -21909,205 +21918,205 @@
       },
       {
         "name": "wheel_gn1.dff",
-        "sizeBytes": 6144,
-        "sha256": "c468200609410e02bc864200da138204490380d1f3b7a38c62e8a9e222232b44",
+        "sha256": "f3a4f0e28b650f14a1b9c24c6b6bb7cff7ce49f2b02f1e9c3d2c15c6c64dcea2",
+        "sizeBytes": 122880,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 43,
-          "sizeBytes": 2409,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v39-rodas-hq/NOVA-ANDROID-MODS-v39.zip",
+          "start": 50,
+          "sizeBytes": 40870,
+          "archiveSizeBytes": 1005297,
           "compression": 8
         }
       },
       {
         "name": "wheel_gn2.dff",
-        "sizeBytes": 8192,
-        "sha256": "c4407f65a72da0cfc07dffd3e6f298ab5765e6e9ed2e73464066e943bf9bb054",
+        "sha256": "20048a9dc003d21a2bbb21684a754913c6ca1abf3ba49b7bb265d6da2f15ea39",
+        "sizeBytes": 141312,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 2495,
-          "sizeBytes": 2996,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v39-rodas-hq/NOVA-ANDROID-MODS-v39.zip",
+          "start": 40970,
+          "sizeBytes": 45780,
+          "archiveSizeBytes": 1005297,
           "compression": 8
         }
       },
       {
         "name": "wheel_gn3.dff",
-        "sizeBytes": 8192,
-        "sha256": "cace9c4dcc918eeefadda8bb9e79ba0705103b8699fa3960cf81e4a3e07c58c4",
+        "sha256": "50aace4196285b99322abb877e40282039fd73c932583e5b3b78cb1198085d1f",
+        "sizeBytes": 129024,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 5534,
-          "sizeBytes": 2903,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v39-rodas-hq/NOVA-ANDROID-MODS-v39.zip",
+          "start": 86800,
+          "sizeBytes": 46105,
+          "archiveSizeBytes": 1005297,
           "compression": 8
         }
       },
       {
         "name": "wheel_gn4.dff",
-        "sizeBytes": 8192,
-        "sha256": "2f26ec54226a4cadc2d1ca375d96d08b27a70b5f25734da57667b29aec12ad7b",
+        "sha256": "a6aa5cfa532c1d909b7b5422d9f523fb39df35d74afe22169af6e5e34072fa4a",
+        "sizeBytes": 133120,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 8480,
-          "sizeBytes": 3328,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v39-rodas-hq/NOVA-ANDROID-MODS-v39.zip",
+          "start": 132955,
+          "sizeBytes": 47464,
+          "archiveSizeBytes": 1005297,
           "compression": 8
         }
       },
       {
         "name": "wheel_gn5.dff",
-        "sizeBytes": 10240,
-        "sha256": "de2b45c1f5749fd7909fc77e69b09a7fe2ef2a19dbd9e55dd1ee8349a288624b",
+        "sha256": "778820eca93c27ed3e63a942d76b7576bc0b2a3dbfb538e38b2df653fbdd85f2",
+        "sizeBytes": 151552,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 11851,
-          "sizeBytes": 3819,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v39-rodas-hq/NOVA-ANDROID-MODS-v39.zip",
+          "start": 180469,
+          "sizeBytes": 52348,
+          "archiveSizeBytes": 1005297,
           "compression": 8
         }
       },
       {
         "name": "wheel_lr1.dff",
-        "sizeBytes": 12288,
-        "sha256": "022afd3da4d018dd5bb27a201693ab501193fe6a66abd1e1b8f1d329684830a8",
+        "sha256": "9ebe25bd0a986083ea667c1d1ab120084b9dd7a9892c9d3a408990a4fad3c8f1",
+        "sizeBytes": 147456,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 15713,
-          "sizeBytes": 4946,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v39-rodas-hq/NOVA-ANDROID-MODS-v39.zip",
+          "start": 232867,
+          "sizeBytes": 51858,
+          "archiveSizeBytes": 1005297,
           "compression": 8
         }
       },
       {
         "name": "wheel_lr2.dff",
-        "sizeBytes": 8192,
-        "sha256": "25d40a8cf4f2c19217678f1c742b044bda564fcef6a13eeba5bdb97133652aba",
+        "sha256": "058376a2df37898361c96b966034991854cab25416c5634ee3af1ed8544180b6",
+        "sizeBytes": 129024,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 20702,
-          "sizeBytes": 3184,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v39-rodas-hq/NOVA-ANDROID-MODS-v39.zip",
+          "start": 284775,
+          "sizeBytes": 46690,
+          "archiveSizeBytes": 1005297,
           "compression": 8
         }
       },
       {
         "name": "wheel_lr3.dff",
-        "sizeBytes": 8192,
-        "sha256": "4c3de9472c431148e5c9adbb1a819440cf0e89b056acb3c026f0ab91d21c29c3",
+        "sha256": "5275c4b0fe4ffdf5555293a0cf8eaa838e675dcb054612a49ddbad9f0848e8fc",
+        "sizeBytes": 116736,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 23929,
-          "sizeBytes": 3611,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v39-rodas-hq/NOVA-ANDROID-MODS-v39.zip",
+          "start": 331515,
+          "sizeBytes": 39868,
+          "archiveSizeBytes": 1005297,
           "compression": 8
         }
       },
       {
         "name": "wheel_lr4.dff",
-        "sizeBytes": 8192,
-        "sha256": "be87048f31ffbd830653c6a9a180e4fe2a7f48d6f203b56352b330eda8c5e809",
+        "sha256": "2d27a2f4f6773e369d427ba9549a06eb541b8c23a9be14833c69549f10848e53",
+        "sizeBytes": 116736,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 27583,
-          "sizeBytes": 3583,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v39-rodas-hq/NOVA-ANDROID-MODS-v39.zip",
+          "start": 371433,
+          "sizeBytes": 39968,
+          "archiveSizeBytes": 1005297,
           "compression": 8
         }
       },
       {
         "name": "wheel_lr5.dff",
-        "sizeBytes": 10240,
-        "sha256": "7a06acba69a903644ce9f3b6b75809260d424d4b5a639c88e6b76094c7537aac",
+        "sha256": "f5ef80b59758ea430f0350cd3de62fb909977963d8965075f5da0021a6c971e6",
+        "sizeBytes": 210944,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 31209,
-          "sizeBytes": 4252,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v39-rodas-hq/NOVA-ANDROID-MODS-v39.zip",
+          "start": 411451,
+          "sizeBytes": 76998,
+          "archiveSizeBytes": 1005297,
           "compression": 8
         }
       },
       {
         "name": "wheel_or1.dff",
-        "sizeBytes": 6144,
-        "sha256": "9b1fc361193b327d4dff67c212bfc25ffeeee63c2881ba77af075f852cb87adc",
+        "sha256": "9e3930ab908f6feae98656f81be334e6dd447c894919d223f78aad20f6ea1b01",
+        "sizeBytes": 471040,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 35504,
-          "sizeBytes": 2473,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v39-rodas-hq/NOVA-ANDROID-MODS-v39.zip",
+          "start": 488499,
+          "sizeBytes": 142370,
+          "archiveSizeBytes": 1005297,
           "compression": 8
         }
       },
       {
         "name": "wheel_sr1.dff",
-        "sizeBytes": 12288,
-        "sha256": "6b74a535841eafb0483378a0ace6ffcd86f055f8525a2ddf76ea6931b3f17714",
+        "sha256": "ae201e5f0142de62b5a420574344143daf1f47ea8e00ca81e32e2dc98feba912",
+        "sizeBytes": 165888,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 38020,
-          "sizeBytes": 4690,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v39-rodas-hq/NOVA-ANDROID-MODS-v39.zip",
+          "start": 630919,
+          "sizeBytes": 59021,
+          "archiveSizeBytes": 1005297,
           "compression": 8
         }
       },
       {
         "name": "wheel_sr2.dff",
-        "sizeBytes": 8192,
-        "sha256": "4faab0592711ebffb78371d61de07498cd31511ad32585b7f1e6bdbeb13f7bd7",
+        "sha256": "c20dcdec940a05677f49ef290fde0be6d9ae7be06bdef3344c34583fd27a44d2",
+        "sizeBytes": 212992,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 42753,
-          "sizeBytes": 3134,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v39-rodas-hq/NOVA-ANDROID-MODS-v39.zip",
+          "start": 689990,
+          "sizeBytes": 73289,
+          "archiveSizeBytes": 1005297,
           "compression": 8
         }
       },
       {
         "name": "wheel_sr3.dff",
-        "sizeBytes": 8192,
-        "sha256": "dfe836f335ab452a8945875f081aaa029226926fa40aee9320e8be5b6821c868",
+        "sha256": "806f0d8e6ec7248a6e2bf8fe1723993198c135ac857836acce2b610339ad43a1",
+        "sizeBytes": 155648,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 45930,
-          "sizeBytes": 3657,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v39-rodas-hq/NOVA-ANDROID-MODS-v39.zip",
+          "start": 763329,
+          "sizeBytes": 52034,
+          "archiveSizeBytes": 1005297,
           "compression": 8
         }
       },
       {
         "name": "wheel_sr4.dff",
-        "sizeBytes": 6144,
-        "sha256": "bbad691044779a669df100978c0c24e48dc340e3fe67086fb2168618aade656d",
+        "sha256": "3349447635fe30124b86ac114ed4ee79f813f2de082515c19a6ed0573aa6764b",
+        "sizeBytes": 225280,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 49630,
-          "sizeBytes": 2722,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v39-rodas-hq/NOVA-ANDROID-MODS-v39.zip",
+          "start": 815413,
+          "sizeBytes": 80464,
+          "archiveSizeBytes": 1005297,
           "compression": 8
         }
       },
       {
         "name": "wheel_sr5.dff",
-        "sizeBytes": 8192,
-        "sha256": "f65a1f7e549059a69238bed9aa86f3ff7cc7e739ff02fe2c62b20c5116fda033",
+        "sha256": "3f4d4f29aa49d1f6d9c5ca6b0e8c84bd46cdd4d844c0d2caf859dcf653325681",
+        "sizeBytes": 155648,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 52395,
-          "sizeBytes": 3661,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v39-rodas-hq/NOVA-ANDROID-MODS-v39.zip",
+          "start": 895927,
+          "sizeBytes": 58265,
+          "archiveSizeBytes": 1005297,
           "compression": 8
         }
       },
       {
         "name": "wheel_sr6.dff",
-        "sizeBytes": 8192,
-        "sha256": "12e00b4f644edcada78a5ce603987319c487c235c1ddd62a8d96fb7a1f19b491",
+        "sha256": "2358a68f03447e03a064523f1863fdb37bdec358cd85523b98c4880cec311c25",
+        "sizeBytes": 157696,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 56099,
-          "sizeBytes": 4164,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v39-rodas-hq/NOVA-ANDROID-MODS-v39.zip",
+          "start": 954242,
+          "sizeBytes": 49911,
+          "archiveSizeBytes": 1005297,
           "compression": 8
         }
       },
@@ -22187,49 +22196,49 @@
     "files": [
       {
         "path": "texdb/nova_mods/nova_mods.txt",
-        "sizeBytes": 130249,
-        "sha256": "f6d9bf66762dbdc9d3cbb9ba1188cd5d6d4a4ff7d126006f2650f1f4764bd18e",
+        "sizeBytes": 132605,
+        "sha256": "038a22b7605f04dc0765b21d12c33592332ddf3c4360efdaf4a6cdc5a72a24dd",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v40-prison-uniform/NOVA-DATA-v40-prison-uniform.zip",
-          "start": 473193037,
-          "sizeBytes": 24069,
-          "archiveSizeBytes": 473217500,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v41-rodas-hq/NOVA-DATA-v41-rodas-hq.zip",
+          "start": 386902291,
+          "sizeBytes": 23640,
+          "archiveSizeBytes": 472353706,
           "compression": 8
         }
       },
       {
         "path": "texdb/nova_mods/nova_mods.etc.dat",
-        "sizeBytes": 495834266,
-        "sha256": "885957870823b392f5cdaf493cd2f851074ceb233b73a435b8a9e188a4cdf16c",
+        "sizeBytes": 501907744,
+        "sha256": "82b36429fd558a14d19aea100b6758da390cf504fac03a32582b17b853cb96ba",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v40-prison-uniform/NOVA-DATA-v40-prison-uniform.zip",
-          "start": 387655298,
-          "sizeBytes": 85520466,
-          "archiveSizeBytes": 473217500,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v41-rodas-hq/NOVA-DATA-v41-rodas-hq.zip",
+          "start": 386925994,
+          "sizeBytes": 85409842,
+          "archiveSizeBytes": 472353706,
           "compression": 8
         }
       },
       {
         "path": "texdb/nova_mods/nova_mods.etc.toc",
-        "sizeBytes": 6560,
-        "sha256": "46c7a1e1338a874fc945e777f0451e4016b12f6e0fd44de8635939a3ab706572",
+        "sizeBytes": 6684,
+        "sha256": "9bf65c8d4da0a2e2abf42cbbb1b97166295db97d046bc62fc6d8268ab5864511",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v40-prison-uniform/NOVA-DATA-v40-prison-uniform.zip",
-          "start": 473186679,
-          "sizeBytes": 6299,
-          "archiveSizeBytes": 473217500,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v41-rodas-hq/NOVA-DATA-v41-rodas-hq.zip",
+          "start": 472335899,
+          "sizeBytes": 6422,
+          "archiveSizeBytes": 472353706,
           "compression": 8
         }
       },
       {
         "path": "texdb/nova_mods/nova_mods.etc.tmb",
-        "sizeBytes": 32780,
-        "sha256": "aca650e1de530cf956bedaa57cecfb39164cd5c1f6c20a2f59acf1623d7f491d",
+        "sizeBytes": 33400,
+        "sha256": "dbe24930f677a85aef99888ea64669b64aed66f47c1a1031b4b8bca59934d7ff",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v40-prison-uniform/NOVA-DATA-v40-prison-uniform.zip",
-          "start": 473175827,
-          "sizeBytes": 10789,
-          "archiveSizeBytes": 473217500,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v41-rodas-hq/NOVA-DATA-v41-rodas-hq.zip",
+          "start": 472342384,
+          "sizeBytes": 10928,
+          "archiveSizeBytes": 472353706,
           "compression": 8
         }
       }
