@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "dataVersion": 42,
-  "updatedAt": "2026-11-19T05:44:48.374Z",
+  "updatedAt": "2026-11-19T06:07:04.855Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -3506,6 +3506,143 @@
         "sizeBytes": 412512313,
         "archiveSizeBytes": 508045840,
         "compression": 8
+      },
+      "modelDelta": {
+        "fromSha256": "c305d50c15936c005a80cf5adb3cf61d99b57b55a2efb910263994c99055e742",
+        "models": [
+          {
+            "name": "gungrl3.dff",
+            "sizeBytes": 2310144,
+            "sha256": "f32104dbf5a32cc92c6a7618f2abcfb78c7505b32a87f7330709e88949a840ba",
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-incremental/NOVA-DATA-v42-incremental.zip",
+              "start": 48,
+              "sizeBytes": 1363976,
+              "archiveSizeBytes": 22888808,
+              "compression": 8
+            }
+          },
+          {
+            "name": "mecgrl3.dff",
+            "sizeBytes": 4052992,
+            "sha256": "0413d8aef6a743835a09d3ca60f804ef4a3fd49e583022f183812ea38994e45b",
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-incremental/NOVA-DATA-v42-incremental.zip",
+              "start": 1364072,
+              "sizeBytes": 2094748,
+              "archiveSizeBytes": 22888808,
+              "compression": 8
+            }
+          },
+          {
+            "name": "omyst.dff",
+            "sizeBytes": 2654208,
+            "sha256": "391a1549ce81bbbab582170b75f049327e7f7b7989f6cbf8db9c7194f1e42a7e",
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-incremental/NOVA-DATA-v42-incremental.zip",
+              "start": 3458866,
+              "sizeBytes": 1088934,
+              "archiveSizeBytes": 22888808,
+              "compression": 8
+            }
+          },
+          {
+            "name": "sbfyst.dff",
+            "sizeBytes": 2021376,
+            "sha256": "67c39247456f6c90683f76acb7338787ea3d71e1d15d739fdb0745acf91e71d9",
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-incremental/NOVA-DATA-v42-incremental.zip",
+              "start": 4547847,
+              "sizeBytes": 1063764,
+              "archiveSizeBytes": 22888808,
+              "compression": 8
+            }
+          },
+          {
+            "name": "vmaff1.dff",
+            "sizeBytes": 1462272,
+            "sha256": "cac4abd532d77a60360aed90d8b7f49c88128de4a2c19d57c05d870f7070fc87",
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-incremental/NOVA-DATA-v42-incremental.zip",
+              "start": 5611658,
+              "sizeBytes": 678575,
+              "archiveSizeBytes": 22888808,
+              "compression": 8
+            }
+          },
+          {
+            "name": "wfystew.dff",
+            "sizeBytes": 3622912,
+            "sha256": "767dcf7ca334ff9e392e89b80069189d2cbf7fe7c21f21305613100141a128d5",
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-incremental/NOVA-DATA-v42-incremental.zip",
+              "start": 6290281,
+              "sizeBytes": 1950357,
+              "archiveSizeBytes": 22888808,
+              "compression": 8
+            }
+          },
+          {
+            "name": "wmomib.dff",
+            "sizeBytes": 1316864,
+            "sha256": "4fd4965328202121be6f7537788709c288172a23e157262790b0e3d362358e30",
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-incremental/NOVA-DATA-v42-incremental.zip",
+              "start": 8240685,
+              "sizeBytes": 627649,
+              "archiveSizeBytes": 22888808,
+              "compression": 8
+            }
+          },
+          {
+            "name": "wmyboun.dff",
+            "sizeBytes": 1028096,
+            "sha256": "fc391cb303f64c85b455f760bdb759fee7003832108c1d2690fdf2eb3d0e34f2",
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-incremental/NOVA-DATA-v42-incremental.zip",
+              "start": 8868382,
+              "sizeBytes": 544888,
+              "archiveSizeBytes": 22888808,
+              "compression": 8
+            }
+          },
+          {
+            "name": "primo.dff",
+            "sizeBytes": 10059776,
+            "sha256": "9cf1b6ea91650d37ab5b941de86519717139692dd19a99535814cabacf9c725c",
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-incremental/NOVA-DATA-v42-incremental.zip",
+              "start": 9413316,
+              "sizeBytes": 4494308,
+              "archiveSizeBytes": 22888808,
+              "compression": 8
+            }
+          },
+          {
+            "name": "rancher.dff",
+            "sizeBytes": 2134016,
+            "sha256": "c39dcb9e82991061516ace32cff8c0489f17c0d80cec0a405494768a7443b77f",
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-incremental/NOVA-DATA-v42-incremental.zip",
+              "start": 13907672,
+              "sizeBytes": 1170235,
+              "archiveSizeBytes": 22888808,
+              "compression": 8
+            }
+          },
+          {
+            "name": "windsor.dff",
+            "sizeBytes": 6428672,
+            "sha256": "ce56871caa60e4e0ba49d6c86d6ac389ab602942d91afd4811eed669cecb72a9",
+            "source": {
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-incremental/NOVA-DATA-v42-incremental.zip",
+              "start": 15077955,
+              "sizeBytes": 3105039,
+              "archiveSizeBytes": 22888808,
+              "compression": 8
+            }
+          }
+        ]
       }
     },
     {
@@ -4286,6 +4423,18 @@
         "sizeBytes": 95486654,
         "archiveSizeBytes": 508045840,
         "compression": 8
+      },
+      "appendDelta": {
+        "fromSizeBytes": 501907744,
+        "fromSha256": "82b36429fd558a14d19aea100b6758da390cf504fac03a32582b17b853cb96ba",
+        "sha256": "56adbaa4d030943a64b92cfdc45fa46f8f8b0b49bc9dbbba4b516afb8af425bd",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-incremental/NOVA-DATA-v42-incremental.zip",
+          "start": 18183057,
+          "sizeBytes": 4704953,
+          "archiveSizeBytes": 22888808,
+          "compression": 8
+        }
       }
     },
     {
@@ -19800,7 +19949,7 @@
   "fileSyncSchema": 1,
   "mobileMods": {
     "schemaVersion": 1,
-    "version": 40,
+    "version": 41,
     "models": [
       {
         "name": "admiral.dff",
@@ -21256,13 +21405,13 @@
       },
       {
         "name": "primo.dff",
-        "sha256": "74771e28f5f6204fa65ef294f42c84e441daec491401a2f6d76ffe0129891531",
-        "sizeBytes": 10057954,
+        "sizeBytes": 10059776,
+        "sha256": "9cf1b6ea91650d37ab5b941de86519717139692dd19a99535814cabacf9c725c",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v40-colecao-nova/NOVA-ANDROID-MODS-v40.zip",
-          "start": 10666776,
-          "sizeBytes": 4472191,
-          "archiveSizeBytes": 18260336,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-incremental/NOVA-DATA-v42-incremental.zip",
+          "start": 9413316,
+          "sizeBytes": 4494308,
+          "archiveSizeBytes": 22888808,
           "compression": 8
         }
       },
@@ -21304,13 +21453,13 @@
       },
       {
         "name": "rancher.dff",
-        "sha256": "c7b89f68466b71a271f5759cf3a5b92b45d83e12d2426e561c07ec5d6d4bab1d",
-        "sizeBytes": 2133404,
+        "sizeBytes": 2134016,
+        "sha256": "c39dcb9e82991061516ace32cff8c0489f17c0d80cec0a405494768a7443b77f",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v40-colecao-nova/NOVA-ANDROID-MODS-v40.zip",
-          "start": 9485799,
-          "sizeBytes": 1180931,
-          "archiveSizeBytes": 18260336,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-incremental/NOVA-DATA-v42-incremental.zip",
+          "start": 13907672,
+          "sizeBytes": 1170235,
+          "archiveSizeBytes": 22888808,
           "compression": 8
         }
       },
@@ -22132,13 +22281,13 @@
       },
       {
         "name": "windsor.dff",
-        "sha256": "a68c17346b372dcc4b8a2c5073f61ec476182ec9c66d30eb3b10b29d7c0c3b46",
-        "sizeBytes": 6428159,
+        "sizeBytes": 6428672,
+        "sha256": "ce56871caa60e4e0ba49d6c86d6ac389ab602942d91afd4811eed669cecb72a9",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v40-colecao-nova/NOVA-ANDROID-MODS-v40.zip",
-          "start": 15139015,
-          "sizeBytes": 3120602,
-          "archiveSizeBytes": 18260336,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-incremental/NOVA-DATA-v42-incremental.zip",
+          "start": 15077955,
+          "sizeBytes": 3105039,
+          "archiveSizeBytes": 22888808,
           "compression": 8
         }
       },
@@ -22192,97 +22341,97 @@
       },
       {
         "name": "wmyboun.dff",
-        "sha256": "ee39d9a3bb64a3bb088f1903af32b683190f0bc86b2dfdbc326d3bea11639adc",
-        "sizeBytes": 1026363,
+        "sizeBytes": 1028096,
+        "sha256": "fc391cb303f64c85b455f760bdb759fee7003832108c1d2690fdf2eb3d0e34f2",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v40-colecao-nova/NOVA-ANDROID-MODS-v40.zip",
-          "start": 48,
-          "sizeBytes": 551269,
-          "archiveSizeBytes": 18260336,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-incremental/NOVA-DATA-v42-incremental.zip",
+          "start": 8868382,
+          "sizeBytes": 544888,
+          "archiveSizeBytes": 22888808,
           "compression": 8
         }
       },
       {
         "name": "wfystew.dff",
-        "sha256": "b330a4d73b26d227224bcff69e451bf962e9b46b30e5e355c4746b1590448d57",
-        "sizeBytes": 3622156,
+        "sizeBytes": 3622912,
+        "sha256": "767dcf7ca334ff9e392e89b80069189d2cbf7fe7c21f21305613100141a128d5",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v40-colecao-nova/NOVA-ANDROID-MODS-v40.zip",
-          "start": 551365,
-          "sizeBytes": 1966322,
-          "archiveSizeBytes": 18260336,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-incremental/NOVA-DATA-v42-incremental.zip",
+          "start": 6290281,
+          "sizeBytes": 1950357,
+          "archiveSizeBytes": 22888808,
           "compression": 8
         }
       },
       {
         "name": "sbfyst.dff",
-        "sha256": "3a10f37258a3cdb5a1ec7e54b291cbe1186fd4512cafa501beada188f437fd35",
-        "sizeBytes": 2019432,
+        "sizeBytes": 2021376,
+        "sha256": "67c39247456f6c90683f76acb7338787ea3d71e1d15d739fdb0745acf91e71d9",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v40-colecao-nova/NOVA-ANDROID-MODS-v40.zip",
-          "start": 2517734,
-          "sizeBytes": 1063809,
-          "archiveSizeBytes": 18260336,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-incremental/NOVA-DATA-v42-incremental.zip",
+          "start": 4547847,
+          "sizeBytes": 1063764,
+          "archiveSizeBytes": 22888808,
           "compression": 8
         }
       },
       {
         "name": "gungrl3.dff",
-        "sha256": "e521e0008fc586b1f4eb1d1f14d480c6be5f6d28abffc6ffb99e402296b19fc2",
-        "sizeBytes": 2308200,
+        "sizeBytes": 2310144,
+        "sha256": "f32104dbf5a32cc92c6a7618f2abcfb78c7505b32a87f7330709e88949a840ba",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v40-colecao-nova/NOVA-ANDROID-MODS-v40.zip",
-          "start": 3581591,
-          "sizeBytes": 1372997,
-          "archiveSizeBytes": 18260336,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-incremental/NOVA-DATA-v42-incremental.zip",
+          "start": 48,
+          "sizeBytes": 1363976,
+          "archiveSizeBytes": 22888808,
           "compression": 8
         }
       },
       {
         "name": "mecgrl3.dff",
-        "sha256": "1f25936ccd7fd02ac4aa6c8405b23f64d859aa2be61c3fee4dd5a28a68cb1e45",
-        "sizeBytes": 4052752,
+        "sizeBytes": 4052992,
+        "sha256": "0413d8aef6a743835a09d3ca60f804ef4a3fd49e583022f183812ea38994e45b",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v40-colecao-nova/NOVA-ANDROID-MODS-v40.zip",
-          "start": 4954636,
-          "sizeBytes": 2107932,
-          "archiveSizeBytes": 18260336,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-incremental/NOVA-DATA-v42-incremental.zip",
+          "start": 1364072,
+          "sizeBytes": 2094748,
+          "archiveSizeBytes": 22888808,
           "compression": 8
         }
       },
       {
         "name": "omyst.dff",
-        "sha256": "95f6feaad80bf13d40c4d790d363d755efeea08c3c80a15af6a444307b78cea3",
-        "sizeBytes": 2654107,
+        "sizeBytes": 2654208,
+        "sha256": "391a1549ce81bbbab582170b75f049327e7f7b7989f6cbf8db9c7194f1e42a7e",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v40-colecao-nova/NOVA-ANDROID-MODS-v40.zip",
-          "start": 7062614,
-          "sizeBytes": 1102839,
-          "archiveSizeBytes": 18260336,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-incremental/NOVA-DATA-v42-incremental.zip",
+          "start": 3458866,
+          "sizeBytes": 1088934,
+          "archiveSizeBytes": 22888808,
           "compression": 8
         }
       },
       {
         "name": "vmaff1.dff",
-        "sha256": "c253075ce8e6fe24e21f6a3e39af7d296a0c205172e49d5f734d53918e875f25",
-        "sizeBytes": 1461771,
+        "sizeBytes": 1462272,
+        "sha256": "cac4abd532d77a60360aed90d8b7f49c88128de4a2c19d57c05d870f7070fc87",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v40-colecao-nova/NOVA-ANDROID-MODS-v40.zip",
-          "start": 8165500,
-          "sizeBytes": 687168,
-          "archiveSizeBytes": 18260336,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-incremental/NOVA-DATA-v42-incremental.zip",
+          "start": 5611658,
+          "sizeBytes": 678575,
+          "archiveSizeBytes": 22888808,
           "compression": 8
         }
       },
       {
         "name": "wmomib.dff",
-        "sha256": "7cef07ea0897091a511d13bd661cbee8da00b6976a30f745f2279abf7941ae4d",
-        "sizeBytes": 1316387,
+        "sizeBytes": 1316864,
+        "sha256": "4fd4965328202121be6f7537788709c288172a23e157262790b0e3d362358e30",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v40-colecao-nova/NOVA-ANDROID-MODS-v40.zip",
-          "start": 8852715,
-          "sizeBytes": 633036,
-          "archiveSizeBytes": 18260336,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-incremental/NOVA-DATA-v42-incremental.zip",
+          "start": 8240685,
+          "sizeBytes": 627649,
+          "archiveSizeBytes": 22888808,
           "compression": 8
         }
       }
@@ -22310,6 +22459,18 @@
           "sizeBytes": 95486654,
           "archiveSizeBytes": 508045840,
           "compression": 8
+        },
+        "appendDelta": {
+          "fromSizeBytes": 501907744,
+          "fromSha256": "82b36429fd558a14d19aea100b6758da390cf504fac03a32582b17b853cb96ba",
+          "sha256": "56adbaa4d030943a64b92cfdc45fa46f8f8b0b49bc9dbbba4b516afb8af425bd",
+          "source": {
+            "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-incremental/NOVA-DATA-v42-incremental.zip",
+            "start": 18183057,
+            "sizeBytes": 4704953,
+            "archiveSizeBytes": 22888808,
+            "compression": 8
+          }
         }
       },
       {
