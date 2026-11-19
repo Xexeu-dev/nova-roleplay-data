@@ -4476,9 +4476,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 64,
-      "publicationId": "43d368af-94f0-4571-a9cb-c54f22807839",
-      "updatedAt": "2026-11-19T15:48:28.870Z",
+      "dataVersion": 65,
+      "publicationId": "42e1f950-729f-4f2b-9b9c-d1cb68c60ff7",
+      "updatedAt": "2026-11-19T17:25:51.248Z",
       "distributionMode": "official",
       "files": [
         {
@@ -18830,15 +18830,15 @@
         },
         {
           "path": "MoonLoader/NOVA-Hud.lua",
-          "sha256": "b88fd60802f528252155e3260cbc05128e121583575a94714913620f8f1f1c12",
-          "sizeBytes": 7466,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v58-phone-injury-tuning/b88fd60802f528252155e3260cbc05128e121583575a94714913620f8f1f1c12-NOVA-Hud.lua"
+          "sha256": "1b89eec34285fb82dd9599ca32725b049047ff939cd17ade4262a17bdb9afea8",
+          "sizeBytes": 7459,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-65-hud-wordmark-20261119/1b89eec34285fb82dd9599ca32725b049047ff939cd17ade4262a17bdb9afea8-NOVA-Hud.lua"
         },
         {
           "path": "MoonLoader/resource/nova-hud/nova-n.png",
-          "sizeBytes": 64479,
-          "sha256": "33c91bb159af6f7787890112c40dd69b38d6acf68e95695d5843ed49f18452e8",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/33c91bb159af6f7787890112c40dd69b38d6acf68e95695d5843ed49f18452e8-nova-n.png"
+          "sizeBytes": 161226,
+          "sha256": "4e2d4b1355f5859d38f1abc9019b18b91730db7f29d0eb0ae5fa28a3eafe1ffa",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-65-hud-wordmark-20261119/4e2d4b1355f5859d38f1abc9019b18b91730db7f29d0eb0ae5fa28a3eafe1ffa-nova-n.png"
         },
         {
           "path": "MoonLoader/NOVA-FrameGuard.lua",
@@ -19940,9 +19940,9 @@
         "modloader/NOVA-PLACAS/windsor.txd"
       ],
       "mods": [],
-      "totalBytes": 2068352890,
-      "publishedAt": "2026-11-19T15:48:28.870Z",
-      "notes": "Mais força em subidas e bônus progressivo de 1 km/h a cada 2 segundos na velocidade máxima."
+      "totalBytes": 2068449630,
+      "publishedAt": "2026-11-19T17:25:51.248Z",
+      "notes": "Logo horizontal NOVA ROLEPLAY abaixo do relógio, com fundo transparente."
     }
   },
   "minimumGameBuild": 196,
