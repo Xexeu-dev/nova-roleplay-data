@@ -4476,9 +4476,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 63,
-      "publicationId": "0050e182-b570-4d53-bee6-0dd7b8a5bbee",
-      "updatedAt": "2026-11-19T05:44:48.374Z",
+      "dataVersion": 64,
+      "publicationId": "43d368af-94f0-4571-a9cb-c54f22807839",
+      "updatedAt": "2026-11-19T15:48:28.870Z",
       "distributionMode": "official",
       "files": [
         {
@@ -18314,9 +18314,9 @@
         },
         {
           "path": "MoonLoader/lib/NOVA-VehiclePhysicsCore.lua",
-          "sha256": "f03f239b7fea9220a18d6b32d7135cc61d2a2508275af83f47efb0ce61ae54eb",
-          "sizeBytes": 10030,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v60-gameplay-fixes/f03f239b7fea9220a18d6b32d7135cc61d2a2508275af83f47efb0ce61ae54eb-NOVA-VehiclePhysicsCore.lua"
+          "sha256": "6568da96b619b943a468da4e5d02d780469a36042ca3d816678643cd92707704",
+          "sizeBytes": 13890,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-64-vehicle-physics-20261119/6568da96b619b943a468da4e5d02d780469a36042ca3d816678643cd92707704-NOVA-VehiclePhysicsCore.lua"
         },
         {
           "path": "MoonLoader/lib/NOVA-VehicleProfiles.lua",
@@ -19940,9 +19940,9 @@
         "modloader/NOVA-PLACAS/windsor.txd"
       ],
       "mods": [],
-      "totalBytes": 2068349030,
-      "publishedAt": "2026-11-19T05:44:48.374Z",
-      "notes": "Novos modelos validados e notificacoes do telefone clicaveis."
+      "totalBytes": 2068352890,
+      "publishedAt": "2026-11-19T15:48:28.870Z",
+      "notes": "Mais força em subidas e bônus progressivo de 1 km/h a cada 2 segundos na velocidade máxima."
     }
   },
   "minimumGameBuild": 196,
