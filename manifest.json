@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 41,
-  "updatedAt": "2026-11-18T18:37:22.070Z",
+  "dataVersion": 42,
+  "updatedAt": "2026-11-19T05:44:48.374Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -345,6 +345,15 @@
       "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v41-rodas-hq/NOVA-DATA-v41-rodas-hq.zip",
       "sha256": "6f9b2789edfb37e9ed53b336e7e49588165e7b993e7d3fb8dc058e56d4532251",
       "sizeBytes": 472353706,
+      "deletes": []
+    },
+    {
+      "kind": "package",
+      "version": 42,
+      "fromVersion": 41,
+      "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-colecao-nova/NOVA-DATA-v42.zip",
+      "sha256": "233cd78fb8b0d721eb70545c6289eaa888209a2d5550b81c1a0ea55a5b5a4859",
+      "sizeBytes": 508045840,
       "deletes": []
     }
   ],
@@ -3254,30 +3263,6 @@
       }
     },
     {
-      "path": "MODELS/FONTS.TXD",
-      "sha256": "76d242b9e5cd4718381a78c00bb456b10b95b579507c3eae1dd1cfb8b22060fa",
-      "sizeBytes": 6641316,
-      "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v18-iphone-pickups-ac5a1d54/NOVA-DATA-v18-iphone-pickups-fonts.zip",
-        "start": 380678898,
-        "sizeBytes": 190461,
-        "archiveSizeBytes": 381060940,
-        "compression": 8
-      }
-    },
-    {
-      "path": "models/fonts.txd",
-      "sha256": "76d242b9e5cd4718381a78c00bb456b10b95b579507c3eae1dd1cfb8b22060fa",
-      "sizeBytes": 6641316,
-      "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v18-iphone-pickups-ac5a1d54/NOVA-DATA-v18-iphone-pickups-fonts.zip",
-        "start": 377819325,
-        "sizeBytes": 190461,
-        "archiveSizeBytes": 381060940,
-        "compression": 8
-      }
-    },
-    {
       "path": "models/FONTS.TXD",
       "sha256": "76d242b9e5cd4718381a78c00bb456b10b95b579507c3eae1dd1cfb8b22060fa",
       "sizeBytes": 6641316,
@@ -3513,13 +3498,13 @@
     },
     {
       "path": "texdb/gta3.img",
-      "sha256": "c305d50c15936c005a80cf5adb3cf61d99b57b55a2efb910263994c99055e742",
-      "sizeBytes": 883914752,
+      "sha256": "019cec4a82e879ddb276b94a78dc9da531fadb374ce20edac0cd37a1247bc984",
+      "sizeBytes": 920094720,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v41-rodas-hq/NOVA-DATA-v41-rodas-hq.zip",
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-colecao-nova/NOVA-DATA-v42.zip",
         "start": 44,
-        "sizeBytes": 386902188,
-        "archiveSizeBytes": 472353706,
+        "sizeBytes": 412512313,
+        "archiveSizeBytes": 508045840,
         "compression": 8
       }
     },
@@ -4160,174 +4145,6 @@
       }
     },
     {
-      "path": "Text/american.gxt",
-      "sha256": "2d15d89c65beef66d12f418838c5cea38f2a47326a0c11796443498b0f4139b4",
-      "sizeBytes": 1342970,
-      "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v39-gxt-case-compat/NOVA-DATA-v39-gxt-case-compat.zip",
-        "start": 47,
-        "sizeBytes": 405785,
-        "compression": 8,
-        "archiveSizeBytes": 5709384
-      }
-    },
-    {
-      "path": "Text/french.gxt",
-      "sha256": "edc85bd7108aa0c6d329c72c3f42bd128c06f39f37e496e467ad80eb39952aa6",
-      "sizeBytes": 1471392,
-      "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v39-gxt-case-compat/NOVA-DATA-v39-gxt-case-compat.zip",
-        "start": 811709,
-        "sizeBytes": 426531,
-        "compression": 8,
-        "archiveSizeBytes": 5709384
-      }
-    },
-    {
-      "path": "Text/german.gxt",
-      "sha256": "be377f73c388553c834c75f3b79c1bd9b91f63dfe2f21fc43c76f65045feab51",
-      "sizeBytes": 1500932,
-      "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v39-gxt-case-compat/NOVA-DATA-v39-gxt-case-compat.zip",
-        "start": 1664861,
-        "sizeBytes": 442635,
-        "compression": 8,
-        "archiveSizeBytes": 5709384
-      }
-    },
-    {
-      "path": "Text/italian.gxt",
-      "sha256": "6188c6c3d96dabafd31ea6b4b21e962ec080297605abe3a5d8d0af0e036068e7",
-      "sizeBytes": 1374822,
-      "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v39-gxt-case-compat/NOVA-DATA-v39-gxt-case-compat.zip",
-        "start": 2550222,
-        "sizeBytes": 410796,
-        "compression": 8,
-        "archiveSizeBytes": 5709384
-      }
-    },
-    {
-      "path": "Text/japanese.gxt",
-      "sha256": "07b74384b7c7e568238411b6c080ccb00baae7ad9696b089baf6ceac6a0578a8",
-      "sizeBytes": 647218,
-      "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v39-gxt-case-compat/NOVA-DATA-v39-gxt-case-compat.zip",
-        "start": 3371907,
-        "sizeBytes": 312484,
-        "compression": 8,
-        "archiveSizeBytes": 5709384
-      }
-    },
-    {
-      "path": "Text/russian.gxt",
-      "sha256": "078b0b5f5dc7c075e435e574ff3f8fd3dee97cace9bf397595b473e7e7c2040a",
-      "sizeBytes": 1425038,
-      "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v39-gxt-case-compat/NOVA-DATA-v39-gxt-case-compat.zip",
-        "start": 3996968,
-        "sizeBytes": 439880,
-        "compression": 8,
-        "archiveSizeBytes": 5709384
-      }
-    },
-    {
-      "path": "Text/spanish.gxt",
-      "sha256": "622bc71a9da6354d67c9445dca3494a9df411c5c0ab84786c388300de81938d5",
-      "sizeBytes": 1390514,
-      "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v39-gxt-case-compat/NOVA-DATA-v39-gxt-case-compat.zip",
-        "start": 4876820,
-        "sizeBytes": 415814,
-        "compression": 8,
-        "archiveSizeBytes": 5709384
-      }
-    },
-    {
-      "path": "Textures/fonts/JapaneseFont.met",
-      "sizeBytes": 45171,
-      "sha256": "0d0f2923fa26d2f3f0a695373d8408ebfbfb0155208186d8d71b48efa1a52019",
-      "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v1/nova-data-base-v1.zip",
-        "start": 361073290,
-        "sizeBytes": 10817,
-        "archiveSizeBytes": 361532214,
-        "compression": 8
-      }
-    },
-    {
-      "path": "Textures/fonts/RussianFont.met",
-      "sizeBytes": 4279,
-      "sha256": "011071b9f188691f54505557dcdb063a18b91f2f4c06fb1149e2f451c452f206",
-      "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v1/nova-data-base-v1.zip",
-        "start": 361084173,
-        "sizeBytes": 1223,
-        "archiveSizeBytes": 361532214,
-        "compression": 8
-      }
-    },
-    {
-      "path": "Textures/fonts/RussianFont.png",
-      "sizeBytes": 38743,
-      "sha256": "125f18a883f4861787346ea02a4d84cefc4821f85962bfe7619ea90018649f8e",
-      "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v1/nova-data-base-v1.zip",
-        "start": 361085462,
-        "sizeBytes": 37465,
-        "archiveSizeBytes": 361532214,
-        "compression": 8
-      }
-    },
-    {
-      "path": "texdb/nova_mods/nova_mods.txt",
-      "sha256": "038a22b7605f04dc0765b21d12c33592332ddf3c4360efdaf4a6cdc5a72a24dd",
-      "sizeBytes": 132605,
-      "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v41-rodas-hq/NOVA-DATA-v41-rodas-hq.zip",
-        "start": 386902291,
-        "sizeBytes": 23640,
-        "archiveSizeBytes": 472353706,
-        "compression": 8
-      }
-    },
-    {
-      "path": "texdb/nova_mods/nova_mods.etc.dat",
-      "sha256": "82b36429fd558a14d19aea100b6758da390cf504fac03a32582b17b853cb96ba",
-      "sizeBytes": 501907744,
-      "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v41-rodas-hq/NOVA-DATA-v41-rodas-hq.zip",
-        "start": 386925994,
-        "sizeBytes": 85409842,
-        "archiveSizeBytes": 472353706,
-        "compression": 8
-      }
-    },
-    {
-      "path": "texdb/nova_mods/nova_mods.etc.tmb",
-      "sha256": "dbe24930f677a85aef99888ea64669b64aed66f47c1a1031b4b8bca59934d7ff",
-      "sizeBytes": 33400,
-      "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v41-rodas-hq/NOVA-DATA-v41-rodas-hq.zip",
-        "start": 472342384,
-        "sizeBytes": 10928,
-        "archiveSizeBytes": 472353706,
-        "compression": 8
-      }
-    },
-    {
-      "path": "texdb/nova_mods/nova_mods.etc.toc",
-      "sha256": "9bf65c8d4da0a2e2abf42cbbb1b97166295db97d046bc62fc6d8268ab5864511",
-      "sizeBytes": 6684,
-      "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v41-rodas-hq/NOVA-DATA-v41-rodas-hq.zip",
-        "start": 472335899,
-        "sizeBytes": 6422,
-        "archiveSizeBytes": 472353706,
-        "compression": 8
-      }
-    },
-    {
       "path": "TEXT/AMERICAN.GXT",
       "sha256": "2d15d89c65beef66d12f418838c5cea38f2a47326a0c11796443498b0f4139b4",
       "sizeBytes": 1342970,
@@ -4412,6 +4229,90 @@
       }
     },
     {
+      "path": "Textures/fonts/JapaneseFont.met",
+      "sizeBytes": 45171,
+      "sha256": "0d0f2923fa26d2f3f0a695373d8408ebfbfb0155208186d8d71b48efa1a52019",
+      "source": {
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v1/nova-data-base-v1.zip",
+        "start": 361073290,
+        "sizeBytes": 10817,
+        "archiveSizeBytes": 361532214,
+        "compression": 8
+      }
+    },
+    {
+      "path": "Textures/fonts/RussianFont.met",
+      "sizeBytes": 4279,
+      "sha256": "011071b9f188691f54505557dcdb063a18b91f2f4c06fb1149e2f451c452f206",
+      "source": {
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v1/nova-data-base-v1.zip",
+        "start": 361084173,
+        "sizeBytes": 1223,
+        "archiveSizeBytes": 361532214,
+        "compression": 8
+      }
+    },
+    {
+      "path": "Textures/fonts/RussianFont.png",
+      "sizeBytes": 38743,
+      "sha256": "125f18a883f4861787346ea02a4d84cefc4821f85962bfe7619ea90018649f8e",
+      "source": {
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v1/nova-data-base-v1.zip",
+        "start": 361085462,
+        "sizeBytes": 37465,
+        "archiveSizeBytes": 361532214,
+        "compression": 8
+      }
+    },
+    {
+      "path": "texdb/nova_mods/nova_mods.txt",
+      "sha256": "a67167adac7d78b31faa8153051eb72f81f5dbd6f0ffb0a38fdf04748f594135",
+      "sizeBytes": 140336,
+      "source": {
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-colecao-nova/NOVA-DATA-v42.zip",
+        "start": 412512416,
+        "sizeBytes": 27660,
+        "archiveSizeBytes": 508045840,
+        "compression": 8
+      }
+    },
+    {
+      "path": "texdb/nova_mods/nova_mods.etc.dat",
+      "sha256": "b7b23ae523a81ce3ca5df30d869dab9b90fd0d0f5d1f4ff70009caaea1935374",
+      "sizeBytes": 529894680,
+      "source": {
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-colecao-nova/NOVA-DATA-v42.zip",
+        "start": 412540139,
+        "sizeBytes": 95486654,
+        "archiveSizeBytes": 508045840,
+        "compression": 8
+      }
+    },
+    {
+      "path": "texdb/nova_mods/nova_mods.etc.tmb",
+      "sha256": "f6df988ef1895ce5b05e3caeac2684e19cbf03935666092a615b358feb651216",
+      "sizeBytes": 35320,
+      "source": {
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-colecao-nova/NOVA-DATA-v42.zip",
+        "start": 508033725,
+        "sizeBytes": 11721,
+        "archiveSizeBytes": 508045840,
+        "compression": 8
+      }
+    },
+    {
+      "path": "texdb/nova_mods/nova_mods.etc.toc",
+      "sha256": "73014dc896b388ce24e52439b2dfd766a05b95c713fb6fe1976bc9b5178de465",
+      "sizeBytes": 7068,
+      "source": {
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-colecao-nova/NOVA-DATA-v42.zip",
+        "start": 508026856,
+        "sizeBytes": 6806,
+        "archiveSizeBytes": 508045840,
+        "compression": 8
+      }
+    },
+    {
       "path": "ru.lc",
       "sha256": "8db601b4f84febc21a1b65dc71fb1fc4226473d3a0d7f5e784916b2d5b40be8d",
       "sizeBytes": 27,
@@ -4426,9 +4327,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 62,
-      "publicationId": "2435cd4a-2fb1-4754-b806-4bb259034a95",
-      "updatedAt": "2026-11-19T01:15:41.786Z",
+      "dataVersion": 63,
+      "publicationId": "0050e182-b570-4d53-bee6-0dd7b8a5bbee",
+      "updatedAt": "2026-11-19T05:44:48.374Z",
       "distributionMode": "official",
       "files": [
         {
@@ -9156,30 +9057,6 @@
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/30b5b108999d4c8dddc8ec8272acf93641f12a6ceaf60a99d756f566183f0aba-premier.txd"
         },
         {
-          "path": "modloader/NOVA-PLACAS/primo.dff",
-          "sizeBytes": 246665,
-          "sha256": "4142f252b08cceb5459067abe5c6ccf0f6f6e5945d4be86992621807c19c6fa9",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/4142f252b08cceb5459067abe5c6ccf0f6f6e5945d4be86992621807c19c6fa9-primo.dff"
-        },
-        {
-          "path": "modloader/NOVA-PLACAS/primo.txd",
-          "sizeBytes": 134136,
-          "sha256": "c6fb4a36b810b37fa6a723d01fb30fa91d1362ecf24492d6fb9c2346ac4e97a6",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/c6fb4a36b810b37fa6a723d01fb30fa91d1362ecf24492d6fb9c2346ac4e97a6-primo.txd"
-        },
-        {
-          "path": "modloader/NOVA-PLACAS/rancher.dff",
-          "sizeBytes": 253558,
-          "sha256": "9f31d585740bad8e1f2a578a6a2c4bd7799f4ff747053d960f4270be50ad4434",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/9f31d585740bad8e1f2a578a6a2c4bd7799f4ff747053d960f4270be50ad4434-rancher.dff"
-        },
-        {
-          "path": "modloader/NOVA-PLACAS/rancher.txd",
-          "sizeBytes": 137032,
-          "sha256": "431b63f36e0f819df92a0c0224fc9706fabdec0f682b747251a2143472deda8a",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/431b63f36e0f819df92a0c0224fc9706fabdec0f682b747251a2143472deda8a-rancher.txd"
-        },
-        {
           "path": "modloader/NOVA-PLACAS/rdtrain.dff",
           "sizeBytes": 240064,
           "sha256": "f9824213a663cb6e31b83ef9dd256d0c0d248102e52a74ddfc1f4ff2ed6cef43",
@@ -9490,18 +9367,6 @@
           "sizeBytes": 137032,
           "sha256": "6b38edbbf7aad5fce75fdeda6fde3dcf6d2cdd5b55a534968b08b53f43428470",
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/6b38edbbf7aad5fce75fdeda6fde3dcf6d2cdd5b55a534968b08b53f43428470-willard.txd"
-        },
-        {
-          "path": "modloader/NOVA-PLACAS/windsor.dff",
-          "sizeBytes": 226600,
-          "sha256": "ecf7d6eb145e4a7f108fcb3158be5efc3aa4dcdfd2283cfc166175b8f0b994ab",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/ecf7d6eb145e4a7f108fcb3158be5efc3aa4dcdfd2283cfc166175b8f0b994ab-windsor.dff"
-        },
-        {
-          "path": "modloader/NOVA-PLACAS/windsor.txd",
-          "sizeBytes": 134136,
-          "sha256": "25e154d8b89f54d4b4275d62d9631c08d67e78088491627b29f78e8de112e155",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v7-26bff56a/25e154d8b89f54d4b4275d62d9631c08d67e78088491627b29f78e8de112e155-windsor.txd"
         },
         {
           "path": "modloader/NOVA-PLACAS/yankee.dff",
@@ -17389,9 +17254,9 @@
         },
         {
           "path": "MoonLoader/NOVA-Phone.lua",
-          "sha256": "a496f29fc3e4b09e61a39553ae2f5bc165c8942202812fd6baa39c04e87274fc",
-          "sizeBytes": 21800,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v58-phone-injury-tuning/a496f29fc3e4b09e61a39553ae2f5bc165c8942202812fd6baa39c04e87274fc-NOVA-Phone.lua"
+          "sizeBytes": 22261,
+          "sha256": "61cf69eb757cfdde5d675a7aceec6eab052bc5f341e5a3f4c369f8ee5a85bb81",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v63-colecao-nova/61cf69eb757cfdde5d675a7aceec6eab052bc5f341e5a3f4c369f8ee5a85bb81-NOVA-Phone.lua"
         },
         {
           "path": "MoonLoader/NOVA-VoiceRecovery.lua",
@@ -18849,6 +18714,138 @@
           "sha256": "09ff3cdcb7403bfc1f33511976d186cbf965a8b997882c2cb8441c7c71dfa9fc",
           "sizeBytes": 529664,
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v60-gameplay-fixes/09ff3cdcb7403bfc1f33511976d186cbf965a8b997882c2cb8441c7c71dfa9fc-cwfyfr2.txd"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/wmyboun.dff",
+          "sizeBytes": 1026239,
+          "sha256": "740ca034c4230c509063914dec2d8a9710927bf7653fea64217e9607a20142e2",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v63-colecao-nova/740ca034c4230c509063914dec2d8a9710927bf7653fea64217e9607a20142e2-wmyboun.dff"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/wmyboun.txd",
+          "sizeBytes": 2724912,
+          "sha256": "f07f5e2c9fbb50868cfba687dbccaa207aee1c396f6dc41e25d9b2e9b9f82437",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v63-colecao-nova/f07f5e2c9fbb50868cfba687dbccaa207aee1c396f6dc41e25d9b2e9b9f82437-wmyboun.txd"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/wfystew.dff",
+          "sizeBytes": 3622036,
+          "sha256": "89291e56d89e1f65e9b4db3639535fc21a09c6783d974defd4b05d9b15739284",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v63-colecao-nova/89291e56d89e1f65e9b4db3639535fc21a09c6783d974defd4b05d9b15739284-wfystew.dff"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/wfystew.txd",
+          "sizeBytes": 1315360,
+          "sha256": "c5a1295a3144a62353c3493f40678ab32ee152c69c7248f67f1d5f7b914c88fe",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v63-colecao-nova/c5a1295a3144a62353c3493f40678ab32ee152c69c7248f67f1d5f7b914c88fe-wfystew.txd"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/sbfyst.dff",
+          "sizeBytes": 2019360,
+          "sha256": "03b5a0fea15b52c009ffa994f5ce5f2a9c6350c9350f83e3e3a4dd8029668bf4",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v63-colecao-nova/03b5a0fea15b52c009ffa994f5ce5f2a9c6350c9350f83e3e3a4dd8029668bf4-sbfyst.dff"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/sbfyst.txd",
+          "sizeBytes": 2584636,
+          "sha256": "64811023fa27a4148379198fa8e38afac5164fec49405c1b194ff783f9a9568c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v63-colecao-nova/64811023fa27a4148379198fa8e38afac5164fec49405c1b194ff783f9a9568c-sbfyst.txd"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/gungrl3.dff",
+          "sizeBytes": 2343139,
+          "sha256": "006041177ac57ca539ee2437c26d123aea72c5af5a433ded66e7364876e676c0",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v63-colecao-nova/006041177ac57ca539ee2437c26d123aea72c5af5a433ded66e7364876e676c0-gungrl3.dff"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/gungrl3.txd",
+          "sizeBytes": 1041728,
+          "sha256": "249e4e0f4b4ffe89c339836b6cc3827b9e00380219f8da54d7b56385d3d86e67",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v63-colecao-nova/249e4e0f4b4ffe89c339836b6cc3827b9e00380219f8da54d7b56385d3d86e67-gungrl3.txd"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/mecgrl3.dff",
+          "sizeBytes": 4052612,
+          "sha256": "b9058e2ed5d3585325984dd1a8946a48190a9f92f18a90126bcfbd89fbf6ea24",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v63-colecao-nova/b9058e2ed5d3585325984dd1a8946a48190a9f92f18a90126bcfbd89fbf6ea24-mecgrl3.dff"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/mecgrl3.txd",
+          "sizeBytes": 423852,
+          "sha256": "9a0d6b152d3ca5805f21c12ec588c0f7f96a69144d2e5c220121b72eaa3ac529",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v63-colecao-nova/9a0d6b152d3ca5805f21c12ec588c0f7f96a69144d2e5c220121b72eaa3ac529-mecgrl3.txd"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/omyst.dff",
+          "sizeBytes": 2654023,
+          "sha256": "a68dfcf90fd9c5d7613a8e7e7d79ef394e64bd60f15e6993b142fa6366dd6d20",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v63-colecao-nova/a68dfcf90fd9c5d7613a8e7e7d79ef394e64bd60f15e6993b142fa6366dd6d20-omyst.dff"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/omyst.txd",
+          "sizeBytes": 1093352,
+          "sha256": "267185c0bc59599c19c62e25beb4a355d958a10c4788534fbb463db30b65d718",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v63-colecao-nova/267185c0bc59599c19c62e25beb4a355d958a10c4788534fbb463db30b65d718-omyst.txd"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/vmaff1.dff",
+          "sizeBytes": 1461659,
+          "sha256": "1c3193cba0efc65a8dd6f251ea46352960d283096b972535e371b1fe7a8b1fed",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v63-colecao-nova/1c3193cba0efc65a8dd6f251ea46352960d283096b972535e371b1fe7a8b1fed-vmaff1.dff"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/vmaff1.txd",
+          "sizeBytes": 1996832,
+          "sha256": "04ebcac02ca2050ec6a791857a35e8a3be482cea8134e4cb7028284c2679bdbd",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v63-colecao-nova/04ebcac02ca2050ec6a791857a35e8a3be482cea8134e4cb7028284c2679bdbd-vmaff1.txd"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/wmomib.dff",
+          "sizeBytes": 1316251,
+          "sha256": "3332ae72e1cf7afbdcea467a06855d6d4456855ed40f0d5ea37367be95b7c6ff",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v63-colecao-nova/3332ae72e1cf7afbdcea467a06855d6d4456855ed40f0d5ea37367be95b7c6ff-wmomib.dff"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/wmomib.txd",
+          "sizeBytes": 2952596,
+          "sha256": "2c8fe192b798d9d7f3727d132ea5757cf968fdfa86ede4900e7934a5d37bc10c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v63-colecao-nova/2c8fe192b798d9d7f3727d132ea5757cf968fdfa86ede4900e7934a5d37bc10c-wmomib.txd"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/rancher/rancher.dff",
+          "sizeBytes": 2132960,
+          "sha256": "282092f49ebe6823c4af4490c5b79a97032c2a51abc2542dff20845164275aaa",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v63-colecao-nova/282092f49ebe6823c4af4490c5b79a97032c2a51abc2542dff20845164275aaa-rancher.dff"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/rancher/rancher.txd",
+          "sizeBytes": 424892,
+          "sha256": "89ccc5f994824490a93e2e7f521f502610ddfba30e94c611eb88efd60560c7f4",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v63-colecao-nova/89ccc5f994824490a93e2e7f521f502610ddfba30e94c611eb88efd60560c7f4-rancher.txd"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/primo/primo.dff",
+          "sizeBytes": 10057881,
+          "sha256": "07c134befa18f90fd11cc6936acf9a2c235dbb5a07aebf4da1df6130f8224911",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v63-colecao-nova/07c134befa18f90fd11cc6936acf9a2c235dbb5a07aebf4da1df6130f8224911-primo.dff"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/primo/primo.txd",
+          "sizeBytes": 244440,
+          "sha256": "3dc8fd514b98677ea1d0b46e71432d195f71978c865b84352098f5e3ce7582b3",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v63-colecao-nova/3dc8fd514b98677ea1d0b46e71432d195f71978c865b84352098f5e3ce7582b3-primo.txd"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/windsor/windsor.dff",
+          "sizeBytes": 6428019,
+          "sha256": "7b58d9f17ecdd4f5e0706dfeec4a5b9c0b5aa7e98cd1c0e1e9876f0cd3a247fb",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v63-colecao-nova/7b58d9f17ecdd4f5e0706dfeec4a5b9c0b5aa7e98cd1c0e1e9876f0cd3a247fb-windsor.dff"
+        },
+        {
+          "path": "modloader/NOVA-VEICULOS/windsor/windsor.txd",
+          "sizeBytes": 454192,
+          "sha256": "2982d1cb06e0b95ef910e1994368bc328fe2c5b85affccf9621100837d354956",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v63-colecao-nova/2982d1cb06e0b95ef910e1994368bc328fe2c5b85affccf9621100837d354956-windsor.txd"
         }
       ],
       "deletes": [
@@ -19785,19 +19782,25 @@
         "modloader/NOVA-PLACAS/sentinel.txd",
         "modloader/NOVA-PLACAS/stafford.dff",
         "modloader/NOVA-PLACAS/stafford.txd",
-        "MoonLoader/NOVA-Crosshair.lua"
+        "MoonLoader/NOVA-Crosshair.lua",
+        "modloader/NOVA-PLACAS/primo.dff",
+        "modloader/NOVA-PLACAS/primo.txd",
+        "modloader/NOVA-PLACAS/rancher.dff",
+        "modloader/NOVA-PLACAS/rancher.txd",
+        "modloader/NOVA-PLACAS/windsor.dff",
+        "modloader/NOVA-PLACAS/windsor.txd"
       ],
       "mods": [],
-      "totalBytes": 2017109725,
-      "publishedAt": "2026-11-19T01:15:41.786Z",
-      "notes": "Restabelece a posicao nativa da mira de terceira pessoa."
+      "totalBytes": 2068349030,
+      "publishedAt": "2026-11-19T05:44:48.374Z",
+      "notes": "Novos modelos validados e notificacoes do telefone clicaveis."
     }
   },
   "minimumGameBuild": 196,
   "fileSyncSchema": 1,
   "mobileMods": {
     "schemaVersion": 1,
-    "version": 39,
+    "version": 40,
     "models": [
       {
         "name": "admiral.dff",
@@ -21253,13 +21256,13 @@
       },
       {
         "name": "primo.dff",
-        "sizeBytes": 194560,
-        "sha256": "3adbe53cdaad503fa0665fb4598522d5074996b418b887456b91c2a26acad9b7",
+        "sha256": "74771e28f5f6204fa65ef294f42c84e441daec491401a2f6d76ffe0129891531",
+        "sizeBytes": 10057954,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 162853439,
-          "sizeBytes": 74013,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v40-colecao-nova/NOVA-ANDROID-MODS-v40.zip",
+          "start": 10666776,
+          "sizeBytes": 4472191,
+          "archiveSizeBytes": 18260336,
           "compression": 8
         }
       },
@@ -21301,13 +21304,13 @@
       },
       {
         "name": "rancher.dff",
-        "sizeBytes": 198656,
-        "sha256": "77713aa3d510faabda233a9809e23aec764399a1a7bca97ab6157cfe89a40711",
+        "sha256": "c7b89f68466b71a271f5759cf3a5b92b45d83e12d2426e561c07ec5d6d4bab1d",
+        "sizeBytes": 2133404,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 162981575,
-          "sizeBytes": 76514,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v40-colecao-nova/NOVA-ANDROID-MODS-v40.zip",
+          "start": 9485799,
+          "sizeBytes": 1180931,
+          "archiveSizeBytes": 18260336,
           "compression": 8
         }
       },
@@ -22129,13 +22132,13 @@
       },
       {
         "name": "windsor.dff",
-        "sizeBytes": 139264,
-        "sha256": "eb8513780c4a2601ec94eda080415799b472c39c3cf4946a7b6fb562b35d5858",
+        "sha256": "a68c17346b372dcc4b8a2c5073f61ec476182ec9c66d30eb3b10b29d7c0c3b46",
+        "sizeBytes": 6428159,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 207196575,
-          "sizeBytes": 57224,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v40-colecao-nova/NOVA-ANDROID-MODS-v40.zip",
+          "start": 15139015,
+          "sizeBytes": 3120602,
+          "archiveSizeBytes": 18260336,
           "compression": 8
         }
       },
@@ -22186,54 +22189,150 @@
           "archiveSizeBytes": 201748617,
           "compression": 8
         }
+      },
+      {
+        "name": "wmyboun.dff",
+        "sha256": "ee39d9a3bb64a3bb088f1903af32b683190f0bc86b2dfdbc326d3bea11639adc",
+        "sizeBytes": 1026363,
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v40-colecao-nova/NOVA-ANDROID-MODS-v40.zip",
+          "start": 48,
+          "sizeBytes": 551269,
+          "archiveSizeBytes": 18260336,
+          "compression": 8
+        }
+      },
+      {
+        "name": "wfystew.dff",
+        "sha256": "b330a4d73b26d227224bcff69e451bf962e9b46b30e5e355c4746b1590448d57",
+        "sizeBytes": 3622156,
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v40-colecao-nova/NOVA-ANDROID-MODS-v40.zip",
+          "start": 551365,
+          "sizeBytes": 1966322,
+          "archiveSizeBytes": 18260336,
+          "compression": 8
+        }
+      },
+      {
+        "name": "sbfyst.dff",
+        "sha256": "3a10f37258a3cdb5a1ec7e54b291cbe1186fd4512cafa501beada188f437fd35",
+        "sizeBytes": 2019432,
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v40-colecao-nova/NOVA-ANDROID-MODS-v40.zip",
+          "start": 2517734,
+          "sizeBytes": 1063809,
+          "archiveSizeBytes": 18260336,
+          "compression": 8
+        }
+      },
+      {
+        "name": "gungrl3.dff",
+        "sha256": "e521e0008fc586b1f4eb1d1f14d480c6be5f6d28abffc6ffb99e402296b19fc2",
+        "sizeBytes": 2308200,
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v40-colecao-nova/NOVA-ANDROID-MODS-v40.zip",
+          "start": 3581591,
+          "sizeBytes": 1372997,
+          "archiveSizeBytes": 18260336,
+          "compression": 8
+        }
+      },
+      {
+        "name": "mecgrl3.dff",
+        "sha256": "1f25936ccd7fd02ac4aa6c8405b23f64d859aa2be61c3fee4dd5a28a68cb1e45",
+        "sizeBytes": 4052752,
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v40-colecao-nova/NOVA-ANDROID-MODS-v40.zip",
+          "start": 4954636,
+          "sizeBytes": 2107932,
+          "archiveSizeBytes": 18260336,
+          "compression": 8
+        }
+      },
+      {
+        "name": "omyst.dff",
+        "sha256": "95f6feaad80bf13d40c4d790d363d755efeea08c3c80a15af6a444307b78cea3",
+        "sizeBytes": 2654107,
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v40-colecao-nova/NOVA-ANDROID-MODS-v40.zip",
+          "start": 7062614,
+          "sizeBytes": 1102839,
+          "archiveSizeBytes": 18260336,
+          "compression": 8
+        }
+      },
+      {
+        "name": "vmaff1.dff",
+        "sha256": "c253075ce8e6fe24e21f6a3e39af7d296a0c205172e49d5f734d53918e875f25",
+        "sizeBytes": 1461771,
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v40-colecao-nova/NOVA-ANDROID-MODS-v40.zip",
+          "start": 8165500,
+          "sizeBytes": 687168,
+          "archiveSizeBytes": 18260336,
+          "compression": 8
+        }
+      },
+      {
+        "name": "wmomib.dff",
+        "sha256": "7cef07ea0897091a511d13bd661cbee8da00b6976a30f745f2279abf7941ae4d",
+        "sizeBytes": 1316387,
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v40-colecao-nova/NOVA-ANDROID-MODS-v40.zip",
+          "start": 8852715,
+          "sizeBytes": 633036,
+          "archiveSizeBytes": 18260336,
+          "compression": 8
+        }
       }
     ],
     "files": [
       {
         "path": "texdb/nova_mods/nova_mods.txt",
-        "sizeBytes": 132605,
-        "sha256": "038a22b7605f04dc0765b21d12c33592332ddf3c4360efdaf4a6cdc5a72a24dd",
+        "sha256": "a67167adac7d78b31faa8153051eb72f81f5dbd6f0ffb0a38fdf04748f594135",
+        "sizeBytes": 140336,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v41-rodas-hq/NOVA-DATA-v41-rodas-hq.zip",
-          "start": 386902291,
-          "sizeBytes": 23640,
-          "archiveSizeBytes": 472353706,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-colecao-nova/NOVA-DATA-v42.zip",
+          "start": 412512416,
+          "sizeBytes": 27660,
+          "archiveSizeBytes": 508045840,
           "compression": 8
         }
       },
       {
         "path": "texdb/nova_mods/nova_mods.etc.dat",
-        "sizeBytes": 501907744,
-        "sha256": "82b36429fd558a14d19aea100b6758da390cf504fac03a32582b17b853cb96ba",
+        "sha256": "b7b23ae523a81ce3ca5df30d869dab9b90fd0d0f5d1f4ff70009caaea1935374",
+        "sizeBytes": 529894680,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v41-rodas-hq/NOVA-DATA-v41-rodas-hq.zip",
-          "start": 386925994,
-          "sizeBytes": 85409842,
-          "archiveSizeBytes": 472353706,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-colecao-nova/NOVA-DATA-v42.zip",
+          "start": 412540139,
+          "sizeBytes": 95486654,
+          "archiveSizeBytes": 508045840,
           "compression": 8
         }
       },
       {
         "path": "texdb/nova_mods/nova_mods.etc.toc",
-        "sizeBytes": 6684,
-        "sha256": "9bf65c8d4da0a2e2abf42cbbb1b97166295db97d046bc62fc6d8268ab5864511",
+        "sha256": "73014dc896b388ce24e52439b2dfd766a05b95c713fb6fe1976bc9b5178de465",
+        "sizeBytes": 7068,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v41-rodas-hq/NOVA-DATA-v41-rodas-hq.zip",
-          "start": 472335899,
-          "sizeBytes": 6422,
-          "archiveSizeBytes": 472353706,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-colecao-nova/NOVA-DATA-v42.zip",
+          "start": 508026856,
+          "sizeBytes": 6806,
+          "archiveSizeBytes": 508045840,
           "compression": 8
         }
       },
       {
         "path": "texdb/nova_mods/nova_mods.etc.tmb",
-        "sizeBytes": 33400,
-        "sha256": "dbe24930f677a85aef99888ea64669b64aed66f47c1a1031b4b8bca59934d7ff",
+        "sha256": "f6df988ef1895ce5b05e3caeac2684e19cbf03935666092a615b358feb651216",
+        "sizeBytes": 35320,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v41-rodas-hq/NOVA-DATA-v41-rodas-hq.zip",
-          "start": 472342384,
-          "sizeBytes": 10928,
-          "archiveSizeBytes": 472353706,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-colecao-nova/NOVA-DATA-v42.zip",
+          "start": 508033725,
+          "sizeBytes": 11721,
+          "archiveSizeBytes": 508045840,
           "compression": 8
         }
       }
