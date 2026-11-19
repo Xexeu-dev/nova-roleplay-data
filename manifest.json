@@ -4426,9 +4426,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 61,
-      "publicationId": "a55b9ef4-56f2-4c9a-85d5-f07f39f261fc",
-      "updatedAt": "2026-11-18T05:30:02.558Z",
+      "dataVersion": 62,
+      "publicationId": "2435cd4a-2fb1-4754-b806-4bb259034a95",
+      "updatedAt": "2026-11-19T01:15:41.786Z",
       "distributionMode": "official",
       "files": [
         {
@@ -18839,12 +18839,6 @@
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v58-phone-injury-tuning/d2b38768055e62273436b81b1966ea68f9ad038f5e1d0a4a711d76536d3160a7-NOVA-FrameGuardCore.lua"
         },
         {
-          "path": "MoonLoader/NOVA-Crosshair.lua",
-          "sha256": "cf1c1a5e0ccbb62603ed8568e01cec0956a5cf440d244aab8a70381433d2a97a",
-          "sizeBytes": 807,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v60-gameplay-fixes/cf1c1a5e0ccbb62603ed8568e01cec0956a5cf440d244aab8a70381433d2a97a-NOVA-Crosshair.lua"
-        },
-        {
           "path": "modloader/NOVA-SKINS/cwfyfr2.dff",
           "sha256": "0302df303bbea3aefc36999ded2b9628f9bb5923216530e8a6dca5d74ed4f7b4",
           "sizeBytes": 1266331,
@@ -19790,12 +19784,13 @@
         "modloader/NOVA-PLACAS/sentinel.dff",
         "modloader/NOVA-PLACAS/sentinel.txd",
         "modloader/NOVA-PLACAS/stafford.dff",
-        "modloader/NOVA-PLACAS/stafford.txd"
+        "modloader/NOVA-PLACAS/stafford.txd",
+        "MoonLoader/NOVA-Crosshair.lua"
       ],
       "mods": [],
-      "totalBytes": 2017110532,
-      "publishedAt": "2026-11-18T05:30:02.558Z",
-      "notes": "Recuperação de áudio do GTA no Windows. Perfis de motor dos 77 veículos modificados."
+      "totalBytes": 2017109725,
+      "publishedAt": "2026-11-19T01:15:41.786Z",
+      "notes": "Restabelece a posicao nativa da mira de terceira pessoa."
     }
   },
   "minimumGameBuild": 196,
