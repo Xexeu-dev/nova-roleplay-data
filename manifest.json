@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 42,
-  "updatedAt": "2026-11-19T06:07:04.855Z",
+  "dataVersion": 43,
+  "updatedAt": "2026-11-20T19:15:50.559Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -354,6 +354,15 @@
       "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v42-colecao-nova/NOVA-DATA-v42.zip",
       "sha256": "233cd78fb8b0d721eb70545c6289eaa888209a2d5550b81c1a0ea55a5b5a4859",
       "sizeBytes": 508045840,
+      "deletes": []
+    },
+    {
+      "kind": "package",
+      "version": 43,
+      "fromVersion": 42,
+      "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v43-native-crosshair/NOVA-DATA-v43-mira.zip",
+      "sha256": "b4e1a9a5a9baf1bb2ef64a0966180d8ec023341804b3ec980b6a300215cb6a56",
+      "sizeBytes": 2690075,
       "deletes": []
     }
   ],
@@ -4223,37 +4232,49 @@
     },
     {
       "path": "texdb/txd/txd.etc.dat",
-      "sizeBytes": 14724034,
-      "sha256": "0cdd5bd0fe748584be89b0575da19acc0224775df33234caa4a295f5154510b6",
+      "sha256": "44f1895ff9f06ffd86c20a99741e112c9aaaa90f23b08c6a7a5a94977d00a828",
+      "sizeBytes": 14734972,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v26-mira-veiculos-23116519/NOVA-DATA-v26-mira-veiculos.zip",
-        "start": 378797682,
-        "sizeBytes": 2666738,
-        "archiveSizeBytes": 381486836,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v43-native-crosshair/NOVA-DATA-v43-mira.zip",
+        "start": 51,
+        "sizeBytes": 2668043,
+        "archiveSizeBytes": 2690075,
         "compression": 8
+      },
+      "appendDelta": {
+        "fromSizeBytes": 14724034,
+        "fromSha256": "0cdd5bd0fe748584be89b0575da19acc0224775df33234caa4a295f5154510b6",
+        "sha256": "ee937c9b4c5f7fd91d300d1129d2f4bd9a6e30059ae514278cac1ff8b675d8ed",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v43-native-crosshair/NOVA-DATA-v43-mira-delta.zip",
+          "start": 47,
+          "sizeBytes": 1126,
+          "archiveSizeBytes": 1258,
+          "compression": 8
+        }
       }
     },
     {
       "path": "texdb/txd/txd.etc.tmb",
+      "sha256": "ce3ebb2a3f66de899b4e2cd5bf9ea7f35586b6d1d0e0cc60ec8ff05e8ef55ae5",
       "sizeBytes": 49480,
-      "sha256": "8015f7939953cafb2b0965a61531373567ac75843ecbff5230c91ea4212abf5b",
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v26-mira-veiculos-23116519/NOVA-DATA-v26-mira-veiculos.zip",
-        "start": 381466367,
-        "sizeBytes": 19811,
-        "archiveSizeBytes": 381486836,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v43-native-crosshair/NOVA-DATA-v43-mira.zip",
+        "start": 2670040,
+        "sizeBytes": 19812,
+        "archiveSizeBytes": 2690075,
         "compression": 8
       }
     },
     {
       "path": "texdb/txd/txd.etc.toc",
+      "sha256": "7564612515ec4417b19feced780ade14329b6e4c9b46e64504bf214e70a9c163",
       "sizeBytes": 2380,
-      "sha256": "62e98afad9549d7f2add176da8fa4a438cdd647e1a881ef408179de66b9c169f",
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v26-mira-veiculos-23116519/NOVA-DATA-v26-mira-veiculos.zip",
-        "start": 381464471,
-        "sizeBytes": 1845,
-        "archiveSizeBytes": 381486836,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v43-native-crosshair/NOVA-DATA-v43-mira.zip",
+        "start": 2668145,
+        "sizeBytes": 1844,
+        "archiveSizeBytes": 2690075,
         "compression": 8
       }
     },
@@ -4476,9 +4497,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 66,
-      "publicationId": "ecbb6e16-a792-4840-9bef-290fb42fa33c",
-      "updatedAt": "2026-11-20T19:07:26.576Z",
+      "dataVersion": 67,
+      "publicationId": "1bdeeab4-b1b1-4fea-9c89-da153414eb87",
+      "updatedAt": "2026-11-20T19:15:50.559Z",
       "distributionMode": "official",
       "files": [
         {
@@ -6681,9 +6702,9 @@
         },
         {
           "path": "models/hud.txd",
-          "sha256": "a90cfb6bceb6e478dd1da961e307574212ddc28c175bb41f867640371b57459f",
+          "sha256": "da01c9f88bbcc349fe38a521c3c5aa863eff1a393aa84c80e3d2a0ba240cf887",
           "sizeBytes": 96936,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v60-gameplay-fixes/a90cfb6bceb6e478dd1da961e307574212ddc28c175bb41f867640371b57459f-hud.txd"
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-67-native-crosshair-20261120/da01c9f88bbcc349fe38a521c3c5aa863eff1a393aa84c80e3d2a0ba240cf887-hud.txd"
         },
         {
           "path": "models/LD_RCE1.txd",
@@ -19941,8 +19962,8 @@
       ],
       "mods": [],
       "totalBytes": 2068444799,
-      "publishedAt": "2026-11-20T19:07:26.576Z",
-      "notes": "Restaura o ponto de mira do GTA e mantém a textura da NOVA."
+      "publishedAt": "2026-11-20T19:15:50.559Z",
+      "notes": "Mira pequena siteM16_58 na posição original."
     }
   },
   "minimumGameBuild": 196,
