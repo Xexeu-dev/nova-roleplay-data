@@ -4497,9 +4497,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 67,
-      "publicationId": "1bdeeab4-b1b1-4fea-9c89-da153414eb87",
-      "updatedAt": "2026-11-20T19:15:50.559Z",
+      "dataVersion": 68,
+      "publicationId": "c390e418-976b-49a3-b1f1-a239bb2e9e75",
+      "updatedAt": "2026-11-20T20:33:42.754Z",
       "distributionMode": "official",
       "files": [
         {
@@ -19016,6 +19016,12 @@
           "sizeBytes": 454192,
           "sha256": "2982d1cb06e0b95ef910e1994368bc328fe2c5b85affccf9621100837d354956",
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v63-colecao-nova/2982d1cb06e0b95ef910e1994368bc328fe2c5b85affccf9621100837d354956-windsor.txd"
+        },
+        {
+          "path": "MoonLoader/NOVA-Reticle.lua",
+          "sizeBytes": 1215,
+          "sha256": "56097450ab2aa2bbc8451c6f474419c795e5fd09ffdabb0267c829e2b4777f99",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v68-reticle-56097450/56097450ab2aa2bbc8451c6f474419c795e5fd09ffdabb0267c829e2b4777f99-NOVA-Reticle.lua"
         }
       ],
       "deletes": [
@@ -19961,9 +19967,9 @@
         "modloader/NOVA-PLACAS/windsor.txd"
       ],
       "mods": [],
-      "totalBytes": 2068444799,
-      "publishedAt": "2026-11-20T19:15:50.559Z",
-      "notes": "Mira pequena siteM16_58 na posição original."
+      "totalBytes": 2068446014,
+      "publishedAt": "2026-11-20T20:33:42.754Z",
+      "notes": "Mira ligeiramente mais alta. Mesmo icone e tamanho."
     }
   },
   "minimumGameBuild": 196,
