@@ -4476,9 +4476,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 65,
-      "publicationId": "42e1f950-729f-4f2b-9b9c-d1cb68c60ff7",
-      "updatedAt": "2026-11-19T17:25:51.248Z",
+      "dataVersion": 66,
+      "publicationId": "ecbb6e16-a792-4840-9bef-290fb42fa33c",
+      "updatedAt": "2026-11-20T19:07:26.576Z",
       "distributionMode": "official",
       "files": [
         {
@@ -9993,9 +9993,9 @@
         },
         {
           "path": "moonloader/GameFixer.lua",
-          "sha256": "c28abec017f5ca1712534f6dfdd5adaa204210a737400e779e6fbb20cc749ec7",
-          "sizeBytes": 376827,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v48-ajustes-ca36c9ab/c28abec017f5ca1712534f6dfdd5adaa204210a737400e779e6fbb20cc749ec7-GameFixer.lua"
+          "sha256": "88189f1ec16d54b92a4a000b8ec557c1e95a93725f5c248ccbd4c0b3321a60db",
+          "sizeBytes": 371996,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-66-native-crosshair-20261120/88189f1ec16d54b92a4a000b8ec557c1e95a93725f5c248ccbd4c0b3321a60db-GameFixer.lua"
         },
         {
           "path": "MoonLoader/gamefixer/fonts/fa-solid-900.ttf",
@@ -19940,9 +19940,9 @@
         "modloader/NOVA-PLACAS/windsor.txd"
       ],
       "mods": [],
-      "totalBytes": 2068449630,
-      "publishedAt": "2026-11-19T17:25:51.248Z",
-      "notes": "Logo horizontal NOVA ROLEPLAY abaixo do relógio, com fundo transparente."
+      "totalBytes": 2068444799,
+      "publishedAt": "2026-11-20T19:07:26.576Z",
+      "notes": "Restaura o ponto de mira do GTA e mantém a textura da NOVA."
     }
   },
   "minimumGameBuild": 196,
