@@ -4389,9 +4389,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 72,
-      "publicationId": "4967de5f-4d03-45c0-aa68-132c9d9e7ae8",
-      "updatedAt": "2026-11-21T05:25:25.035Z",
+      "dataVersion": 73,
+      "publicationId": "5780c6d9-79e8-4496-aafb-49c5a01a944c",
+      "updatedAt": "2026-11-21T07:59:23.770Z",
       "distributionMode": "official",
       "files": [
         {
@@ -17442,15 +17442,15 @@
         },
         {
           "path": "SAMP/CUSTOM.ide",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v72-porta-mansao/752946dcf3bc070815345f07e988b40b6c36e841708b50153f39cb7d10427088-CUSTOM.ide",
-          "sha256": "752946dcf3bc070815345f07e988b40b6c36e841708b50153f39cb7d10427088",
-          "sizeBytes": 109
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v73-sistemas-mansao/60f32be512e21171a921e30a1009703d09f132f40ae38936adfdcb595e6d31d6-CUSTOM.ide",
+          "sha256": "60f32be512e21171a921e30a1009703d09f132f40ae38936adfdcb595e6d31d6",
+          "sizeBytes": 158
         },
         {
           "path": "SAMP/custom.img",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v72-porta-mansao/2c7b6685b3052e4e7b48789c810647c19e263125693c0c030fa12ad7a0addf1c-custom.img",
-          "sha256": "2c7b6685b3052e4e7b48789c810647c19e263125693c0c030fa12ad7a0addf1c",
-          "sizeBytes": 1128448
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v73-sistemas-mansao/9f3a16204f498b957ddb332a630dc3006c63777c0ff82be29136cb008310c97e-custom.img",
+          "sha256": "9f3a16204f498b957ddb332a630dc3006c63777c0ff82be29136cb008310c97e",
+          "sizeBytes": 1155072
         },
         {
           "path": "SAMP/samaps.txd",
@@ -19879,9 +19879,9 @@
         "MoonLoader/NOVA-Reticle.lua"
       ],
       "mods": [],
-      "totalBytes": 2075041093,
-      "publishedAt": "2026-11-21T05:25:25.035Z",
-      "notes": "Porta deslizante e vidros cinza translucidos na mansao do streamer."
+      "totalBytes": 2075067766,
+      "publishedAt": "2026-11-21T07:59:23.770Z",
+      "notes": "Mansao revisada, com vidro escurecido, letreiro em malha unica e miniatura Enzo."
     }
   },
   "minimumGameBuild": 196,
