@@ -4389,9 +4389,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 74,
-      "publicationId": "2cc5f053-5ff6-43ff-a845-93bad6af45fe",
-      "updatedAt": "2026-11-21T08:22:51.990Z",
+      "dataVersion": 75,
+      "publicationId": "f4f1ed75-dff8-417f-8c56-ddd2b3fcbfe2",
+      "updatedAt": "2026-11-21T21:24:38.616Z",
       "distributionMode": "official",
       "files": [
         {
@@ -17448,8 +17448,8 @@
         },
         {
           "path": "SAMP/custom.img",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v74-cores-mansao/edfb3738938f63ef11ba919c33951e2c27e4d56fa362509dc620bdaf2ec3d04c-custom.img",
-          "sha256": "edfb3738938f63ef11ba919c33951e2c27e4d56fa362509dc620bdaf2ec3d04c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v75-colisao-miniatura-enzo/7e8a05855af82ea9a7a9761eaec148d10ca6c551c74313dbc65ad075b0a2d140-custom.img",
+          "sha256": "7e8a05855af82ea9a7a9761eaec148d10ca6c551c74313dbc65ad075b0a2d140",
           "sizeBytes": 1155072
         },
         {
@@ -19880,8 +19880,8 @@
       ],
       "mods": [],
       "totalBytes": 2075067766,
-      "publishedAt": "2026-11-21T08:22:51.990Z",
-      "notes": "Pilar vermelho, arco branco e janelas e porta em vidro fume."
+      "publishedAt": "2026-11-21T21:24:38.616Z",
+      "notes": "Corrige a colisao da miniatura Enzo (modelo 15996) no PC."
     }
   },
   "minimumGameBuild": 196,
