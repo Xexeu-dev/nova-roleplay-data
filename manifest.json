@@ -4389,9 +4389,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 69,
-      "publicationId": "9370316a-8526-43c5-9851-dd4aa8d4401b",
-      "updatedAt": "2026-11-20T22:48:28Z",
+      "dataVersion": 70,
+      "publicationId": "ac1f4450-f735-46b4-9810-d476565f4c65",
+      "updatedAt": "2026-11-21T03:45:02.296Z",
       "distributionMode": "official",
       "files": [
         {
@@ -17442,14 +17442,15 @@
         },
         {
           "path": "SAMP/CUSTOM.ide",
-          "sizeBytes": 0,
-          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v70-mansao-streamer/8058d3dc7c2beddba78f1a5e3a9a3c0c408fb86d7a4b9b5ba90cbf005eb35a9a-CUSTOM.ide",
+          "sha256": "8058d3dc7c2beddba78f1a5e3a9a3c0c408fb86d7a4b9b5ba90cbf005eb35a9a",
+          "sizeBytes": 60
         },
         {
           "path": "SAMP/custom.img",
-          "sizeBytes": 8192,
-          "sha256": "20de16a9abe3b2bf6f9fa415d855230a9c5487433b3c77037c2ee84d5f35df38",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v1-4ae48af5/20de16a9abe3b2bf6f9fa415d855230a9c5487433b3c77037c2ee84d5f35df38-custom.img"
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v70-mansao-streamer/1d72591e6dcf34ff05f31c852bee4c9e45e555ad7426b517715e8c188d25ba84-custom.img",
+          "sha256": "1d72591e6dcf34ff05f31c852bee4c9e45e555ad7426b517715e8c188d25ba84",
+          "sizeBytes": 2717696
         },
         {
           "path": "SAMP/samaps.txd",
@@ -19872,9 +19873,9 @@
         "MoonLoader/NOVA-Reticle.lua"
       ],
       "mods": [],
-      "totalBytes": 2073919722,
-      "publishedAt": "2026-11-20T22:48:28Z",
-      "notes": "Mira nativa ajustavel e tracante no GameFixer, logo em azul escuro, Jesko no Cheetah e modelo novo na skin 62."
+      "totalBytes": 2076629286,
+      "publishedAt": "2026-11-21T03:45:02.296Z",
+      "notes": "Mansao do streamer, com texturas e colisao."
     }
   },
   "minimumGameBuild": 196,
