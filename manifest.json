@@ -4389,9 +4389,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 70,
-      "publicationId": "ac1f4450-f735-46b4-9810-d476565f4c65",
-      "updatedAt": "2026-11-21T03:45:02.296Z",
+      "dataVersion": 71,
+      "publicationId": "a039a57e-31bb-4854-9006-6a4daeed19f0",
+      "updatedAt": "2026-11-21T04:52:28.168Z",
       "distributionMode": "official",
       "files": [
         {
@@ -17448,9 +17448,9 @@
         },
         {
           "path": "SAMP/custom.img",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v70-mansao-streamer/1d72591e6dcf34ff05f31c852bee4c9e45e555ad7426b517715e8c188d25ba84-custom.img",
-          "sha256": "1d72591e6dcf34ff05f31c852bee4c9e45e555ad7426b517715e8c188d25ba84",
-          "sizeBytes": 2717696
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v71-mansao-estavel/b0a1c9c9e6753da5403eb67f8769da98d8ee10fedd17c04676bcbf299770a439-custom.img",
+          "sha256": "b0a1c9c9e6753da5403eb67f8769da98d8ee10fedd17c04676bcbf299770a439",
+          "sizeBytes": 1124352
         },
         {
           "path": "SAMP/samaps.txd",
@@ -19873,9 +19873,9 @@
         "MoonLoader/NOVA-Reticle.lua"
       ],
       "mods": [],
-      "totalBytes": 2076629286,
-      "publishedAt": "2026-11-21T03:45:02.296Z",
-      "notes": "Mansao do streamer, com texturas e colisao."
+      "totalBytes": 2075035942,
+      "publishedAt": "2026-11-21T04:52:28.168Z",
+      "notes": "Corrige o fechamento do GTA ao carregar a mansao, com o modelo e as texturas em tamanhos compativeis."
     }
   },
   "minimumGameBuild": 196,
