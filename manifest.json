@@ -4389,9 +4389,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 73,
-      "publicationId": "5780c6d9-79e8-4496-aafb-49c5a01a944c",
-      "updatedAt": "2026-11-21T07:59:23.770Z",
+      "dataVersion": 74,
+      "publicationId": "2cc5f053-5ff6-43ff-a845-93bad6af45fe",
+      "updatedAt": "2026-11-21T08:22:51.990Z",
       "distributionMode": "official",
       "files": [
         {
@@ -17448,8 +17448,8 @@
         },
         {
           "path": "SAMP/custom.img",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v73-sistemas-mansao/9f3a16204f498b957ddb332a630dc3006c63777c0ff82be29136cb008310c97e-custom.img",
-          "sha256": "9f3a16204f498b957ddb332a630dc3006c63777c0ff82be29136cb008310c97e",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v74-cores-mansao/edfb3738938f63ef11ba919c33951e2c27e4d56fa362509dc620bdaf2ec3d04c-custom.img",
+          "sha256": "edfb3738938f63ef11ba919c33951e2c27e4d56fa362509dc620bdaf2ec3d04c",
           "sizeBytes": 1155072
         },
         {
@@ -19880,8 +19880,8 @@
       ],
       "mods": [],
       "totalBytes": 2075067766,
-      "publishedAt": "2026-11-21T07:59:23.770Z",
-      "notes": "Mansao revisada, com vidro escurecido, letreiro em malha unica e miniatura Enzo."
+      "publishedAt": "2026-11-21T08:22:51.990Z",
+      "notes": "Pilar vermelho, arco branco e janelas e porta em vidro fume."
     }
   },
   "minimumGameBuild": 196,
