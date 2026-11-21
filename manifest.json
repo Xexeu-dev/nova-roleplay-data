@@ -4389,9 +4389,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 71,
-      "publicationId": "a039a57e-31bb-4854-9006-6a4daeed19f0",
-      "updatedAt": "2026-11-21T04:52:28.168Z",
+      "dataVersion": 72,
+      "publicationId": "4967de5f-4d03-45c0-aa68-132c9d9e7ae8",
+      "updatedAt": "2026-11-21T05:25:25.035Z",
       "distributionMode": "official",
       "files": [
         {
@@ -17442,15 +17442,15 @@
         },
         {
           "path": "SAMP/CUSTOM.ide",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v70-mansao-streamer/8058d3dc7c2beddba78f1a5e3a9a3c0c408fb86d7a4b9b5ba90cbf005eb35a9a-CUSTOM.ide",
-          "sha256": "8058d3dc7c2beddba78f1a5e3a9a3c0c408fb86d7a4b9b5ba90cbf005eb35a9a",
-          "sizeBytes": 60
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v72-porta-mansao/752946dcf3bc070815345f07e988b40b6c36e841708b50153f39cb7d10427088-CUSTOM.ide",
+          "sha256": "752946dcf3bc070815345f07e988b40b6c36e841708b50153f39cb7d10427088",
+          "sizeBytes": 109
         },
         {
           "path": "SAMP/custom.img",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v71-mansao-estavel/b0a1c9c9e6753da5403eb67f8769da98d8ee10fedd17c04676bcbf299770a439-custom.img",
-          "sha256": "b0a1c9c9e6753da5403eb67f8769da98d8ee10fedd17c04676bcbf299770a439",
-          "sizeBytes": 1124352
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v72-porta-mansao/2c7b6685b3052e4e7b48789c810647c19e263125693c0c030fa12ad7a0addf1c-custom.img",
+          "sha256": "2c7b6685b3052e4e7b48789c810647c19e263125693c0c030fa12ad7a0addf1c",
+          "sizeBytes": 1128448
         },
         {
           "path": "SAMP/samaps.txd",
@@ -18927,6 +18927,12 @@
           "sha256": "d00e2eca060a3ee4872153169d0d771f377fa935d7841f80e3c6a0b16f131d20",
           "sizeBytes": 4494,
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v69-gfixer-jesko-skin62/d00e2eca060a3ee4872153169d0d771f377fa935d7841f80e3c6a0b16f131d20-NOVA-Aim.lua"
+        },
+        {
+          "path": "MoonLoader/NOVA-Mansao.lua",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v72-porta-mansao/bfb49fcaa4a2c1f804eadaa8a425c0ccf3d5fd33847dbefcf9781c8f63c40eaf-NOVA-Mansao.lua",
+          "sha256": "bfb49fcaa4a2c1f804eadaa8a425c0ccf3d5fd33847dbefcf9781c8f63c40eaf",
+          "sizeBytes": 1006
         }
       ],
       "deletes": [
@@ -19873,9 +19879,9 @@
         "MoonLoader/NOVA-Reticle.lua"
       ],
       "mods": [],
-      "totalBytes": 2075035942,
-      "publishedAt": "2026-11-21T04:52:28.168Z",
-      "notes": "Corrige o fechamento do GTA ao carregar a mansao, com o modelo e as texturas em tamanhos compativeis."
+      "totalBytes": 2075041093,
+      "publishedAt": "2026-11-21T05:25:25.035Z",
+      "notes": "Porta deslizante e vidros cinza translucidos na mansao do streamer."
     }
   },
   "minimumGameBuild": 196,
