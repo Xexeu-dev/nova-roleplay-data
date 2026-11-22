@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 44,
-  "updatedAt": "2026-11-20T22:48:28Z",
+  "dataVersion": 45,
+  "updatedAt": "2026-11-22T02:00:19.194Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -3045,15 +3045,9 @@
     },
     {
       "path": "data/vehicles.ide",
-      "sha256": "c72beb30315e210aa49d02e5a0c7feef92315f2d1bf1d599795919ab1075ae51",
       "sizeBytes": 21081,
-      "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v38-vehicle-names-verified/NOVA-DATA-v38-vehicle-names-verified.zip",
-        "start": 47,
-        "sizeBytes": 5912,
-        "compression": 8,
-        "archiveSizeBytes": 5698932
-      }
+      "sha256": "00aab9ded7040e52990e3fce9e4dbf6dc0414c4005e8235fa7ea9bcf09cb5932",
+      "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/animacoes-originais-motos/data-vehicles.ide"
     },
     {
       "path": "data/water.dat",
@@ -3406,14 +3400,8 @@
     {
       "path": "SAMP/vehicles.ide",
       "sizeBytes": 21105,
-      "sha256": "ce759cd95aa7b9a81b3b048c6966672b1aba5215b7a99a5b0e899b6bea13047e",
-      "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v38-vehicle-names-verified/NOVA-DATA-v38-vehicle-names-verified.zip",
-        "start": 6006,
-        "sizeBytes": 5917,
-        "compression": 8,
-        "archiveSizeBytes": 5698932
-      }
+      "sha256": "4ccba86dc7fc33d16aff8d2a0fa2075994a2e542393d717550225ca85da9725c",
+      "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/animacoes-originais-motos/SAMP-vehicles.ide"
     },
     {
       "path": "SAMP/WEAPON.dat",
@@ -4389,9 +4377,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 75,
-      "publicationId": "f4f1ed75-dff8-417f-8c56-ddd2b3fcbfe2",
-      "updatedAt": "2026-11-21T21:24:38.616Z",
+      "dataVersion": 76,
+      "publicationId": "7a97ff3c-f9bc-4523-b45b-46515774ee09",
+      "updatedAt": "2026-11-22T02:00:19.194Z",
       "distributionMode": "official",
       "files": [
         {
@@ -6318,9 +6306,9 @@
         },
         {
           "path": "data/vehicles.ide",
-          "sha256": "c72beb30315e210aa49d02e5a0c7feef92315f2d1bf1d599795919ab1075ae51",
           "sizeBytes": 21081,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v59-vehicle-names/c72beb30315e210aa49d02e5a0c7feef92315f2d1bf1d599795919ab1075ae51-vehicles.ide"
+          "sha256": "00aab9ded7040e52990e3fce9e4dbf6dc0414c4005e8235fa7ea9bcf09cb5932",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/animacoes-originais-motos/data-vehicles.ide"
         },
         {
           "path": "data/water.dat",
@@ -18737,12 +18725,6 @@
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v55-vehicles-bikes-41531c07/d63fbd5b1c0728058230e5216498fd799fcb55cbe5acbd03d51e0b6433907b29-washing.txd"
         },
         {
-          "path": "modloader/NOVA-ANIMACOES/bikes.ifp",
-          "sha256": "35a719b6b5c513f714df37bc37b8276f44e9a0ee8eb07a73c9d49585f765b94d",
-          "sizeBytes": 69632,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v58-phone-injury-tuning/35a719b6b5c513f714df37bc37b8276f44e9a0ee8eb07a73c9d49585f765b94d-bikes.ifp"
-        },
-        {
           "path": "MoonLoader/NOVA-Hud.lua",
           "sha256": "121843309d5fbfc1089770b7317a4e063df629572d158b28354ededd221c0729",
           "sizeBytes": 8439,
@@ -19876,19 +19858,20 @@
         "modloader/NOVA-PLACAS/rancher.txd",
         "modloader/NOVA-PLACAS/windsor.dff",
         "modloader/NOVA-PLACAS/windsor.txd",
-        "MoonLoader/NOVA-Reticle.lua"
+        "MoonLoader/NOVA-Reticle.lua",
+        "modloader/NOVA-ANIMACOES/bikes.ifp"
       ],
       "mods": [],
-      "totalBytes": 2075067766,
-      "publishedAt": "2026-11-21T21:24:38.616Z",
-      "notes": "Corrige a colisao da miniatura Enzo (modelo 15996) no PC."
+      "totalBytes": 2074998134,
+      "publishedAt": "2026-11-22T02:00:19.194Z",
+      "notes": "Restaura os grupos originais de animação de quatro motos e retira a substituição avulsa no PC."
     }
   },
   "minimumGameBuild": 196,
   "fileSyncSchema": 1,
   "mobileMods": {
     "schemaVersion": 1,
-    "version": 42,
+    "version": 43,
     "models": [
       {
         "name": "admiral.dff",
@@ -22449,7 +22432,7 @@
         }
       }
     ],
-    "animations": [
+    "stockMotorcycleAnimation": [
       {
         "name": "bikes.ifp",
         "sha256": "35a719b6b5c513f714df37bc37b8276f44e9a0ee8eb07a73c9d49585f765b94d",
