@@ -4377,9 +4377,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 77,
-      "publicationId": "48f68112-a801-47ea-881b-9b652996d331",
-      "updatedAt": "2026-11-22T02:07:17.027Z",
+      "dataVersion": 78,
+      "publicationId": "ea68d315-487c-4fdc-967c-03e451fef9d5",
+      "updatedAt": "2026-11-22T19:28:44.087Z",
       "distributionMode": "official",
       "files": [
         {
@@ -17304,9 +17304,9 @@
         },
         {
           "path": "MoonLoader/NOVA-Phone.lua",
-          "sizeBytes": 22261,
-          "sha256": "61cf69eb757cfdde5d675a7aceec6eab052bc5f341e5a3f4c369f8ee5a85bb81",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v63-colecao-nova/61cf69eb757cfdde5d675a7aceec6eab052bc5f341e5a3f4c369f8ee5a85bb81-NOVA-Phone.lua"
+          "sizeBytes": 24577,
+          "sha256": "bdb3368c5866b89fa1029a4444a2a13e33f74237a709d54ae24ad93b3eaece4f",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v78-mira-video/bdb3368c5866b89fa1029a4444a2a13e33f74237a709d54ae24ad93b3eaece4f-NOVA-Phone.lua"
         },
         {
           "path": "MoonLoader/NOVA-VoiceRecovery.lua",
@@ -18906,15 +18906,21 @@
         },
         {
           "path": "MoonLoader/lib/NOVA-Aim.lua",
-          "sha256": "d00e2eca060a3ee4872153169d0d771f377fa935d7841f80e3c6a0b16f131d20",
-          "sizeBytes": 4494,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v69-gfixer-jesko-skin62/d00e2eca060a3ee4872153169d0d771f377fa935d7841f80e3c6a0b16f131d20-NOVA-Aim.lua"
+          "sizeBytes": 4536,
+          "sha256": "95832257a5f729dbb69c6bd2f39378b578a4835f153fbfd032bec56712a75961",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v78-mira-video/95832257a5f729dbb69c6bd2f39378b578a4835f153fbfd032bec56712a75961-NOVA-Aim.lua"
         },
         {
           "path": "MoonLoader/NOVA-Mansao.lua",
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v72-porta-mansao/bfb49fcaa4a2c1f804eadaa8a425c0ccf3d5fd33847dbefcf9781c8f63c40eaf-NOVA-Mansao.lua",
           "sha256": "bfb49fcaa4a2c1f804eadaa8a425c0ccf3d5fd33847dbefcf9781c8f63c40eaf",
           "sizeBytes": 1006
+        },
+        {
+          "path": "MoonLoader/NOVA-Reticle.lua",
+          "sizeBytes": 354,
+          "sha256": "6315e10a305554ddc2f5703d9c025f8797c1b0feaa2d255782eac310fba3dcab",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v78-mira-video/6315e10a305554ddc2f5703d9c025f8797c1b0feaa2d255782eac310fba3dcab-NOVA-Reticle.lua"
         }
       ],
       "deletes": [
@@ -19858,13 +19864,12 @@
         "modloader/NOVA-PLACAS/rancher.txd",
         "modloader/NOVA-PLACAS/windsor.dff",
         "modloader/NOVA-PLACAS/windsor.txd",
-        "MoonLoader/NOVA-Reticle.lua",
         "modloader/NOVA-ANIMACOES/bikes.ifp"
       ],
       "mods": [],
-      "totalBytes": 2074998134,
-      "publishedAt": "2026-11-22T02:07:17.027Z",
-      "notes": "Corrige o ponto de entrada e a posição do banco dianteiro no Hyundai Creta 2024 e no Ford GT40 para PC e Android."
+      "totalBytes": 2075000846,
+      "publishedAt": "2026-11-22T19:28:44.087Z",
+      "notes": "Mira e camera usam a mesma coordenada. Videochamadas recebem convites e liberam movimento; F10 alterna o cursor durante a chamada."
     }
   },
   "minimumGameBuild": 196,
