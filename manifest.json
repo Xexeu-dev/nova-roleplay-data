@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 46,
-  "updatedAt": "2026-11-22T02:07:17.027Z",
+  "dataVersion": 47,
+  "updatedAt": "2026-11-22T16:04:28.177Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -369,14 +369,14 @@
   "files": [
     {
       "path": "anim/anim.img",
-      "sha256": "1a2effa6f69f47ae6e923bdced2158ac5d8ebd50af9c1eafa636d17a5e73d7d8",
-      "sizeBytes": 10964992,
+      "sizeBytes": 10942464,
+      "sha256": "bdde1f918fb12e4b4b9e46927f8a0281b6d80b85551b716e74cca68c6c9138ae",
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v36-bike-poses/NOVA-DATA-v36-bike-poses.zip",
-        "start": 43,
-        "sizeBytes": 5545341,
-        "compression": 8,
-        "archiveSizeBytes": 5551527
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v1/nova-data-base-v1.zip",
+        "start": 450490,
+        "sizeBytes": 5538292,
+        "archiveSizeBytes": 361532214,
+        "compression": 8
       }
     },
     {
@@ -3045,9 +3045,9 @@
     },
     {
       "path": "data/vehicles.ide",
-      "sizeBytes": 21081,
-      "sha256": "00aab9ded7040e52990e3fce9e4dbf6dc0414c4005e8235fa7ea9bcf09cb5932",
-      "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/animacoes-originais-motos/data-vehicles.ide"
+      "sizeBytes": 21078,
+      "sha256": "48c3f6490d9aa33583100cddfecb14783f49303495fe9505d7fe505f0e709af8",
+      "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-data-v47-stock-animations/data-vehicles.ide"
     },
     {
       "path": "data/water.dat",
@@ -19871,7 +19871,7 @@
   "fileSyncSchema": 1,
   "mobileMods": {
     "schemaVersion": 1,
-    "version": 44,
+    "version": 45,
     "models": [
       {
         "name": "admiral.dff",
@@ -22445,6 +22445,7 @@
           "archiveSizeBytes": 30651
         }
       }
-    ]
+    ],
+    "stockAnimationFiles": true
   }
 }
