@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 45,
-  "updatedAt": "2026-11-22T02:00:19.194Z",
+  "dataVersion": 46,
+  "updatedAt": "2026-11-22T02:07:17.027Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -3495,39 +3495,39 @@
     },
     {
       "path": "texdb/gta3.img",
-      "sha256": "fae366b774cf54891febdb05224014644e948886c831d306d09d2c040488083b",
+      "sha256": "1cb446267d1051214fe862d6f717e132ff16016a0ae1999c87449a4c46396c0a",
       "sizeBytes": 924217344,
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v44-jesko-skin62/NOVA-DATA-v44.zip",
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/assentos-creta-ford-gt40/NOVA-IMG-Assentos-Android.zip",
         "start": 44,
-        "sizeBytes": 414422399,
-        "archiveSizeBytes": 510757727,
+        "sizeBytes": 419832118,
+        "archiveSizeBytes": 419832244,
         "compression": 8
       },
       "modelDelta": {
-        "fromSha256": "019cec4a82e879ddb276b94a78dc9da531fadb374ce20edac0cd37a1247bc984",
+        "fromSha256": "fae366b774cf54891febdb05224014644e948886c831d306d09d2c040488083b",
         "models": [
           {
-            "name": "cheetah.dff",
-            "sha256": "bdd50b82fd9375183e4d65c8270fafb2aef851fed2630d4a96595f16554f9328",
-            "sizeBytes": 3686400,
+            "name": "regina.dff",
+            "sizeBytes": 16097280,
+            "sha256": "53566c4f468b590036fd1abc33db39e73155dc2922ebd30f6006db019c9dce99",
             "source": {
-              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v42-jesko-skin62/NOVA-MODS-v42-DELTA.zip",
-              "start": 48,
-              "sizeBytes": 1649858,
-              "archiveSizeBytes": 2798338,
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/assentos-creta-ford-gt40/NOVA-Assentos-Android.zip",
+              "start": 40,
+              "sizeBytes": 9562228,
+              "archiveSizeBytes": 15561877,
               "compression": 8
             }
           },
           {
-            "name": "wmopj.dff",
-            "sha256": "9dd6c15a42d249999801a8cf97c9c44bd445cbeaf757c5164be4ec6f2e840109",
-            "sizeBytes": 634880,
+            "name": "supergt.dff",
+            "sizeBytes": 15476736,
+            "sha256": "6a6bae028e4d27bd0bd10dd9bc1a3fece808202a61599ac925bf9a14df108ecb",
             "source": {
-              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v42-jesko-skin62/NOVA-MODS-v42-DELTA.zip",
-              "start": 1649952,
-              "sizeBytes": 346413,
-              "archiveSizeBytes": 2798338,
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/assentos-creta-ford-gt40/NOVA-Assentos-Android.zip",
+              "start": 9562309,
+              "sizeBytes": 5999433,
+              "archiveSizeBytes": 15561877,
               "compression": 8
             }
           }
@@ -4377,9 +4377,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 76,
-      "publicationId": "7a97ff3c-f9bc-4523-b45b-46515774ee09",
-      "updatedAt": "2026-11-22T02:00:19.194Z",
+      "dataVersion": 77,
+      "publicationId": "48f68112-a801-47ea-881b-9b652996d331",
+      "updatedAt": "2026-11-22T02:07:17.027Z",
       "distributionMode": "official",
       "files": [
         {
@@ -17971,8 +17971,8 @@
         {
           "path": "modloader/NOVA-VEICULOS/supergt/supergt.dff",
           "sizeBytes": 15474688,
-          "sha256": "a4b9f3bab9a0d6127e472bac17fb94e3836cc534f9860cfa1d7172c00239fb81",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/a4b9f3bab9a0d6127e472bac17fb94e3836cc534f9860cfa1d7172c00239fb81-supergt.dff"
+          "sha256": "d730f143ce77308487c88907fb871bf2f12fe4abc4ae85c4bc6657219183a6c1",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/assentos-creta-ford-gt40/d730f143ce77308487c88907fb871bf2f12fe4abc4ae85c4bc6657219183a6c1-supergt.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/supergt/supergt.txd",
@@ -18703,8 +18703,8 @@
         {
           "path": "modloader/NOVA-VEICULOS/regina/regina.dff",
           "sizeBytes": 16095934,
-          "sha256": "33fe26430d7ec8d96229b9c7826a978eb977c41bdb8b3d38b905461504868f0c",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/33fe26430d7ec8d96229b9c7826a978eb977c41bdb8b3d38b905461504868f0c-regina.dff"
+          "sha256": "d0cd57790acf209cb7b9a584a941ffba1a671e0614f5c80a51d611f479ffeede",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/assentos-creta-ford-gt40/d0cd57790acf209cb7b9a584a941ffba1a671e0614f5c80a51d611f479ffeede-regina.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/regina/regina.txd",
@@ -19863,15 +19863,15 @@
       ],
       "mods": [],
       "totalBytes": 2074998134,
-      "publishedAt": "2026-11-22T02:00:19.194Z",
-      "notes": "Restaura os grupos originais de animação de quatro motos e retira a substituição avulsa no PC."
+      "publishedAt": "2026-11-22T02:07:17.027Z",
+      "notes": "Corrige o ponto de entrada e a posição do banco dianteiro no Hyundai Creta 2024 e no Ford GT40 para PC e Android."
     }
   },
   "minimumGameBuild": 196,
   "fileSyncSchema": 1,
   "mobileMods": {
     "schemaVersion": 1,
-    "version": 43,
+    "version": 44,
     "models": [
       {
         "name": "admiral.dff",
@@ -21399,13 +21399,13 @@
       },
       {
         "name": "regina.dff",
-        "sha256": "ff04b3d6e28f2eb1c93d00266939eaff790e9b865ccef3daddd29337b9877049",
         "sizeBytes": 16097280,
+        "sha256": "53566c4f468b590036fd1abc33db39e73155dc2922ebd30f6006db019c9dce99",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
-          "start": 134579631,
-          "sizeBytes": 9598369,
-          "archiveSizeBytes": 201748617,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/assentos-creta-ford-gt40/NOVA-Assentos-Android.zip",
+          "start": 40,
+          "sizeBytes": 9562228,
+          "archiveSizeBytes": 15561877,
           "compression": 8
         }
       },
@@ -21711,13 +21711,13 @@
       },
       {
         "name": "supergt.dff",
-        "sha256": "d6061f08f910b4eff5e82e8d4f69bf314246fd749ee57da31566deb00c48bf99",
         "sizeBytes": 15476736,
+        "sha256": "6a6bae028e4d27bd0bd10dd9bc1a3fece808202a61599ac925bf9a14df108ecb",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
-          "start": 179463981,
-          "sizeBytes": 6019783,
-          "archiveSizeBytes": 201748617,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/assentos-creta-ford-gt40/NOVA-Assentos-Android.zip",
+          "start": 9562309,
+          "sizeBytes": 5999433,
+          "archiveSizeBytes": 15561877,
           "compression": 8
         }
       },
