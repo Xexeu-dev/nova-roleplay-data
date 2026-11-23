@@ -4377,9 +4377,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 79,
-      "publicationId": "84822810-d437-46e8-89bb-fa5699753336",
-      "updatedAt": "2026-11-23T03:33:37.478Z",
+      "dataVersion": 80,
+      "publicationId": "f7c2f599-e7e9-4e43-b12b-4615ad82f6ba",
+      "updatedAt": "2026-11-23T03:40:57.212Z",
       "distributionMode": "official",
       "files": [
         {
@@ -17304,9 +17304,9 @@
         },
         {
           "path": "MoonLoader/NOVA-Phone.lua",
-          "sizeBytes": 25372,
-          "sha256": "f80fd050c39cc716c7987fb254271b8f8cbdd000d1fb47f3742283d9437712c1",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v79-tuning-gps-phone/f80fd050c39cc716c7987fb254271b8f8cbdd000d1fb47f3742283d9437712c1-NOVA-Phone.lua"
+          "sizeBytes": 25418,
+          "sha256": "6d79235e056c861ed27f7322c53c4420416e0eb3a0e087c0203196a98696a804",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v80-notificacoes/6d79235e056c861ed27f7322c53c4420416e0eb3a0e087c0203196a98696a804-NOVA-Phone.lua"
         },
         {
           "path": "MoonLoader/NOVA-VoiceRecovery.lua",
@@ -19891,9 +19891,9 @@
         "modloader/NOVA-ANIMACOES/bikes.ifp"
       ],
       "mods": [],
-      "totalBytes": 2076214296,
-      "publishedAt": "2026-11-23T03:33:37.478Z",
-      "notes": "GPS com linha vermelha fina no mapa e setas azul-claro nas ruas, usando a mesma malha viaria do APK. Novo tuning por veiculo com turbo, blindagem, pneus e buzinas sem alterar a velocidade configurada. Notificacoes mostram contato e mensagem no topo do telefone, no canto inferior direito."
+      "totalBytes": 2076214342,
+      "publishedAt": "2026-11-23T03:40:57.212Z",
+      "notes": "Notificacoes de aplicativos intercalados mostram sempre a mensagem e o contato mais recentes. Mantem o novo GPS, tuning e as demais correcoes da Data 79."
     }
   },
   "minimumGameBuild": 196,
