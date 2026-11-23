@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "dataVersion": 49,
-  "updatedAt": "2026-11-23T23:30:48.320864+00:00",
+  "updatedAt": "2026-11-23T23:49:50.372Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -4375,8 +4375,8 @@
   "platforms": {
     "windows": {
       "dataVersion": 84,
-      "publicationId": "f5ab2008-9c2f-41f5-8acc-64126113dc36",
-      "updatedAt": "2026-11-23T23:30:48.320864+00:00",
+      "publicationId": "645d179e-00af-4534-a6e3-6c7ff50daf7d",
+      "updatedAt": "2026-11-23T23:49:50.372Z",
       "distributionMode": "official",
       "files": [
         {
@@ -4640,7 +4640,7 @@
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v5-7d812a00/ad0b170d940213097ec196c644b42e798960c7da01e5645b45c7250fc2874e46-Read_Me.txt"
         },
         {
-          "path": "CREDITOS-MODS/porsche/crÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â©ditos.txt",
+          "path": "CREDITOS-MODS/porsche/crÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â©ditos.txt",
           "sizeBytes": 106,
           "sha256": "07b85c7350c8783b0b0cd10072fd042653ea5e1dda7d7afaabd46a99a2e572fb",
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v4-d7210caf/07b85c7350c8783b0b0cd10072fd042653ea5e1dda7d7afaabd46a99a2e572fb-cr_ditos.txt"
@@ -19913,7 +19913,7 @@
       ],
       "mods": [],
       "totalBytes": 2081494783,
-      "publishedAt": "2026-11-23T23:30:48.320864+00:00",
+      "publishedAt": "2026-11-23T23:49:50.372Z",
       "notes": "Audio local da JBL, veiculos e telefone; skin feminina ByGuii no modelo 75. Demais mods preservados."
     }
   },
