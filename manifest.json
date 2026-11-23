@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 48,
-  "updatedAt": "2026-11-23T08:19:49.521Z",
+  "dataVersion": 49,
+  "updatedAt": "2026-11-23T23:30:48.320864+00:00",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -363,6 +363,15 @@
       "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v43-native-crosshair/NOVA-DATA-v43-mira.zip",
       "sha256": "b4e1a9a5a9baf1bb2ef64a0966180d8ec023341804b3ec980b6a300215cb6a56",
       "sizeBytes": 2690075,
+      "deletes": []
+    },
+    {
+      "kind": "package",
+      "version": 49,
+      "fromVersion": 48,
+      "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v49-skin75/NOVA-DATA-v49-skin75.zip",
+      "sha256": "4cb47203a224cf75794ed9cb09defba8ae4562bd763d106d84971f5c276febe6",
+      "sizeBytes": 502721467,
       "deletes": []
     }
   ],
@@ -3495,39 +3504,27 @@
     },
     {
       "path": "texdb/gta3.img",
-      "sha256": "1cb446267d1051214fe862d6f717e132ff16016a0ae1999c87449a4c46396c0a",
-      "sizeBytes": 924217344,
+      "sizeBytes": 927219712,
+      "sha256": "9a545f128f6d4a0d52b49ff479b118229830da412793c83fa0acb491a1805ecd",
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/assentos-creta-ford-gt40/NOVA-IMG-Assentos-Android.zip",
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v49-skin75/NOVA-DATA-v49-skin75.zip",
         "start": 44,
-        "sizeBytes": 419832118,
-        "archiveSizeBytes": 419832244,
+        "sizeBytes": 409873552,
+        "archiveSizeBytes": 502721467,
         "compression": 8
       },
       "modelDelta": {
-        "fromSha256": "fae366b774cf54891febdb05224014644e948886c831d306d09d2c040488083b",
+        "fromSha256": "1cb446267d1051214fe862d6f717e132ff16016a0ae1999c87449a4c46396c0a",
         "models": [
           {
-            "name": "regina.dff",
-            "sizeBytes": 16097280,
-            "sha256": "53566c4f468b590036fd1abc33db39e73155dc2922ebd30f6006db019c9dce99",
+            "name": "swfopro.dff",
+            "sizeBytes": 3041280,
+            "sha256": "cb70b3288b7c508b76795d2e5c82844ebf73264758b5392c62bd45f9b9dbaa69",
             "source": {
-              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/assentos-creta-ford-gt40/NOVA-Assentos-Android.zip",
-              "start": 40,
-              "sizeBytes": 9562228,
-              "archiveSizeBytes": 15561877,
-              "compression": 8
-            }
-          },
-          {
-            "name": "supergt.dff",
-            "sizeBytes": 15476736,
-            "sha256": "6a6bae028e4d27bd0bd10dd9bc1a3fece808202a61599ac925bf9a14df108ecb",
-            "source": {
-              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/assentos-creta-ford-gt40/NOVA-Assentos-Android.zip",
-              "start": 9562309,
-              "sizeBytes": 5999433,
-              "archiveSizeBytes": 15561877,
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v49-skin75/NOVA-skin75-delta.zip",
+              "start": 48,
+              "sizeBytes": 1569619,
+              "archiveSizeBytes": 2193701,
               "compression": 8
             }
           }
@@ -4304,61 +4301,61 @@
     },
     {
       "path": "texdb/nova_mods/nova_mods.txt",
-      "sha256": "4123a77a8fc1d63b65ab9cc1ca42fad9ac2d18a204979e8cd896fcf72db41ea5",
-      "sizeBytes": 140976,
+      "sizeBytes": 141529,
+      "sha256": "95b5ae1c70bcc4bc3cdcd712d703b5002888caf2672e3edab8e007845daa40e8",
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v44-jesko-skin62/NOVA-DATA-v44.zip",
-        "start": 510710817,
-        "sizeBytes": 27775,
-        "archiveSizeBytes": 510757727,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v49-skin75/NOVA-DATA-v49-skin75.zip",
+        "start": 409873655,
+        "sizeBytes": 26013,
+        "archiveSizeBytes": 502721467,
         "compression": 8
       }
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.dat",
-      "sha256": "028cf57c3c7dfd045736432e54e7d30b7d70ca444a3349cfbf2e71bb688885b3",
-      "sizeBytes": 534438632,
+      "sizeBytes": 538807806,
+      "sha256": "e15bb6f30d6ba5b21be9736ee073b859e8be28f553b4f4bdfd915b05b9705a63",
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v44-jesko-skin62/NOVA-DATA-v44.zip",
-        "start": 414422506,
-        "sizeBytes": 96288252,
-        "archiveSizeBytes": 510757727,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v49-skin75/NOVA-DATA-v49-skin75.zip",
+        "start": 409899731,
+        "sizeBytes": 92802645,
+        "archiveSizeBytes": 502721467,
         "compression": 8
       },
       "appendDelta": {
-        "fromSizeBytes": 529894680,
-        "fromSha256": "b7b23ae523a81ce3ca5df30d869dab9b90fd0d0f5d1f4ff70009caaea1935374",
-        "sha256": "bb3f7790bd76612a0ba57e905a08f1ce4d2d602ef1cc291839b89564b18aa3aa",
+        "fromSizeBytes": 534438632,
+        "fromSha256": "028cf57c3c7dfd045736432e54e7d30b7d70ca444a3349cfbf2e71bb688885b3",
+        "sha256": "c04fc8509b1b7ddd188225f75b86716b4b96c1f2d38c2a37a61851b76905cc63",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v42-jesko-skin62/NOVA-MODS-v42-DELTA.zip",
-          "start": 1996425,
-          "sizeBytes": 801689,
-          "archiveSizeBytes": 2798338,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v49-skin75/NOVA-skin75-delta.zip",
+          "start": 1569730,
+          "sizeBytes": 623806,
+          "archiveSizeBytes": 2193701,
           "compression": 8
         }
       }
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.tmb",
-      "sha256": "906f97477b911b651d7e129c68228b71966cca4d3b04c325e98433dbb051b24a",
-      "sizeBytes": 35480,
+      "sizeBytes": 35620,
+      "sha256": "2ea99a949b40a1abb1e6bbffbc76be59209d273a00249595151f127ad8d19114",
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v44-jesko-skin62/NOVA-DATA-v44.zip",
-        "start": 510745555,
-        "sizeBytes": 11778,
-        "archiveSizeBytes": 510757727,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v49-skin75/NOVA-DATA-v49-skin75.zip",
+        "start": 502709364,
+        "sizeBytes": 11709,
+        "archiveSizeBytes": 502721467,
         "compression": 8
       }
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.toc",
-      "sha256": "74507d954eeb6331196c38d9611e1ad2ea234c30069d8a5e76ef34e38dabc330",
-      "sizeBytes": 7100,
+      "sizeBytes": 7128,
+      "sha256": "1bf42fcc9e61a4dea4658985693072868a2e5e2afa3d87d20512d7927f04a1c9",
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v44-jesko-skin62/NOVA-DATA-v44.zip",
-        "start": 510738655,
-        "sizeBytes": 6837,
-        "archiveSizeBytes": 510757727,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v49-skin75/NOVA-DATA-v49-skin75.zip",
+        "start": 502702439,
+        "sizeBytes": 6862,
+        "archiveSizeBytes": 502721467,
         "compression": 8
       }
     },
@@ -4377,9 +4374,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 83,
-      "publicationId": "75848210-5f7f-4355-bd99-d1d90eb4cd78",
-      "updatedAt": "2026-11-23T08:19:49.521Z",
+      "dataVersion": 84,
+      "publicationId": "f5ab2008-9c2f-41f5-8acc-64126113dc36",
+      "updatedAt": "2026-11-23T23:30:48.320864+00:00",
       "distributionMode": "official",
       "files": [
         {
@@ -4643,7 +4640,7 @@
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v5-7d812a00/ad0b170d940213097ec196c644b42e798960c7da01e5645b45c7250fc2874e46-Read_Me.txt"
         },
         {
-          "path": "CREDITOS-MODS/porsche/crÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â©ditos.txt",
+          "path": "CREDITOS-MODS/porsche/crÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â©ditos.txt",
           "sizeBytes": 106,
           "sha256": "07b85c7350c8783b0b0cd10072fd042653ea5e1dda7d7afaabd46a99a2e572fb",
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v4-d7210caf/07b85c7350c8783b0b0cd10072fd042653ea5e1dda7d7afaabd46a99a2e572fb-cr_ditos.txt"
@@ -17304,9 +17301,9 @@
         },
         {
           "path": "MoonLoader/NOVA-Phone.lua",
-          "sizeBytes": 25418,
-          "sha256": "6d79235e056c861ed27f7322c53c4420416e0eb3a0e087c0203196a98696a804",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v80-notificacoes/6d79235e056c861ed27f7322c53c4420416e0eb3a0e087c0203196a98696a804-NOVA-Phone.lua"
+          "sizeBytes": 27850,
+          "sha256": "fda9c321c528bb07013c395d7ebeba93d8c1531de6673b089f23e37431bad07f",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v84-audio-skin75/fda9c321c528bb07013c395d7ebeba93d8c1531de6673b089f23e37431bad07f-NOVA-Phone.lua"
         },
         {
           "path": "MoonLoader/NOVA-VoiceRecovery.lua",
@@ -17844,9 +17841,9 @@
         },
         {
           "path": "NovaPhoneRenderer.dll",
-          "sizeBytes": 53248,
-          "sha256": "b67a50e13f1bf5d69f32851e3cc2b315792c8a188decd26d0a0091132d2d57e0",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-41-correcoes-20261113/b67a50e13f1bf5d69f32851e3cc2b315792c8a188decd26d0a0091132d2d57e0-NovaPhoneRenderer.dll"
+          "sizeBytes": 475648,
+          "sha256": "c1dfe34053d463add4292619b0aa9d24b373fd63fe674035292e1c9e9be898ad",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v84-audio-skin75/c1dfe34053d463add4292619b0aa9d24b373fd63fe674035292e1c9e9be898ad-NovaPhoneRenderer.dll"
         },
         {
           "path": "MoonLoader/lib/nova/phone_legacy.lua",
@@ -18957,6 +18954,18 @@
           "sizeBytes": 1066,
           "sha256": "527ab6c9dbdd0a030c3ce6fbc78894d1ca337c801b279681702cb48b4ad6044e",
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v48-pc83-interfaces-vidro/527ab6c9dbdd0a030c3ce6fbc78894d1ca337c801b279681702cb48b4ad6044e-NOVA-ObjectScale.lua"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/swfopro.dff",
+          "sizeBytes": 3040527,
+          "sha256": "2777773e2aa7f9117c22c3ef011197b5bb9796bedba920169e00d1ac4df077ce",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v84-audio-skin75/2777773e2aa7f9117c22c3ef011197b5bb9796bedba920169e00d1ac4df077ce-swfopro.dff"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/swfopro.txd",
+          "sizeBytes": 1810168,
+          "sha256": "e59f7c7f791b71bef2ef9268067da78203f8fa340799e9f6cf372a80803fa638",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v84-audio-skin75/e59f7c7f791b71bef2ef9268067da78203f8fa340799e9f6cf372a80803fa638-swfopro.txd"
         }
       ],
       "deletes": [
@@ -19903,16 +19912,16 @@
         "modloader/NOVA-ANIMACOES/bikes.ifp"
       ],
       "mods": [],
-      "totalBytes": 2076219256,
-      "publishedAt": "2026-11-23T08:19:49.521Z",
-      "notes": "GPS libera a camera com mouse; R1 com freio 50% mais forte e estabilidade ajustada; Caveirao acelera 40% mais; Chevette com vidro fume claro; tamanho de acessorios sincronizado. Calculadora HTML requer launcher 46 ou APK 234."
+      "totalBytes": 2081494783,
+      "publishedAt": "2026-11-23T23:30:48.320864+00:00",
+      "notes": "Audio local da JBL, veiculos e telefone; skin feminina ByGuii no modelo 75. Demais mods preservados."
     }
   },
   "minimumGameBuild": 196,
   "fileSyncSchema": 1,
   "mobileMods": {
     "schemaVersion": 1,
-    "version": 46,
+    "version": 47,
     "models": [
       {
         "name": "admiral.dff",
@@ -22409,66 +22418,78 @@
           "archiveSizeBytes": 2798338,
           "compression": 8
         }
+      },
+      {
+        "name": "swfopro.dff",
+        "sizeBytes": 3041280,
+        "sha256": "cb70b3288b7c508b76795d2e5c82844ebf73264758b5392c62bd45f9b9dbaa69",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v49-skin75/NOVA-skin75-delta.zip",
+          "start": 48,
+          "sizeBytes": 1569619,
+          "archiveSizeBytes": 2193701,
+          "compression": 8
+        }
       }
     ],
     "files": [
       {
         "path": "texdb/nova_mods/nova_mods.txt",
-        "sha256": "4123a77a8fc1d63b65ab9cc1ca42fad9ac2d18a204979e8cd896fcf72db41ea5",
-        "sizeBytes": 140976,
+        "sizeBytes": 141529,
+        "sha256": "95b5ae1c70bcc4bc3cdcd712d703b5002888caf2672e3edab8e007845daa40e8",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v44-jesko-skin62/NOVA-DATA-v44.zip",
-          "start": 510710817,
-          "sizeBytes": 27775,
-          "archiveSizeBytes": 510757727,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v47-skin75/NOVA-MODS-skin75.zip",
+          "start": 1569713,
+          "sizeBytes": 26013,
+          "archiveSizeBytes": 94417529,
           "compression": 8
         }
       },
       {
         "path": "texdb/nova_mods/nova_mods.etc.dat",
-        "sha256": "028cf57c3c7dfd045736432e54e7d30b7d70ca444a3349cfbf2e71bb688885b3",
-        "sizeBytes": 534438632,
+        "sizeBytes": 538807806,
+        "sha256": "e15bb6f30d6ba5b21be9736ee073b859e8be28f553b4f4bdfd915b05b9705a63",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v44-jesko-skin62/NOVA-DATA-v44.zip",
-          "start": 414422506,
-          "sizeBytes": 96288252,
-          "archiveSizeBytes": 510757727,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v47-skin75/NOVA-MODS-skin75.zip",
+          "start": 1595789,
+          "sizeBytes": 92802645,
+          "archiveSizeBytes": 94417529,
           "compression": 8
         },
         "appendDelta": {
-          "fromSizeBytes": 529894680,
-          "fromSha256": "b7b23ae523a81ce3ca5df30d869dab9b90fd0d0f5d1f4ff70009caaea1935374",
-          "sha256": "bb3f7790bd76612a0ba57e905a08f1ce4d2d602ef1cc291839b89564b18aa3aa",
+          "fromSizeBytes": 534438632,
+          "fromSha256": "028cf57c3c7dfd045736432e54e7d30b7d70ca444a3349cfbf2e71bb688885b3",
+          "sha256": "c04fc8509b1b7ddd188225f75b86716b4b96c1f2d38c2a37a61851b76905cc63",
           "source": {
-            "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v42-jesko-skin62/NOVA-MODS-v42-DELTA.zip",
-            "start": 1996425,
-            "sizeBytes": 801689,
-            "archiveSizeBytes": 2798338,
+            "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v49-skin75/NOVA-skin75-delta.zip",
+            "start": 1569730,
+            "sizeBytes": 623806,
+            "archiveSizeBytes": 2193701,
             "compression": 8
           }
         }
       },
       {
         "path": "texdb/nova_mods/nova_mods.etc.toc",
-        "sha256": "74507d954eeb6331196c38d9611e1ad2ea234c30069d8a5e76ef34e38dabc330",
-        "sizeBytes": 7100,
+        "sizeBytes": 7128,
+        "sha256": "1bf42fcc9e61a4dea4658985693072868a2e5e2afa3d87d20512d7927f04a1c9",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v44-jesko-skin62/NOVA-DATA-v44.zip",
-          "start": 510738655,
-          "sizeBytes": 6837,
-          "archiveSizeBytes": 510757727,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v47-skin75/NOVA-MODS-skin75.zip",
+          "start": 94398497,
+          "sizeBytes": 6862,
+          "archiveSizeBytes": 94417529,
           "compression": 8
         }
       },
       {
         "path": "texdb/nova_mods/nova_mods.etc.tmb",
-        "sha256": "906f97477b911b651d7e129c68228b71966cca4d3b04c325e98433dbb051b24a",
-        "sizeBytes": 35480,
+        "sizeBytes": 35620,
+        "sha256": "2ea99a949b40a1abb1e6bbffbc76be59209d273a00249595151f127ad8d19114",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v44-jesko-skin62/NOVA-DATA-v44.zip",
-          "start": 510745555,
-          "sizeBytes": 11778,
-          "archiveSizeBytes": 510757727,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v47-skin75/NOVA-MODS-skin75.zip",
+          "start": 94405422,
+          "sizeBytes": 11709,
+          "archiveSizeBytes": 94417529,
           "compression": 8
         }
       }
