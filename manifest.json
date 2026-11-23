@@ -4377,9 +4377,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 81,
-      "publicationId": "27428177-0fd9-4bb5-829d-780d7185206d",
-      "updatedAt": "2026-11-23T06:43:33.167Z",
+      "dataVersion": 82,
+      "publicationId": "d2e0c9cf-8a43-46e9-bb3d-89ef4ebc35ee",
+      "updatedAt": "2026-11-23T06:54:19.062Z",
       "distributionMode": "official",
       "files": [
         {
@@ -18948,9 +18948,9 @@
         },
         {
           "path": "MoonLoader/NOVA-Dismantle.lua",
-          "sizeBytes": 3318,
-          "sha256": "9c0883861a5f6fe77addaa0bbdb89f502c4d2d243c00df800c2a6fef4ae6db5b",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v81-desmanche/9c0883861a5f6fe77addaa0bbdb89f502c4d2d243c00df800c2a6fef4ae6db5b-NOVA-Dismantle.lua"
+          "sizeBytes": 3439,
+          "sha256": "2e4c163d1e0f8f47a3f2d0a0edbe8255f38dad779d121ed606974c85019ebb4b",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v82-desmanche/2e4c163d1e0f8f47a3f2d0a0edbe8255f38dad779d121ed606974c85019ebb4b-NOVA-Dismantle.lua"
         }
       ],
       "deletes": [
@@ -19897,8 +19897,8 @@
         "modloader/NOVA-ANIMACOES/bikes.ifp"
       ],
       "mods": [],
-      "totalBytes": 2076217660,
-      "publishedAt": "2026-11-23T06:43:33.167Z",
+      "totalBytes": 2076217781,
+      "publishedAt": "2026-11-23T06:54:19.062Z",
       "notes": "Desmanche por pecas sincroniza a remocao individual de rodas e portas dos carros modificados. Preserva o GPS, tuning, entrada nos carros, mods, velocidades e os demais arquivos da Data 80."
     }
   },
