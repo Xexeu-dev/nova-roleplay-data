@@ -4377,9 +4377,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 78,
-      "publicationId": "ea68d315-487c-4fdc-967c-03e451fef9d5",
-      "updatedAt": "2026-11-22T19:28:44.087Z",
+      "dataVersion": 79,
+      "publicationId": "84822810-d437-46e8-89bb-fa5699753336",
+      "updatedAt": "2026-11-23T03:33:37.478Z",
       "distributionMode": "official",
       "files": [
         {
@@ -17304,9 +17304,9 @@
         },
         {
           "path": "MoonLoader/NOVA-Phone.lua",
-          "sizeBytes": 24577,
-          "sha256": "bdb3368c5866b89fa1029a4444a2a13e33f74237a709d54ae24ad93b3eaece4f",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v78-mira-video/bdb3368c5866b89fa1029a4444a2a13e33f74237a709d54ae24ad93b3eaece4f-NOVA-Phone.lua"
+          "sizeBytes": 25372,
+          "sha256": "f80fd050c39cc716c7987fb254271b8f8cbdd000d1fb47f3742283d9437712c1",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v79-tuning-gps-phone/f80fd050c39cc716c7987fb254271b8f8cbdd000d1fb47f3742283d9437712c1-NOVA-Phone.lua"
         },
         {
           "path": "MoonLoader/NOVA-VoiceRecovery.lua",
@@ -18216,9 +18216,9 @@
         },
         {
           "path": "MoonLoader/lib/NOVA-VehiclePhysicsCore.lua",
-          "sha256": "6568da96b619b943a468da4e5d02d780469a36042ca3d816678643cd92707704",
-          "sizeBytes": 13890,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-64-vehicle-physics-20261119/6568da96b619b943a468da4e5d02d780469a36042ca3d816678643cd92707704-NOVA-VehiclePhysicsCore.lua"
+          "sizeBytes": 15903,
+          "sha256": "376daec7f2f09b63c5422e74b0a27c6b58d909e4b07a32894e93944158f6f4bc",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v79-tuning-gps-phone/376daec7f2f09b63c5422e74b0a27c6b58d909e4b07a32894e93944158f6f4bc-NOVA-VehiclePhysicsCore.lua"
         },
         {
           "path": "MoonLoader/lib/NOVA-VehicleProfiles.lua",
@@ -18921,6 +18921,30 @@
           "sizeBytes": 354,
           "sha256": "6315e10a305554ddc2f5703d9c025f8797c1b0feaa2d255782eac310fba3dcab",
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v78-mira-video/6315e10a305554ddc2f5703d9c025f8797c1b0feaa2d255782eac310fba3dcab-NOVA-Reticle.lua"
+        },
+        {
+          "path": "MoonLoader/NOVA-Navigation.lua",
+          "sizeBytes": 6791,
+          "sha256": "5970cbcf2f56e2af5d7523d3c5fa8f69de5f95c9ab140748ee172fd48bf8ba58",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v79-tuning-gps-phone/5970cbcf2f56e2af5d7523d3c5fa8f69de5f95c9ab140748ee172fd48bf8ba58-NOVA-Navigation.lua"
+        },
+        {
+          "path": "MoonLoader/lib/NOVA-Workshop.lua",
+          "sizeBytes": 1535,
+          "sha256": "0059fe31f61d7c4373c67dc797fe7be7426d51c708fb66bb4871af0625f556e3",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v79-tuning-gps-phone/0059fe31f61d7c4373c67dc797fe7be7426d51c708fb66bb4871af0625f556e3-NOVA-Workshop.lua"
+        },
+        {
+          "path": "MoonLoader/lib/NovaNavigation.dll",
+          "sizeBytes": 384000,
+          "sha256": "9cd4b8875ff2963783a29dbb349b374c9c91695174e1d6464b86a544b9daed89",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v79-tuning-gps-phone/9cd4b8875ff2963783a29dbb349b374c9c91695174e1d6464b86a544b9daed89-NovaNavigation.dll"
+        },
+        {
+          "path": "MoonLoader/resource/nova-navigation/roads.bin",
+          "sizeBytes": 818316,
+          "sha256": "c3f69da94bd8630c8cecc9d9e841c299f159721b06ea8a824f586d0fe04656d5",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v79-tuning-gps-phone/c3f69da94bd8630c8cecc9d9e841c299f159721b06ea8a824f586d0fe04656d5-roads.bin"
         }
       ],
       "deletes": [
@@ -19867,9 +19891,9 @@
         "modloader/NOVA-ANIMACOES/bikes.ifp"
       ],
       "mods": [],
-      "totalBytes": 2075000846,
-      "publishedAt": "2026-11-22T19:28:44.087Z",
-      "notes": "Mira e camera usam a mesma coordenada. Videochamadas recebem convites e liberam movimento; F10 alterna o cursor durante a chamada."
+      "totalBytes": 2076214296,
+      "publishedAt": "2026-11-23T03:33:37.478Z",
+      "notes": "GPS com linha vermelha fina no mapa e setas azul-claro nas ruas, usando a mesma malha viaria do APK. Novo tuning por veiculo com turbo, blindagem, pneus e buzinas sem alterar a velocidade configurada. Notificacoes mostram contato e mensagem no topo do telefone, no canto inferior direito."
     }
   },
   "minimumGameBuild": 196,
