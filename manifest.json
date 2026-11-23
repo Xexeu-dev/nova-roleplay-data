@@ -4377,9 +4377,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 80,
-      "publicationId": "f7c2f599-e7e9-4e43-b12b-4615ad82f6ba",
-      "updatedAt": "2026-11-23T03:40:57.212Z",
+      "dataVersion": 81,
+      "publicationId": "27428177-0fd9-4bb5-829d-780d7185206d",
+      "updatedAt": "2026-11-23T06:43:33.167Z",
       "distributionMode": "official",
       "files": [
         {
@@ -18945,6 +18945,12 @@
           "sizeBytes": 818316,
           "sha256": "c3f69da94bd8630c8cecc9d9e841c299f159721b06ea8a824f586d0fe04656d5",
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v79-tuning-gps-phone/c3f69da94bd8630c8cecc9d9e841c299f159721b06ea8a824f586d0fe04656d5-roads.bin"
+        },
+        {
+          "path": "MoonLoader/NOVA-Dismantle.lua",
+          "sizeBytes": 3318,
+          "sha256": "9c0883861a5f6fe77addaa0bbdb89f502c4d2d243c00df800c2a6fef4ae6db5b",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v81-desmanche/9c0883861a5f6fe77addaa0bbdb89f502c4d2d243c00df800c2a6fef4ae6db5b-NOVA-Dismantle.lua"
         }
       ],
       "deletes": [
@@ -19891,9 +19897,9 @@
         "modloader/NOVA-ANIMACOES/bikes.ifp"
       ],
       "mods": [],
-      "totalBytes": 2076214342,
-      "publishedAt": "2026-11-23T03:40:57.212Z",
-      "notes": "Notificacoes de aplicativos intercalados mostram sempre a mensagem e o contato mais recentes. Mantem o novo GPS, tuning e as demais correcoes da Data 79."
+      "totalBytes": 2076217660,
+      "publishedAt": "2026-11-23T06:43:33.167Z",
+      "notes": "Desmanche por pecas sincroniza a remocao individual de rodas e portas dos carros modificados. Preserva o GPS, tuning, entrada nos carros, mods, velocidades e os demais arquivos da Data 80."
     }
   },
   "minimumGameBuild": 196,
