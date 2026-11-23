@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 47,
-  "updatedAt": "2026-11-22T16:04:28.177Z",
+  "dataVersion": 48,
+  "updatedAt": "2026-11-23T08:19:49.521Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -4377,9 +4377,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 82,
-      "publicationId": "d2e0c9cf-8a43-46e9-bb3d-89ef4ebc35ee",
-      "updatedAt": "2026-11-23T06:54:19.062Z",
+      "dataVersion": 83,
+      "publicationId": "75848210-5f7f-4355-bd99-d1d90eb4cd78",
+      "updatedAt": "2026-11-23T08:19:49.521Z",
       "distributionMode": "official",
       "files": [
         {
@@ -9613,8 +9613,8 @@
         {
           "path": "modloader/NOVA-VEICULOS/bravura/bravura.dff",
           "sizeBytes": 12462080,
-          "sha256": "b01d7efce14e4a40df59a85c45aa1a5fd51e200528dc3e8f218021dae9bbe351",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v57-native-hud-wheels-8a2cf618/b01d7efce14e4a40df59a85c45aa1a5fd51e200528dc3e8f218021dae9bbe351-bravura.dff"
+          "sha256": "8f9f3753b4d4b7eb5c22c5f2e1adc8ce382799a43b7a079ebc78892f41265e6a",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v48-pc83-interfaces-vidro/8f9f3753b4d4b7eb5c22c5f2e1adc8ce382799a43b7a079ebc78892f41265e6a-bravura.dff"
         },
         {
           "path": "modloader/NOVA-VEICULOS/bravura/bravura.txd",
@@ -18216,9 +18216,9 @@
         },
         {
           "path": "MoonLoader/lib/NOVA-VehiclePhysicsCore.lua",
-          "sizeBytes": 15903,
-          "sha256": "376daec7f2f09b63c5422e74b0a27c6b58d909e4b07a32894e93944158f6f4bc",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v79-tuning-gps-phone/376daec7f2f09b63c5422e74b0a27c6b58d909e4b07a32894e93944158f6f4bc-NOVA-VehiclePhysicsCore.lua"
+          "sizeBytes": 16290,
+          "sha256": "b0f695744c5135e489a64abe8384aaa03afac18334af992ce52baf5eb4f706eb",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v48-pc83-interfaces-vidro/b0f695744c5135e489a64abe8384aaa03afac18334af992ce52baf5eb4f706eb-NOVA-VehiclePhysicsCore.lua"
         },
         {
           "path": "MoonLoader/lib/NOVA-VehicleProfiles.lua",
@@ -18924,9 +18924,9 @@
         },
         {
           "path": "MoonLoader/NOVA-Navigation.lua",
-          "sizeBytes": 6791,
-          "sha256": "5970cbcf2f56e2af5d7523d3c5fa8f69de5f95c9ab140748ee172fd48bf8ba58",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v79-tuning-gps-phone/5970cbcf2f56e2af5d7523d3c5fa8f69de5f95c9ab140748ee172fd48bf8ba58-NOVA-Navigation.lua"
+          "sizeBytes": 6813,
+          "sha256": "a5c42c96d00bd8d924ec88affbad9e65e84ceb1250158debd081bb84b0ad54d8",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v48-pc83-interfaces-vidro/a5c42c96d00bd8d924ec88affbad9e65e84ceb1250158debd081bb84b0ad54d8-NOVA-Navigation.lua"
         },
         {
           "path": "MoonLoader/lib/NOVA-Workshop.lua",
@@ -18951,6 +18951,12 @@
           "sizeBytes": 3439,
           "sha256": "2e4c163d1e0f8f47a3f2d0a0edbe8255f38dad779d121ed606974c85019ebb4b",
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v82-desmanche/2e4c163d1e0f8f47a3f2d0a0edbe8255f38dad779d121ed606974c85019ebb4b-NOVA-Dismantle.lua"
+        },
+        {
+          "path": "MoonLoader/NOVA-ObjectScale.lua",
+          "sizeBytes": 1066,
+          "sha256": "527ab6c9dbdd0a030c3ce6fbc78894d1ca337c801b279681702cb48b4ad6044e",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v48-pc83-interfaces-vidro/527ab6c9dbdd0a030c3ce6fbc78894d1ca337c801b279681702cb48b4ad6044e-NOVA-ObjectScale.lua"
         }
       ],
       "deletes": [
@@ -19897,16 +19903,16 @@
         "modloader/NOVA-ANIMACOES/bikes.ifp"
       ],
       "mods": [],
-      "totalBytes": 2076217781,
-      "publishedAt": "2026-11-23T06:54:19.062Z",
-      "notes": "Desmanche por pecas sincroniza a remocao individual de rodas e portas dos carros modificados. Preserva o GPS, tuning, entrada nos carros, mods, velocidades e os demais arquivos da Data 80."
+      "totalBytes": 2076219256,
+      "publishedAt": "2026-11-23T08:19:49.521Z",
+      "notes": "GPS libera a camera com mouse; R1 com freio 50% mais forte e estabilidade ajustada; Caveirao acelera 40% mais; Chevette com vidro fume claro; tamanho de acessorios sincronizado. Calculadora HTML requer launcher 46 ou APK 234."
     }
   },
   "minimumGameBuild": 196,
   "fileSyncSchema": 1,
   "mobileMods": {
     "schemaVersion": 1,
-    "version": 45,
+    "version": 46,
     "models": [
       {
         "name": "admiral.dff",
@@ -20150,13 +20156,13 @@
       },
       {
         "name": "bravura.dff",
-        "sha256": "0776f9fe9810885fef9f917ceff906d63c9de081184a6fabae9f5803b1dcd15f",
+        "sha256": "2d4e0e2f0cf06fddd7d05823bb925e6cf5e2827d067cd74e9d4073a939dad675",
         "sizeBytes": 12460032,
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v35-wheels-3fdce9f9/NOVA-MODELS-v35-wheels.zip",
-          "start": 11284246,
-          "sizeBytes": 4794744,
-          "archiveSizeBytes": 201748617,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v48-pc83-interfaces-vidro/NOVA-MODS-v46-VIDRO.zip",
+          "start": 48,
+          "sizeBytes": 4777000,
+          "archiveSizeBytes": 4777134,
           "compression": 8
         }
       },
