@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "dataVersion": 49,
-  "updatedAt": "2026-11-23T23:49:50.372Z",
+  "updatedAt": "2026-11-24T00:24:42.069Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -4374,9 +4374,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 84,
-      "publicationId": "645d179e-00af-4534-a6e3-6c7ff50daf7d",
-      "updatedAt": "2026-11-23T23:49:50.372Z",
+      "dataVersion": 85,
+      "publicationId": "51f023fe-e7b0-4061-9bf0-26f62a06cac2",
+      "updatedAt": "2026-11-24T00:24:42.067Z",
       "distributionMode": "official",
       "files": [
         {
@@ -18945,9 +18945,9 @@
         },
         {
           "path": "MoonLoader/NOVA-Dismantle.lua",
-          "sizeBytes": 3439,
-          "sha256": "2e4c163d1e0f8f47a3f2d0a0edbe8255f38dad779d121ed606974c85019ebb4b",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v82-desmanche/2e4c163d1e0f8f47a3f2d0a0edbe8255f38dad779d121ed606974c85019ebb4b-NOVA-Dismantle.lua"
+          "sizeBytes": 3443,
+          "sha256": "aa13e2e4879e792569bfb7e93da61c13af102b2ab0bbb7bbb5ca4e3dacfa7233",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v85-hood/aa13e2e4879e792569bfb7e93da61c13af102b2ab0bbb7bbb5ca4e3dacfa7233-NOVA-Dismantle.lua"
         },
         {
           "path": "MoonLoader/NOVA-ObjectScale.lua",
