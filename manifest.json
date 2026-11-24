@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "dataVersion": 49,
-  "updatedAt": "2026-11-24T00:24:42.069Z",
+  "updatedAt": "2026-11-24T02:57:18.649Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -4374,9 +4374,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 85,
-      "publicationId": "51f023fe-e7b0-4061-9bf0-26f62a06cac2",
-      "updatedAt": "2026-11-24T00:24:42.067Z",
+      "dataVersion": 86,
+      "publicationId": "ddc45be2-c9e6-4014-8083-8d643911092a",
+      "updatedAt": "2026-11-24T02:57:18.647Z",
       "distributionMode": "official",
       "files": [
         {
@@ -9891,9 +9891,9 @@
         },
         {
           "path": "moonloader/GameFixer.lua",
-          "sha256": "b2d6b7a5408826b176dc38491109fe15460caacb465b0c2a47414ab7253f55b1",
-          "sizeBytes": 374072,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v69-gfixer-jesko-skin62/b2d6b7a5408826b176dc38491109fe15460caacb465b0c2a47414ab7253f55b1-GameFixer.lua"
+          "sha256": "7def724a5416c7bd83925b0b85b2c82a37b9310818a3f8411ba884a783fad125",
+          "sizeBytes": 373486,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v86-aim-grnl/7def724a5416c7bd83925b0b85b2c82a37b9310818a3f8411ba884a783fad125-GameFixer.lua"
         },
         {
           "path": "MoonLoader/gamefixer/fonts/fa-solid-900.ttf",
@@ -18903,9 +18903,9 @@
         },
         {
           "path": "MoonLoader/lib/NOVA-Aim.lua",
-          "sizeBytes": 4536,
-          "sha256": "95832257a5f729dbb69c6bd2f39378b578a4835f153fbfd032bec56712a75961",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v78-mira-video/95832257a5f729dbb69c6bd2f39378b578a4835f153fbfd032bec56712a75961-NOVA-Aim.lua"
+          "sizeBytes": 6699,
+          "sha256": "e8f0a526eb422abdbdb3e670ad61b77f6dae5f8401456daedcfd7d69eabf0c22",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v86-aim-grnl/e8f0a526eb422abdbdb3e670ad61b77f6dae5f8401456daedcfd7d69eabf0c22-NOVA-Aim.lua"
         },
         {
           "path": "MoonLoader/NOVA-Mansao.lua",
@@ -18966,6 +18966,12 @@
           "sizeBytes": 1810168,
           "sha256": "e59f7c7f791b71bef2ef9268067da78203f8fa340799e9f6cf372a80803fa638",
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v84-audio-skin75/e59f7c7f791b71bef2ef9268067da78203f8fa340799e9f6cf372a80803fa638-swfopro.txd"
+        },
+        {
+          "path": "MoonLoader/lib/NOVA-Sounds.lua",
+          "sha256": "1e73221cca8bdb5b5aaf134107a8aac8512ea4b13ff6eba4ba8c855e7e5da1eb",
+          "sizeBytes": 1673,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v86-aim-grnl/1e73221cca8bdb5b5aaf134107a8aac8512ea4b13ff6eba4ba8c855e7e5da1eb-NOVA-Sounds.lua"
         }
       ],
       "deletes": [
