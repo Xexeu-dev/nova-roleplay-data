@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "dataVersion": 52,
-  "updatedAt": "2026-11-25T16:58:22.461Z",
+  "updatedAt": "2026-11-25T17:14:41.959Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -4401,9 +4401,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 93,
-      "publicationId": "04684a9c-7816-4663-a6de-1c1bd1637696",
-      "updatedAt": "2026-11-25T16:58:22.461Z",
+      "dataVersion": 94,
+      "publicationId": "71665aa7-1ba7-4dc5-b617-8608612c07ad",
+      "updatedAt": "2026-11-25T17:14:41.959Z",
       "distributionMode": "official",
       "files": [
         {
@@ -17454,15 +17454,15 @@
         },
         {
           "path": "SAMP/CUSTOM.ide",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v93-xexeu-mansion/fefb7f4fb714ba7f89cfd04a710ca915985ea55ab5cbbc5ba847a7f9c736a4ab-CUSTOM.ide",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v94-xexeu-mansion/fefb7f4fb714ba7f89cfd04a710ca915985ea55ab5cbbc5ba847a7f9c736a4ab-CUSTOM.ide",
           "sha256": "fefb7f4fb714ba7f89cfd04a710ca915985ea55ab5cbbc5ba847a7f9c736a4ab",
           "sizeBytes": 303
         },
         {
           "path": "SAMP/custom.img",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v93-xexeu-mansion/df74434e0ff5cad07a15fa083cc3e4573784c0ad616f44ed073f7c3e1d6ac52d-custom.img",
-          "sha256": "df74434e0ff5cad07a15fa083cc3e4573784c0ad616f44ed073f7c3e1d6ac52d",
-          "sizeBytes": 5801984
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v94-xexeu-mansion/bd8e65f2f5a588bdbabb4c42c25f2f200d902d870937abfb5eea00e1140a56db-custom.img",
+          "sha256": "bd8e65f2f5a588bdbabb4c42c25f2f200d902d870937abfb5eea00e1140a56db",
+          "sizeBytes": 5797888
         },
         {
           "path": "SAMP/samaps.txd",
@@ -19993,9 +19993,9 @@
         "modloader/NOVA-ANIMACOES/bikes.ifp"
       ],
       "mods": [],
-      "totalBytes": 2111142292,
-      "publishedAt": "2026-11-25T16:58:22.461Z",
-      "notes": "Mansao Xexeu: casa, letreiro e porta de vidro com modelos e colisoes proprios. Demais modelos preservados."
+      "totalBytes": 2111138196,
+      "publishedAt": "2026-11-25T17:14:41.959Z",
+      "notes": "Corrige o carregamento das colisoes da mansao sem consumir novos arquivos no armazenamento de colisoes do GTA. Geometria, texturas e porta preservadas."
     }
   },
   "minimumGameBuild": 196,
