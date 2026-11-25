@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "dataVersion": 52,
-  "updatedAt": "2026-11-25T17:14:41.959Z",
+  "updatedAt": "2026-11-25T17:19:05.999Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -4401,9 +4401,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 94,
-      "publicationId": "71665aa7-1ba7-4dc5-b617-8608612c07ad",
-      "updatedAt": "2026-11-25T17:14:41.959Z",
+      "dataVersion": 95,
+      "publicationId": "d9f7c168-ecd0-4b54-ba93-1c80fa1f855c",
+      "updatedAt": "2026-11-25T17:19:05.999Z",
       "distributionMode": "official",
       "files": [
         {
@@ -17460,9 +17460,9 @@
         },
         {
           "path": "SAMP/custom.img",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v94-xexeu-mansion/bd8e65f2f5a588bdbabb4c42c25f2f200d902d870937abfb5eea00e1140a56db-custom.img",
-          "sha256": "bd8e65f2f5a588bdbabb4c42c25f2f200d902d870937abfb5eea00e1140a56db",
-          "sizeBytes": 5797888
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v95-mansion-sign-collision/1e61d481d087b29e7bba3c5572358cb3d23ee96b09ab61e0705b6f11e5c5fc72-custom.img",
+          "sha256": "1e61d481d087b29e7bba3c5572358cb3d23ee96b09ab61e0705b6f11e5c5fc72",
+          "sizeBytes": 5799936
         },
         {
           "path": "SAMP/samaps.txd",
@@ -18936,9 +18936,9 @@
         },
         {
           "path": "MoonLoader/NOVA-Mansao.lua",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v72-porta-mansao/bfb49fcaa4a2c1f804eadaa8a425c0ccf3d5fd33847dbefcf9781c8f63c40eaf-NOVA-Mansao.lua",
-          "sha256": "bfb49fcaa4a2c1f804eadaa8a425c0ccf3d5fd33847dbefcf9781c8f63c40eaf",
-          "sizeBytes": 1006
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v95-mansion-sign-collision/2ec976c04c5d24d17b155548413d02c22c19831e0264ba4cadca4c939b65df21-NOVA-Mansao.lua",
+          "sha256": "2ec976c04c5d24d17b155548413d02c22c19831e0264ba4cadca4c939b65df21",
+          "sizeBytes": 1170
         },
         {
           "path": "MoonLoader/NOVA-Reticle.lua",
@@ -19993,9 +19993,9 @@
         "modloader/NOVA-ANIMACOES/bikes.ifp"
       ],
       "mods": [],
-      "totalBytes": 2111138196,
-      "publishedAt": "2026-11-25T17:14:41.959Z",
-      "notes": "Corrige o carregamento das colisoes da mansao sem consumir novos arquivos no armazenamento de colisoes do GTA. Geometria, texturas e porta preservadas."
+      "totalBytes": 2111140408,
+      "publishedAt": "2026-11-25T17:19:05.999Z",
+      "notes": "Corrige registro de colisao do letreiro e preserva o armazenamento de colisoes. Tecla E abre a porta da nova mansao para dono e moradores."
     }
   },
   "minimumGameBuild": 196,
