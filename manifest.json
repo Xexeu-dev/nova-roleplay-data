@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "dataVersion": 50,
-  "updatedAt": "2026-11-24T23:49:42.084212+00:00",
+  "updatedAt": "2026-11-25T01:59:59.179Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -4419,9 +4419,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 88,
-      "publicationId": "72844af4-b11c-4200-9f67-2b246ca504ed",
-      "updatedAt": "2026-11-24T23:49:42.084212+00:00",
+      "dataVersion": 89,
+      "publicationId": "8a9d2323-e656-4186-8a2a-fc46ac61137b",
+      "updatedAt": "2026-11-25T01:59:59.179Z",
       "distributionMode": "official",
       "files": [
         {
@@ -19063,8 +19063,8 @@
         {
           "path": "modloader/NOVA-SKINS/swfyri.txd",
           "sizeBytes": 9438376,
-          "sha256": "2ebd41ee225053b6f5ea69aa7a2cc6d5d8b168481e813f78121ec450639e26d1",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v88-org32/2ebd41ee225053b6f5ea69aa7a2cc6d5d8b168481e813f78121ec450639e26d1-swfyri.txd"
+          "sha256": "cd086397d40c8ee30797ffececddaaf1ffa1138c86779e2e2cb3816c9052bdd8",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v89-skin216-streaming/cd086397d40c8ee30797ffececddaaf1ffa1138c86779e2e2cb3816c9052bdd8-swfyri.txd"
         }
       ],
       "deletes": [
@@ -20012,8 +20012,8 @@
       ],
       "mods": [],
       "totalBytes": 2105577959,
-      "publishedAt": "2026-11-24T23:49:42.084212+00:00",
-      "notes": "Skins da org32: lider21, sublider85, membro123 e feminina216. Demais mods e motores preservados."
+      "publishedAt": "2026-11-25T01:59:59.179Z",
+      "notes": "Corrige streaming da skin216 e bloqueio de carregamento das skins seguintes. Demais mods e motores preservados."
     }
   },
   "minimumGameBuild": 196,
