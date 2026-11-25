@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "dataVersion": 52,
-  "updatedAt": "2026-11-25T07:51:54.864Z",
+  "updatedAt": "2026-11-25T16:58:22.461Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -4401,9 +4401,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 92,
-      "publicationId": "46ec5743-020d-4083-aeb5-042339887f7b",
-      "updatedAt": "2026-11-25T07:51:54.864Z",
+      "dataVersion": 93,
+      "publicationId": "04684a9c-7816-4663-a6de-1c1bd1637696",
+      "updatedAt": "2026-11-25T16:58:22.461Z",
       "distributionMode": "official",
       "files": [
         {
@@ -17454,15 +17454,15 @@
         },
         {
           "path": "SAMP/CUSTOM.ide",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v92-xexeu-mansion/e7502def3e6263835ff9b8b75b10f5fad151510645b27a81508aae1454a33fef-CUSTOM.ide",
-          "sha256": "e7502def3e6263835ff9b8b75b10f5fad151510645b27a81508aae1454a33fef",
-          "sizeBytes": 306
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v93-xexeu-mansion/fefb7f4fb714ba7f89cfd04a710ca915985ea55ab5cbbc5ba847a7f9c736a4ab-CUSTOM.ide",
+          "sha256": "fefb7f4fb714ba7f89cfd04a710ca915985ea55ab5cbbc5ba847a7f9c736a4ab",
+          "sizeBytes": 303
         },
         {
           "path": "SAMP/custom.img",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v92-xexeu-mansion/b163ae33c52d0631cd07e5b2a6f95ba0b25a461de147674a4989002cb3913853-custom.img",
-          "sha256": "b163ae33c52d0631cd07e5b2a6f95ba0b25a461de147674a4989002cb3913853",
-          "sizeBytes": 1462272
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v93-xexeu-mansion/df74434e0ff5cad07a15fa083cc3e4573784c0ad616f44ed073f7c3e1d6ac52d-custom.img",
+          "sha256": "df74434e0ff5cad07a15fa083cc3e4573784c0ad616f44ed073f7c3e1d6ac52d",
+          "sizeBytes": 5801984
         },
         {
           "path": "SAMP/samaps.txd",
@@ -19993,8 +19993,8 @@
         "modloader/NOVA-ANIMACOES/bikes.ifp"
       ],
       "mods": [],
-      "totalBytes": 2106802583,
-      "publishedAt": "2026-11-25T07:51:54.864Z",
+      "totalBytes": 2111142292,
+      "publishedAt": "2026-11-25T16:58:22.461Z",
       "notes": "Mansao Xexeu: casa, letreiro e porta de vidro com modelos e colisoes proprios. Demais modelos preservados."
     }
   },
