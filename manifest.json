@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "dataVersion": 52,
-  "updatedAt": "2026-11-25T17:19:05.999Z",
+  "updatedAt": "2026-11-25T17:21:35.410Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -4401,9 +4401,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 95,
-      "publicationId": "d9f7c168-ecd0-4b54-ba93-1c80fa1f855c",
-      "updatedAt": "2026-11-25T17:19:05.999Z",
+      "dataVersion": 96,
+      "publicationId": "6c9888ff-34a8-4bb8-8e56-1bea8d918af4",
+      "updatedAt": "2026-11-25T17:21:35.410Z",
       "distributionMode": "official",
       "files": [
         {
@@ -17460,8 +17460,8 @@
         },
         {
           "path": "SAMP/custom.img",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v95-mansion-sign-collision/1e61d481d087b29e7bba3c5572358cb3d23ee96b09ab61e0705b6f11e5c5fc72-custom.img",
-          "sha256": "1e61d481d087b29e7bba3c5572358cb3d23ee96b09ab61e0705b6f11e5c5fc72",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v96-mansion-sign-collision/8f06edc22ebfc6a94c35c9258cdb35fc10b15bc4ac56571e56bf261b1b874396-custom.img",
+          "sha256": "8f06edc22ebfc6a94c35c9258cdb35fc10b15bc4ac56571e56bf261b1b874396",
           "sizeBytes": 5799936
         },
         {
@@ -18936,7 +18936,7 @@
         },
         {
           "path": "MoonLoader/NOVA-Mansao.lua",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v95-mansion-sign-collision/2ec976c04c5d24d17b155548413d02c22c19831e0264ba4cadca4c939b65df21-NOVA-Mansao.lua",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v96-mansion-sign-collision/2ec976c04c5d24d17b155548413d02c22c19831e0264ba4cadca4c939b65df21-NOVA-Mansao.lua",
           "sha256": "2ec976c04c5d24d17b155548413d02c22c19831e0264ba4cadca4c939b65df21",
           "sizeBytes": 1170
         },
@@ -19994,7 +19994,7 @@
       ],
       "mods": [],
       "totalBytes": 2111140408,
-      "publishedAt": "2026-11-25T17:19:05.999Z",
+      "publishedAt": "2026-11-25T17:21:35.410Z",
       "notes": "Corrige registro de colisao do letreiro e preserva o armazenamento de colisoes. Tecla E abre a porta da nova mansao para dono e moradores."
     }
   },
