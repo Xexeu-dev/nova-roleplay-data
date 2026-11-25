@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "dataVersion": 52,
-  "updatedAt": "2026-11-25T17:26:21.320Z",
+  "updatedAt": "2026-11-25T17:50:05.933Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -4401,9 +4401,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 97,
-      "publicationId": "a064f72f-5f37-4eb4-b08e-671d789452ac",
-      "updatedAt": "2026-11-25T17:26:21.320Z",
+      "dataVersion": 98,
+      "publicationId": "38c46663-8ade-4b32-81b0-3dcc7635986f",
+      "updatedAt": "2026-11-25T17:50:05.933Z",
       "distributionMode": "official",
       "files": [
         {
@@ -17454,15 +17454,15 @@
         },
         {
           "path": "SAMP/CUSTOM.ide",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v94-xexeu-mansion/fefb7f4fb714ba7f89cfd04a710ca915985ea55ab5cbbc5ba847a7f9c736a4ab-CUSTOM.ide",
-          "sha256": "fefb7f4fb714ba7f89cfd04a710ca915985ea55ab5cbbc5ba847a7f9c736a4ab",
-          "sizeBytes": 303
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v98-living-door/b678243697c144573e0e89de4cfea78d3c4b0c2bd3ac506abd3c35238490e0cf-CUSTOM.ide",
+          "sha256": "b678243697c144573e0e89de4cfea78d3c4b0c2bd3ac506abd3c35238490e0cf",
+          "sizeBytes": 352
         },
         {
           "path": "SAMP/custom.img",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v97-mansion-sign-collision/1a5a378c6e57eef91dcda402405ed4e055895143827908b4d915bd300ab5d824-custom.img",
-          "sha256": "1a5a378c6e57eef91dcda402405ed4e055895143827908b4d915bd300ab5d824",
-          "sizeBytes": 5828608
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v98-living-door/908d3703d69fec4de80225220c7012e6bbea4153ce23330e187586a9f8d33234-custom.img",
+          "sha256": "908d3703d69fec4de80225220c7012e6bbea4153ce23330e187586a9f8d33234",
+          "sizeBytes": 5885952
         },
         {
           "path": "SAMP/samaps.txd",
@@ -18936,9 +18936,9 @@
         },
         {
           "path": "MoonLoader/NOVA-Mansao.lua",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v97-mansion-sign-collision/2ec976c04c5d24d17b155548413d02c22c19831e0264ba4cadca4c939b65df21-NOVA-Mansao.lua",
-          "sha256": "2ec976c04c5d24d17b155548413d02c22c19831e0264ba4cadca4c939b65df21",
-          "sizeBytes": 1170
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v98-living-door/dbbfc3607a0bc9c3dd6a9ba36de2e56509ccd80a13fc781c82b0ea54d7f1de29-NOVA-Mansao.lua",
+          "sha256": "dbbfc3607a0bc9c3dd6a9ba36de2e56509ccd80a13fc781c82b0ea54d7f1de29",
+          "sizeBytes": 1431
         },
         {
           "path": "MoonLoader/NOVA-Reticle.lua",
@@ -19993,9 +19993,9 @@
         "modloader/NOVA-ANIMACOES/bikes.ifp"
       ],
       "mods": [],
-      "totalBytes": 2111169080,
-      "publishedAt": "2026-11-25T17:26:21.320Z",
-      "notes": "Colisao da mansao refeita a partir da estrutura visual, com pisos e paredes alinhados. Letreiro e porta com colisoes proprias e tecla E preservada."
+      "totalBytes": 2111226734,
+      "publishedAt": "2026-11-25T17:50:05.933Z",
+      "notes": "Porta de vidro da sala independente e deslizante, com colisao movel. Letreiro amarelo com bordas pretas visivel dos dois lados. Porta do patio e demais objetos preservados."
     }
   },
   "minimumGameBuild": 196,
