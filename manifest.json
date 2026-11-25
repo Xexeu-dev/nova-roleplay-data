@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "dataVersion": 52,
-  "updatedAt": "2026-11-25T02:47:25.345955+00:00",
+  "updatedAt": "2026-11-25T07:51:54.864Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -4401,9 +4401,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 91,
-      "publicationId": "601b12b0-3f37-43c1-98e2-09b8a99c0835",
-      "updatedAt": "2026-11-25T02:47:25.345955+00:00",
+      "dataVersion": 92,
+      "publicationId": "46ec5743-020d-4083-aeb5-042339887f7b",
+      "updatedAt": "2026-11-25T07:51:54.864Z",
       "distributionMode": "official",
       "files": [
         {
@@ -17454,15 +17454,15 @@
         },
         {
           "path": "SAMP/CUSTOM.ide",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v73-sistemas-mansao/60f32be512e21171a921e30a1009703d09f132f40ae38936adfdcb595e6d31d6-CUSTOM.ide",
-          "sha256": "60f32be512e21171a921e30a1009703d09f132f40ae38936adfdcb595e6d31d6",
-          "sizeBytes": 158
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v92-xexeu-mansion/e7502def3e6263835ff9b8b75b10f5fad151510645b27a81508aae1454a33fef-CUSTOM.ide",
+          "sha256": "e7502def3e6263835ff9b8b75b10f5fad151510645b27a81508aae1454a33fef",
+          "sizeBytes": 306
         },
         {
           "path": "SAMP/custom.img",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v75-colisao-miniatura-enzo/7e8a05855af82ea9a7a9761eaec148d10ca6c551c74313dbc65ad075b0a2d140-custom.img",
-          "sha256": "7e8a05855af82ea9a7a9761eaec148d10ca6c551c74313dbc65ad075b0a2d140",
-          "sizeBytes": 1155072
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v92-xexeu-mansion/b163ae33c52d0631cd07e5b2a6f95ba0b25a461de147674a4989002cb3913853-custom.img",
+          "sha256": "b163ae33c52d0631cd07e5b2a6f95ba0b25a461de147674a4989002cb3913853",
+          "sizeBytes": 1462272
         },
         {
           "path": "SAMP/samaps.txd",
@@ -19993,9 +19993,9 @@
         "modloader/NOVA-ANIMACOES/bikes.ifp"
       ],
       "mods": [],
-      "totalBytes": 2106495235,
-      "publishedAt": "2026-11-25T02:47:25.345955+00:00",
-      "notes": "Feminina216: Real Dolar e cifrao roxo escuro nas costas. Suportes roxos, cabelo123, streaming e demais mods preservados."
+      "totalBytes": 2106802583,
+      "publishedAt": "2026-11-25T07:51:54.864Z",
+      "notes": "Mansao Xexeu: casa, letreiro e porta de vidro com modelos e colisoes proprios. Demais modelos preservados."
     }
   },
   "minimumGameBuild": 196,
