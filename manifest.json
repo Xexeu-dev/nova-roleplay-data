@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "dataVersion": 53,
-  "updatedAt": "2026-11-26T15:56:02.905Z",
+  "updatedAt": "2026-11-26T23:26:53.388Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -4412,9 +4412,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 103,
-      "publicationId": "ba25059d-0bad-4491-a575-bcbab78a40b1",
-      "updatedAt": "2026-11-26T15:56:02.905Z",
+      "dataVersion": 104,
+      "publicationId": "0b7ffa08-e22a-4ddb-a273-48431265eeb9",
+      "updatedAt": "2026-11-26T23:26:53.388Z",
       "distributionMode": "official",
       "files": [
         {
@@ -19088,6 +19088,12 @@
           "sizeBytes": 1738,
           "sha256": "23d5cdc314e4f093ceeffa8cb73edb7b20c77ad222f8b0af03f3ec47d353ec4d",
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v102-floor-vehicle/NOVA-FloorReady.lua"
+        },
+        {
+          "path": "MoonLoader/zz-NOVA-ProtocolPrivacy.lua",
+          "sizeBytes": 791,
+          "sha256": "9c33033e2365556432e38d27bf8e10c825f4edec75a9d78f838f5b946e45dbb3",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data104-chat-privacy/zz-NOVA-ProtocolPrivacy.lua"
         }
       ],
       "deletes": [
@@ -20034,9 +20040,9 @@
         "modloader/NOVA-ANIMACOES/bikes.ifp"
       ],
       "mods": [],
-      "totalBytes": 2111163995,
-      "publishedAt": "2026-11-26T15:56:02.905Z",
-      "notes": "Corrigida a leitura do catalogo no launcherPC0.61. Creditos dos mods preservados; nenhum motor ou configuracao alterado."
+      "totalBytes": 2111164786,
+      "publishedAt": "2026-11-26T23:26:53.388Z",
+      "notes": "Oculta protocolos internos no chat apos os comandos de jogo serem processados. Demais scripts, motores e modelos preservados."
     }
   },
   "minimumGameBuild": 196,
