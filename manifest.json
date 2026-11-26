@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "dataVersion": 52,
-  "updatedAt": "2026-11-26T04:19:16.696Z",
+  "updatedAt": "2026-11-26T09:15:12.946Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -4401,9 +4401,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 99,
-      "publicationId": "48dd4a67-5ecc-4ea4-867b-8dcf484e5d39",
-      "updatedAt": "2026-11-26T04:19:16.696Z",
+      "dataVersion": 100,
+      "publicationId": "47d7c17d-828e-422f-82e5-a8a3dc75b5ad",
+      "updatedAt": "2026-11-26T09:15:12.946Z",
       "distributionMode": "official",
       "files": [
         {
@@ -18960,9 +18960,9 @@
         },
         {
           "path": "MoonLoader/lib/NovaNavigation.dll",
-          "sizeBytes": 384000,
-          "sha256": "9cd4b8875ff2963783a29dbb349b374c9c91695174e1d6464b86a544b9daed89",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v79-tuning-gps-phone/9cd4b8875ff2963783a29dbb349b374c9c91695174e1d6464b86a544b9daed89-NovaNavigation.dll"
+          "sizeBytes": 217088,
+          "sha256": "06791cb368d7ecf0d3dc0a1dfeefd862235a96df231102ae48b3301da4e7b7ef",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v100-suspension-wheels/06791cb368d7ecf0d3dc0a1dfeefd862235a96df231102ae48b3301da4e7b7ef-NovaNavigationBridge.dll"
         },
         {
           "path": "MoonLoader/resource/nova-navigation/roads.bin",
@@ -19062,9 +19062,9 @@
         },
         {
           "path": "MoonLoader/resource/nova-workshop/NovaCustomWorkshopBridge.dll",
-          "sha256": "f8ef93d7bb4474bf86ccc95390e22d52f0addb21b85e1f6f13382c4a7008fc3b",
-          "sizeBytes": 230912,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v99-workshop-spatial/f8ef93d7bb4474bf86ccc95390e22d52f0addb21b85e1f6f13382c4a7008fc3b-NovaCustomWorkshopBridge.dll"
+          "sha256": "3a16ed917322b987802988f598709319c0036b463a3e245980b5ab7cb3028c13",
+          "sizeBytes": 231424,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v100-suspension-wheels/3a16ed917322b987802988f598709319c0036b463a3e245980b5ab7cb3028c13-NovaCustomWorkshopBridge.dll"
         },
         {
           "path": "MoonLoader/resource/nova-workshop/MinHook-LICENSE.txt",
@@ -20017,9 +20017,9 @@
         "modloader/NOVA-ANIMACOES/bikes.ifp"
       ],
       "mods": [],
-      "totalBytes": 2111328657,
-      "publishedAt": "2026-11-26T04:19:16.696Z",
-      "notes": "Tunning HTML por placa, rodas com tamanho e largura reais, acessorios sem colisao, cores corrigidas, som espacial por proximidade e resolucao do monitor somente na primeira abertura."
+      "totalBytes": 2111162257,
+      "publishedAt": "2026-11-26T09:15:12.946Z",
+      "notes": "Suspensao com fisica e alinhamento das rodas corrigidos; GPS sem atalhos fora das conexoes das ruas. Motores, assentos e demais mods preservados."
     }
   },
   "minimumGameBuild": 196,
