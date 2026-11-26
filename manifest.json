@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "dataVersion": 53,
-  "updatedAt": "2026-11-26T10:29:44.848089+00:00",
+  "updatedAt": "2026-11-26T10:35:52.201Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -4412,9 +4412,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 101,
-      "publicationId": "b360f8fd-4143-4fcd-b076-7eb6893da11d",
-      "updatedAt": "2026-11-26T10:29:44.848089+00:00",
+      "dataVersion": 102,
+      "publicationId": "c7601878-7f15-4132-af90-6b2c054c4367",
+      "updatedAt": "2026-11-26T10:35:52.201Z",
       "distributionMode": "official",
       "files": [
         {
@@ -19085,9 +19085,9 @@
         },
         {
           "path": "MoonLoader/NOVA-FloorReady.lua",
-          "sizeBytes": 1712,
-          "sha256": "a50f16fe932b22bfe6d18c71a9582132d09948442edd92fded2334957de40d5b",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v53-pc101-textures-floor/NOVA-FloorReady.lua"
+          "sizeBytes": 1738,
+          "sha256": "23d5cdc314e4f093ceeffa8cb73edb7b20c77ad222f8b0af03f3ec47d353ec4d",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v102-floor-vehicle/NOVA-FloorReady.lua"
         }
       ],
       "deletes": [
@@ -20034,8 +20034,8 @@
         "modloader/NOVA-ANIMACOES/bikes.ifp"
       ],
       "mods": [],
-      "totalBytes": 2111163969,
-      "publishedAt": "2026-11-26T10:29:44.848089+00:00",
+      "totalBytes": 2111163995,
+      "publishedAt": "2026-11-26T10:35:52.201Z",
       "notes": "Protecao de colisao no spawn e teleporte; menu compacto e motores preservados."
     }
   },
