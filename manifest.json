@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "dataVersion": 53,
-  "updatedAt": "2026-11-26T10:35:52.201Z",
+  "updatedAt": "2026-11-26T15:56:02.905Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -4412,9 +4412,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 102,
-      "publicationId": "c7601878-7f15-4132-af90-6b2c054c4367",
-      "updatedAt": "2026-11-26T10:35:52.201Z",
+      "dataVersion": 103,
+      "publicationId": "ba25059d-0bad-4491-a575-bcbab78a40b1",
+      "updatedAt": "2026-11-26T15:56:02.905Z",
       "distributionMode": "official",
       "files": [
         {
@@ -4678,7 +4678,7 @@
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v5-7d812a00/ad0b170d940213097ec196c644b42e798960c7da01e5645b45c7250fc2874e46-Read_Me.txt"
         },
         {
-          "path": "CREDITOS-MODS/porsche/crÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â©ditos.txt",
+          "path": "CREDITOS-MODS/porsche/creditos.txt",
           "sizeBytes": 106,
           "sha256": "07b85c7350c8783b0b0cd10072fd042653ea5e1dda7d7afaabd46a99a2e572fb",
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v4-d7210caf/07b85c7350c8783b0b0cd10072fd042653ea5e1dda7d7afaabd46a99a2e572fb-cr_ditos.txt"
@@ -20035,8 +20035,8 @@
       ],
       "mods": [],
       "totalBytes": 2111163995,
-      "publishedAt": "2026-11-26T10:35:52.201Z",
-      "notes": "Protecao de colisao no spawn e teleporte; menu compacto e motores preservados."
+      "publishedAt": "2026-11-26T15:56:02.905Z",
+      "notes": "Corrigida a leitura do catalogo no launcherPC0.61. Creditos dos mods preservados; nenhum motor ou configuracao alterado."
     }
   },
   "minimumGameBuild": 196,
