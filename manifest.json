@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "dataVersion": 52,
-  "updatedAt": "2026-11-25T17:50:05.933Z",
+  "updatedAt": "2026-11-26T04:19:16.696Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -4401,9 +4401,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 98,
-      "publicationId": "38c46663-8ade-4b32-81b0-3dcc7635986f",
-      "updatedAt": "2026-11-25T17:50:05.933Z",
+      "dataVersion": 99,
+      "publicationId": "48dd4a67-5ecc-4ea4-867b-8dcf484e5d39",
+      "updatedAt": "2026-11-26T04:19:16.696Z",
       "distributionMode": "official",
       "files": [
         {
@@ -17328,15 +17328,15 @@
         },
         {
           "path": "MoonLoader/NOVA-Phone.lua",
-          "sizeBytes": 28616,
-          "sha256": "56a86b63b65052a9315169985654b1cd34b6f20617fbbcdc8911eda4545efc41",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v87-phone-events/56a86b63b65052a9315169985654b1cd34b6f20617fbbcdc8911eda4545efc41-NOVA-Phone.lua"
+          "sizeBytes": 28564,
+          "sha256": "2fe215de3e51e907cc7432fda18316789b68d21d0842e705bc7402d7490bf109",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v99-workshop-spatial/2fe215de3e51e907cc7432fda18316789b68d21d0842e705bc7402d7490bf109-NOVA-Phone.lua"
         },
         {
           "path": "MoonLoader/NOVA-VoiceRecovery.lua",
-          "sha256": "1cbbd558b61b3438d4bc06d7d96587b31aa9a03ecc227cc03a844da08f1b3f2f",
-          "sizeBytes": 2017,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v60-gameplay-fixes/1cbbd558b61b3438d4bc06d7d96587b31aa9a03ecc227cc03a844da08f1b3f2f-NOVA-VoiceRecovery.lua"
+          "sha256": "859359cecab2212405e09d3560e0c2231305e6c7e279151bd6e0fde718c45248",
+          "sizeBytes": 2016,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v99-workshop-spatial/859359cecab2212405e09d3560e0c2231305e6c7e279151bd6e0fde718c45248-NOVA-VoiceRecovery.lua"
         },
         {
           "path": "MoonLoader/resource/nova-phone/phone_icon_bank.png",
@@ -17868,9 +17868,9 @@
         },
         {
           "path": "NovaPhoneRenderer.dll",
-          "sizeBytes": 475648,
-          "sha256": "c1dfe34053d463add4292619b0aa9d24b373fd63fe674035292e1c9e9be898ad",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v84-audio-skin75/c1dfe34053d463add4292619b0aa9d24b373fd63fe674035292e1c9e9be898ad-NovaPhoneRenderer.dll"
+          "sizeBytes": 476160,
+          "sha256": "5bb1cf354d613f43e7bd71bfa6ad2c700bc77789f11d6f1263fc2f639e7f5456",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v99-workshop-spatial/5bb1cf354d613f43e7bd71bfa6ad2c700bc77789f11d6f1263fc2f639e7f5456-NovaPhoneRenderer.dll"
         },
         {
           "path": "MoonLoader/lib/nova/phone_legacy.lua",
@@ -18240,9 +18240,9 @@
         },
         {
           "path": "MoonLoader/lib/NOVA-VehiclePhysicsCore.lua",
-          "sizeBytes": 16290,
-          "sha256": "b0f695744c5135e489a64abe8384aaa03afac18334af992ce52baf5eb4f706eb",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v48-pc83-interfaces-vidro/b0f695744c5135e489a64abe8384aaa03afac18334af992ce52baf5eb4f706eb-NOVA-VehiclePhysicsCore.lua"
+          "sizeBytes": 16987,
+          "sha256": "7d582d366f41ce47c97dd34be6fa9b5c2747e9f64b5d6ac2b09bfd731794b2c1",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v99-workshop-spatial/7d582d366f41ce47c97dd34be6fa9b5c2747e9f64b5d6ac2b09bfd731794b2c1-NOVA-VehiclePhysicsCore.lua"
         },
         {
           "path": "MoonLoader/lib/NOVA-VehicleProfiles.lua",
@@ -18312,9 +18312,9 @@
         },
         {
           "path": "NovaDisplay.asi",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-36-phone-display-20261111/cb12e4be22807bb80ec97b737030b2742f6f0f3f6f7e46b07763c7af4f29e5ca-NovaDisplay.asi",
-          "sha256": "cb12e4be22807bb80ec97b737030b2742f6f0f3f6f7e46b07763c7af4f29e5ca",
-          "sizeBytes": 198144
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v99-workshop-spatial/246a10a9a89e41f77dfec5eaed5905a530512826acdce48aeba3f52068519fae-NovaDisplay.asi",
+          "sha256": "246a10a9a89e41f77dfec5eaed5905a530512826acdce48aeba3f52068519fae",
+          "sizeBytes": 33792
         },
         {
           "path": "modloader/NOVA-SKINS/wfyst.dff",
@@ -18956,7 +18956,7 @@
           "path": "MoonLoader/lib/NOVA-Workshop.lua",
           "sizeBytes": 1535,
           "sha256": "0059fe31f61d7c4373c67dc797fe7be7426d51c708fb66bb4871af0625f556e3",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v79-tuning-gps-phone/0059fe31f61d7c4373c67dc797fe7be7426d51c708fb66bb4871af0625f556e3-NOVA-Workshop.lua"
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v99-workshop-spatial/0059fe31f61d7c4373c67dc797fe7be7426d51c708fb66bb4871af0625f556e3-NOVA-Workshop.lua"
         },
         {
           "path": "MoonLoader/lib/NovaNavigation.dll",
@@ -19047,6 +19047,30 @@
           "sizeBytes": 9438376,
           "sha256": "dd60220a17fe2386e9d253f680654ca17a044bf68e5f2e695911bcaa6d82851f",
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v91-org32-backprint/dd60220a17fe2386e9d253f680654ca17a044bf68e5f2e695911bcaa6d82851f-swfyri.txd"
+        },
+        {
+          "path": "MoonLoader/lib/NOVA-CustomWorkshop.lua",
+          "sha256": "2d1f629cf967aeeae788be30a27b2e8a8843eb763b6bae4e3bad2ec027a60890",
+          "sizeBytes": 8807,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v99-workshop-spatial/2d1f629cf967aeeae788be30a27b2e8a8843eb763b6bae4e3bad2ec027a60890-NOVA-CustomWorkshop.lua"
+        },
+        {
+          "path": "MoonLoader/lib/NOVA-CustomBodyCatalog.lua",
+          "sha256": "e81da14baf8919536afe4a3ac5442b640071a539ab27c98054496067dfdcabb4",
+          "sizeBytes": 21035,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v99-workshop-spatial/e81da14baf8919536afe4a3ac5442b640071a539ab27c98054496067dfdcabb4-NOVA-CustomBodyCatalog.lua"
+        },
+        {
+          "path": "MoonLoader/resource/nova-workshop/NovaCustomWorkshopBridge.dll",
+          "sha256": "f8ef93d7bb4474bf86ccc95390e22d52f0addb21b85e1f6f13382c4a7008fc3b",
+          "sizeBytes": 230912,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v99-workshop-spatial/f8ef93d7bb4474bf86ccc95390e22d52f0addb21b85e1f6f13382c4a7008fc3b-NovaCustomWorkshopBridge.dll"
+        },
+        {
+          "path": "MoonLoader/resource/nova-workshop/MinHook-LICENSE.txt",
+          "sha256": "d5c2224982b0b95a16b098a561335fa93f3eaf4d0aa964b7843edb986df78dc8",
+          "sizeBytes": 4365,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v99-workshop-spatial/d5c2224982b0b95a16b098a561335fa93f3eaf4d0aa964b7843edb986df78dc8-LICENSE.txt"
         }
       ],
       "deletes": [
@@ -19993,9 +20017,9 @@
         "modloader/NOVA-ANIMACOES/bikes.ifp"
       ],
       "mods": [],
-      "totalBytes": 2111226734,
-      "publishedAt": "2026-11-25T17:50:05.933Z",
-      "notes": "Porta de vidro da sala independente e deslizante, com colisao movel. Letreiro amarelo com bordas pretas visivel dos dois lados. Porta do patio e demais objetos preservados."
+      "totalBytes": 2111328657,
+      "publishedAt": "2026-11-26T04:19:16.696Z",
+      "notes": "Tunning HTML por placa, rodas com tamanho e largura reais, acessorios sem colisao, cores corrigidas, som espacial por proximidade e resolucao do monitor somente na primeira abertura."
     }
   },
   "minimumGameBuild": 196,
