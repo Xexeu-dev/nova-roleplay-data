@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 52,
-  "updatedAt": "2026-11-26T09:15:12.946Z",
+  "dataVersion": 53,
+  "updatedAt": "2026-11-26T10:29:44.848089+00:00",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -399,6 +399,16 @@
       "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v52-org32-backprint/NOVA-DATA-v52-org32-backprint.zip",
       "sha256": "a31d928f132f68ce9254fad0dc8c31005fafecf5f7156b2428998bf53e4e0194",
       "sizeBytes": 510966869,
+      "deletes": []
+    },
+    {
+      "kind": "file",
+      "version": 53,
+      "fromVersion": 52,
+      "path": "texdb/nova_mods/nova_mods.etc.toc",
+      "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v53-pc101-textures-floor/nova_mods.etc.toc",
+      "sizeBytes": 7288,
+      "sha256": "b31bea346359f772e0813f1969152fcdfc29d2fc910c7139f618dc1508c615df",
       "deletes": []
     }
   ],
@@ -4377,14 +4387,15 @@
     {
       "path": "texdb/nova_mods/nova_mods.etc.toc",
       "sizeBytes": 7288,
-      "sha256": "6a0885bcbe003a683870e59eb585bc89fa00c97107fc4c9d300bcc6cd879dc76",
+      "sha256": "b31bea346359f772e0813f1969152fcdfc29d2fc910c7139f618dc1508c615df",
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v52-org32-backprint/NOVA-DATA-v52-org32-backprint.zip",
-        "start": 510947428,
-        "sizeBytes": 7024,
-        "archiveSizeBytes": 510966869,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v53-pc101-textures-floor/NOVA-TEXTURE-INDEX-v53.zip",
+        "start": 63,
+        "sizeBytes": 7025,
+        "archiveSizeBytes": 7189,
         "compression": 8
-      }
+      },
+      "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v53-pc101-textures-floor/nova_mods.etc.toc"
     },
     {
       "path": "ru.lc",
@@ -4401,9 +4412,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 100,
-      "publicationId": "47d7c17d-828e-422f-82e5-a8a3dc75b5ad",
-      "updatedAt": "2026-11-26T09:15:12.946Z",
+      "dataVersion": 101,
+      "publicationId": "b360f8fd-4143-4fcd-b076-7eb6893da11d",
+      "updatedAt": "2026-11-26T10:29:44.848089+00:00",
       "distributionMode": "official",
       "files": [
         {
@@ -4667,7 +4678,7 @@
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v5-7d812a00/ad0b170d940213097ec196c644b42e798960c7da01e5645b45c7250fc2874e46-Read_Me.txt"
         },
         {
-          "path": "CREDITOS-MODS/porsche/crÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â©ditos.txt",
+          "path": "CREDITOS-MODS/porsche/crÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â©ditos.txt",
           "sizeBytes": 106,
           "sha256": "07b85c7350c8783b0b0cd10072fd042653ea5e1dda7d7afaabd46a99a2e572fb",
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v4-d7210caf/07b85c7350c8783b0b0cd10072fd042653ea5e1dda7d7afaabd46a99a2e572fb-cr_ditos.txt"
@@ -19071,6 +19082,12 @@
           "sha256": "d5c2224982b0b95a16b098a561335fa93f3eaf4d0aa964b7843edb986df78dc8",
           "sizeBytes": 4365,
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v99-workshop-spatial/d5c2224982b0b95a16b098a561335fa93f3eaf4d0aa964b7843edb986df78dc8-LICENSE.txt"
+        },
+        {
+          "path": "MoonLoader/NOVA-FloorReady.lua",
+          "sizeBytes": 1712,
+          "sha256": "a50f16fe932b22bfe6d18c71a9582132d09948442edd92fded2334957de40d5b",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v53-pc101-textures-floor/NOVA-FloorReady.lua"
         }
       ],
       "deletes": [
@@ -20017,16 +20034,16 @@
         "modloader/NOVA-ANIMACOES/bikes.ifp"
       ],
       "mods": [],
-      "totalBytes": 2111162257,
-      "publishedAt": "2026-11-26T09:15:12.946Z",
-      "notes": "Suspensao com fisica e alinhamento das rodas corrigidos; GPS sem atalhos fora das conexoes das ruas. Motores, assentos e demais mods preservados."
+      "totalBytes": 2111163969,
+      "publishedAt": "2026-11-26T10:29:44.848089+00:00",
+      "notes": "Protecao de colisao no spawn e teleporte; menu compacto e motores preservados."
     }
   },
   "minimumGameBuild": 196,
   "fileSyncSchema": 1,
   "mobileMods": {
     "schemaVersion": 1,
-    "version": 50,
+    "version": 51,
     "models": [
       {
         "name": "admiral.dff",
@@ -22625,14 +22642,15 @@
       {
         "path": "texdb/nova_mods/nova_mods.etc.toc",
         "sizeBytes": 7288,
-        "sha256": "6a0885bcbe003a683870e59eb585bc89fa00c97107fc4c9d300bcc6cd879dc76",
+        "sha256": "b31bea346359f772e0813f1969152fcdfc29d2fc910c7139f618dc1508c615df",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v50-org32-backprint/NOVA-MODS-org32-backprint.zip",
-          "start": 98909216,
-          "sizeBytes": 7024,
-          "archiveSizeBytes": 98928660,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v53-pc101-textures-floor/NOVA-TEXTURE-INDEX-v53.zip",
+          "start": 63,
+          "sizeBytes": 7025,
+          "archiveSizeBytes": 7189,
           "compression": 8
-        }
+        },
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v53-pc101-textures-floor/nova_mods.etc.toc"
       },
       {
         "path": "texdb/nova_mods/nova_mods.etc.tmb",
