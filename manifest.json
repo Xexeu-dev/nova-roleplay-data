@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "dataVersion": 54,
-  "updatedAt": "2026-11-27T23:13:09.261Z",
+  "updatedAt": "2026-11-27T23:24:20.912Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -4480,7 +4480,7 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 108,
+      "dataVersion": 109,
       "publicationId": "b04fb192-d596-442c-b17a-2553726c6397",
       "updatedAt": "2026-11-27T17:47:11.583289+00:00",
       "distributionMode": "official",
@@ -18025,9 +18025,9 @@
         },
         {
           "path": "MoonLoader/zz-NOVA-ProtocolPrivacy.lua",
-          "sizeBytes": 791,
-          "sha256": "9c33033e2365556432e38d27bf8e10c825f4edec75a9d78f838f5b946e45dbb3",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data104-chat-privacy/zz-NOVA-ProtocolPrivacy.lua"
+          "sizeBytes": 1181,
+          "sha256": "758bfcbbc539573465f58d3d676224d95e636ff361707a135cc41f58519e935c",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v109-protocol-route/758bfcbbc539573465f58d3d676224d95e636ff361707a135cc41f58519e935c-zz-NOVA-ProtocolPrivacy.lua"
         },
         {
           "path": "modloader/NOVA-VEICULOS/artict2/artict2.dff",
@@ -19221,7 +19221,7 @@
         "modloader/NOVA-MAPA-NEGRO/radar99.txd"
       ],
       "mods": [],
-      "totalBytes": 2296492131,
+      "totalBytes": 2296492521,
       "publishedAt": "2026-11-27T17:47:11.583289+00:00",
       "notes": "Base enviada pelo usuario: ruas, radar, cenario, interiores, iluminacao, fontes e efeitos. Preserva mods NOVA, skins, armas, handling, velocidade, sons e sistemas. Remove a base visual anterior."
     }
