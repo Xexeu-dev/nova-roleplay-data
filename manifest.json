@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "dataVersion": 53,
-  "updatedAt": "2026-11-26T23:26:53.388Z",
+  "updatedAt": "2026-11-27T02:08:36.244Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -4412,9 +4412,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 104,
-      "publicationId": "0b7ffa08-e22a-4ddb-a273-48431265eeb9",
-      "updatedAt": "2026-11-26T23:26:53.388Z",
+      "dataVersion": 105,
+      "publicationId": "07fadcc9-992a-4fc0-bdff-135ecf0e66b9",
+      "updatedAt": "2026-11-27T02:08:36.244Z",
       "distributionMode": "official",
       "files": [
         {
@@ -18376,18 +18376,6 @@
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-45-focus/1410192506959a943d96c4cfb9f13779a74f6057ceaf281b71dd995691c71c3a-WindowedMode-README.txt"
         },
         {
-          "path": "III.VC.SA.WindowedMode.asi",
-          "sizeBytes": 3243784,
-          "sha256": "e511fbf590d817c6ade0acc097e65673fbd83d54bd8bcb71f309fe49b8224c4b",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-45-focus/e511fbf590d817c6ade0acc097e65673fbd83d54bd8bcb71f309fe49b8224c4b-III.VC.SA.WindowedMode.asi"
-        },
-        {
-          "path": "III.VC.SA.WindowedMode.cfg",
-          "sizeBytes": 146,
-          "sha256": "9fac6f36341a108dd1ce80166b289f3ba4acc69dc0874be524a0513db6c2585a",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-45-focus/9fac6f36341a108dd1ce80166b289f3ba4acc69dc0874be524a0513db6c2585a-III.VC.SA.WindowedMode.cfg"
-        },
-        {
           "path": "modloader/NOVA-VEICULOS/merit/merit.dff",
           "sizeBytes": 8974336,
           "sha256": "3d169246993f6403ff02edb7eff790a0a758610691f61d917ce85c930ca1bfea",
@@ -20037,12 +20025,14 @@
         "modloader/NOVA-PLACAS/rancher.txd",
         "modloader/NOVA-PLACAS/windsor.dff",
         "modloader/NOVA-PLACAS/windsor.txd",
-        "modloader/NOVA-ANIMACOES/bikes.ifp"
+        "modloader/NOVA-ANIMACOES/bikes.ifp",
+        "III.VC.SA.WindowedMode.asi",
+        "III.VC.SA.WindowedMode.cfg"
       ],
       "mods": [],
-      "totalBytes": 2111164786,
-      "publishedAt": "2026-11-26T23:26:53.388Z",
-      "notes": "Oculta protocolos internos no chat apos os comandos de jogo serem processados. Demais scripts, motores e modelos preservados."
+      "totalBytes": 2107920856,
+      "publishedAt": "2026-11-27T02:08:36.244Z",
+      "notes": "Remove WindowedMode e sua configuracao para usar o modo de tela original do GTA no PC. Preserva deteccao inicial da resolucao do monitor e ajustes escolhidos pelo jogador."
     }
   },
   "minimumGameBuild": 196,
