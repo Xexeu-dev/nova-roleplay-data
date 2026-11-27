@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "dataVersion": 54,
-  "updatedAt": "2026-11-27T17:47:11.583289+00:00",
+  "updatedAt": "2026-11-27T23:13:09.261Z",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -4480,7 +4480,7 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 107,
+      "dataVersion": 108,
       "publicationId": "b04fb192-d596-442c-b17a-2553726c6397",
       "updatedAt": "2026-11-27T17:47:11.583289+00:00",
       "distributionMode": "official",
@@ -18082,6 +18082,12 @@
           "sha256": "d081b03a0d8634641b28aa7544d24289b96d9f7f178144f1a9e10bcbcbb56c4f",
           "sizeBytes": 3494,
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v107-base-enviada/d081b03a0d8634641b28aa7544d24289b96d9f7f178144f1a9e10bcbcbb56c4f-fonts.dat"
+        },
+        {
+          "path": "CLEO/UltraFastConnect.cs",
+          "sizeBytes": 1121,
+          "sha256": "449becbbd5252d58f72a1bc23a18cf5aa10a8b989feb7aa70f9e855a2f5e55e2",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v108-fastconnect/449becbbd5252d58f72a1bc23a18cf5aa10a8b989feb7aa70f9e855a2f5e55e2-UltraFastConnect.cs"
         }
       ],
       "deletes": [
@@ -18090,7 +18096,6 @@
         "CLEO/Mod_Medidor_de_Vida.cs",
         "CLEO/Money_0.cs",
         "CLEO/Reconnect v3.5 by Dapo Show.cs",
-        "CLEO/UltraFastConnect.cs",
         "CLEO/fastquit.cs",
         "CLEO/radio_off.cs",
         "FirstPerson.cfg",
@@ -19216,7 +19221,7 @@
         "modloader/NOVA-MAPA-NEGRO/radar99.txd"
       ],
       "mods": [],
-      "totalBytes": 2296491010,
+      "totalBytes": 2296492131,
       "publishedAt": "2026-11-27T17:47:11.583289+00:00",
       "notes": "Base enviada pelo usuario: ruas, radar, cenario, interiores, iluminacao, fontes e efeitos. Preserva mods NOVA, skins, armas, handling, velocidade, sons e sistemas. Remove a base visual anterior."
     }
