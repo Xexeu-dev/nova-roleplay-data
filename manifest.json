@@ -4483,9 +4483,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 116,
-      "publicationId": "ab8ec61e-2301-4c6f-9be0-54db934b4444",
-      "updatedAt": "2026-11-28T07:16:09.195Z",
+      "dataVersion": 117,
+      "publicationId": "249d8e37-ead6-4729-a30d-bc9b6462687e",
+      "updatedAt": "2026-11-28T07:54:07.215Z",
       "distributionMode": "official",
       "files": [
         {
@@ -17200,9 +17200,9 @@
         },
         {
           "path": "MoonLoader/lib/NOVA-VehiclePhysicsCore.lua",
-          "sizeBytes": 17656,
-          "sha256": "4a0f2c936ca04e9308e63b501d04082ccd40257d73168d78bfbff1aeea9e10e3",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v116-ram500/4a0f2c936ca04e9308e63b501d04082ccd40257d73168d78bfbff1aeea9e10e3-NOVA-VehiclePhysicsCore.lua"
+          "sha256": "33128e3afb0bffbe1ce26efc8728b3a2800e36c784cdbbe7bc51dd26b7d989e0",
+          "sizeBytes": 18582,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v117-ram-grip/33128e3afb0bffbe1ce26efc8728b3a2800e36c784cdbbe7bc51dd26b7d989e0-NOVA-VehiclePhysicsCore.lua"
         },
         {
           "path": "MoonLoader/lib/NOVA-VehicleProfiles.lua",
@@ -19308,9 +19308,9 @@
         "modloader/NOVA-MAPA-NEGRO/radar99.txd"
       ],
       "mods": [],
-      "totalBytes": 2324215557,
-      "publishedAt": "2026-11-28T07:16:09.195Z",
-      "notes": "Dodge RAM1500 TRX no modelo543: perfil500km/h, massa6500kg e forca reforcada. Corrige associacao anterior ao modelo554. Demais skins, carros, tuning, HUD e som preservados."
+      "totalBytes": 2324216483,
+      "publishedAt": "2026-11-28T07:54:07.215Z",
+      "notes": "RAM543 com aderencia reforcada nas curvas e freios3x. Mantem perfil500km/h, massa6500kg e ajustes de tuning."
     }
   },
   "minimumGameBuild": 196,
