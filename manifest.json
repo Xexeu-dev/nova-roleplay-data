@@ -4465,9 +4465,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 111,
-      "publicationId": "06e7c8ad-f859-4e6f-aee3-b29593cdd14b",
-      "updatedAt": "2026-11-28T02:10:31.314575+00:00",
+      "dataVersion": 112,
+      "publicationId": "pc-data112-audio-https",
+      "updatedAt": "2026-11-28T02:48:50.882Z",
       "distributionMode": "official",
       "files": [
         {
@@ -16810,9 +16810,9 @@
         },
         {
           "path": "NovaPhoneRenderer.dll",
-          "sizeBytes": 476672,
-          "sha256": "5baa9c967383c83573abec6ebc1d311d66e05579e3a2b57b99055750e92d33bb",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v106-nov27-corrections/5baa9c967383c83573abec6ebc1d311d66e05579e3a2b57b99055750e92d33bb-NovaPhoneRenderer.dll"
+          "sizeBytes": 477184,
+          "sha256": "e596dda9ec915cc2f0fec3e85e04cb4a5674e3dd3f93022b82f5c274049c8f0d",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v112-audio/e596dda9ec915cc2f0fec3e85e04cb4a5674e3dd3f93022b82f5c274049c8f0d-NovaPhoneRenderer.dll"
         },
         {
           "path": "MoonLoader/lib/nova/phone_legacy.lua",
@@ -19242,9 +19242,9 @@
         "modloader/NOVA-MAPA-NEGRO/radar99.txd"
       ],
       "mods": [],
-      "totalBytes": 2309429660,
-      "publishedAt": "2026-11-28T02:10:31.314575+00:00",
-      "notes": "Org30: membro181, feminina93, lider248 e sub254. Integracoes oficiais de som da Data personalizada mantidas; demais mods e motores preservados."
+      "totalBytes": 2309430172,
+      "publishedAt": "2026-11-28T02:48:50.882Z",
+      "notes": "Corrige sincronizacao de musicas HTTPS sem seek direto; som de JBL, carros e telefone preserva o tempo da faixa. Demais mods preservados."
     }
   },
   "minimumGameBuild": 196,
