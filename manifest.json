@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 54,
-  "updatedAt": "2026-11-27T23:47:23.647Z",
+  "dataVersion": 55,
+  "updatedAt": "2026-11-28T02:10:31.314575+00:00",
   "requiredRoots": [
     "SAMP",
     "texdb",
@@ -418,6 +418,15 @@
       "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v54-nov27-corrections/NOVA-DATA-v54-nov27-corrections.zip",
       "sha256": "1ef344b223d286840958dfdd81f91dcaafe3a8c8da3c5f3683c7cef26b8cd717",
       "sizeBytes": 552717149,
+      "deletes": []
+    },
+    {
+      "kind": "package",
+      "version": 55,
+      "fromVersion": 54,
+      "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v55-org30/NOVA-DATA-v55-org30.zip",
+      "sha256": "9c1ac40b93c1b902874ca46b6947ed742ef449a1ebd36f32c27f3e99ada31ec1",
+      "sizeBytes": 554467490,
       "deletes": []
     }
   ],
@@ -3550,87 +3559,63 @@
     },
     {
       "path": "texdb/gta3.img",
-      "sizeBytes": 1011167232,
-      "sha256": "258978e96e5297077cee3815d4143d01c13a118f32432f873a1756551431c937",
+      "sizeBytes": 1018826752,
+      "sha256": "88233cd29d994db3f2e1163a2dc2dcf922562f49beca47b77d74055dbc8bae31",
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v54-nov27-corrections/NOVA-DATA-v54-nov27-corrections.zip",
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v55-org30/NOVA-DATA-v55-org30.zip",
         "start": 44,
-        "sizeBytes": 446523615,
-        "archiveSizeBytes": 552717149,
+        "sizeBytes": 449611164,
+        "archiveSizeBytes": 554467490,
         "compression": 8
       },
       "modelDelta": {
-        "fromSha256": "eceddd7c459f61fe17b6f8c1cdc40d9a0782a8e716e60190116b7b3f8b26fe17",
+        "fromSha256": "258978e96e5297077cee3815d4143d01c13a118f32432f873a1756551431c937",
         "models": [
           {
-            "name": "artict2.dff",
-            "sizeBytes": 5697536,
-            "sha256": "3b433fffe639d57592241f0d3cb478db82cc39ac1ae52ecd40b2ad18e0230054",
+            "name": "bikdrug.dff",
+            "sizeBytes": 2172928,
+            "sha256": "d16b1686f10dd43e18cd16fcc835b9ca3ff45b8079d4a146c5efc988857790d0",
             "source": {
-              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v54-nov27-corrections/NOVA-nov27-models-textures-delta.zip",
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v55-org30/NOVA-org30-delta.zip",
               "start": 48,
-              "sizeBytes": 2217301,
-              "archiveSizeBytes": 53324077,
+              "sizeBytes": 914353,
+              "archiveSizeBytes": 5824202,
               "compression": 8
             }
           },
           {
-            "name": "bravura.dff",
-            "sizeBytes": 12464128,
-            "sha256": "123eb246a798598a73ab60fcc711d08e19d06f7ba6dde0b42c76773c286e5766",
+            "name": "bikerb.dff",
+            "sizeBytes": 3096576,
+            "sha256": "20648492422c3ad910bd2482323240aab66e45cec409c8a574c07b1924bf7636",
             "source": {
-              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v54-nov27-corrections/NOVA-nov27-models-textures-delta.zip",
-              "start": 2217397,
-              "sizeBytes": 4791733,
-              "archiveSizeBytes": 53324077,
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v55-org30/NOVA-org30-delta.zip",
+              "start": 914448,
+              "sizeBytes": 816134,
+              "archiveSizeBytes": 5824202,
               "compression": 8
             }
           },
           {
-            "name": "euros.dff",
-            "sizeBytes": 49238016,
-            "sha256": "d7e8091aa9cfd9bbbfc94ec98a0a82940a036022c4e48a674487688030da163c",
+            "name": "vwmycr.dff",
+            "sizeBytes": 1572864,
+            "sha256": "b4d4b91b48e58f959ddd6659bee57408fdd5161d463406112ce7da49c1b8c807",
             "source": {
-              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v54-nov27-corrections/NOVA-nov27-models-textures-delta.zip",
-              "start": 7009176,
-              "sizeBytes": 21692364,
-              "archiveSizeBytes": 53324077,
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v55-org30/NOVA-org30-delta.zip",
+              "start": 1730629,
+              "sizeBytes": 805800,
+              "archiveSizeBytes": 5824202,
               "compression": 8
             }
           },
           {
-            "name": "merit.dff",
-            "sizeBytes": 23803904,
-            "sha256": "6402aec345da84e2df5978ae1b54d041238fdce08662f49db07c91eb1a6a48de",
+            "name": "wfyst.dff",
+            "sizeBytes": 2877440,
+            "sha256": "b4a4ddbacfcc0af25b86c1ebf3a79de3c903b5373edef43f403e3192e01baa00",
             "source": {
-              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v54-nov27-corrections/NOVA-nov27-models-textures-delta.zip",
-              "start": 28701586,
-              "sizeBytes": 10694530,
-              "archiveSizeBytes": 53324077,
-              "compression": 8
-            }
-          },
-          {
-            "name": "picador.dff",
-            "sizeBytes": 11053056,
-            "sha256": "564fee7cfef32bfe16c89bddd2f9834ac13089fcdc224268f12c2450df75d635",
-            "source": {
-              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v54-nov27-corrections/NOVA-nov27-models-textures-delta.zip",
-              "start": 39396164,
-              "sizeBytes": 4673968,
-              "archiveSizeBytes": 53324077,
-              "compression": 8
-            }
-          },
-          {
-            "name": "tampa.dff",
-            "sizeBytes": 6236160,
-            "sha256": "76a7c15aa4d4d19ea663773c770cabe46b8774da5366bbaee23d0241fc6eeb11",
-            "source": {
-              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v54-nov27-corrections/NOVA-nov27-models-textures-delta.zip",
-              "start": 44070178,
-              "sizeBytes": 3080959,
-              "archiveSizeBytes": 53324077,
+              "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v55-org30/NOVA-org30-delta.zip",
+              "start": 2536475,
+              "sizeBytes": 1507439,
+              "archiveSizeBytes": 5824202,
               "compression": 8
             }
           }
@@ -4407,61 +4392,61 @@
     },
     {
       "path": "texdb/nova_mods/nova_mods.txt",
-      "sizeBytes": 153942,
-      "sha256": "7763465f070d636742f9c7de6988f596be60f59d0e36b05a25eadbb14b9d7b98",
+      "sizeBytes": 157360,
+      "sha256": "5c6294fbdad8a2d2c60b52e19fae39f211ed319e1dbe2097b8e190b64d8975fd",
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v54-nov27-corrections/NOVA-DATA-v54-nov27-corrections.zip",
-        "start": 446523718,
-        "sizeBytes": 28305,
-        "archiveSizeBytes": 552717149,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v55-org30/NOVA-DATA-v55-org30.zip",
+        "start": 449611267,
+        "sizeBytes": 28880,
+        "archiveSizeBytes": 554467490,
         "compression": 8
       }
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.dat",
-      "sizeBytes": 598721872,
-      "sha256": "2cb313667b1fd1fceb26aadd7553ebc47f36dcecf3ce993b16c2c901996031fa",
+      "sizeBytes": 607380118,
+      "sha256": "afdd18b3bf8811bfd38ea79a67097f3d92b99a6a351cea372336cf1cef0c9077",
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v54-nov27-corrections/NOVA-DATA-v54-nov27-corrections.zip",
-        "start": 446552086,
-        "sizeBytes": 103024303,
-        "archiveSizeBytes": 552717149,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v55-org30/NOVA-DATA-v55-org30.zip",
+        "start": 449640210,
+        "sizeBytes": 104806142,
+        "archiveSizeBytes": 554467490,
         "compression": 8
       },
       "appendDelta": {
-        "fromSizeBytes": 558775054,
-        "fromSha256": "ef9456ebeb9b82acf517996c47cd98dd6d8f1abaec7e688b4bae2e2de01890b9",
-        "sha256": "12372e327e6dcdc64fc4351dfd12a6590f659329abef1d98f6138a5a1984ea45",
+        "fromSizeBytes": 598721872,
+        "fromSha256": "2cb313667b1fd1fceb26aadd7553ebc47f36dcecf3ce993b16c2c901996031fa",
+        "sha256": "bd7a6ea8c0429d422db06a156eb22b719d2b3960b29965f626c456206190cb50",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v54-nov27-corrections/NOVA-nov27-models-textures-delta.zip",
-          "start": 47151200,
-          "sizeBytes": 6172398,
-          "archiveSizeBytes": 53324077,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v55-org30/NOVA-org30-delta.zip",
+          "start": 4043977,
+          "sizeBytes": 1779872,
+          "archiveSizeBytes": 5824202,
           "compression": 8
         }
       }
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.tmb",
-      "sizeBytes": 38680,
-      "sha256": "8f26bf95e4648ebde0038ebb4a665b0955ec37a8f8f272b3c065c0571cc1b2e8",
+      "sizeBytes": 39540,
+      "sha256": "b40275b59eb5a9db5d582ce41c006eb060dd62354ba99384bb86dd73bbff5d7d",
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v54-nov27-corrections/NOVA-DATA-v54-nov27-corrections.zip",
-        "start": 549576452,
-        "sizeBytes": 12682,
-        "archiveSizeBytes": 552717149,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v55-org30/NOVA-DATA-v55-org30.zip",
+        "start": 554454126,
+        "sizeBytes": 12970,
+        "archiveSizeBytes": 554467490,
         "compression": 8
       }
     },
     {
       "path": "texdb/nova_mods/nova_mods.etc.toc",
-      "sizeBytes": 7740,
-      "sha256": "1d0f6c3c552862aedef36e3a72cd7806ff080268e7ba45dca69213ab1b9a8c90",
+      "sizeBytes": 7912,
+      "sha256": "5e785be09211d8efd6781a94ae390eac036e8e8a5b28ed60776a51ddc237f8ae",
       "source": {
-        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v54-nov27-corrections/NOVA-DATA-v54-nov27-corrections.zip",
-        "start": 549589197,
-        "sizeBytes": 7479,
-        "archiveSizeBytes": 552717149,
+        "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v55-org30/NOVA-DATA-v55-org30.zip",
+        "start": 554446415,
+        "sizeBytes": 7648,
+        "archiveSizeBytes": 554467490,
         "compression": 8
       }
     },
@@ -4480,9 +4465,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 110,
-      "publicationId": "b04fb192-d596-442c-b17a-2553726c6397",
-      "updatedAt": "2026-11-27T17:47:11.583289+00:00",
+      "dataVersion": 111,
+      "publicationId": "06e7c8ad-f859-4e6f-aee3-b29593cdd14b",
+      "updatedAt": "2026-11-28T02:10:31.314575+00:00",
       "distributionMode": "official",
       "files": [
         {
@@ -17275,15 +17260,15 @@
         },
         {
           "path": "modloader/NOVA-SKINS/wfyst.dff",
-          "sha256": "c699e03b2a724af3d760b4cbecf4fd9d7eeb79d0923598e213ac79873d5385cf",
-          "sizeBytes": 1920162,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v42-skin93-33e01e84/c699e03b2a724af3d760b4cbecf4fd9d7eeb79d0923598e213ac79873d5385cf-wfyst.dff"
+          "sizeBytes": 2876191,
+          "sha256": "17d3d3e8aef930f1eb24f865084e8ef93c7cfdc8b4e362ee0a5b7abf9fe22fcc",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v111-org30/17d3d3e8aef930f1eb24f865084e8ef93c7cfdc8b4e362ee0a5b7abf9fe22fcc-wfyst.dff"
         },
         {
           "path": "modloader/NOVA-SKINS/wfyst.txd",
-          "sha256": "b6077bfd49a01d8103a7ce38e825731da43a7af950569f82cbda1e620d8875b7",
-          "sizeBytes": 1568732,
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v42-skin93-33e01e84/b6077bfd49a01d8103a7ce38e825731da43a7af950569f82cbda1e620d8875b7-wfyst.txd"
+          "sizeBytes": 2358132,
+          "sha256": "9d711117ecdc16b360cac553a76c440d3625e21cca045355b6c0d01063684e9b",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v111-org30/9d711117ecdc16b360cac553a76c440d3625e21cca045355b6c0d01063684e9b-wfyst.txd"
         },
         {
           "path": "modloader/NOVA-SKINS/jethro.dff",
@@ -18088,6 +18073,42 @@
           "sizeBytes": 1121,
           "sha256": "449becbbd5252d58f72a1bc23a18cf5aa10a8b989feb7aa70f9e855a2f5e55e2",
           "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v108-fastconnect/449becbbd5252d58f72a1bc23a18cf5aa10a8b989feb7aa70f9e855a2f5e55e2-UltraFastConnect.cs"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/vwmycr.dff",
+          "sizeBytes": 1571547,
+          "sha256": "b984a6e9df53e6fed952890676654b680b232e827b50812712ef8aaf9b38b252",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v111-org30/b984a6e9df53e6fed952890676654b680b232e827b50812712ef8aaf9b38b252-vwmycr.dff"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/vwmycr.txd",
+          "sizeBytes": 2200340,
+          "sha256": "dbb868b2080c68048be454e85beae3cace899fb1d6cb55b98fd67d9599a40320",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v111-org30/dbb868b2080c68048be454e85beae3cace899fb1d6cb55b98fd67d9599a40320-vwmycr.txd"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/bikerb.dff",
+          "sizeBytes": 3096152,
+          "sha256": "7b674ec4c498794920a364b426775166307d8075a679d7566c21ec05da31187a",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v111-org30/7b674ec4c498794920a364b426775166307d8075a679d7566c21ec05da31187a-bikerb.dff"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/bikerb.txd",
+          "sizeBytes": 1065528,
+          "sha256": "46b9bacb73ece660d00d087183efc4de4e4c8167368a4d4d78c9a12cdcfa12b6",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v111-org30/46b9bacb73ece660d00d087183efc4de4e4c8167368a4d4d78c9a12cdcfa12b6-bikerb.txd"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/bikdrug.dff",
+          "sizeBytes": 2171015,
+          "sha256": "a9500744f60d8be78fbfbce9368ddf57f85476e82dae038d5e20dab5bf26a945",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v111-org30/a9500744f60d8be78fbfbce9368ddf57f85476e82dae038d5e20dab5bf26a945-bikdrug.dff"
+        },
+        {
+          "path": "modloader/NOVA-SKINS/bikdrug.txd",
+          "sizeBytes": 1085324,
+          "sha256": "2b925ffca45155fb4cfcd0bfed42e684b0ad4d7ec5656f9c00eb6f95ef867c3a",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v111-org30/2b925ffca45155fb4cfcd0bfed42e684b0ad4d7ec5656f9c00eb6f95ef867c3a-bikdrug.txd"
         }
       ],
       "deletes": [
@@ -19221,16 +19242,16 @@
         "modloader/NOVA-MAPA-NEGRO/radar99.txd"
       ],
       "mods": [],
-      "totalBytes": 2296494325,
-      "publishedAt": "2026-11-27T17:47:11.583289+00:00",
-      "notes": "Base enviada pelo usuario: ruas, radar, cenario, interiores, iluminacao, fontes e efeitos. Preserva mods NOVA, skins, armas, handling, velocidade, sons e sistemas. Remove a base visual anterior."
+      "totalBytes": 2309429660,
+      "publishedAt": "2026-11-28T02:10:31.314575+00:00",
+      "notes": "Org30: membro181, feminina93, lider248 e sub254. Integracoes oficiais de som da Data personalizada mantidas; demais mods e motores preservados."
     }
   },
   "minimumGameBuild": 196,
   "fileSyncSchema": 1,
   "mobileMods": {
     "schemaVersion": 1,
-    "version": 52,
+    "version": 53,
     "models": [
       {
         "name": "admiral.dff",
@@ -21334,13 +21355,13 @@
       },
       {
         "name": "wfyst.dff",
-        "sizeBytes": 1921024,
-        "sha256": "d5c4ddf9d4ec37b88df0eed3479ab17180e2fed7920d6b9ebd6c13f011a615b7",
+        "sizeBytes": 2877440,
+        "sha256": "b4a4ddbacfcc0af25b86c1ebf3a79de3c903b5373edef43f403e3192e01baa00",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v26-d564adc0/NOVA-ANDROID-MODS.zip",
-          "start": 2057660,
-          "sizeBytes": 873933,
-          "archiveSizeBytes": 211294944,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v55-org30/NOVA-org30-delta.zip",
+          "start": 2536475,
+          "sizeBytes": 1507439,
+          "archiveSizeBytes": 5824202,
           "compression": 8
         }
       },
@@ -21799,66 +21820,102 @@
           "archiveSizeBytes": 53324077,
           "compression": 8
         }
+      },
+      {
+        "name": "vwmycr.dff",
+        "sizeBytes": 1572864,
+        "sha256": "b4d4b91b48e58f959ddd6659bee57408fdd5161d463406112ce7da49c1b8c807",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v55-org30/NOVA-org30-delta.zip",
+          "start": 1730629,
+          "sizeBytes": 805800,
+          "archiveSizeBytes": 5824202,
+          "compression": 8
+        }
+      },
+      {
+        "name": "bikerb.dff",
+        "sizeBytes": 3096576,
+        "sha256": "20648492422c3ad910bd2482323240aab66e45cec409c8a574c07b1924bf7636",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v55-org30/NOVA-org30-delta.zip",
+          "start": 914448,
+          "sizeBytes": 816134,
+          "archiveSizeBytes": 5824202,
+          "compression": 8
+        }
+      },
+      {
+        "name": "bikdrug.dff",
+        "sizeBytes": 2172928,
+        "sha256": "d16b1686f10dd43e18cd16fcc835b9ca3ff45b8079d4a146c5efc988857790d0",
+        "source": {
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v55-org30/NOVA-org30-delta.zip",
+          "start": 48,
+          "sizeBytes": 914353,
+          "archiveSizeBytes": 5824202,
+          "compression": 8
+        }
       }
     ],
     "files": [
       {
         "path": "texdb/nova_mods/nova_mods.txt",
-        "sizeBytes": 153942,
-        "sha256": "7763465f070d636742f9c7de6988f596be60f59d0e36b05a25eadbb14b9d7b98",
+        "sizeBytes": 157360,
+        "sha256": "5c6294fbdad8a2d2c60b52e19fae39f211ed319e1dbe2097b8e190b64d8975fd",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v52-nov27-corrections/NOVA-MODS-v52-nov27-corrections.zip",
-          "start": 47151196,
-          "sizeBytes": 28305,
-          "archiveSizeBytes": 153344945,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v53-org30/NOVA-MODS-org30.zip",
+          "start": 4043920,
+          "sizeBytes": 28880,
+          "archiveSizeBytes": 108900335,
           "compression": 8
         }
       },
       {
         "path": "texdb/nova_mods/nova_mods.etc.dat",
-        "sizeBytes": 598721872,
-        "sha256": "2cb313667b1fd1fceb26aadd7553ebc47f36dcecf3ce993b16c2c901996031fa",
+        "sizeBytes": 607380118,
+        "sha256": "afdd18b3bf8811bfd38ea79a67097f3d92b99a6a351cea372336cf1cef0c9077",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v52-nov27-corrections/NOVA-MODS-v52-nov27-corrections.zip",
-          "start": 47179564,
-          "sizeBytes": 103024303,
-          "archiveSizeBytes": 153344945,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v53-org30/NOVA-MODS-org30.zip",
+          "start": 4072863,
+          "sizeBytes": 104806142,
+          "archiveSizeBytes": 108900335,
           "compression": 8
         },
         "appendDelta": {
-          "fromSizeBytes": 558775054,
-          "fromSha256": "ef9456ebeb9b82acf517996c47cd98dd6d8f1abaec7e688b4bae2e2de01890b9",
-          "sha256": "12372e327e6dcdc64fc4351dfd12a6590f659329abef1d98f6138a5a1984ea45",
+          "fromSizeBytes": 598721872,
+          "fromSha256": "2cb313667b1fd1fceb26aadd7553ebc47f36dcecf3ce993b16c2c901996031fa",
+          "sha256": "bd7a6ea8c0429d422db06a156eb22b719d2b3960b29965f626c456206190cb50",
           "source": {
-            "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v54-nov27-corrections/NOVA-nov27-models-textures-delta.zip",
-            "start": 47151200,
-            "sizeBytes": 6172398,
-            "archiveSizeBytes": 53324077,
+            "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/data-v55-org30/NOVA-org30-delta.zip",
+            "start": 4043977,
+            "sizeBytes": 1779872,
+            "archiveSizeBytes": 5824202,
             "compression": 8
           }
         }
       },
       {
         "path": "texdb/nova_mods/nova_mods.etc.toc",
-        "sizeBytes": 7740,
-        "sha256": "1d0f6c3c552862aedef36e3a72cd7806ff080268e7ba45dca69213ab1b9a8c90",
+        "sizeBytes": 7912,
+        "sha256": "5e785be09211d8efd6781a94ae390eac036e8e8a5b28ed60776a51ddc237f8ae",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v52-nov27-corrections/NOVA-MODS-v52-nov27-corrections.zip",
-          "start": 150216675,
-          "sizeBytes": 7479,
-          "archiveSizeBytes": 153344945,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v53-org30/NOVA-MODS-org30.zip",
+          "start": 108879068,
+          "sizeBytes": 7648,
+          "archiveSizeBytes": 108900335,
           "compression": 8
         }
       },
       {
         "path": "texdb/nova_mods/nova_mods.etc.tmb",
-        "sizeBytes": 38680,
-        "sha256": "8f26bf95e4648ebde0038ebb4a665b0955ec37a8f8f272b3c065c0571cc1b2e8",
+        "sizeBytes": 39540,
+        "sha256": "b40275b59eb5a9db5d582ce41c006eb060dd62354ba99384bb86dd73bbff5d7d",
         "source": {
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v52-nov27-corrections/NOVA-MODS-v52-nov27-corrections.zip",
-          "start": 150203930,
-          "sizeBytes": 12682,
-          "archiveSizeBytes": 153344945,
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/android-mods-v53-org30/NOVA-MODS-org30.zip",
+          "start": 108886779,
+          "sizeBytes": 12970,
+          "archiveSizeBytes": 108900335,
           "compression": 8
         }
       },
