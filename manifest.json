@@ -4483,9 +4483,9 @@
   ],
   "platforms": {
     "windows": {
-      "dataVersion": 115,
-      "publicationId": "c2e4e6e1-e412-4e08-a7a2-0258977217c5",
-      "updatedAt": "2026-11-28T06:14:28.929038+00:00",
+      "dataVersion": 116,
+      "publicationId": "ab8ec61e-2301-4c6f-9be0-54db934b4444",
+      "updatedAt": "2026-11-28T07:16:09.195Z",
       "distributionMode": "official",
       "files": [
         {
@@ -17201,14 +17201,14 @@
         {
           "path": "MoonLoader/lib/NOVA-VehiclePhysicsCore.lua",
           "sizeBytes": 17656,
-          "sha256": "5f7dd544cc515f78862f0cc4bb609df1b89c86cc7e32e45f5ff6eb4d64a38f57",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v114-solta/5f7dd544cc515f78862f0cc4bb609df1b89c86cc7e32e45f5ff6eb4d64a38f57-NOVA-VehiclePhysicsCore.lua"
+          "sha256": "4a0f2c936ca04e9308e63b501d04082ccd40257d73168d78bfbff1aeea9e10e3",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v116-ram500/4a0f2c936ca04e9308e63b501d04082ccd40257d73168d78bfbff1aeea9e10e3-NOVA-VehiclePhysicsCore.lua"
         },
         {
           "path": "MoonLoader/lib/NOVA-VehicleProfiles.lua",
-          "sizeBytes": 6439,
-          "sha256": "60c09be1b04472b65f152395bf5a3f7eaefdbf3715afa4c74cfd164769e190aa",
-          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v114-solta/60c09be1b04472b65f152395bf5a3f7eaefdbf3715afa4c74cfd164769e190aa-NOVA-VehicleProfiles.lua"
+          "sizeBytes": 6531,
+          "sha256": "2b67985d188644daea627d94f1c1ceb569f544993451efc8a8213a7f775ed5ec",
+          "url": "https://github.com/Xexeu-dev/nova-roleplay-data/releases/download/pc-data-v116-ram500/2b67985d188644daea627d94f1c1ceb569f544993451efc8a8213a7f775ed5ec-NOVA-VehicleProfiles.lua"
         },
         {
           "path": "MoonLoader/NOVA-EntityGuard.lua",
@@ -19308,9 +19308,9 @@
         "modloader/NOVA-MAPA-NEGRO/radar99.txd"
       ],
       "mods": [],
-      "totalBytes": 2324215465,
-      "publishedAt": "2026-11-28T06:14:28.929038+00:00",
-      "notes": "Org29: BrasilBySampaio lider22, Inglaterra sub295, ByLilWhend membro147, ByMalvadonna feminina40. Demais skins, veiculos, fisica, som aprovado, mapas e interfaces preservados."
+      "totalBytes": 2324215557,
+      "publishedAt": "2026-11-28T07:16:09.195Z",
+      "notes": "Dodge RAM1500 TRX no modelo543: perfil500km/h, massa6500kg e forca reforcada. Corrige associacao anterior ao modelo554. Demais skins, carros, tuning, HUD e som preservados."
     }
   },
   "minimumGameBuild": 196,
